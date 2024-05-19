@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de7ad89a5e2b4ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Template, Daily Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1274ae53761837c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Hotel Apartment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "742136d249237c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024/03-March/2024-03-10-Sunday.md"
+                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
               }
             }
           },
@@ -186,41 +161,41 @@
   },
   "active": "742136d249237c90",
   "lastOpenFiles": [
-    "README.md",
+    "Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
+    "Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
+    "Daily Notes/2024/02-February/2024-02-29-Thursday.md",
+    "Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
     "Daily Notes/2024/03-March/2024-03-07-Thursday.md",
     "Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+    "Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "Invest in Dubai/Start a Business.md",
+    "Personal/Left current House/Left Current House.md",
     "Personal/Things to do/Things to do.md",
-    "Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "Untitled 1.md",
-    "Daily Notes/2024/03-March",
     "Personal/Hotel Apartment.md",
+    "Personal/Things to do in india/Buy Socks.md",
+    "Personal/Left current House",
+    "Personal/Things to do after coming back",
+    "Personal/Things to do in india",
+    "Personal/Things to take india",
+    "Dubai House/Curtain.md",
+    "README.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Dubai House",
+    "Daily Notes/2024/03-March",
     "Interview/Security Interview Questions.md",
     "Interview/Frontend Web Architecture.md",
     "Interview/Enterprise Application Development and Architecture.md",
-    "Daily Notes/2024/02-February/2024-02-29-Thursday.md",
     "Interview/HR interview Questions.md",
-    "Invest in Dubai/Start a Business.md",
     "Invest in Dubai",
     "Interview/Javascript.md",
     "Interview/System Design.md",
     "Interview/Web Sockets.md",
-    "Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
-    "Untitled.md",
     "Extras/Templates/Template, Daily Note.md",
     "Personal/Things to do",
     "Personal",
     "Wedding",
-    "Novels",
-    "React.js",
-    "Interview",
-    "Tuition Academy",
-    "Communication",
     "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-    "Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
-    "2024-02-21-Wednesday.md",
-    "Welcome.md",
-    "2024-02-19.md",
-    "Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
-    "aakash.md"
+    "2024-02-21-Wednesday.md"
   ]
 }
