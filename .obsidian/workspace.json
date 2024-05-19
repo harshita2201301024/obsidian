@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/03-March/2024-03-15-Friday.md"
+                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md"
               }
             }
           },
@@ -159,8 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "742136d249237c90",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+    "data/Daily Notes/2024/05-May",
     "data/Invest in Dubai/Start a Business.md",
     "data/Others/Novels",
     "data/Others/Invest in Dubai/Start a Business.md",
@@ -181,7 +184,6 @@
     "data/Others/Excalidraw",
     "data/Others/Communication",
     "data/Others/Tuition Academy",
-    "data/Others/React.js",
     "data/Archive/Dubai House/Curtain.md",
     "data/Archive/Things to do in india/Buy Socks.md",
     "data/Archive/Hotel Apartment.md",
@@ -194,8 +196,6 @@
     "data/Interview/Enterprise Application Development and Architecture.md",
     "data/Dubai House/Curtain.md",
     "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-    "data/Personal/Things to do in india/Buy Socks.md",
-    "data/Personal/Things to do/Things to do.md"
+    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
   ]
 }
