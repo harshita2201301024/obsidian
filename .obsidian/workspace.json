@@ -11,12 +11,8 @@
             "id": "742136d249237c90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,41 +153,41 @@
   },
   "active": "742136d249237c90",
   "lastOpenFiles": [
-    "Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
-    "Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
-    "Daily Notes/2024/02-February/2024-02-29-Thursday.md",
-    "Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "Daily Notes/2024/03-March/2024-03-07-Thursday.md",
-    "Daily Notes/2024/03-March/2024-03-10-Sunday.md",
-    "Daily Notes/2024/03-March/2024-03-15-Friday.md",
-    "Invest in Dubai/Start a Business.md",
-    "Personal/Left current House/Left Current House.md",
-    "Personal/Things to do/Things to do.md",
-    "Personal/Hotel Apartment.md",
-    "Personal/Things to do in india/Buy Socks.md",
-    "Personal/Left current House",
-    "Personal/Things to do after coming back",
-    "Personal/Things to do in india",
-    "Personal/Things to take india",
-    "Dubai House/Curtain.md",
-    "README.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Dubai House",
-    "Daily Notes/2024/03-March",
-    "Interview/Security Interview Questions.md",
-    "Interview/Frontend Web Architecture.md",
-    "Interview/Enterprise Application Development and Architecture.md",
-    "Interview/HR interview Questions.md",
-    "Invest in Dubai",
-    "Interview/Javascript.md",
-    "Interview/System Design.md",
-    "Interview/Web Sockets.md",
-    "Extras/Templates/Template, Daily Note.md",
-    "Personal/Things to do",
-    "Personal",
-    "Wedding",
+    "data/Wedding",
+    "data/Tuition Academy",
+    "data/React.js",
     "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-    "2024-02-21-Wednesday.md"
+    "data/Personal/Things to do in india/Buy Socks.md",
+    "data/Personal/Things to do/Things to do.md",
+    "data/Personal/Left current House/Left Current House.md",
+    "data/Personal/Things to take india",
+    "data/Personal/Things to do in india",
+    "data/Personal/Things to do after coming back",
+    "data/Personal/Things to do",
+    "data/Personal/Left current House",
+    "data/Personal/Hotel Apartment.md",
+    "data/Personal",
+    "data/Novels",
+    "data/Invest in Dubai/Start a Business.md",
+    "data/Invest in Dubai",
+    "data/Interview/Web Sockets.md",
+    "data/Interview/System Design.md",
+    "data/Interview/Security Interview Questions.md",
+    "data/Interview/Javascript.md",
+    "data/Interview/HR interview Questions.md",
+    "data/Interview/Frontend Web Architecture.md",
+    "data/Interview/Enterprise Application Development and Architecture.md",
+    "data/Extras/Templates/Template, Daily Note.md",
+    "data/Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
+    "data/Dubai House/Curtain.md",
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
+    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
+    "data/Daily Notes/2024/02-February/2024-02-29-Thursday.md",
+    "data/Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
+    "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
+    "data/Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
+    "Daily Notes/2024/02-February/2024-02-20-Tuesday.md"
   ]
 }
