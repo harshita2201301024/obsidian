@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md"
+                "file": "data/Daily Notes/2024/05-May/2024-05-27-Monday.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "742136d249237c90",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+    "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "data/Daily Notes/2024/05-May",
     "data/Invest in Dubai/Start a Business.md",
     "data/Others/Novels",
@@ -195,7 +196,6 @@
     "data/Interview/Frontend Web Architecture.md",
     "data/Interview/Enterprise Application Development and Architecture.md",
     "data/Dubai House/Curtain.md",
-    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
+    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md"
   ]
 }
