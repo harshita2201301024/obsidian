@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Interview/Security Interview Questions.md",
+                "file": "Others/Interview/Frontend Web Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Others/Interview/Security Interview Questions.md",
+            "file": "Others/Interview/Frontend Web Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Others/Interview/Security Interview Questions.md",
+            "file": "Others/Interview/Frontend Web Architecture.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Others/Interview/Security Interview Questions.md"
+            "file": "Others/Interview/Frontend Web Architecture.md"
           }
         }
       }
@@ -133,6 +133,9 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
+    "Others/Interview/HR interview Questions.md",
+    "Others/Interview/Javascript.md",
+    "Others/Interview/Security Interview Questions.md",
     "Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "Daily Notes/2024/03-March/2024-03-15-Friday.md",
@@ -144,15 +147,12 @@
     "Others",
     "Others/Interview/System Design.md",
     "Others/Interview/Web Sockets.md",
-    "Others/Interview/HR interview Questions.md",
     "Others/Interview",
     "Others/Extras/Templates/Template, Daily Note.md",
     "Others/Extras/Templates",
     "Others/Extras",
     "Others/Interview/Frontend Web Architecture.md",
-    "Others/Interview/Security Interview Questions.md",
     "Others/Excalidraw",
-    "Others/Interview/Javascript.md",
     "Others/Invest in Dubai",
     "Others/Invest in Dubai/Start a Business.md",
     "Archive/Things to do/Things to do.md",
