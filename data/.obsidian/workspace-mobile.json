@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Interview/Frontend Web Architecture.md",
+                "file": "Others/Interview/Enterprise Application Development and Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Others/Interview/Frontend Web Architecture.md",
+            "file": "Others/Interview/Enterprise Application Development and Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Others/Interview/Frontend Web Architecture.md",
+            "file": "Others/Interview/Enterprise Application Development and Architecture.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Others/Interview/Frontend Web Architecture.md"
+            "file": "Others/Interview/Enterprise Application Development and Architecture.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
+    "Others/Interview/Frontend Web Architecture.md",
     "Others/Interview/HR interview Questions.md",
     "Others/Interview/Javascript.md",
     "Others/Interview/Security Interview Questions.md",
@@ -151,7 +152,6 @@
     "Others/Extras/Templates/Template, Daily Note.md",
     "Others/Extras/Templates",
     "Others/Extras",
-    "Others/Interview/Frontend Web Architecture.md",
     "Others/Excalidraw",
     "Others/Invest in Dubai",
     "Others/Invest in Dubai/Start a Business.md",
