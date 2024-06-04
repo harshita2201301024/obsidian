@@ -11,12 +11,8 @@
             "id": "4e4fbefd3bf1b170",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,9 +153,10 @@
   },
   "active": "4e4fbefd3bf1b170",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "data/Archive/Things to do/Things to do.md",
     "Invalid date.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
-    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Office Work/Links.md",
     "data/Office Work",
     "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
@@ -191,7 +184,6 @@
     "data/Archive/Dubai House/Curtain.md",
     "data/Archive/Things to do in india/Buy Socks.md",
     "data/Archive/Hotel Apartment.md",
-    "data/Archive/Things to do/Things to do.md",
     "data/Archive/Left current House/Left Current House.md",
     "data/Interview/Security Interview Questions.md",
     "data/Interview/System Design.md",
