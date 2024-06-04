@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+                "file": "data/Daily Notes/04-June-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+                "file": "data/Daily Notes/04-June-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+                "file": "data/Daily Notes/04-June-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md"
+                "file": "data/Daily Notes/04-June-2024-Tuesday.md"
               }
             }
           },
@@ -160,10 +160,11 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4e4fbefd3bf1b170",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "data/Daily Notes/04-June-2024-Tuesday.md",
+    "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "2024-06-04.md",
     "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
@@ -196,7 +197,6 @@
     "data/Others/Extras",
     "data/Others/Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
     "data/Others/Excalidraw",
-    "data/Archive/Dubai House/Curtain.md",
-    "data/Archive/Things to do in india/Buy Socks.md"
+    "data/Archive/Dubai House/Curtain.md"
   ]
 }
