@@ -11,8 +11,12 @@
             "id": "4e4fbefd3bf1b170",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md"
+              }
             }
           },
           {
@@ -153,14 +161,14 @@
   },
   "active": "4e4fbefd3bf1b170",
   "lastOpenFiles": [
-    "+Daily Notes.md",
+    "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "+Daily Notes.md",
     "data/Archive/Things to do/Things to do.md",
     "Invalid date.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Office Work/Links.md",
     "data/Office Work",
-    "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "data/Daily Notes/2024/06-June",
     "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
