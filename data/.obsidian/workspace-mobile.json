@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/05-May/2024-05-27-Monday.md",
+                "file": "Daily Notes/04-June-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/05-May/2024-05-27-Monday.md",
+            "file": "Daily Notes/04-June-2024-Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/05-May/2024-05-27-Monday.md",
+            "file": "Daily Notes/04-June-2024-Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/05-May/2024-05-27-Monday.md"
+            "file": "Daily Notes/04-June-2024-Tuesday.md"
           }
         }
       }
@@ -133,8 +133,13 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
-    "Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "Daily Notes/2024/05-May/2024-05-27-Monday.md",
+    "Office Work/Links.md",
+    "Office Work",
+    "Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "Daily Notes/2024/06-June",
+    "Daily Notes/04-June-2024-Tuesday.md",
+    "Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "Others/Interview/Enterprise Application Development and Architecture.md",
     "Others/Interview/Frontend Web Architecture.md",
     "Others/Interview/HR interview Questions.md",
@@ -160,14 +165,9 @@
     "Archive/Dubai House/Curtain.md",
     "Archive/Left current House/Left Current House.md",
     "Archive/Things to do",
-    "Archive/Things to do in india",
-    "Archive/Dubai House",
     "Archive/Hotel Apartment.md",
     "Personal/Hotel Apartment.md",
     "Interview/Frontend Web Architecture.md",
-    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-    "Invest in Dubai/Start a Business.md",
-    "Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
-    "Dubai House/Curtain.md"
+    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
   ]
 }
