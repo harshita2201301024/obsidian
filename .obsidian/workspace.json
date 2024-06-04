@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md"
+                "file": "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md"
               }
             }
           },
@@ -156,22 +156,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "4e4fbefd3bf1b170",
   "lastOpenFiles": [
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
+    "data/Others/Extras/Templates/Template, Daily Note.md",
+    "2024-06-04.md",
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
+    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
+    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "+Daily Notes.md",
     "data/Archive/Things to do/Things to do.md",
     "Invalid date.md",
-    "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Office Work/Links.md",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
-    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
-    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "data/Daily Notes/2024/05-May",
     "data/Invest in Dubai/Start a Business.md",
     "data/Others/Novels",
@@ -191,11 +197,6 @@
     "data/Others/Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
     "data/Others/Excalidraw",
     "data/Archive/Dubai House/Curtain.md",
-    "data/Archive/Things to do in india/Buy Socks.md",
-    "data/Archive/Hotel Apartment.md",
-    "data/Archive/Left current House/Left Current House.md",
-    "data/Interview/Security Interview Questions.md",
-    "data/Interview/System Design.md",
-    "data/Interview/HR interview Questions.md"
+    "data/Archive/Things to do in india/Buy Socks.md"
   ]
 }
