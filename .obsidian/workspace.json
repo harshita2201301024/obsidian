@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df384ff5ec8a0d91",
+        "id": "022415e6afdefa97",
         "type": "tabs",
         "children": [
           {
-            "id": "742136d249237c90",
+            "id": "3cbf777edf484ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md"
               }
             }
           },
@@ -159,9 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "742136d249237c90",
+  "active": "3cbf777edf484ecf",
   "lastOpenFiles": [
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "Invalid date.md",
     "data/Office Work/Links.md",
     "data/Office Work",
     "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
@@ -195,7 +196,6 @@
     "data/Interview/Security Interview Questions.md",
     "data/Interview/System Design.md",
     "data/Interview/HR interview Questions.md",
-    "data/Interview/Frontend Web Architecture.md",
-    "data/Interview/Enterprise Application Development and Architecture.md"
+    "data/Interview/Frontend Web Architecture.md"
   ]
 }
