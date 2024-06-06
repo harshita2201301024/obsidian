@@ -11,17 +11,18 @@ Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 Noor Iqbal Linkedin review - 01: 00 PM - 01: 10 PM
 Mma Health Insurance Physical Copy - 01: 10 PM - 01: 30 PM
-Link this obsidian with any public site - 01: 30 PM - 03: 00 PM
+Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
+Shilpa Mobile Sim - 1
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
 
 Car Service - friday
 Car Insurance - friday
 Car Renew - friday
-Shilpa business - 1
+Shilpa business - Friday
 
 
-Shilpa Mobile Sim - 1
+
 
 American Tourister Warranty - 1
 
