@@ -6,7 +6,7 @@ tags:: [[+Daily Notes]]
 [[2024-06-06]]
 
 Complete Google Re-Captcha Issue - 9 AM - 12PM
-
+Meeting 
 **Things to do**
 
 Car Service - friday
@@ -18,7 +18,7 @@ Noor Iqbal Linkedin review - 1
 Shilpa Mobile Sim - 1
 MMa Health Insurance Physical Copy - 1
 American Tourister Warranty - 1
-Flight Ticket Reimbursement - 1
+Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
 microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM
 Nail Cutting - 1
