@@ -8,10 +8,10 @@ tags:: [[+Daily Notes]]
 Complete Google Re-Captcha Issue - 9 AM - 12PM
 
 **Things to do**
-Talk to Rohit Malik
-Car Service
-Car Insurance
-Car Renew 
+
+Car Service - friday
+Car Insurance - friday
+Car Renew - friday
 Shilpa Apply for job from excel
 Link this obsidian with any public site
 Noor Iqbal Linkedin review
