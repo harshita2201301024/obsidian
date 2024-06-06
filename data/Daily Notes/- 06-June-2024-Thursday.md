@@ -5,7 +5,12 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-06]]
 
+microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM
 Complete Google Re-Captcha Issue - 9 AM - 12PM
+Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
+Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
+Noor Iqbal Linkedin review - 01: 00 PM - 01: 10 PM
+
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
 
@@ -14,13 +19,13 @@ Car Insurance - friday
 Car Renew - friday
 Shilpa business - 1
 Link this obsidian with any public site - 1
-Noor Iqbal Linkedin review - 1
+
 Shilpa Mobile Sim - 1
 MMa Health Insurance Physical Copy - 1
 American Tourister Warranty - 1
-Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
-Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
-microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM
+
+
+
 Nail Cutting - 1
 
 
