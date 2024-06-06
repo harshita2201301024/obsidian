@@ -6,7 +6,7 @@ tags:: [[+Daily Notes]]
 [[2024-06-06]]
 
 Complete Google Re-Captcha Issue - 9 AM - 12PM
-Meeting 
+Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
 
 Car Service - friday
