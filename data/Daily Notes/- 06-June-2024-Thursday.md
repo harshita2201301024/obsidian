@@ -14,10 +14,9 @@ Car Insurance - friday
 Car Renew - friday
 Shilpa business - 1
 Link this obsidian with any public site - 1
-Noor Iqbal Linkedin review
-Shilpa Mobile Sim
-MMa Health Insurance Physical Copy
-Reply to APR
+Noor Iqbal Linkedin review - 1
+Shilpa Mobile Sim - 1
+MMa Health Insurance Physical Copy - 1
 American Tourister Warranty
 Flight Ticket Reimbursement
 Transfer money to shippu bank account
