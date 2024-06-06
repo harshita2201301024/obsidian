@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Interview/Security Interview Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Interview/Security Interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Interview/Security Interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Others/Interview/Security Interview Questions.md"
               }
             }
           },
@@ -162,11 +162,14 @@
   },
   "active": "4e4fbefd3bf1b170",
   "lastOpenFiles": [
+    "data/Others/Interview/Javascript.md",
+    "data/Others/Interview/HR interview Questions.md",
+    "data/Others/Interview/Enterprise Application Development and Architecture.md",
     "data/Daily Notes/- 06-June-2024-Thursday.md",
-    "data/Daily Notes/- 05-June-2024-Wednesday.md",
     "data/Daily Notes/04-June-2024-Tuesday.md",
-    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Office Work/Links.md",
+    "data/Daily Notes/- 05-June-2024-Wednesday.md",
+    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "2024-06-04.md",
@@ -189,10 +192,7 @@
     "data/Others/Interview/Web Sockets.md",
     "data/Others/Interview/System Design.md",
     "data/Others/Interview/Security Interview Questions.md",
-    "data/Others/Interview/Javascript.md",
-    "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Frontend Web Architecture.md",
-    "data/Others/Interview/Enterprise Application Development and Architecture.md",
     "data/Others/Interview",
     "data/Others/Gym",
     "data/Others/Extras/Templates",
