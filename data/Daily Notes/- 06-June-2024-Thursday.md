@@ -5,7 +5,7 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-06]]
 
-Microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM
+Microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM - done
 Complete Google Re-Captcha Issue - 9 AM - 12PM
 Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
