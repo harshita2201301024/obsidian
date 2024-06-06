@@ -17,6 +17,7 @@ Nail Cutting - 05: 00 PM - 05: 10 PM
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
 
+Reply to rajj bhatt
 Car Service - friday
 Car Insurance - friday
 Car Renew - friday
