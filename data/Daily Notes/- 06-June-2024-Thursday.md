@@ -19,8 +19,8 @@ Shilpa Mobile Sim - 1
 MMa Health Insurance Physical Copy - 1
 American Tourister Warranty - 1
 Flight Ticket Reimbursement - 1
-Transfer money to shippu bank account - 1
-microsoft teams notification on - 1 -> 8: 50 AM - 09:
+Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
+microsoft teams notification on - 1 -> 8: 50 AM - 09: 00 AM
 Nail Cutting - 1
 
 
