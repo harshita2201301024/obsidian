@@ -10,6 +10,7 @@ Complete Google Re-Captcha Issue - 9 AM - 12PM
 Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 Noor Iqbal Linkedin review - 01: 00 PM - 01: 10 PM
+Mma Health Insurance Physical Copy - 01: 10 PM - 01: 30 PM
 
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
@@ -21,7 +22,7 @@ Shilpa business - 1
 Link this obsidian with any public site - 1
 
 Shilpa Mobile Sim - 1
-MMa Health Insurance Physical Copy - 1
+
 American Tourister Warranty - 1
 
 
