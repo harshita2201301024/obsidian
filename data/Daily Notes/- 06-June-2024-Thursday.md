@@ -12,7 +12,7 @@ Complete Google Re-Captcha Issue - 9 AM - 12PM
 Car Service - friday
 Car Insurance - friday
 Car Renew - friday
-Shilpa Apply for job from excel
+Shilpa business settlement - 
 Link this obsidian with any public site
 Noor Iqbal Linkedin review
 Shilpa Mobile Sim
