@@ -17,11 +17,11 @@ Link this obsidian with any public site - 1
 Noor Iqbal Linkedin review - 1
 Shilpa Mobile Sim - 1
 MMa Health Insurance Physical Copy - 1
-American Tourister Warranty
-Flight Ticket Reimbursement
-Transfer money to shippu bank account
-microsoft teams notification on
-Nail Cutting
+American Tourister Warranty - 1
+Flight Ticket Reimbursement - 1
+Transfer money to shippu bank account - 1
+microsoft teams notification on - 1 -> 8: 50 AM - 09:
+Nail Cutting - 1
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
