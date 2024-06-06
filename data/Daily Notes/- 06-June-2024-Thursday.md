@@ -12,7 +12,8 @@ Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 Noor Iqbal Linkedin review - 01: 00 PM - 01: 10 PM
 Mma Health Insurance Physical Copy - 01: 10 PM - 01: 30 PM
 Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
-Shilpa Mobile Sim - 04: 00 PM - 05: 0 
+Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
+Nail Cutting - 05: 00 PM - 05:
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 **Things to do**
 
@@ -28,7 +29,6 @@ American Tourister Warranty - 1
 
 
 
-Nail Cutting - 1
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
