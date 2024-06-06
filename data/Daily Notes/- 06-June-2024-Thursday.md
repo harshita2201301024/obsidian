@@ -3,10 +3,9 @@ created: 2024-02-27 00:08
 ---
 tags:: [[+Daily Notes]]
 
-[[2024-06-05]]
+[[2024-06-06]]
 
-Complete Google Re-Captcha Issue - done
-
+Complete Google Re-Captcha Issue - 9
 
 **Things to do**
 Talk to Rohit Malik
@@ -24,6 +23,7 @@ Flight Ticket Reimbursement
 Transfer money to shippu bank account
 microsoft teams notification on
 Nail Cutting
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
