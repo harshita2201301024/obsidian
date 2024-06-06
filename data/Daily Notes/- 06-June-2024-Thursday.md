@@ -5,7 +5,7 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-06]]
 
-Complete Google Re-Captcha Issue - 9
+Complete Google Re-Captcha Issue - 9 AM - 12PM
 
 **Things to do**
 Talk to Rohit Malik
