@@ -12,8 +12,8 @@ Complete Google Re-Captcha Issue - 9 AM - 12PM
 Car Service - friday
 Car Insurance - friday
 Car Renew - friday
-Shilpa business settlement - 
-Link this obsidian with any public site
+Shilpa business - 1
+Link this obsidian with any public site - 1
 Noor Iqbal Linkedin review
 Shilpa Mobile Sim
 MMa Health Insurance Physical Copy
