@@ -15,6 +15,7 @@ Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
 Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
 Nail Cutting - 05: 00 PM - 05: 10 PM
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
+Dewa Bill Payment
 **Things to do**
 
 Reply to rajj bhatt
