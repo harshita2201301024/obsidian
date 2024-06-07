@@ -16,6 +16,8 @@ Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
 Nail Cutting - 05: 00 PM - 05: 10 PM
 Meeting with Avani -> 5: 30 PM - 7: 30 PM
 Dewa Bill Payment
+
+myResidency 2 Issue 
 **Things to do**
 
 Reply to rajj bhatt
