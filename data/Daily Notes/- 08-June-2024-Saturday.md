@@ -9,12 +9,13 @@ Car Service - friday
 Car Insurance - friday
 Car Renew - friday
 Office work - 2pm - 4pm
-shippu bank account - 4pm - 6pm
+shippu bank transfer and shubham bank transfer - 4pm - 6pm
+Mma Health Insurance Physical Copy - 06 PM - 06: 30 PM
 
 Complete Google Re-Captcha Issue - 9 AM - 12PM
-Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
+
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
-Mma Health Insurance Physical Copy - 01: 10 PM - 01: 30 PM
+
 Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
 Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
 Nail Cutting - 05: 00 PM - 05: 10 PM
