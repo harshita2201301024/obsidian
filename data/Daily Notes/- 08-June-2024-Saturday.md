@@ -5,7 +5,11 @@ tags:: [[+Daily Notes]]
 
 GYM -> 6am - 9am
 Gaadi service -> 9am - 2pm
-Of
+Office work - 2pm - 4pm
+Car Service - friday
+Car Insurance - friday
+Car Renew - friday
+
 Complete Google Re-Captcha Issue - 9 AM - 12PM
 Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
@@ -20,14 +24,8 @@ myResidency 2 Issue
 **Things to do**
 
 Reply to rajj bhatt
-Car Service - friday
-Car Insurance - friday
-Car Renew - friday
 Shilpa business - Friday
 
-add sanitization
-on empty also it should work
-close reset button
 
 American Tourister Warranty - 1
 
