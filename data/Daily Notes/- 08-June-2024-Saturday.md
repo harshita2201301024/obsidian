@@ -5,10 +5,11 @@ tags:: [[+Daily Notes]]
 
 GYM -> 6am - 9am
 Gaadi service -> 9am - 2pm
-Office work - 2pm - 4pm
 Car Service - friday
 Car Insurance - friday
 Car Renew - friday
+Office work - 2pm - 4pm
+shippu bank account - 4pm - 6pm
 
 Complete Google Re-Captcha Issue - 9 AM - 12PM
 Transfer money to shippu bank account - 1 -> 12PM - 12: 30 PM
