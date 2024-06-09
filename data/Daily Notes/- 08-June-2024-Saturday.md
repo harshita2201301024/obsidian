@@ -18,8 +18,6 @@ Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 
 Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
 Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
-Nail Cutting - 05: 00 PM - 05: 10 PM
-Meeting with Avani -> 5: 30 PM - 7: 30 PM
 
 
 myResidency 2 Issue 
@@ -27,7 +25,7 @@ myResidency 2 Issue
 
 Reply to rajj bhatt
 Shilpa business - Friday
-
+Shilpa Health Insurance
 
 American Tourister Warranty - 1
 
