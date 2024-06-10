@@ -3,6 +3,8 @@ created: 2024-02-27 00:08
 ---
 tags:: [[+Daily Notes]]
 
+Office: 
+
 GYM -> 6am - 9am
 Gaadi service -> 9am - 2pm
 Car Service - friday
