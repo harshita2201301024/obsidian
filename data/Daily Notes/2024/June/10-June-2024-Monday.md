@@ -7,6 +7,7 @@ Office:
 
 Spacing of Search Business Activities
 Search License Title Name
+Localisation
 
 
 GYM -> 5AM - 7AM
