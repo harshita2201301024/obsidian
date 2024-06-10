@@ -5,7 +5,7 @@ tags:: [[+Daily Notes]]
 
 Office: 
 
-GYM -> 6am - 9am
+GYM -> 5AM - 7AM
 Gaadi service -> 9am - 2pm
 Car Service - friday
 Car Insurance - friday
