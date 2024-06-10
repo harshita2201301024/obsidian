@@ -32,3 +32,12 @@ Vue.config.devtools = true;
 devtools.emit("init", Vue);
 ```
 
+{
+
+"tlsTradeNameId": "2451681",
+
+"creationType": "3",
+
+"primaryPersonId": "186"
+
+}
