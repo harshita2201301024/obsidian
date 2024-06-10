@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/June/- 06-June-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/June/- 06-June-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/June/- 06-June-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md"
+                "file": "data/Daily Notes/2024/June/- 06-June-2024-Thursday.md"
               }
             }
           },
@@ -160,18 +160,20 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4e4fbefd3bf1b170",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+    "data/Daily Notes/2024/June/10-June-2024-Monday.md",
+    "data/Daily Notes/2024/June/- 05-June-2024-Wednesday.md",
+    "data/Daily Notes/2024/June/04-June-2024-Tuesday.md",
+    "data/Daily Notes/2024/June",
     "data/Office Work/Links.md",
-    "data/Daily Notes/- 08-June-2024-Saturday.md",
-    "data/Daily Notes/- 06-June-2024-Thursday.md",
-    "data/Daily Notes/- 05-June-2024-Wednesday.md",
+    "data/Daily Notes/2024/June/- 06-June-2024-Thursday.md",
     "data/Archive/Things to do/Things to do.md",
     "data/Others/Interview/Security Interview Questions.md",
     "data/Others/Interview/Javascript.md",
     "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Enterprise Application Development and Architecture.md",
-    "data/Daily Notes/04-June-2024-Tuesday.md",
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
@@ -192,11 +194,9 @@
     "data/Others/Invest in Dubai/Start a Business.md",
     "data/Others/Invest in Dubai",
     "data/Others/Interview/Web Sockets.md",
-    "data/Others/Interview/System Design.md",
     "data/Others/Interview",
     "data/Others/Gym",
     "data/Others/Extras/Templates",
-    "data/Others/Extras",
-    "data/Others/Excalidraw"
+    "data/Others/Extras"
   ]
 }
