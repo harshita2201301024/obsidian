@@ -5,6 +5,10 @@ tags:: [[+Daily Notes]]
 
 Office: 
 
+Spacing of Search Business Activities
+Search License Title Name
+
+
 GYM -> 5AM - 7AM
 Office -> 8AM - 4PM
 Gaadi service -> 9am - 2pm
@@ -26,7 +30,7 @@ Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
 myResidency 2 Issue 
 **Things to do**
 
-Reply to rajj bhatt
+
 Shilpa business - Friday
 Shilpa Health Insurance
 
