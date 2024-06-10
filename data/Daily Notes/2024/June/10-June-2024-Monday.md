@@ -27,14 +27,13 @@ Complete Google Re-Captcha Issue - 9 AM - 12PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
 Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
+Shilpa Health Insurance
+American Tourister Warranty - 1
 
 **Things to do**
 
 
-Shil
-Shilpa Health Insurance
 
-American Tourister Warranty - 1
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
