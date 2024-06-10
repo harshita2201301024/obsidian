@@ -8,7 +8,9 @@ Office:
 Spacing of Search Business Activities
 Search License Title Name
 Localisation
-
+Required Field error message in Shares Details
+Documents are required for function 1013
+Unexpected behaviour when the user 
 
 GYM -> 5AM - 7AM
 Office -> 8AM - 4PM
