@@ -29,6 +29,7 @@ Link this obsidian with any public site - 01: 30 PM - 04: 00 PM
 Shilpa Mobile Sim - 04: 00 PM - 05: 00 PM
 Shilpa Health Insurance
 American Tourister Warranty - 1
+GDRFA wrong mobile number
 
 **Things to do**
 
