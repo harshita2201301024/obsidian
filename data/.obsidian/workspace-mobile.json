@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/03-March/2024-03-15-Friday.md",
+                "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/03-March/2024-03-15-Friday.md",
+            "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/03-March/2024-03-15-Friday.md",
+            "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/03-March/2024-03-15-Friday.md"
+            "file": "Daily Notes/2024/June/10-June-2024-Monday.md"
           }
         }
       }
@@ -133,6 +133,15 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
+    "Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "Office Work/Users.md",
+    "Office Work/Untitled.md",
+    "Daily Notes/2024/June/10-June-2024-Monday.md",
+    "Daily Notes/2024/June/04-June-2024 Tuesday.md",
+    "Daily Notes/2024/June/05-June-2024 Wednesday.md",
+    "Daily Notes/2024/June/06-June-2024 Thursday.md",
+    "Daily Notes/2024/June",
+    "Daily Notes/2024/June/08-June-2024-Saturday.md",
     "Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "Daily Notes/2024/03-March/2024-03-07-Thursday.md",
     "Daily Notes/04-June-2024-Tuesday.md",
@@ -146,7 +155,6 @@
     "Others/Interview/HR interview Questions.md",
     "Others/Interview/Javascript.md",
     "Others/Interview/Security Interview Questions.md",
-    "Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "Daily Notes/2024/05-May",
     "Others/Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
     "Personal/Left current House/Left Current House.md",
@@ -160,14 +168,6 @@
     "Others/Excalidraw",
     "Others/Invest in Dubai",
     "Others/Invest in Dubai/Start a Business.md",
-    "Archive/Things to do/Things to do.md",
-    "Archive/Things to do in india/Buy Socks.md",
-    "Archive/Dubai House/Curtain.md",
-    "Archive/Left current House/Left Current House.md",
-    "Archive/Things to do",
-    "Archive/Hotel Apartment.md",
-    "Personal/Hotel Apartment.md",
-    "Interview/Frontend Web Architecture.md",
-    "Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
+    "Archive/Things to do/Things to do.md"
   ]
 }
