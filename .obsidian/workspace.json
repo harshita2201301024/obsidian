@@ -20,24 +20,26 @@
             }
           },
           {
-            "id": "f28cc9c777659c3d",
+            "id": "6bdb699eb1357e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bdb699eb1357e08",
+            "id": "ad362eea6213baea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "data/Others/Novels/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/- 08-June-2024-Saturday.md"
+                "file": "data/Others/Novels/Untitled.md"
               }
             }
           },
@@ -183,10 +185,19 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "6bdb699eb1357e08",
+  "active": "ad362eea6213baea",
   "lastOpenFiles": [
-    "data/Daily Notes/- 06-June-2024-Thursday.md",
     "conflict-files-obsidian-git.md",
+    "data/Others/Novels/Untitled.md",
+    "data/Others/Novels/trip",
+    "data/Daily Notes/2024/June/10-June-2024-Monday.md",
+    "data/Office Work/Users.md",
+    "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
+    "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
+    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
+    "data/Daily Notes/2024/June",
+    "data/Daily Notes/- 06-June-2024-Thursday.md",
     "data/Daily Notes/- 08-June-2024-Saturday.md",
     "data/Daily Notes/- 05-June-2024-Wednesday.md",
     "data/Daily Notes/04-June-2024-Tuesday.md",
@@ -208,18 +219,8 @@
     "data/Others/Interview/Javascript.md",
     "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Frontend Web Architecture.md",
-    "data/Others/Interview/Enterprise Application Development and Architecture.md",
     "data/Others/Interview",
     "data/Others/Gym",
-    "data/Others/Extras/Templates/Template, Daily Note.md",
-    "data/Others/Extras/Templates",
-    "data/Others/Extras",
-    "data/Others/Excalidraw/Drawing 2024-02-19 23.31.01.excalidraw.md",
-    "data/Others/Excalidraw",
-    "data/Archive/Dubai House/Curtain.md",
-    "data/Archive/Things to do in india/Buy Socks.md",
-    "data/Archive/Hotel Apartment.md",
-    "data/Archive/Things to do/Things to do.md",
-    "data/Archive/Left current House/Left Current House.md"
+    "data/Others/Extras/Templates"
   ]
 }

@@ -1,0 +1,5 @@
+
+
+help me write a blog
+
+It was 15th June 2024 5PM, I was sitting with my friends and we were talking about planning a trip as their were 4 days of office leaves. i told them trip is not possible because my vehicle is expiring by 16th June after that i won't drive as i can't renew during eid holiday because all of the rta offices are closed. someone said lets leave today night and will be back by tomorrow night til the time vehicle is valid. big question was where to. one of my friend name heart said let's go watch milky way in abu dhabi. i checked the distance it was around 240km. we all said okay. 4 friends with there wife. aakash shilpa, heart riya, vijendra manisha, sunny sangita and his children jivansh. we started packing and left for the trip around 9: 30pm from dubai to al qua milkyway destination. 
