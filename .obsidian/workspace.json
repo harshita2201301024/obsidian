@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/June/08-June-2024-Saturday.md"
+                "file": "data/Others/Novels/Untitled.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "ad362eea6213baea",
   "lastOpenFiles": [
-    "data/Others/Novels/Untitled.md",
     "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+    "data/Others/Novels/Untitled.md",
     "conflict-files-obsidian-git.md",
     "data/Office Work/Untitled.md",
     "data/Others/Novels/trip",
