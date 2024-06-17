@@ -26,7 +26,7 @@ myResidency 2 Issue
 Reply to rajj bhatt
 Shilpa business - Friday
 Shilpa Health Insurance
-
+Shilpa Bank account
 American Tourister Warranty - 1
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
