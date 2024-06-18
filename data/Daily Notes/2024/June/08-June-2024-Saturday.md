@@ -24,7 +24,6 @@ myResidency 2 Issue
 **Things to do**
 
 Reply to rajj bhatt
-Shilpa business - Friday
 Shilpa Health Insurance
 Shilpa Bank account
 American Tourister Warranty - 1
