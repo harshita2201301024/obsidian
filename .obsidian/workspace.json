@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "667f91213908119a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Office Work/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,16 +173,16 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4e4fbefd3bf1b170",
+  "active": "667f91213908119a",
   "lastOpenFiles": [
+    "data/Office Work/Users.md",
+    "data/Office Work/Untitled.md",
+    "data/Office Work/Links.md",
     "data/Daily Notes/2024/June/10-June-2024-Monday.md",
     "data/Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
     "data/Others/Novels/trip",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels",
-    "data/Office Work/Links.md",
-    "data/Office Work/Untitled.md",
-    "data/Office Work/Users.md",
     "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
     "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
