@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Daily Notes/2024/June/20-June-2024-Thursday.md"
               }
             }
           },
@@ -175,15 +175,16 @@
   },
   "active": "667f91213908119a",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
+    "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
+    "data/Office Work/Links.md",
     "data/Office Work/Users.md",
     "data/Office Work/Untitled.md",
-    "data/Office Work/Links.md",
     "data/Daily Notes/2024/June/10-June-2024-Monday.md",
     "data/Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
     "data/Others/Novels/trip",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels",
-    "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
     "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
     "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
@@ -203,7 +204,6 @@
     "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
     "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
-    "+Daily Notes.md",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
     "data/Daily Notes/2024/05-May",

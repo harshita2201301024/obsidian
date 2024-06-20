@@ -27,6 +27,8 @@ Reply to rajj bhatt
 Shilpa Health Insurance
 Shilpa Bank account
 American Tourister Warranty - 1
+car insurance
+send things to 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
