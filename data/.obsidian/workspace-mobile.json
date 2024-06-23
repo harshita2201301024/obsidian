@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
+                "file": "Aarti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
+            "file": "Aarti.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/June/10-June-2024-Monday.md",
+            "file": "Aarti.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/June/10-June-2024-Monday.md"
+            "file": "Aarti.md"
           }
         }
       }
@@ -133,10 +133,16 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
+    "Aarti.md",
+    "Daily Notes/2024/June/10-June-2024-Monday.md",
+    "Daily Notes/2024/June/20-June-2024-Thursday.md",
+    "Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
+    "Others/Novels/trip",
+    "Others/Novels/Untitled.md",
+    "Others/Novels",
     "Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "Office Work/Users.md",
     "Office Work/Untitled.md",
-    "Daily Notes/2024/June/10-June-2024-Monday.md",
     "Daily Notes/2024/June/04-June-2024 Tuesday.md",
     "Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "Daily Notes/2024/June/06-June-2024 Thursday.md",
@@ -160,14 +166,8 @@
     "Personal/Left current House/Left Current House.md",
     "Others",
     "Others/Interview/System Design.md",
-    "Others/Interview/Web Sockets.md",
     "Others/Interview",
-    "Others/Extras/Templates/Template, Daily Note.md",
     "Others/Extras/Templates",
-    "Others/Extras",
-    "Others/Excalidraw",
-    "Others/Invest in Dubai",
-    "Others/Invest in Dubai/Start a Business.md",
-    "Archive/Things to do/Things to do.md"
+    "Others/Extras"
   ]
 }
