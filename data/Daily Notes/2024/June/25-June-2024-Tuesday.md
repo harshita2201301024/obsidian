@@ -5,12 +5,10 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
 
-Office Work -> 10am - 4
-Car Insurance - friday
-Car Renew - friday
-Office work - 2pm - 4pm
-Mma Health Insurance Physical Copy - 06 PM - 06: 30 PM
-
+Office Work -> 10am - 4pm
+Fix
+Mma Health Insurance Physical Copy -> 04:00 PM - 05: 00 PM
+Duplicate Car Key -> 05: 30 PM -  
 Complete Google Re-Captcha Issue - 9 AM - 12PM
 Flight Ticket Reimbursement - 1 -> 12: 30 PM - 01: 00 PM
 
