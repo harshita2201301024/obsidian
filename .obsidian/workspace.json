@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md"
               }
             }
           },
@@ -175,10 +175,11 @@
   },
   "active": "667f91213908119a",
   "lastOpenFiles": [
-    "data/Office Work/Links.md",
-    "data/Office Work/Users.md",
-    "data/Aarti.md",
     "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
+    "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
+    "data/Office Work/Users.md",
+    "data/Office Work/Links.md",
+    "data/Aarti.md",
     "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
     "data/Office Work/Untitled.md",
     "data/Daily Notes/2024/June/10-June-2024-Monday.md",
@@ -203,7 +204,6 @@
     "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
     "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
     "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
     "data/Daily Notes/2024/05-May",
