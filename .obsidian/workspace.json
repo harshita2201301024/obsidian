@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "707f30a808a08eeb",
+        "id": "df384ff5ec8a0d91",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4fbefd3bf1b170",
+            "id": "742136d249237c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "667f91213908119a",
+            "id": "6bdb699eb1357e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
+                "file": "data/Others/Novels/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad362eea6213baea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data/Daily Notes/2024/June/25-June-2024-Tuesday.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,46 +172,46 @@
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "667f91213908119a",
+  "active": "ad362eea6213baea",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
     "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
-    "data/Office Work/Users.md",
-    "data/Office Work/Links.md",
     "data/Aarti.md",
     "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
-    "data/Office Work/Untitled.md",
-    "data/Daily Notes/2024/June/10-June-2024-Monday.md",
+    "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
     "data/Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
-    "data/Others/Novels/trip",
     "data/Others/Novels/Untitled.md",
-    "data/Others/Novels",
-    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
-    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
+    "conflict-files-obsidian-git.md",
+    "data/Office Work/Untitled.md",
+    "data/Others/Novels/trip",
+    "data/Daily Notes/2024/June/10-June-2024-Monday.md",
+    "data/Office Work/Users.md",
     "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
+    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
+    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June",
-    "data/Archive/Things to do/Things to do.md",
-    "data/Others/Interview/Security Interview Questions.md",
-    "data/Others/Interview/Javascript.md",
-    "data/Others/Interview/HR interview Questions.md",
-    "data/Others/Interview/Enterprise Application Development and Architecture.md",
-    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
-    "data/Daily Notes/2024/06-June/2024-06-05-Wednesday.md",
-    "data/Others/Extras/Templates/Template, Daily Note.md",
-    "2024-06-04.md",
-    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
-    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
-    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
-    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
+    "data/Daily Notes/- 06-June-2024-Thursday.md",
+    "data/Daily Notes/- 08-June-2024-Saturday.md",
+    "data/Daily Notes/- 05-June-2024-Wednesday.md",
+    "data/Daily Notes/04-June-2024-Tuesday.md",
+    "data/Office Work/Links.md",
     "data/Office Work",
+    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Daily Notes/2024/06-June",
+    "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
+    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "data/Daily Notes/2024/05-May",
+    "data/Invest in Dubai/Start a Business.md",
+    "data/Others/Novels",
+    "data/Others/Invest in Dubai/Start a Business.md",
     "data/Others/Invest in Dubai",
+    "data/Others/Interview/Web Sockets.md",
+    "data/Others/Interview/System Design.md",
     "data/Others/Interview",
     "data/Others/Gym",
     "data/Others/Extras/Templates"
