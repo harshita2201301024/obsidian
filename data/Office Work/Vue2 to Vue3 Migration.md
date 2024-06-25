@@ -4,7 +4,15 @@
 
 <!-- would be shorthand for: -->
 
+
+```
+<ChildComponent v-model="pageTitle" />
+
+<!-- would be shorthand for: -->
+
 <ChildComponent
   :modelValue="pageTitle"
   @update:modelValue="pageTitle = $event"
 />
+```
+
