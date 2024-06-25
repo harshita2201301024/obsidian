@@ -16,3 +16,7 @@
 />
 ```
 
+```
+<ChildComponent :title.sync="pageTitle" /> <!-- to be replaced with --> <ChildComponent v-model:title="pageTitle" />
+```
+
