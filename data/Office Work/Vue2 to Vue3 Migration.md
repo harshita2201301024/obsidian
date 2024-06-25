@@ -20,3 +20,31 @@
 <ChildComponent :title.sync="pageTitle" /> <!-- to be replaced with --> <ChildComponent v-model:title="pageTitle" />
 ```
 
+- for all `v-model`s without arguments, make sure to change props and events name to `modelValue` and `update:modelValue` respectively
+    
+    html
+    
+    ```
+    <ChildComponent v-model="pageTitle" />
+    ```
+    
+    js
+    
+    ```
+    // ChildComponent.vue
+    
+    export default {
+      props: {
+        modelValue: String 
+        // previously was `value: String`
+      },
+      emits: ['update:modelValue'],
+      methods: {
+        changePageTitle(title) {
+          this.$emit('update:modelValue', title) 
+          // previously was `this.$emit('input', title)`
+        }
+      }
+    }
+    ```
+
