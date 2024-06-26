@@ -14,6 +14,7 @@ Read Documentation
 https://vuetifyjs.com/en/getting-started/upgrade-guide/
 https://gist.github.com/mgd216/33d7805847f9bb1ef23a381fd76e22e6
 [https://v3-migration.vuejs.org/breaking-changes/](https://v3-migration.vuejs.org/breaking-changes/ "https://v3-migration.vuejs.org/breaking-changes/")
+https://debbie.codes/blog/migrating-nuxt2-nuxt3/
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
