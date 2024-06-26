@@ -12,6 +12,7 @@ Duplicate Home Key
 Book Appointment with Doctor
 Read Documentation
 https://vuetifyjs.com/en/getting-started/upgrade-guide/
+https://gist.github.com/mgd216/33d7805847f9bb1ef23a381fd76e22e6
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
