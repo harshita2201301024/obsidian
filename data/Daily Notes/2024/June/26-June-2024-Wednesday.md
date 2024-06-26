@@ -7,6 +7,8 @@ tags:: [[+Daily Notes]]
 
 Nail Cutting
 Beard Cutting
+Mma Health Insurance Physical Copy
+Duplicate Home Key
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
