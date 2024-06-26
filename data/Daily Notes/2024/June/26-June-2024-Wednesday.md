@@ -24,6 +24,8 @@ vuetify2 to vuetify3
 
 only do required or mandatory change
 change as minimal as possible
+use option api only
+don't change code much
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
