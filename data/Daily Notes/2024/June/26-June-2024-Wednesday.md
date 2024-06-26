@@ -9,6 +9,9 @@ Nail Cutting
 Beard Cutting
 Mma Health Insurance Physical Copy
 Duplicate Home Key
+Book Appointment with Doctor
+Read Documentation
+https://vuetifyjs.com/en/getting-started/upgrade-guide/
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
