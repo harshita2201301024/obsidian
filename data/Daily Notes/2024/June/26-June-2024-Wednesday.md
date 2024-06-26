@@ -18,6 +18,13 @@ https://debbie.codes/blog/migrating-nuxt2-nuxt3/
 https://nuxt.com/docs/migration/overview
 
 
+refactor above code
+change vue2 to vue3 
+vuetify2 to vuetify3
+
+only do required or mandatory change
+change as minimal as possible
+
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
 ---
