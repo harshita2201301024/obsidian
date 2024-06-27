@@ -4,7 +4,6 @@
 
 <!-- would be shorthand for: -->
 
-
 ```
 <ChildComponent v-model="pageTitle" />
 
@@ -21,30 +20,30 @@
 ```
 
 - for all `v-model`s without arguments, make sure to change props and events name to `modelValue` and `update:modelValue` respectively
-    
-    html
-    
-    ```
-    <ChildComponent v-model="pageTitle" />
-    ```
-    
-    js
-    
-    ```
-    // ChildComponent.vue
-    
-    export default {
-      props: {
-        modelValue: String 
-        // previously was `value: String`
-      },
-      emits: ['update:modelValue'],
-      methods: {
-        changePageTitle(title) {
-          this.$emit('update:modelValue', title) 
-          // previously was `this.$emit('input', title)`
-        }
+  html
+  ```
+  <ChildComponent v-model="pageTitle" />
+  ```
+  js
+  ```
+  // ChildComponent.vue
+
+  export default {
+    props: {
+      modelValue: String
+      // previously was `value: String`
+    },
+    emits: ['update:modelValue'],
+    methods: {
+      changePageTitle(title) {
+        this.$emit('update:modelValue', title)
+        // previously was `this.$emit('input', title)`
       }
     }
-    ```
+  }
+  ```
 
+change above code to vue3, vuetiffy3, nuxt 3
+keep optional api and do as minimum changes as possible
+don't remove comment
+only do must do changes
