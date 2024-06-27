@@ -5,12 +5,10 @@
     "children": [
       {
         "id": "df384ff5ec8a0d91",
-        "id": "abe822c1108d7262",
         "type": "tabs",
         "children": [
           {
             "id": "742136d249237c90",
-            "id": "3561480307ff5504",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "data/Others/Novels/Untitled.md",
-                "file": "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,13 +35,16 @@
             "id": "ad362eea6213baea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
         "currentTab": 2
-        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
               "state": {
                 "file": "data/Daily Notes/2024/June/26-June-2024-Wednesday.md"
               }
@@ -187,28 +186,24 @@
     }
   },
   "active": "ad362eea6213baea",
-  "active": "3561480307ff5504",
   "lastOpenFiles": [
-    "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
-    "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
-    "Vue 2 to Vue 3 Migration.md",
-    "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
-    "data/Office Work/Users.md",
-    "data/Office Work/Links.md",
-    "data/Aarti.md",
+    "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
+    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
+    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
     "data/Daily Notes/2024/June/08-June-2024-Saturday.md",
     "data/Daily Notes/2024/June/20-June-2024-Thursday.md",
-    "data/Daily Notes/2024/June/10-June-2024-Monday.md",
+    "data/Daily Notes/2024/June/25-June-2024-Tuesday.md",
+    "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
+    "conflict-files-obsidian-git.md",
+    "data/Office Work/Vue2 to Vue3 Migration.md",
+    "Vue 2 to Vue 3 Migration.md",
+    "data/Aarti.md",
     "data/Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
     "data/Others/Novels/Untitled.md",
     "data/Office Work/Untitled.md",
     "data/Others/Novels/trip",
     "data/Daily Notes/2024/June/10-June-2024-Monday.md",
     "data/Office Work/Users.md",
-    "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
-    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
-    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June",
     "data/Daily Notes/- 06-June-2024-Thursday.md",
     "data/Daily Notes/- 08-June-2024-Saturday.md",
@@ -221,10 +216,9 @@
     "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
     "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
-    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
-    "data/Office Work",
-    "data/Daily Notes/2024/06-June",
     "data/Daily Notes/2024/05-May",
+    "data/Invest in Dubai/Start a Business.md",
+    "data/Others/Novels",
     "data/Others/Invest in Dubai",
     "data/Others/Interview",
     "data/Others/Gym",
