@@ -12,7 +12,7 @@ doctor appointment - 10PM
 order gift
 sabzi order
 tarbuj khana
-
+pdai kruga
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
