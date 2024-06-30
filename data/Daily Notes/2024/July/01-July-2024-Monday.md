@@ -5,6 +5,9 @@ tags:: [[+Daily Notes]]
 
 [[2024-07-01]]
 
+car key
+door key
+mma policy insure
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
