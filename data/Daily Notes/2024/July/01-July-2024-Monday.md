@@ -7,7 +7,9 @@ tags:: [[+Daily Notes]]
 
 car key
 door key
-mma policy insure
+mma policy insurance
+doctor appointment - 10PM
+
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
