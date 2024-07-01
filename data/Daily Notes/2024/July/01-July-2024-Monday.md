@@ -10,7 +10,7 @@ door key
 mma policy insurance
 doctor appointment - 10PM
 order gift
-sabzi order
+sabzi order - done
 tarbuj khana
 pdai kruga
 pickup shirt
