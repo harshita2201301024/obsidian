@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aarti.md",
+                "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aarti.md",
+            "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Aarti.md",
+            "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Aarti.md"
+            "file": "Daily Notes/2024/July/01-July-2024-Monday.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
+    "Aarti.md",
     "Others/github_harshita",
     "Daily Notes/2024/June/29-June-2024-Saturday.md",
     "Office Work/Vue2 to Vue3 Migration.md",
@@ -147,7 +148,6 @@
     "Study/Vue",
     "Study",
     "Others/github_harshita/Untitled.md",
-    "Aarti.md",
     "Daily Notes/2024/June/10-June-2024-Monday.md",
     "Daily Notes/2024/June/20-June-2024-Thursday.md",
     "Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
@@ -167,7 +167,6 @@
     "Daily Notes/04-June-2024-Tuesday.md",
     "Office Work",
     "Daily Notes/2024/06-June",
-    "Daily Notes/2024/05-May",
-    "Others"
+    "Daily Notes/2024/05-May"
   ]
 }
