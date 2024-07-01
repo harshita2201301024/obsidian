@@ -9,7 +9,7 @@ car key
 door key
 mma policy insurance
 doctor appointment - 10PM
-order gift
+order gift - done
 sabzi order - done
 tarbuj khana
 pdai kruga
