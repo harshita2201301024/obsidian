@@ -13,6 +13,8 @@ order gift
 sabzi order
 tarbuj khana
 pdai kruga
+pickup shirt
+
 
 
 
