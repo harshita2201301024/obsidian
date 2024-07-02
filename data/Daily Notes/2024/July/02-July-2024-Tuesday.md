@@ -11,6 +11,7 @@ Reply to Xebia
 Send photo for ID Card
 Pick up shirt from burjuman mall
 look for other exercise
+ask dheeraj for money
 
 Consent Request header and click is not working
 dul view and edit
