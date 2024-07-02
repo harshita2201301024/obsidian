@@ -12,6 +12,8 @@ Send photo for ID Card
 Pick up shirt from burjuman mall
 look for other exercise
 
+Consent R
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
