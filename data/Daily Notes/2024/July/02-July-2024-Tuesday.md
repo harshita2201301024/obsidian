@@ -19,6 +19,10 @@ dul view and edit - done - 10:00 - 11:30
 dul ubo
 apply for attendance
 
+pending:
+shilpa shopping
+Investment por
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
