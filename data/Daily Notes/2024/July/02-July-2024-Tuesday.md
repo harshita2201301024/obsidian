@@ -7,6 +7,7 @@ tags:: [[+Daily Notes]]
 
 Car Key
 Mma Policy Inurance - 11:50 - 12:10
+du bill - 12:10 - 12:20
 Reply to Xebia - done
 Send photo for ID Card -> 11:30 - 11:50
 Pick up shirt from burjuman mall
