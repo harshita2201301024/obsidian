@@ -7,16 +7,16 @@ tags:: [[+Daily Notes]]
 
 Car Key
 Mma Policy Inurance
-Reply to Xebia
-Send photo for ID Card
+Reply to Xebia - done
+Send photo for ID Card -> 11:30 - 11:40
 Pick up shirt from burjuman mall
 look for other exercise
 ask dheeraj for money
 MRI file sent to burjuman clinic
-Consent Request header and click is not working
-dul view and edit
+Consent Request header and click is not working - done
+dul view and edit - done
 dul ubo
-
+apply for attendance
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
