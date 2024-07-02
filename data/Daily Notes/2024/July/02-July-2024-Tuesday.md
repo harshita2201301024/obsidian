@@ -9,7 +9,8 @@ Car Key
 Mma Policy Inurance
 Reply to Xebia
 Send photo for ID Card
-
+Pick up shirt from burjuman mall
+look for other exercise
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
