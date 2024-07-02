@@ -3,18 +3,12 @@ created: 2024-02-27 00:08
 ---
 tags:: [[+Daily Notes]]
 
-[[2024-07-01]]
+[[2024-06-04]]
 
-car key
-door key - done
-mma policy insurance
-doctor appointment - 10PM
-order gift - done
-sabzi order - done
-tarbuj khana
-pdai kruga
-pickup shirt
-
+Car Key
+Mma Policy Inurance
+Reply to Xebia
+Send photo for ID Card
 
 
 
