@@ -21,7 +21,8 @@ apply for attendance
 
 pending:
 shilpa shopping
-Investment por
+Investment portfolio
+
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
