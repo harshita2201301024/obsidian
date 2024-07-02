@@ -6,12 +6,12 @@ tags:: [[+Daily Notes]]
 [[2024-06-04]]
 
 Car Key
-Mma Policy Inurance
+Mma Policy Inurance - 11:50 - 12:10
 Reply to Xebia - done
-Send photo for ID Card -> 11:30 - 11:40
+Send photo for ID Card -> 11:30 - 11:50
 Pick up shirt from burjuman mall
 look for other exercise
-ask dheeraj for money
+ask dheeraj for money - 
 MRI file sent to burjuman clinic
 Consent Request header and click is not working - done
 dul view and edit - done
