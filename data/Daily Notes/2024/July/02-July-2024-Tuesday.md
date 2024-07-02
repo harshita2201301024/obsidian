@@ -12,7 +12,7 @@ Send photo for ID Card
 Pick up shirt from burjuman mall
 look for other exercise
 ask dheeraj for money
-
+MRI file sent to burjuman clinic
 Consent Request header and click is not working
 dul view and edit
 dul ubo
