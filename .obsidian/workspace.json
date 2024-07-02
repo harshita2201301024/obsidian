@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bf5e175e83c9e50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,11 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3561480307ff5504",
+  "active": "3bf5e175e83c9e50",
   "lastOpenFiles": [
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
