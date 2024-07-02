@@ -12,7 +12,7 @@ Send photo for ID Card -> 11:30 - 11:50
 Pick up shirt from burjuman mall
 look for other exercise
 ask dheeraj for money - 11:50 - 12: 00
-MRI file sent to burjuman clinic
+MRI file sent to burjuman clinic - 06: 00 PM - 07:00 PM
 Consent Request header and click is not working - done - 09:00 - 10-:00
 dul view and edit - done - 10:00 - 11:30
 dul ubo
