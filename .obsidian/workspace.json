@@ -23,9 +23,11 @@
             "id": "3bf5e175e83c9e50",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -167,7 +169,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "3bf5e175e83c9e50",
