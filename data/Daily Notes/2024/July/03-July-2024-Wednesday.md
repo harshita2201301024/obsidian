@@ -15,7 +15,8 @@ pending:
 shilpa shopping
 Investment portfolio
 wash basin
-order 
+order dustbin
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
