@@ -16,6 +16,7 @@ shilpa shopping
 Investment portfolio
 wash basin
 order dustbin
+book trip
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
