@@ -1,0 +1,37 @@
+---
+created: 2024-02-27 00:08
+---
+tags:: [[+Daily Notes]]
+
+Car Key
+Mma Policy Inurance - 11:50 - 12:10
+
+
+
+Pick up shirt from burjuman mall
+look for other exercise
+ask dheeraj for money - 11:50 - 12: 00
+MRI file sent to burjuman clinic - 06: 00 PM - 07:00 PM
+Consent Request header and click is not working - done - 09:00 - 10-:00
+dul view and edit - done - 10:00 - 11:30
+dul ubo
+apply for attendance
+
+pending:
+shilpa shopping
+Investment portfolio
+
+<< [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
+
+---
+### 📅 Daily Questions
+##### 🌜 What Matters most in my life
+- 
+
+##### 🙌 One thing I'm excited about right now is...
+- 
+
+##### 🚀 One+ thing I plan to accomplish today is...
+- [ ] 
+
+##### 👎 One thing I'm struggling with today is...

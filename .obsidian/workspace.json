@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/July/01-July-2024-Monday.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3bf5e175e83c9e50",
+            "id": "b3888f3281858c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/July/02-July-2024-Tuesday.md"
+                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md"
               }
             }
           },
@@ -173,13 +173,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "3bf5e175e83c9e50",
+  "active": "b3888f3281858c00",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/July/01-July-2024-Monday.md",
+    "conflict-files-obsidian-git.md",
+    "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
+    "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Daily Notes/2024/June/29-June-2024-Saturday.md",
+    "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
     "data/Daily Notes/2024/July",
     "data/Office Work/Links.md",
     "data/Office Work/Users.md",
