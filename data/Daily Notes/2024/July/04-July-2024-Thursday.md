@@ -4,8 +4,9 @@ created: 2024-02-27 00:08
 tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
+Gym
+Drie and Testing of fee engline and remark engine
 
-Dr
 Car Key
 Mma Policy Inurance - 11:50 - 12:10
 Pick up shirt from burjuman mall
