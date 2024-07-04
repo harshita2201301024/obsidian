@@ -5,6 +5,7 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
 
+Dr
 Car Key
 Mma Policy Inurance - 11:50 - 12:10
 Pick up shirt from burjuman mall
