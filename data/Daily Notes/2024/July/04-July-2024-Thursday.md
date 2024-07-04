@@ -4,7 +4,8 @@ created: 2024-02-27 00:08
 tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
-Gym - 05:30 AM - 
+Gym - 05:30 AM -7:30 AM
+Get Ready - 07:30 AM - 
 Drie and Testing of fee engline and remark engine
 
 Car Key
