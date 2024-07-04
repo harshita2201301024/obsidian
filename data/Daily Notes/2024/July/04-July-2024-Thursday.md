@@ -19,6 +19,8 @@ Investment portfolio
 wash basin
 order dustbin
 book trip ticket
+buy cashew
+
 
 
 
