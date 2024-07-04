@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/July/03-July-2024-Wednesday.md"
+                "file": "data/Daily Notes/2024/July/04-July-2024-Thursday.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "b3888f3281858c00",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
+    "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
+    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Daily Notes/2024/June/29-June-2024-Saturday.md",
@@ -206,7 +207,6 @@
     "data/Others/Novels",
     "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
-    "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
     "data/Daily Notes/2024/June",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
