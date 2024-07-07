@@ -9,8 +9,9 @@ Get Ready - 07:15 AM - 07:45AM
 Office Work - 08:20 AM - 10: 00 AM - Complete Dree
 Fix Issues - 10: 00 AM - 01: 00 PM - Dree and Fee Engine Issues
 Mma Policy Insurance - 01: 00 PM - 01:10 PM 
-
-
+Book Doctor Appointment - 01:10 PM - 01:20 PM
+Office Work - 02:00 PM - 05: 00 PM
+Study - 06: 00 PM - 07:
 Car Key
 Mma Policy Inurance - 11:50 - 12:10
 look for other exercise
