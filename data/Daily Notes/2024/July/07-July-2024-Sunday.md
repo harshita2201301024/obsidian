@@ -6,6 +6,8 @@ tags:: [[+Daily Notes]]
 [[2024-06-04]]
 Gym - 05:30 AM -7:15 AM
 Get Ready - 07:15 AM - 07:45AM
+Office Work - 08:20 AM - 10: 00 AM - Complete Dree
+Fix Issues - 10: 00 AM - 01: 00 PM - Dree and Fee Engine Issues
 
 Drie and Testing of fee engline and remark engine
 
