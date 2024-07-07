@@ -17,10 +17,9 @@ MRI file sent to burjuman clinic - 06: 00 PM - 07:00 PM
 apply for attendance
 
 pending:
-shilpa shopping
+shilpa shopping 
 Investment portfolio
 wash basin
-order dustbin
 book trip ticket
 buy cashew
 
