@@ -12,7 +12,7 @@ Fix File Issue - 11: 00 AM - 01: 00 PM
 Mma Policy Insurance - 01: 00 PM - 01:10 PM 
 Follow up on Ameer - 01: 10 PM - 01:20 PM
 
-Study - 06: 00 PM - 07:15 PM
+plan vue3 and nuxt3 - 06: 00 PM - 07:15 PM
 Doctor Appointment - 07:30 PM - 08: 30 PM
 Car Key
 look for other exercise of shoulder
@@ -21,11 +21,10 @@ apply for attendance
 pending:
 shilpa shopping 
 Investment portfolio 
-wash basin
 book trip ticket
 buy cashew
 Mobile phone automation via widget app
-plan vue
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
