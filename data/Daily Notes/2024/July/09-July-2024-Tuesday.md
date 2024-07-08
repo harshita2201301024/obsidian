@@ -10,13 +10,11 @@ Get Ready - 07:15 AM - 07:45AM - done
 Office Work - 08:20 AM - 10: 00 AM - Complete Drie 08:40 AM - 11:00 AM
 Fix File Issue - 11: 00 AM - 01: 00 PM 
 Mma Policy Insurance - 01: 00 PM - 01:10 PM 
-Book Doctor Appointment - 01:10 PM - 01:20 PM - done
-Office Work - 02:00 PM - 05: 00 PM
+
 Study - 06: 00 PM - 07:15 PM
 Doctor Appointment - 07:15 PM - 09: 00 PM
 Car Key
-look for other exercise
-ask dheeraj for money - 11:50 - 12: 00 - done
+look for other exercise of shoulder
 apply for attendance
 
 pending:
