@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md"
+                "file": "data/Daily Notes/2024/July/09-July-2024-Tuesday.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "f5306c600f102e4a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+    "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
+    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
@@ -218,7 +219,6 @@
     "data/Others/Novels/trip",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels",
-    "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
     "data/Daily Notes/2024/June",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
