@@ -24,7 +24,7 @@ Investment portfolio
 book trip ticket
 buy cashew
 Mobile phone automation via widget app
-
+plan for a foreign trip
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
