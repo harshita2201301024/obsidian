@@ -11,11 +11,40 @@
             "id": "6bbf9f6978874523",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd9055767b5dd1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5306c600f102e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data/Daily Notes/2024/July/07-July-2024-Sunday.md"
+              }
             }
           },
           {
@@ -152,8 +185,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "6bbf9f6978874523",
+  "active": "f5306c600f102e4a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+    "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
+    "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
@@ -182,11 +219,7 @@
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels",
     "data/Daily Notes/2024/June/05-June-2024 Wednesday.md",
-    "data/Daily Notes/2024/June/06-June-2024 Thursday.md",
-    "data/Daily Notes/2024/June/04-June-2024 Tuesday.md",
     "data/Daily Notes/2024/June",
-    "data/Archive/Things to do/Things to do.md",
-    "data/Others/Interview/Security Interview Questions.md",
     "data/Office Work",
     "data/Daily Notes/2024/06-June",
     "data/Daily Notes/2024/05-May"
