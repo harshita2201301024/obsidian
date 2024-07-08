@@ -13,7 +13,7 @@ Mma Policy Insurance - 01: 00 PM - 01:10 PM
 Follow up on Ameer - 01: 10 PM - 01:20 PM
 
 Study - 06: 00 PM - 07:15 PM
-Doctor Appointment - 07:15 PM - 09: 00 PM
+Doctor Appointment - 07:30 PM - 08: 30 PM
 Car Key
 look for other exercise of shoulder
 apply for attendance
