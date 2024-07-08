@@ -15,12 +15,12 @@ Study - 06: 00 PM - 07:15 PM
 Doctor Appointment - 07:15 PM - 09: 00 PM
 Car Key
 look for other exercise
-ask dheeraj for money - 11:50 - 12: 00
+ask dheeraj for money - 11:50 - 12: 00 - done
 apply for attendance
 
 pending:
 shilpa shopping 
-Investment portfolio
+Investment portfolio 
 wash basin
 book trip ticket
 buy cashew
