@@ -25,6 +25,8 @@ book trip ticket
 buy cashew
 Mobile phone automation via widget app
 plan for a foreign trip
+Shilpa House Sell
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
