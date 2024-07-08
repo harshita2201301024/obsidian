@@ -24,8 +24,8 @@ Investment portfolio
 wash basin
 book trip ticket
 buy cashew
-Green house accept invitation - done
-DET Diving Team - done
+Mobile phone automation via widget app
+plan vue
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
