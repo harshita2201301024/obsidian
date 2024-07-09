@@ -21,7 +21,8 @@
 21. Show License Revoked in my inbox
 22. Show something on view button click
 23. Email Template to investor
-25. 
+25. Back Button implementation in footer
+26. 
 
 
 
