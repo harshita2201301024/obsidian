@@ -25,6 +25,7 @@
 26. on Click of POA Details, we have to show clone delegation button
 27. clone delegation implementation 
 28. Change Search bar implementation
+29. Add Sorting too
 
 
 
