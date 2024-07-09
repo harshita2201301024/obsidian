@@ -30,7 +30,9 @@ plan for a foreign trip
 Shilpa House Sell
 Plan Smart POA
 Shilpa Bank Account
-Give key to Vi
+Give key to Vijendra
+Plan Gym
+
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
