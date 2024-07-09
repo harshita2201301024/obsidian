@@ -9,7 +9,7 @@
 9. Clicking on Signature will redirect to notifications
 10. Change Add New Delagation to Add Smart POA
 11. Add one Stepper on left
-12. 
+12.  Change design of PO
 
 
 
@@ -22,4 +22,4 @@ Question
 4. POA Document Signature in table will redirect to notifications??
 5. Why Add New Delegation return on Details Screen??
 6. What does it mean by save and exit??? on POA Details Page
-7. 
+7. Do we have to show less fields in Delegation details tab
