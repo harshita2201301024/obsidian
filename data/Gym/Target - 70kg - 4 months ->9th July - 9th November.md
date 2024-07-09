@@ -1,7 +1,7 @@
 I will go to gym everyday. it's no or never situation.
 I Will plan gym exercise a day before
 No Sugar
-
+Daily Night follow up
 
 Week 1
 Actual Weight- 
