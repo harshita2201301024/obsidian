@@ -15,6 +15,9 @@ tags:: [[+Daily Notes]]
 
 **Morning Routine**
 Note your weight
+Drink Water
+Do Brush
+Get Ready and go to the gym at 5:45 AM
 
 
 **Night Routine**
@@ -25,7 +28,7 @@ Pack Office Bag
 Morning and Gym Clothes
 Water Fill with Aroma
 Badam Bhigona
-
+Do Brush
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
