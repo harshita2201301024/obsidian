@@ -3,7 +3,8 @@ created: 2024-02-27 00:08
 ---
 tags:: [[+Daily Notes]]
 
-1. I will go to gym everyday. it's no or never situation.
+**Rules of life**
+I will go to gym everyday. it's no or never situation.
 2. I Will plan gym exercise a day before
 3. No Sugar
 4. Daily Night follow up
@@ -20,11 +21,13 @@ Do Brush
 Get Ready and go to the gym at 5:45 AM
 
 
+
 **Night Routine**
 Temple Sleep
 Make Todo List
 Pack Gym Bag
 Pack Office Bag
+Plan What Excercise to do
 Morning and Gym Clothes
 Water Fill with Aroma
 Badam Bhigona
