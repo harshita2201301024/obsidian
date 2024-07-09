@@ -19,8 +19,9 @@
 19. Payment Successffull Screen
 20. Revoke Delegation Popup and change status color in table
 21. Show License Revoked in my inbox
-22. 
-23. 
+22. Show something on view button click
+23. Email Templating
+24. 
 
 
 
@@ -39,4 +40,5 @@ Question
 10. Every Delegation Detail will show this steps??
 11. By Default it will be POA Details for everyone ??
 12. Why it showing license is revoked?? we have revoked the delegation
-13. License Revoked in my inbox 
+13. License Revoked in my inbox, what it will show on view button
+14. 
