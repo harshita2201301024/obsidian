@@ -18,8 +18,9 @@
 18. View And Sign functionality
 19. Payment Successffull Screen
 20. Revoke Delegation Popup and change status color in table
-21. 
+21. Show License Revoked in my inbox
 22. 
+23. 
 
 
 
@@ -36,5 +37,6 @@ Question
 8. what is lorem ipsum ?? View and Sign POA
 9. Will it take you to delegation screen for signing?? i don't think so?? If Yes, what will happen on back button click??
 10. Every Delegation Detail will show this steps??
-11. By Default it will be POA Details for everyone
-12. Why it showing license is revoked?? we have revoked the dela
+11. By Default it will be POA Details for everyone ??
+12. Why it showing license is revoked?? we have revoked the delegation
+13. License Revoked in my inbox 
