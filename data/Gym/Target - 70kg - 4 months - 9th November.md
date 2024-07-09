@@ -1,6 +1,8 @@
 Week 1
+Actual Weight- 
 Target - 77.5kg
 Week 2
+Actual Weight- 
 Target - 77kg
 Week 3
 Target - 76.5kg
@@ -19,5 +21,14 @@ Target - 73.5kg
 Week 10
 Target - 73kg
 Week 11
-Targer 
+Target - 72.5kg
 Week 12
+Targer - 72kg
+Week 13
+Target - 71.5kg
+Week 14
+Targer - 71kg
+Week 15
+Target - 70.5kg
+Week 16
+Targer - 70kg
