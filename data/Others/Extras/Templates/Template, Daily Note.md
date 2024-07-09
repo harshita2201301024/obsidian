@@ -19,8 +19,8 @@ tags:: [[+Daily Notes]]
 
 **Night Routine**
 Temple Sleep
-
-
+Make Todo List
+Write 
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
