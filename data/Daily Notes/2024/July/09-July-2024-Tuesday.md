@@ -39,7 +39,7 @@ Shilpa House Sell
 Plan Smart POA
 Shilpa Bank Account
 Give key to Vijendra
-Plan Gym
+Plan Gym - done
 Plan Vue3, Nuxt 3 Course
 
 

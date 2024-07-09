@@ -5,9 +5,7 @@ tags:: [[+Daily Notes]]
 
 **Rules of life**
 I will go to gym everyday. it's no or never situation.
-5. Protein 1 or 2 scoop a day
-6. Update Weight Every Sunday
-7. Today Weight: 
+Left Sugar
 
 [[2024-06-04]]
 
