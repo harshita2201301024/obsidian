@@ -8,4 +8,5 @@
 
 
 Question
-1. Do we have to change Add 
+1. Do we have to change Add Delegation to Add Smart POA
+2. Do we have 
