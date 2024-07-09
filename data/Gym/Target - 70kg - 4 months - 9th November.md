@@ -1,3 +1,5 @@
+I will go tog
+
 Week 1
 Actual Weight- 
 Target - 77.5kg
@@ -60,4 +62,4 @@ Target - 70.5kg
 
 Week 16
 Actual Weight- 
-Targer - 70kg
+Target - 70kg
