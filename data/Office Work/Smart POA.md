@@ -20,4 +20,5 @@ Question
 3. POA Document in table View Design??
 4. POA Document Signature in table will redirect to notifications??
 5. Why Add New Delegation return on Details Screen??
-6. What does it mean by save and exit??? we 
+6. What does it mean by save and exit??? on POA Details Page
+7. 
