@@ -1,4 +1,5 @@
-I will go tog
+I will go to gym everyday. it's no or never situation.
+
 
 Week 1
 Actual Weight- 
