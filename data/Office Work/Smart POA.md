@@ -29,7 +29,7 @@ Question
 6. What does it mean by save and exit??? on POA Details Page
 7. Do we have to show less fields in Delegation details tab
 8. what is lorem ipsum ?? View and Sign POA
-9. Will it take you to delegation screen for signing?? i don't think so??
+9. Will it take you to delegation screen for signing?? i don't think so?? If Yes, what will happen on back button click??
 10. Every Delegation Detail will show this steps??
 11. By Default it will be POA Details for everyone
 12. 
