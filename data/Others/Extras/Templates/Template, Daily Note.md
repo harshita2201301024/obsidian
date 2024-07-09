@@ -14,13 +14,12 @@ tags:: [[+Daily Notes]]
 [[2024-06-04]]
 
 **Morning Routine**
-
+Note your weight
 
 
 **Night Routine**
 Temple Sleep
 Make Todo List
-Write 
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
