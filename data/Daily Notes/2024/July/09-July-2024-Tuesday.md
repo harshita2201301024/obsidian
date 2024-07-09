@@ -7,7 +7,7 @@ tags:: [[+Daily Notes]]
 
 Gym - 05:30 AM -7:15 AM - not done
 Get Ready - 07:15 AM - 07:45AM - done
-Office Work - 08:20 AM - 10: 00 AM - Complete Drie 08:40 AM - 11:00 AM
+Office Work - 08:20 AM - 10: 00 AM - Complete Drie 08:40 AM - 11:00 AM - done
 Fix File Issue - 11: 00 AM - 01: 00 PM 
 Mma Policy Insurance - 01: 00 PM - 01:10 PM 
 Follow up on Ameer - 01: 10 PM - 01:20 PM
@@ -18,6 +18,8 @@ Car Key
 look for other exercise of shoulder
 apply for attendance
 
+
+
 pending:
 shilpa shopping 
 Investment portfolio 
@@ -26,6 +28,9 @@ buy cashew
 Mobile phone automation via widget app
 plan for a foreign trip
 Shilpa House Sell
+Plan Smart POA
+Shilpa Bank Account
+Give key to Vi
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
