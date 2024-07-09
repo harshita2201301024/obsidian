@@ -8,7 +8,7 @@ tags:: [[+Daily Notes]]
 3. No Sugar
 4. Daily Night follow up
 5. Protein 1 or 2 scoop a day
-6. Update Weight Every single day 
+6. Update Weight Every Sunday
 7. Today Weight: 
 
 [[2024-06-04]]
