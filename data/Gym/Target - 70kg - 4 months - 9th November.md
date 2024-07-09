@@ -1,5 +1,5 @@
 I will go to gym everyday. it's no or never situation.
-Will plan gym exercise a day before
+I Will plan gym exercise a day before
 
 
 Week 1
