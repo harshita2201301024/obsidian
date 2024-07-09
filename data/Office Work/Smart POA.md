@@ -9,7 +9,10 @@
 9. Clicking on Signature will redirect to notifications
 10. Change Add New Delagation to Add Smart POA
 11. Add one Stepper on left
-12.  Change design of PO
+12.  Change design of POA Design and Details
+13. Stepper should work
+14. clicking on next should take you to signature screen
+15. 
 
 
 
