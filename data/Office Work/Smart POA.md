@@ -8,7 +8,8 @@
 8. Show POA Document for Active
 9. Clicking on Signature will redirect to notifications
 10. Change Add New Delagation to Add Smart POA
-11. 
+11. Add one Stepper on left
+12. 
 
 
 
