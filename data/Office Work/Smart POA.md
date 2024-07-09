@@ -21,8 +21,8 @@
 21. Show License Revoked in my inbox
 22. Show something on view button click
 23. Email Template to investor
-25. Back Button implementation in footer
-26. 
+25. Back Button implementation in footer of POA Details
+26. on Click of POA Details 
 
 
 
@@ -42,4 +42,4 @@ Question
 11. By Default it will be POA Details for everyone ??
 12. Why it showing license is revoked?? we have revoked the delegation
 13. License Revoked in my inbox, what it will show on view button
-14. 
+14. where we will have edit button, i think it is missing in design a
