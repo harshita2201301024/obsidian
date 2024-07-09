@@ -22,7 +22,9 @@
 22. Show something on view button click
 23. Email Template to investor
 25. Back Button implementation in footer of POA Details
-26. on Click of POA Details 
+26. on Click of POA Details, we have to show clone delegation button
+27. clone delegation implementation 
+28. 
 
 
 
@@ -43,4 +45,3 @@ Question
 12. Why it showing license is revoked?? we have revoked the delegation
 13. License Revoked in my inbox, what it will show on view button
 14. where we will have edit button, i think it is missing in design or replaced with clone delegation
-15. 
