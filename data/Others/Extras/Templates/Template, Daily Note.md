@@ -20,6 +20,9 @@ Note your weight
 **Night Routine**
 Temple Sleep
 Make Todo List
+Pack Gym Bag
+Morning and Gym Clothes
+
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
