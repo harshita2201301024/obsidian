@@ -17,8 +17,9 @@
 17. My Inbox Notification Tab - View and Sign POA 
 18. View And Sign functionality
 19. Payment Successffull Screen
-20. Revoke Delegation Popup and change status color in
+20. Revoke Delegation Popup and change status color in table
 21. 
+22. 
 
 
 
@@ -36,4 +37,4 @@ Question
 9. Will it take you to delegation screen for signing?? i don't think so?? If Yes, what will happen on back button click??
 10. Every Delegation Detail will show this steps??
 11. By Default it will be POA Details for everyone
-12. 
+12. Why it showing license is revoked?? we have revoked the dela
