@@ -30,4 +30,6 @@ Question
 7. Do we have to show less fields in Delegation details tab
 8. what is lorem ipsum ?? View and Sign POA
 9. Will it take you to delegation screen for signing?? i don't think so??
-10. 
+10. Every Delegation Detail will show this steps??
+11. By Default it will be POA Details for everyone
+12. 
