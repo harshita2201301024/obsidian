@@ -13,11 +13,11 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
 
-Gym - 05:30 AM -7:15 AM 
-Get Ready - 07:15 AM - 07:45AM
+**Morning Routine**
 
 
-Night Routine
+
+**Night Routine**
 Temple Sleep
 
 
