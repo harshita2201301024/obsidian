@@ -2,7 +2,7 @@ I will go to gym everyday. it's no or never situation.
 I Will plan gym exercise a day before
 No Sugar
 Daily Night follow up
-Protein 1 scoop a day for a month
+Protein 1 or 2 scoop a daya
 
 Week 1
 Actual Weight- 

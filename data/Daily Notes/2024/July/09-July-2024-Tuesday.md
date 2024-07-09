@@ -3,6 +3,13 @@ created: 2024-02-27 00:08
 ---
 tags:: [[+Daily Notes]]
 
+1. I will go to gym everyday. it's no or never situation.
+2. I Will plan gym exercise a day before
+3. No Sugar
+4. 
+Daily Night follow up
+Protein 1 or 2 scoop a daya
+
 [[2024-06-04]]
 
 Gym - 05:30 AM -7:15 AM - not done
