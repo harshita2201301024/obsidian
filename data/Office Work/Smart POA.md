@@ -20,8 +20,8 @@
 20. Revoke Delegation Popup and change status color in table
 21. Show License Revoked in my inbox
 22. Show something on view button click
-23. Email Templating
-24. 
+23. Email Template to investor
+25. 
 
 
 
