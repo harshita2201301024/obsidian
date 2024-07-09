@@ -6,7 +6,9 @@
 6. Add 3 more fields in table
 7. Show Tick Mark for Smart POA
 8. Show POA Document for Active
-9. Clicking on Sign
+9. Clicking on Signature will redirect to notifications
+10. Change Add New Delagation to Add Smart POA
+11. 
 
 
 
