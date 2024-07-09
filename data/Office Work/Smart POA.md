@@ -1,8 +1,8 @@
-1. Search Bar Design Change
-2. No Pagination to be shown if results less than one page
-3. Change name from Add Delegation to Add Smart POA
-4. We are getting error delegation.status.5
-5. Change Disable to Revoke
+1. Search Bar Design Change - 2 hr
+2. No Pagination to be shown if results less than one page - 1hr
+3. Change name from Add Delegation to Add Smart POA - 0.5 hr
+4. We are getting error delegation.status.5 - 0.5hr
+5. Change Disable to Revoke -
 6. Add 3 more fields in table
 7. Show Tick Mark for Smart POA
 8. Show POA Document for Active
@@ -45,3 +45,5 @@ Question
 12. Why it showing license is revoked?? we have revoked the delegation
 13. License Revoked in my inbox, what it will show on view button
 14. where we will have edit button, i think it is missing in design or replaced with clone delegation
+15. what after clonning the POA Details
+16. 
