@@ -6,9 +6,10 @@ tags:: [[+Daily Notes]]
 1. I will go to gym everyday. it's no or never situation.
 2. I Will plan gym exercise a day before
 3. No Sugar
-4. 
-Daily Night follow up
-Protein 1 or 2 scoop a daya
+4. Daily Night follow up
+5. Protein 1 or 2 scoop a day
+6. Update Weight Every single day 
+7. Today Weight: 
 
 [[2024-06-04]]
 
