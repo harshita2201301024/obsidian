@@ -42,4 +42,5 @@ Question
 11. By Default it will be POA Details for everyone ??
 12. Why it showing license is revoked?? we have revoked the delegation
 13. License Revoked in my inbox, what it will show on view button
-14. where we will have edit button, i think it is missing in design a
+14. where we will have edit button, i think it is missing in design or replaced with clone delegation
+15. 
