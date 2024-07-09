@@ -32,6 +32,7 @@ Plan Smart POA
 Shilpa Bank Account
 Give key to Vijendra
 Plan Gym
+Plan Vue3, Nuxt 3 Course
 
 
 
