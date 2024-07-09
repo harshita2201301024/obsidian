@@ -13,7 +13,8 @@
 13. Stepper should work
 14. clicking on next should take you to signature screen
 15. when user will click on next next button will be disabled and user will see an alert that Delegation signature is pending
-16. User should receive request in POA
+16. User should receive request in notification POA
+17. 
 
 
 
