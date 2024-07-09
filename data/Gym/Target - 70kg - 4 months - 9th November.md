@@ -1,7 +1,11 @@
 Week 1
+Target - 77.5kg
 Week 2
+Target - 77kg
 Week 3
+Target - 76kg
 Week 4
+Target - 
 Week 5
 Week 6
 Week 7
