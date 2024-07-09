@@ -5,9 +5,6 @@ tags:: [[+Daily Notes]]
 
 **Rules of life**
 I will go to gym everyday. it's no or never situation.
-2. I Will plan gym exercise a day before
-3. No Sugar
-4. Daily Night follow up
 5. Protein 1 or 2 scoop a day
 6. Update Weight Every Sunday
 7. Today Weight: 
@@ -17,8 +14,10 @@ I will go to gym everyday. it's no or never situation.
 **Morning Routine**
 Note your weight
 Drink Water
+Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
+
 
 
 
@@ -32,6 +31,7 @@ Morning and Gym Clothes
 Water Fill with Aroma
 Badam Bhigona
 Do Brush
+Protein Bottle
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
