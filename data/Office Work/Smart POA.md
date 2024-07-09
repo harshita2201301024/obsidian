@@ -12,4 +12,5 @@
 Question
 1. Do we have to change Add Delegation to Add Smart POA
 2. Do we have to change Disable to Revoke??? if no, they both shouldn't have the same color
-3. 
+3. POA Document View Design??
+4. POA Document Signature in table will redirect to notifications 
