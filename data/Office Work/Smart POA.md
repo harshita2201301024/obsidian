@@ -2,7 +2,7 @@
 2. No Pagination to be shown if results less than one page - 1hr
 3. Change name from Add Delegation to Add Smart POA - 0.5 hr
 4. We are getting error delegation.status.5 - 0.5hr
-5. Change Disable to Revoke -
+5. Change Disable to Revoke - 2 hr
 6. Add 3 more fields in table
 7. Show Tick Mark for Smart POA
 8. Show POA Document for Active
