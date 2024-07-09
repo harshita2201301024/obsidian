@@ -24,7 +24,7 @@
 25. Back Button implementation in footer of POA Details
 26. on Click of POA Details, we have to show clone delegation button
 27. clone delegation implementation 
-28. 
+28. Change Search bar implementation
 
 
 
