@@ -42,6 +42,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f2045b12db8efe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -187,8 +195,8 @@
   },
   "active": "f5306c600f102e4a",
   "lastOpenFiles": [
-    "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
+    "data/Office Work/Users.md",
     "data/Office Work/Links.md",
     "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
