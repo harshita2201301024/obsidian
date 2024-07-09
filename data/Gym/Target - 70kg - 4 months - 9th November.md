@@ -1,5 +1,6 @@
 I will go to gym everyday. it's no or never situation.
 I Will plan gym exercise a day before
+No Sugar
 
 
 Week 1
