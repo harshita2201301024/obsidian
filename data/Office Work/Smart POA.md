@@ -6,6 +6,7 @@
 6. Add 3 more fields in table
 7. Show Tick Mark for Smart POA
 8. Show POA Document for Active
+9. Clicking on Sign
 
 
 
