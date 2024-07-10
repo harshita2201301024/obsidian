@@ -25,18 +25,20 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 1: 30 PM - 2:30PM
 
 [FE] Pagination will not be visible if items are less than 10
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1 - done
 2:30 PM - 3:30PM
 
 [FE] Change Search Box Design
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2 - done
 3:30 PM - 4:30PM
 
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 4:30 PM - 06: 00 PM
 
+Read Vue.js Book 06:00 PM - 07:30 PM
 
+Help in household choures - 07:30 PM - 09: 00 PM
 
 
 **Night Routine**
