@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Smart POA.md"
+                "file": "data/Office Work/Links.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "bd9055767b5dd1d3",
   "lastOpenFiles": [
+    "data/Office Work/Smart POA.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
@@ -194,7 +195,6 @@
     "Untitled 1",
     "Untitled",
     "data/Office Work/Links.md",
-    "data/Office Work/Smart POA.md",
     "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
