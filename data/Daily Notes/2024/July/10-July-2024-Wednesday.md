@@ -36,7 +36,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 4:30 PM - 06: 00 PM
 
-
+Read 
 
 
 **Night Routine**
