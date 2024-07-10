@@ -39,7 +39,7 @@ Protein Bottle
 ### 📅 Daily Questions
 ##### 🌜 What Matters most in my life
 - 
-My wife matters to me most in my life. i am not giving her a good life but i will wo
+	My wife matters to me most in my life. 
 ##### 🙌 My Today Weight
 - 
 
