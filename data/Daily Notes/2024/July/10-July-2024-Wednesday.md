@@ -38,6 +38,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 
 Read Vue.js Book 06:00 PM - 07:30 PM
 
+Help in household choures - 07:30 PM - 09: 00 PM
 
 
 **Night Routine**
