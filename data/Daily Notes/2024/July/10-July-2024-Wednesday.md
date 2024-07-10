@@ -29,7 +29,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1 - done
 2:30 PM - 3:30PM
 
 [FE] Change Search Box Design
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2 - done
 3:30 PM - 4:30PM
 
 [FE] Add and Populate additional Fields in Delegation Listing
