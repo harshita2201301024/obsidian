@@ -107,3 +107,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
 [FE] Digital Signature Implementation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 
+[FE] In-app notification to delegate for digital signature
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
