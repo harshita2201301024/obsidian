@@ -59,3 +59,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 [FE] Pagination will not be visible if items are less than 10
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
 
+[FE] Change Search Box Design
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
+
