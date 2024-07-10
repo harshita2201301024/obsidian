@@ -36,6 +36,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
 Plan Hanging Garden - 06:30 PM - 07:30 PM
 Physiotherapy - 07:30 PM - 08:30 PM
+WATCH MOVIE - 08:30 PM - 09:30 PM
+Plan for Next Day - 09:30 PM - ....
+Underarm Hair Cut
+Beard
 
 
 
