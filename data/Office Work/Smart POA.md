@@ -80,3 +80,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 [FE] Implement Stepper and change design of POA Details
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
+[FE] Implement Save and Exit
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706  - 2
+
+
