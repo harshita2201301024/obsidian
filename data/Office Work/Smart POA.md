@@ -68,3 +68,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
+[FE] Add Sorting to each field and default sorting will be delegation reference number
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+
