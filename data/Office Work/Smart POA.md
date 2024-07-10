@@ -61,7 +61,7 @@ Do we have new filters??
 
 
 
-[FE] Remove Add Delegation and Add Smart POA Link
+[FE] Remove Add Delegation and Add Smart POA Link 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
 
 [FE] Remove Disable Delegation and replace it with Revoke Delegation Link
