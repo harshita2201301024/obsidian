@@ -64,9 +64,6 @@ Do we have new filters??
 [FE] Remove Add Delegation and Add Smart POA Link 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
 
-[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
-
 [FE] Pagination will not be visible if items are less than 10
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
 
@@ -81,6 +78,11 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+
+
+[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+
 
 [FE] Show Cancel POA for draft POAs 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
