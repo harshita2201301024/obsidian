@@ -78,5 +78,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 
 [FE] Implement Stepper and change design of POA Details
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
