@@ -94,3 +94,4 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 
 [FE] Remove Edit delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
+
