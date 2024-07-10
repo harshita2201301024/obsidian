@@ -50,4 +50,9 @@ Mobile design
 14. where we will have edit button, i think it is missing in design or replaced with clone delegation
 15. what after clonning the POA Details
 
+[FE] Remove Add Delegation and Add Smart POA Link
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
+
+[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+
