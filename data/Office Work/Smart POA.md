@@ -52,6 +52,12 @@ Mobile design
 
 
 Do we have new filters??
+1. The investor will search delegate by (EID, Year of Birth and Gender)  
+    
+2. The system will allow selection of only delegates with active accounts (Verified profile exists in IID) and whose identity documents are not expired (at least passport or EID should be valid)
+3. The system will not allow adding a new POA to the same person who already has an initiated/active/pending signature/pending payment delegation  
+    
+4. The system will not allow adding a new smart POA for a delegate who has a legacy delegation that is pending for back office approval.
 
 [FE] Remove Add Delegation and Add Smart POA Link
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
