@@ -34,6 +34,8 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 [FE] - Smart POA View Screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
+Plan Hanging Garden - 06:30 PM - 07:30 PM
+
 
 
 pending:
