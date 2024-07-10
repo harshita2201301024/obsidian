@@ -16,6 +16,7 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
+Book Ticket
 
 
 
@@ -38,7 +39,7 @@ Protein Bottle
 ### 📅 Daily Questions
 ##### 🌜 What Matters most in my life
 - 
-
+My wife matters to me most in my life. i am not giving her a good life but i will wo
 ##### 🙌 My Today Weight
 - 
 
