@@ -31,10 +31,7 @@ plan for a foreign trip
 Shilpa House Sell
 Shilpa Bank Account
 Give key to Vijendra
-Plan Gym - done
 Plan Vue3, Nuxt 3 Course
-
-
 
 **Night Routine**
 Temple Sleep
