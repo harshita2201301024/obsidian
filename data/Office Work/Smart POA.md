@@ -96,4 +96,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
 
 [FE] Add Smart POA Application Form
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
+
