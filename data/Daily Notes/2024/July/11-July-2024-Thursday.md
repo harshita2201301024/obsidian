@@ -35,6 +35,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
 Plan Hanging Garden - 06:30 PM - 07:30 PM
+Physiotherapy - 07:30 PM - 08:30 PM
 
 
 
