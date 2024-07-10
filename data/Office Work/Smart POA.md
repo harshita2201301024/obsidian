@@ -59,7 +59,7 @@ Do we have new filters??
     
 4. The system will not allow adding a new smart POA for a delegate who has a legacy delegation that is pending for back office approval.
 
-Done
+**Done**
 
 [FE] Remove Add Delegation and Add Smart POA Link 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
@@ -73,11 +73,18 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 
-[FE] Clicking on Delegation will take you to Delegation Detail
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+**In Progress**
 
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+
+
+
+
+**Pending**
+
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
 
 [FE] Remove Disable Delegation and replace it with Revoke Delegation Link
