@@ -78,7 +78,9 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
-
+1. Do we have to show a reference number or not??
+2. Why sorting have different fields from api response?? will there be no sorting for arabic assignedTo name.
+3. Request Delegation 
 
 
 **Pending**
