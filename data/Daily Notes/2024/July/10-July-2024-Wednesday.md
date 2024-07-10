@@ -25,7 +25,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 1: 30 PM - 2:30PM
 
 [FE] Pagination will not be visible if items are less than 10
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1 - done
 2:30 PM - 3:30PM
 
 [FE] Change Search Box Design
