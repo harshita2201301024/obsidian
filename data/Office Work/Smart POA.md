@@ -65,5 +65,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563
