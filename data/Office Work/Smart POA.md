@@ -83,4 +83,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 [FE] Implement Save and Exit
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706  - 2
 
-
+[FE] Implement Clone Delegation for Revoked Delegation
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
