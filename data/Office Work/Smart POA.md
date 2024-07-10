@@ -62,3 +62,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
 [FE] Change Search Box Design
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
 
+[FE] Add and Populate additional Fields in Delegation Listing
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
+
