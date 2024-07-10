@@ -80,7 +80,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
 1. Do we have to show a reference number or not??
 2. Why sorting have different fields from api response?? will there be no sorting for arabic assignedTo name.
-3. Request Delegation 
+3. Requested Delegation will also have the 
 
 
 **Pending**
