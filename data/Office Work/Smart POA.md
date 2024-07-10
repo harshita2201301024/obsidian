@@ -71,3 +71,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
+[FE] Show Cancel POA for draft POAs 
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
