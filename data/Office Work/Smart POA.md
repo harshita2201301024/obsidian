@@ -85,3 +85,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706  - 2
 
 [FE] Implement Clone Delegation for Revoked Delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
+
+
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738
