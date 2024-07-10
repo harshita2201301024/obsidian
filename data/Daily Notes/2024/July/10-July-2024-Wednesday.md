@@ -20,7 +20,8 @@ Get Ready and go to the gym at 5:45 AM
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
 12 PM - 1:30 PM
 
-
+[FE] Add Sorting to each field and default sorting will be delegation reference number
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
 [FE] Pagination will not be visible if items are less than 10
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1 - done

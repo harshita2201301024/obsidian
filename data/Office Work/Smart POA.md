@@ -59,7 +59,7 @@ Do we have new filters??
     
 4. The system will not allow adding a new smart POA for a delegate who has a legacy delegation that is pending for back office approval.
 
-
+Done
 
 [FE] Remove Add Delegation and Add Smart POA Link 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
