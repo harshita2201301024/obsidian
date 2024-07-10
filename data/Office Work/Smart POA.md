@@ -49,4 +49,5 @@ Mobile design
 13. License Revoked in my inbox, what it will show on view button
 14. where we will have edit button, i think it is missing in design or replaced with clone delegation
 15. what after clonning the POA Details
-16. 
+
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
