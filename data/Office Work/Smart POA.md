@@ -118,3 +118,5 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
 [FE] QR Code Scan Redirect to this screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
+
+8 Hours for miscellanious activities
