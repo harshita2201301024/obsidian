@@ -25,6 +25,15 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 3. Requested Delegation will also have the same fields as Assigned Delegations, as they are using the same api??.
 4. In listing api they are not sending items.actions. we are handling them manually. i think they should handle it from backend. 
 
+[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+
+[FE] Show Cancel POA for draft POAs 
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
+
+[FE] - Smart POA View Screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
+
 
 
 pending:
