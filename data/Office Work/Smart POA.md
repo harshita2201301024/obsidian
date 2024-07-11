@@ -84,7 +84,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 4. In listing api they are not sending items.actions. we are handling them manually. i think they should handle it from backend. 
 
 
+
 **Pending**
+
+Fix Listing Mobile Design
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
