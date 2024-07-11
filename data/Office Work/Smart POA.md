@@ -88,6 +88,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 **Pending**
 
 Fix Listing Mobile Design
+Download PDF in View Page
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
