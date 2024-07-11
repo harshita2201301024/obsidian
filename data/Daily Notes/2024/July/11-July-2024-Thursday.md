@@ -18,7 +18,7 @@ Get Ready and go to the gym at 5:45 AM
 
 Office Work
 [FE] Add Sorting to each field and default sorting will be delegation reference number
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2 - done
 
 1. Do we have to show a reference number or not??
 2. Why sorting have different fields from api response?? will there be no sorting for arabic assignedTo name.
@@ -26,10 +26,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 4. In listing api they are not sending items.actions. we are handling them manually. i think they should handle it from backend. 
 
 [FE] Remove Disable Delegation and replace it with Revoke Delegation Link
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2 - done
 
 [FE] Show Cancel POA for draft POAs 
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2 - done
 
 [FE] - Smart POA View Screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
