@@ -23,16 +23,18 @@ Download PDF in View Page - 11:00 AM - 12:00 PM
 Requested delegation sorting field - 12: 00 PM - 12:30 PM
 
 [FE] In-app notification to delegate for digital signature
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 12: 30 PM - 04
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 -> 12: 30 PM - 04:30 PM
 
 [FE] Clicking on Delegation will take you to Delegation Detail
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3 ->
 
 [FE] Implement Stepper and change design of POA Details
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6 -> 
+04:30 PM - 07: 30 PM
 
 
-Plan Hanging Garden - 06:30 PM - 07:30 PM
+Order Cake - 01: 00 PM - 01: 30 PM
+Plan Hanging Garden - 07:30 PM - 08:00 PM
 Physiotherapy - 07:30 PM - 08:30 PM
 WATCH MOVIE - 08:30 PM - 09:30 PM
 Plan for Next Day - 09:30 PM - ....
