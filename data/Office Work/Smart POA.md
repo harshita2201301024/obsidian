@@ -73,10 +73,15 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 
-**In Progress**
+[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+
+**In Progress**
+
+
 
 1. Do we have to show a reference number or not??
 2. Why sorting have different fields from api response?? will there be no sorting for arabic assignedTo name.
@@ -85,17 +90,18 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
 
 
+
 **Pending**
 
 Fix Listing Mobile Design
 Download PDF in View Page
+Request
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
 
-[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+
 
 
 [FE] Show Cancel POA for draft POAs 
