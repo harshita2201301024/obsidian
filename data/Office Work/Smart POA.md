@@ -88,15 +88,28 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 **In Progress**
 
 
+[FE] In-app notification to delegate for digital signature
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
+
+Fix Listing Mobile Design
+Download PDF in View Page
+Requested delegation sorting field
+Public Page of View
 
 
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
+
+[FE] Implement Stepper and change design of POA Details
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
 **Pending**
 
 Fix Listing Mobile Design
 Download PDF in View Page
 Requested delegation sorting field
+Public Page
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
