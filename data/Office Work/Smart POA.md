@@ -91,8 +91,8 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
-Fix Listing Mobile Design
-Download PDF in View Page
+Fix Listing Mobile Design - done
+Download PDF in View Page - done
 Requested delegation sorting field
 Public Page of View
 
