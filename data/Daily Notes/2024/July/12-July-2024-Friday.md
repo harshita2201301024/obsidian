@@ -18,9 +18,18 @@ Get Ready and go to the gym at 5:45 AM
 
 Office Work
 
+Fix Listing Mobile Design 06
+Download PDF in View Page
+Requested delegation sorting field
+
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+
+[FE] Implement Stepper and change design of POA Details
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
 
 Plan Hanging Garden - 06:30 PM - 07:30 PM
