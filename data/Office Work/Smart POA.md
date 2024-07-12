@@ -79,6 +79,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
+[FE] Show Cancel POA for draft POAs 
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
+
+[FE] - Smart POA View Screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
+
 **In Progress**
 
 
@@ -95,17 +101,11 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
 Fix Listing Mobile Design
 Download PDF in View Page
-Request
+Requested delegation sorting field
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
-
-
-
-
-[FE] Show Cancel POA for draft POAs 
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 
 [FE] Implement Stepper and change design of POA Details
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
@@ -136,9 +136,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
 [FE] Implement Payment Fees
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
-
-[FE] - Smart POA View Screen
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
 [FE] QR Code Scan Redirect to this screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
