@@ -18,12 +18,12 @@ Get Ready and go to the gym at 5:45 AM
 
 Office Work
 
-Fix Listing Mobile Design 06
-Download PDF in View Page
-Requested delegation sorting field
+Fix Listing Mobile Design - 10: 00 AM - 11:00 AM
+Download PDF in View Page - 11:00 AM - 12:00 PM
+Requested delegation sorting field - 12: 00 PM - 12:30 PM
 
 [FE] In-app notification to delegate for digital signature
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 12: 30 PM - 04
 
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
