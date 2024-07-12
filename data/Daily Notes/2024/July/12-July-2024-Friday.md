@@ -35,8 +35,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6 ->
 
 Order Cake - 01: 00 PM - 01: 30 PM
 Plan Hanging Garden - 07:30 PM - 08:00 PM
-Physiotherapy - 07:30 PM - 08:30 PM
-WATCH MOVIE - 08:30 PM - 09:30 PM
+WATCH MOVIE - 09:00 PM - 11:00 PM
 Plan for Next Day - 09:30 PM - ....
 Underarm Hair Cut
 Beard Cut
