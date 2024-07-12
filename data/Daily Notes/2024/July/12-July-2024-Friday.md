@@ -18,7 +18,7 @@ Get Ready and go to the gym at 5:45 AM
 
 Office Work
 
-Fix Listing Mobile Design - 10: 00 AM - 11:00 AM
+Fix Listing Mobile Design - 10: 00 AM - 11:00 AM done
 Download PDF in View Page - 11:00 AM - 12:00 PM
 Requested delegation sorting field - 12: 00 PM - 12:30 PM
 
