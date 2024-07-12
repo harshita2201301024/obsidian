@@ -18,6 +18,9 @@ Get Ready and go to the gym at 5:45 AM
 
 Office Work
 
+[FE] In-app notification to delegate for digital signature
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
+
 
 
 Plan Hanging Garden - 06:30 PM - 07:30 PM
