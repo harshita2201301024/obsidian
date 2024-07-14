@@ -12,7 +12,8 @@ belly
 hair colors
 shilpa undergarments
 mandir ka smaan
-
+photooo
+family photo
 
 **Things to take india**
 uncle pendrive
