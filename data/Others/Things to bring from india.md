@@ -8,3 +8,5 @@ wax and strips
 sanitry napkins
 shilpa formal dresses
 bandage
+belly
+hair colors
