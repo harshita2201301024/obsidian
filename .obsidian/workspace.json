@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
+                "file": "data/Startup/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
+                "file": "data/Startup/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
+                "file": "data/Startup/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/July/11-July-2024-Thursday.md"
+                "file": "data/Startup/Untitled.md"
               }
             }
           },
@@ -185,13 +185,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "0f2dceb546281ab1",
   "lastOpenFiles": [
-    "data/Untitled",
+    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
+    "data/Startup/Untitled.md",
+    "data/Startup",
     "Untitled",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
     "data/Office Work/Smart POA.md",
-    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/10-July-2024-Wednesday.md",
     "conflict-files-obsidian-git.md",
@@ -221,7 +222,6 @@
     "Vue 2 to Vue 3 Migration.md",
     "data/Others/Novels/trip",
     "data/Others/Novels",
-    "data/Daily Notes/2024/June",
-    "data/Office Work"
+    "data/Daily Notes/2024/June"
   ]
 }
