@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Others/Things to bring from india.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Others/Things to bring from india.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Others/Things to bring from india.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Untitled.md"
+                "file": "data/Others/Things to bring from india.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "0f2dceb546281ab1",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
     "data/Startup/Untitled.md",
+    "data/Others/Things to bring from india.md",
+    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
     "data/Startup",
     "Untitled",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
@@ -219,7 +220,6 @@
     "data/Study",
     "data/Others/github_harshita/Untitled.md",
     "data/Others/github_harshita",
-    "Vue 2 to Vue 3 Migration.md",
     "data/Others/Novels/trip",
     "data/Others/Novels",
     "data/Daily Notes/2024/June"
