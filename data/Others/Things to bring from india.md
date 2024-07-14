@@ -13,5 +13,7 @@ hair colors
 shilpa undergarments
 
 
-Things to take india
+**Things to take india**
 uncle pendrive
+second hand laptop
+30g gold
