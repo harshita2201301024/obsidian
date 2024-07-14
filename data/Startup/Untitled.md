@@ -5,6 +5,7 @@
 | Resume for Shilpa Freelance                   |     |
 | ready aakashbathla.com domain for freelancing |     |
 | linkedin profile                              |     |
-| upwork                                        |     |
+| upwork create new account                     |     |
 | freelancer                                    |     |
-| fiverr                                        |     |
+| Fiverr                                        |     |
+|                                               |     |
