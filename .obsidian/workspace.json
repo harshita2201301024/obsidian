@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abe822c1108d7262",
+        "id": "55f8acd0f55636c3",
         "type": "tabs",
         "children": [
           {
-            "id": "3561480307ff5504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Daily Notes/2024/July/01-July-2024-Monday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3888f3281858c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f2dceb546281ab1",
+            "id": "6bbf9f6978874523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f38b82b19a038bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Office Work/Users.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f2045b12db8efe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Things to bring from india.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Things to bring from india.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Things to bring from india.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -185,43 +181,43 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "0f2dceb546281ab1",
+  "active": "8f38b82b19a038bc",
   "lastOpenFiles": [
+    "data/Office Work/Vue2 to Vue3 Migration.md",
     "Untitled.md",
-    "data/Daily Notes/2024/July/12-July-2024-Friday.md",
     "data/Others/Things to bring from india.md",
-    "data/Startup/Untitled.md",
-    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
-    "data/Startup",
-    "Untitled",
+    "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
-    "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
+    "data/Daily Notes/2024/July/12-July-2024-Friday.md",
+    "data/Office Work/Links.md",
+    "data/Startup/Untitled.md",
+    "data/Startup",
+    "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/10-July-2024-Wednesday.md",
-    "conflict-files-obsidian-git.md",
-    "data/Gym/Target - 70kg - 4 months ->9th July - 9th November.md",
-    "data/Gym/Target - 70kg - 4 months - 9th November.md",
-    "data/Gym",
+    "data/Daily Notes/2024/July/09-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
+    "data/Others/Extras/Templates/Template, Daily Note.md",
+    "data/Gym/Target - 70kg - 4 months ->9th July - 9th November.md",
+    "data/Archive/Hotel Apartment.md",
+    "data/Gym",
+    "Untitled 1",
+    "Untitled",
+    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
-    "data/Daily Notes/2024/June/29-June-2024-Saturday.md",
     "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
+    "data/Daily Notes/2024/June/29-June-2024-Saturday.md",
     "data/Daily Notes/2024/July",
-    "data/Office Work/Links.md",
-    "data/Office Work/Users.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
+    "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
     "data/Daily Notes/2024/June/28-June-2024-Friday.md",
     "data/Study/Vue/Vue.js.md",
     "data/Office Work/dummy.md",
-    "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
-    "data/Study/Vue/Untitled.md",
     "data/Study/Vue",
     "data/Study",
     "data/Others/github_harshita",
     "data/Others/Novels/trip",
-    "data/Others/Novels",
-    "data/Daily Notes/2024/June"
+    "data/Others/Novels"
   ]
 }
