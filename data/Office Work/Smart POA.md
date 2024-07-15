@@ -104,15 +104,15 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 [FE] Implement Stepper and change design of POA Details
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+
 **Pending**
 
 Fix Listing Mobile Design
 Download PDF in View Page
 Requested delegation sorting field
 Public Page
-
-[FE] Clicking on Delegation will take you to Delegation Detail
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
 
 [FE] Implement Stepper and change design of POA Details
