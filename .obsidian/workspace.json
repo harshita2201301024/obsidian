@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Vue2 to Vue3 Migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,16 @@
             "id": "8f2045b12db8efe3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -181,11 +185,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "8f38b82b19a038bc",
+  "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
-    "data/Others/Things to bring from india.md",
-    "data/Office Work/Users.md",
+    "Untitled 1.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
+    "data/Office Work/Users.md",
+    "data/Others/Things to bring from india.md",
     "Untitled.md",
     "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
@@ -213,7 +218,6 @@
     "data/Daily Notes/2024/June/26-June-2024-Wednesday.md",
     "data/Daily Notes/2024/June/28-June-2024-Friday.md",
     "data/Study/Vue/Vue.js.md",
-    "data/Office Work/dummy.md",
     "data/Study/Vue",
     "data/Study",
     "data/Others/github_harshita",
