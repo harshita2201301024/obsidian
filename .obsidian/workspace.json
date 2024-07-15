@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Smart POA.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Smart POA.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "6bbf9f6978874523",
   "lastOpenFiles": [
+    "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Links.md",
-    "data/Office Work/Smart POA.md",
     "data/Startup/Untitled.md",
     "data/Startup",
     "data/Others/Things to bring from india.md",
