@@ -95,6 +95,7 @@ Fix Listing Mobile Design - done
 Download PDF in View Page - done
 Requested delegation sorting field - done
 Public Page of View
+yasir has given api
 
 
 [FE] Clicking on Delegation will take you to Delegation Detail
