@@ -105,6 +105,7 @@ Change Search API
 Some Dashboard changes chandra told
 some issue from backoffice approval
 create new dropdown in functions
+change revoke implementation
 
 
 [FE] Clicking on Delegation will take you to Delegation Detail
