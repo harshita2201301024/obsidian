@@ -85,15 +85,18 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50609 - 2
 [FE] - Smart POA View Screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 5
 
+Fix Listing Mobile Design - done
+
+Requested delegation sorting field - done
+
 **In Progress**
 
 
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 
-Fix Listing Mobile Design - done
-Download PDF in View Page - done
-Requested delegation sorting field - done
+
+Download PDF in View Page 
 Public Page of View
 yasir has given api
 Chandra told me to connect with tejas regarding some design change
