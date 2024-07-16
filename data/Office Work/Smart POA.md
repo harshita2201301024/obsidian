@@ -108,12 +108,16 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
+Fix Listing Mobile Design - done
+Requested delegation sorting field
 **Pending**
 
-Fix Listing Mobile Design
+
 Download PDF in View Page
-Requested delegation sorting field
 Public Page
+sorting not working on assigned and status
+yasir added smart poa field in detail api
+
 
 
 [FE] Implement Stepper and change design of POA Details
