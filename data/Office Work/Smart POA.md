@@ -106,8 +106,6 @@ Some Dashboard changes chandra told
 some issue from backoffice approval
 
 
-
-
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
