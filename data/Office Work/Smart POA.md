@@ -96,6 +96,9 @@ Download PDF in View Page - done
 Requested delegation sorting field - done
 Public Page of View
 yasir has given api
+Chandra told me to connect with tejas regarding some design change
+on tab change it is persisting data
+
 
 
 [FE] Clicking on Delegation will take you to Delegation Detail
