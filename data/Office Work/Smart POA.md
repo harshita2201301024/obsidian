@@ -99,11 +99,11 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 [FE] Clicking on Delegation will take you to Delegation Detail
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
-**In Progress**
-
-
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
+
+**In Progress**
+
 
 
 Download PDF in View Page 
