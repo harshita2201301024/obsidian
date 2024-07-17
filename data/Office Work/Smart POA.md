@@ -89,6 +89,16 @@ Fix Listing Mobile Design - done
 
 Requested delegation sorting field - done
 
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+
+
+[FE] Implement Stepper and change design of POA Details
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
+
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
+
 **In Progress**
 
 
@@ -108,15 +118,7 @@ create new dropdown in functions
 change revoke implementation
 
 
-[FE] Clicking on Delegation will take you to Delegation Detail
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
-
-[FE] Implement Stepper and change design of POA Details
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
-
-[FE] Clicking on Delegation will take you to Delegation Detail
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 
 Fix Listing Mobile Design - done
 Requested delegation sorting field
