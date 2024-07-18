@@ -106,11 +106,11 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 
 
 
-Download PDF in View Page 
-Public Page of View
+Download PDF in View Page - 1 hr
+Public Page of View - 1 hr
 yasir has given api
 Chandra told me to connect with tejas regarding some design change - done
-on tab change it is persisting data
+on tab change it is persisting data - 1hr
 Change Search API
 Some Dashboard changes chandra told
 some issue from backoffice approval
@@ -121,6 +121,8 @@ back button is not working properly
 when license is active, hide stepper in details
 when license is revoked, hide stepper in details
 refactor code 
+remove code from request delegation
+
 
 
 
