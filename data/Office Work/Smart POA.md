@@ -102,6 +102,9 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 
+[FE] Add Smart POA Application Form
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
+
 **In Progress**
 
 
@@ -116,13 +119,14 @@ Some Dashboard changes chandra told
 some issue from backoffice approval
 create new dropdown in functions - 3hr
 change revoke implementation - 3 hr
-add task in epics - 1
-back button is not working properly
-when license is active, hide stepper in details
-when license is revoked, hide stepper in details
-refactor code 
+add task in epics - 1hr
+back button is not working properly - 3hr
+when license is active, hide stepper in details - 1hr
+when license is revoked, hide stepper in details - 1hr
 remove code from request delegation
 sorting not working on two fields
+refactor code 
+
 
 
 
@@ -152,8 +156,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 [FE] Remove Edit delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
 
-[FE] Add Smart POA Application Form
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
 
 [FE] Clone Delegation Applicaiton Form
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
