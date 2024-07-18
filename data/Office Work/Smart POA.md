@@ -105,6 +105,18 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 [FE] Add Smart POA Application Form
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
 
+FE] Implement Stepper and change design of POA Details
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
+
+[FE] Implement Save and Exit
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706  - 2
+
+[FE] Digital Signature Implementation
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
+
+[FE] In-app notification to delegate for digital signature
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
+
 **In Progress**
 
 
@@ -144,11 +156,6 @@ yasir added smart poa field in detail api
 
 
 
-[FE] Implement Stepper and change design of POA Details
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
-
-[FE] Implement Save and Exit
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706  - 2
 
 [FE] Implement Clone Delegation for Revoked Delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
@@ -163,11 +170,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
 [FE] Change Start Date to Current Date after cloning and end date will be greater than start date
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
 
-[FE] Digital Signature Implementation
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 
-[FE] In-app notification to delegate for digital signature
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
 [FE] Implement Payment Fees
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
