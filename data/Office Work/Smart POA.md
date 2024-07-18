@@ -118,6 +118,9 @@ create new dropdown in functions
 change revoke implementation
 add task in epics
 back button is not working properly
+when license is active, hide stepper in details
+when license is revoked, hide stepper in details
+refactor code 
 
 
 
