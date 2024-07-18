@@ -109,7 +109,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 Download PDF in View Page 
 Public Page of View
 yasir has given api
-Chandra told me to connect with tejas regarding some design change
+Chandra told me to connect with tejas regarding some design change - done
 on tab change it is persisting data
 Change Search API
 Some Dashboard changes chandra told
