@@ -111,25 +111,25 @@ Public Page of View - 1 hr
 yasir has given api
 Chandra told me to connect with tejas regarding some design change - done
 on tab change it is persisting data - 1hr
-Change Search API
+Change Search API- 1hr
 Some Dashboard changes chandra told
 some issue from backoffice approval
-create new dropdown in functions
-change revoke implementation
-add task in epics
+create new dropdown in functions - 3hr
+change revoke implementation - 3 hr
+add task in epics - 1
 back button is not working properly
 when license is active, hide stepper in details
 when license is revoked, hide stepper in details
 refactor code 
 remove code from request delegation
-
+sorting not working on two fields
 
 
 
 
 
 Fix Listing Mobile Design - done
-Requested delegation sorting field
+Requested delegation sorting field - done
 **Pending**
 
 
