@@ -138,6 +138,7 @@ when license is revoked, hide stepper in details - 1hr
 remove code from request delegation
 sorting not working on two fields
 refactor code 
+investor inbox will also rec
 
 
 
