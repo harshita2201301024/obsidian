@@ -102,27 +102,38 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 4
 
+[FE] Add Smart POA Application Form
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
+
 **In Progress**
 
 
 
-Download PDF in View Page 
-Public Page of View
+Download PDF in View Page - 1 hr
+Public Page of View - 1 hr
 yasir has given api
-Chandra told me to connect with tejas regarding some design change
-on tab change it is persisting data
-Change Search API
+Chandra told me to connect with tejas regarding some design change - done
+on tab change it is persisting data - 1hr
+Change Search API- 1hr
 Some Dashboard changes chandra told
 some issue from backoffice approval
-create new dropdown in functions
-change revoke implementation
-add task in epics
+create new dropdown in functions - 3hr
+change revoke implementation - 3 hr
+add task in epics - 1hr
+back button is not working properly - 3hr
+when license is active, hide stepper in details - 1hr
+when license is revoked, hide stepper in details - 1hr
+remove code from request delegation
+sorting not working on two fields
+refactor code 
+
+
 
 
 
 
 Fix Listing Mobile Design - done
-Requested delegation sorting field
+Requested delegation sorting field - done
 **Pending**
 
 
@@ -145,8 +156,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 [FE] Remove Edit delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
 
-[FE] Add Smart POA Application Form
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 -8
 
 [FE] Clone Delegation Applicaiton Form
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
