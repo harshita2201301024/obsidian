@@ -31,7 +31,7 @@ Shilpa Bank Account
 Give key to Vijendra
 Plan Vue3, Nuxt 3 Course
 chhoti mma passport
-Look for new job 
+Look for new freelance job 
 tuition academy remove my name
 
 
