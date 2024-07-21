@@ -114,12 +114,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 **In Progress**
 
 Download PDF in View Page - 1 hr
-Public Page of View - 1 hr
+Public Page of View - 1 hr - pending
 yasir has given api
 Chandra told me to connect with tejas regarding some design change - done
-on tab change it is persisting data - 1hr
-Change Search API- 1hr
-Some Dashboard changes chandra told
+on tab change it is persisting data - 1hr - pending
+Change Search API- 1hr - pending
+Some Dashboard changes chandra told - pending
 some issue from backoffice approval
 create new dropdown in functions - 3hr
 change revoke implementation - 3 hr

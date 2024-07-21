@@ -16,6 +16,8 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
+
+
 **Pending:**
 Car Key
 look for other exercise of shoulder
@@ -23,7 +25,6 @@ apply for attendance
 shilpa shopping 
 Investment portfolio 
 book trip ticket
-buy cashew
 Mobile phone automation via widget app
 plan for a foreign trip
 Shilpa House Sell
