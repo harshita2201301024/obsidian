@@ -32,6 +32,7 @@ Give key to Vijendra
 Plan Vue3, Nuxt 3 Course
 chhoti mma passport
 Look for new job 
+tuition academy remove my name
 
 
 **Night Routine**
