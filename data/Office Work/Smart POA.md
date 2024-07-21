@@ -120,7 +120,7 @@ Chandra told me to connect with tejas regarding some design change - done
 on tab change it is persisting data - 1hr - pending
 Change Search API- 1hr - pending
 Some Dashboard changes chandra told - pending
-some issue from backoffice approval
+some issue from backoffice approval - pending
 create new dropdown in functions - 3hr
 change revoke implementation - 3 hr
 add task in epics - 1hr
