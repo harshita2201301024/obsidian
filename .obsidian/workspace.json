@@ -181,8 +181,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0f2dceb546281ab1",
