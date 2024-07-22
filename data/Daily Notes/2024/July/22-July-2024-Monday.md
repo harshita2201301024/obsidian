@@ -16,10 +16,10 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-1. Payment Success Screen on Revoke and Add Smart POA
+1. Payment Success Screen on Revoke and Add Smart POA - 2
 2. Update Each and Every Ticket
 3. Public POA Page
-4. Clone Delegation
+4. Clone Delegation - 1
 5. Refactor Whole Code
 6. Change Search API
 7. Responsiveness
@@ -29,7 +29,9 @@ Get Ready and go to the gym at 5:45 AM
 11. sorting not working on two fields
 12. Investor inbox will receive notification
 13. Remove Code from request delegation
-14. Sanity of wh
+14. Sanity of whole application
+
+
 
 
 
