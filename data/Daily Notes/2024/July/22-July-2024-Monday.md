@@ -23,7 +23,8 @@ Get Ready and go to the gym at 5:45 AM
 5. Refactor Whole Code
 6. Change Search API
 7. Responsiveness
-8. Change Behaviour fro
+8. Change Behaviour from dashboard after having a discussion with Chandra
+9. Some Issue from back
 
 
 
