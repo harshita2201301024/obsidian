@@ -26,7 +26,9 @@ Get Ready and go to the gym at 5:45 AM
 8. Change Behaviour from dashboard after having a discussion with Chandra
 9. Some Issue from backoffice approval
 10. Back Button is not working properly
-11. 
+11. sorting not working on two fields
+12. Investor inbox will receive notification
+13. 
 
 
 
