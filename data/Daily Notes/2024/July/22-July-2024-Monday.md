@@ -15,21 +15,21 @@ Drink Water
 Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
-
+	
 1. Payment Success Screen on Revoke and Add Smart POA - 2
 2. Update Each and Every Ticket - 4
 3. Public POA Page - 3
-4. Clone Delegation - 1
-5. Refactor Whole Code
+4. 
+5. Refactor Whole Code - 14
 6. Change Search API - 5
-7. Responsiveness
-8. Change Behaviour from dashboard after having a discussion with Chandra
-9. Some Issue from backoffice approval
-10. Back Button is not working properly
-11. sorting not working on two fields
-12. Investor inbox will receive notification
-13. Remove Code from request delegation
-14. Sanity of whole application
+7. Responsiveness - 12
+8. Change Behaviour from dashboard after having a discussion with Chandra - 10
+9. Some Issue from backoffice approval - 11
+10. Back Button is not working properly - 6
+11. sorting not working on two fields - 9
+12. Investor inbox will receive notification - 7
+13. Remove Code from request delegation - 8
+14. Sanity of whole application - 13
 
 
 
