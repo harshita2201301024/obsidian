@@ -21,15 +21,15 @@ Payment Success Screen on Revoke and Add Smart POA - 2 -> 6 Hours
 Public POA Page - 3 -> 3 Hours
 Update Each and Every Ticket - 4 -> 1 hour
 Change Search API - 5 -> 2 hour
-Back Button is not working properly - 6 -<>
-Investor inbox will receive notification - 7
-Remove Code from request delegation - 8
-sorting not working on two fields - 9
-Change Behaviour from dashboard after having a discussion with Chandra - 10
-Some Issue from backoffice approval - 11
-Responsiveness - 12
-Sanity of whole application - 13
-Refactor Whole Code - 14
+Back Button is not working properly - 6 - 4 hour
+Investor inbox will receive notification - 7 - 2 hour
+Remove Code from request delegation - 8 - 4 hour
+sorting not working on two fields - 9 - 2 hour
+Change Behaviour from dashboard after having a discussion with Chandra - 10 - 6 hour
+Some Issue from backoffice approval - 11 -> 4 hour
+Responsiveness - 12 -> 4 hour
+Sanity of whole application - 13 -> 4 hour 
+Refactor Whole Code - 14 - > 12 hour
 
 
 
