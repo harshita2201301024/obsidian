@@ -43,12 +43,16 @@ Next Monday - it will be done\
 
 I haven't done anything today in office except setting the new macbook
 
-physiotherapy - 06:30 PM - 07: 00 PM - REST
+06:30 PM - 07: 00 PM - REST
+07:00 PM - 08: 00 PM - PHYSIOTHERAPY
+08:00 PM - 09:00 PM - DINNER
+
 
 
 
 
 **pending:**
+
 Car Key
 look for other exercise of shoulder
 apply for attendance
