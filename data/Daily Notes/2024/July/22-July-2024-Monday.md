@@ -41,6 +41,10 @@ Get Ready and go to the gym at 5:45 AM
 7 days
 Next Monday - it will be done\
 
+I haven't done anything today in office except setting the new macbook
+
+physiotherapy - 06:30 PM - 07: 00 PM - REST
+
 
 
 
