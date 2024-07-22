@@ -47,7 +47,17 @@ I haven't done anything today in office except setting the new macbook
 07:00 PM - 08: 00 PM - PHYSIOTHERAPY
 08:00 PM - 09:00 PM - DINNER
 09: 00 PM - 10: 00 PM - Learn Grid
-10: 00 PM - 10: 00 PM - Night Routine
+10: 00 PM - 10: 15 PM - Night Routine
+
+Temple Sleep
+Pack Gym Bag
+Pack Office Bag
+Plan What Excercise to do
+Morning and Gym Clothes
+Water Fill with Aroma
+Badam Bhigona
+Do Brush
+Protein Bottle
 
 
 
