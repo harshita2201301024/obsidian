@@ -17,7 +17,8 @@ Do Brush
 Get Ready and go to the gym at 5:45 AM
 
 1. Payment Success Screen on Revoke and Add Smart POA
-2. 
+2. Update Each and Every Ticket
+3. 
 
 
 
