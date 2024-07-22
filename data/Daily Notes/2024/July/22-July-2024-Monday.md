@@ -18,36 +18,23 @@ Get Ready and go to the gym at 5:45 AM
 
 
 
-| Clone Delegation                                                       | 4 horus |     |
-| ---------------------------------------------------------------------- | ------- | --- |
-| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |     |
-| Public POA Page                                                        | 3 hours |     |
-| Update Each and Every Ticket                                           | 1 hour  |     |
-| Change Search API                                                      | 2 hour  |     |
-| Back Button is not working properly                                    | 4 hour  |     |
-| Investor inbox will receive notification                               | 2 hour  |     |
-| Remove Code from request delegation                                    | 4 hour  |     |
-| sorting not working on two fields                                      | 2 hour  |     |
-| Change Behaviour from dashboard after having a discussion with Chandra |         |     |
-| Some Issue from backoffice approval                                    |         |     |
-| Responsiveness                                                         |         |     |
-| Sanity of whole application                                            |         |     |
-| Refactor Whole Code                                                    |         |     |
+| Task                                                                   | Time    | Status      |
+| ---------------------------------------------------------------------- | ------- | ----------- |
+| Clone Delegation                                                       | 4 hours | In Progress |
+| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |             |
+| Public POA Page                                                        | 3 hours |             |
+| Update Each and Every Ticket                                           | 1 hour  |             |
+| Change Search API                                                      | 2 hour  |             |
+| Back Button is not working properly                                    | 4 hour  |             |
+| Investor inbox will receive notification                               | 2 hour  |             |
+| Remove Code from request delegation                                    | 4 hour  |             |
+| sorting not working on two fields                                      | 2 hour  |             |
+| Change Behaviour from dashboard after having a discussion with Chandra | 6 hour  |             |
+| Some Issue from backoffice approval                                    | 4 hour  |             |
+| Responsiveness                                                         | 4 hour  |             |
+| Sanity of whole application                                            | 4 hour  |             |
+| Refactor Whole Code                                                    | 12 hour |             |
 
-Clone Delegation - 1 -> 4 Hours
-Payment Success Screen on Revoke and Add Smart POA - 2 -> 6 Hours
-Public POA Page - 3 -> 3 Hours
-Update Each and Every Ticket - 4 -> 1 hour
-Change Search API - 5 -> 2 hour
-Back Button is not working properly - 6 - 4 hour
-Investor inbox will receive notification - 7 - 2 hour
-Remove Code from request delegation - 8 - 4 hour
-sorting not working on two fields - 9 - 2 hour
-Change Behaviour from dashboard after having a discussion with Chandra - 10 - 6 hour
-Some Issue from backoffice approval - 11 -> 4 hour
-Responsiveness - 12 -> 4 hour
-Sanity of whole application - 13 -> 4 hour 
-Refactor Whole Code - 14 - > 12 hour
 \
 58 hours
 
