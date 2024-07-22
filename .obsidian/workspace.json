@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/July/22-July-2024-Monday.md",
+                "file": "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/July/22-July-2024-Monday.md",
+                "file": "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/July/22-July-2024-Monday.md",
+                "file": "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/July/22-July-2024-Monday.md"
+                "file": "data/Daily Notes/2024/July/23-July-2024-Tuesday.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
-    "data/Others/Important Links/Links.md",
     "data/Daily Notes/2024/July/22-July-2024-Monday.md",
+    "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
+    "data/Others/Important Links/Links.md",
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
@@ -217,7 +218,6 @@
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
     "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
-    "data/Daily Notes/2024/June/29-June-2024-Saturday.md",
     "data/Daily Notes/2024/July",
     "data/Study/Vue",
     "data/Study",
