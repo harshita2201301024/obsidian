@@ -20,8 +20,8 @@ Clone Delegation - 1 -> 4 Hours
 Payment Success Screen on Revoke and Add Smart POA - 2 -> 6 Hours
 Public POA Page - 3 -> 3 Hours
 Update Each and Every Ticket - 4 -> 1 hour
-Change Search API - 5 - 2 hour
-Back Button is not working properly - 6
+Change Search API - 5 -> 2 hour
+Back Button is not working properly - 6 -<>
 Investor inbox will receive notification - 7
 Remove Code from request delegation - 8
 sorting not working on two fields - 9
