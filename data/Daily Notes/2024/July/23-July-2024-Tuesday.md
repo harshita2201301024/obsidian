@@ -34,6 +34,12 @@ Get Ready and go to the gym at 5:45 AM
 | Responsiveness                                                         | 4 hour  |             |
 | Sanity of whole application                                            | 4 hour  |             |
 | Refactor Whole Code                                                    | 12 hour |             |
+**MORNING Routine**
+Note your weight
+Drink Water
+Take your protein bottle ready with you in gym
+Do Brush
+Get Ready and go to the gym at 5:45 AM
 
 Complete Clone Delegation - 09: 00 AM - 12: 00 PM
 Complete Payment - 12: 00 PM - 05:00 PM
