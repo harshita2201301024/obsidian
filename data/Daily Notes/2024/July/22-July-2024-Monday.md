@@ -16,6 +16,17 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
+
+
+| Clone Delegation                                   |     |
+| -------------------------------------------------- | --- |
+| Payment Success Screen on Revoke and Add Smart POA |     |
+| Public POA Page                                    |     |
+| Update Each and Every Ticket                       |     |
+| Change Search API                                  |     |
+| Back Button is not working properly                |     |
+|                                                    |     |
+
 Clone Delegation - 1 -> 4 Hours
 Payment Success Screen on Revoke and Add Smart POA - 2 -> 6 Hours
 Public POA Page - 3 -> 3 Hours
