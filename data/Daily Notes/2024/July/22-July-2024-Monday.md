@@ -46,7 +46,8 @@ I haven't done anything today in office except setting the new macbook
 06:30 PM - 07: 00 PM - REST
 07:00 PM - 08: 00 PM - PHYSIOTHERAPY
 08:00 PM - 09:00 PM - DINNER
-09: 00 PM - 10: 00 PM - 
+09: 00 PM - 10: 00 PM - Learn Grid
+10: 00 PM - 10: 00 PM - Night Routine
 
 
 
@@ -71,7 +72,6 @@ Underarm Hair Cut
 
 **Night Routine**
 Temple Sleep
-Make Todo List
 Pack Gym Bag
 Pack Office Bag
 Plan What Excercise to do
