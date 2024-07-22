@@ -18,7 +18,11 @@ Get Ready and go to the gym at 5:45 AM
 
 1. Payment Success Screen on Revoke and Add Smart POA
 2. Update Each and Every Ticket
-3. 
+3. Public POA Page
+4. Clone Delegation
+5. Refactor Whole Code
+6. Change Search API
+7. 
 
 
 
