@@ -30,6 +30,11 @@ Some Issue from backoffice approval - 11 -> 4 hour
 Responsiveness - 12 -> 4 hour
 Sanity of whole application - 13 -> 4 hour 
 Refactor Whole Code - 14 - > 12 hour
+\
+58 hours
+
+7 days
+Next Monday - it will be done
 
 
 
