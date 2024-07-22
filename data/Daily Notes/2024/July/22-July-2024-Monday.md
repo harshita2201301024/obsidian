@@ -44,7 +44,6 @@ Next Monday - it will be done\
 
 
 
-
 **pending:**
 Car Key
 look for other exercise of shoulder
@@ -87,10 +86,14 @@ Protein Bottle
 
 ##### 🚀 One+ thing I plan to accomplish is...
 
-
+weight 70kg 
+freelance job
+learn new skills
 ##### 👎 One thing I'm struggling with today is...
 
-going to wor
+going to gym
+office work 
+study
 
 👎 What new i learned today
 \
