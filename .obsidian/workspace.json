@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Smart POA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Smart POA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Smart POA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Office Work/Smart POA.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
+    "data/Office Work/Links.md",
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/July/22-July-2024-Monday.md",
@@ -194,7 +195,6 @@
     "data/Daily Notes/2024/July/21-July-2024-Sunday.md",
     "data/Others/Important Links/Links.md",
     "data/Others/Important Links",
-    "data/Office Work/Links.md",
     "Untitled 1.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Others/Things to bring from india.md",
