@@ -18,21 +18,21 @@ Get Ready and go to the gym at 5:45 AM
 
 
 
-| Clone Delegation                                                       |     |
-| ---------------------------------------------------------------------- | --- |
-| Payment Success Screen on Revoke and Add Smart POA                     |     |
-| Public POA Page                                                        |     |
-| Update Each and Every Ticket                                           |     |
-| Change Search API                                                      |     |
-| Back Button is not working properly                                    |     |
-| Investor inbox will receive notification                               |     |
-| Remove Code from request delegation                                    |     |
-| sorting not working on two fields                                      |     |
-| Change Behaviour from dashboard after having a discussion with Chandra |     |
-| Some Issue from backoffice approval                                    |     |
-| Responsiveness                                                         |     |
-| Sanity of whole application                                            |     |
-| Refactor Whole Code                                                    |     |
+| Clone Delegation                                                       | 4 horus |     |
+| ---------------------------------------------------------------------- | ------- | --- |
+| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |     |
+| Public POA Page                                                        | 3 hours |     |
+| Update Each and Every Ticket                                           | 1 hour  |     |
+| Change Search API                                                      | 2 hour  |     |
+| Back Button is not working properly                                    | 4 hour  |     |
+| Investor inbox will receive notification                               | 2 hour  |     |
+| Remove Code from request delegation                                    | 4 hour  |     |
+| sorting not working on two fields                                      | 2 hour  |     |
+| Change Behaviour from dashboard after having a discussion with Chandra |         |     |
+| Some Issue from backoffice approval                                    |         |     |
+| Responsiveness                                                         |         |     |
+| Sanity of whole application                                            |         |     |
+| Refactor Whole Code                                                    |         |     |
 
 Clone Delegation - 1 -> 4 Hours
 Payment Success Screen on Revoke and Add Smart POA - 2 -> 6 Hours
