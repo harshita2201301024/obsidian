@@ -19,6 +19,25 @@ Get Ready and go to the gym at 5:45 AM
 
 
 
+
+**pending:**
+Car Key
+look for other exercise of shoulder
+apply for attendance
+shilpa shopping 
+Investment portfolio 
+Mobile phone automation via widget app
+plan for a foreign trip
+Shilpa House Sell
+Shilpa Bank Account
+Give key to Vijendra
+Plan Vue3, Nuxt 3 Course
+chhoti mma passport
+tuition academy 
+Underarm Hair Cut
+
+
+
 **Night Routine**
 Temple Sleep
 Make Todo List
