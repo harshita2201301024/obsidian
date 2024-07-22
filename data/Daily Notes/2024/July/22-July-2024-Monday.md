@@ -28,7 +28,8 @@ Get Ready and go to the gym at 5:45 AM
 10. Back Button is not working properly
 11. sorting not working on two fields
 12. Investor inbox will receive notification
-13. 
+13. Remove Code from request delegation
+14. Sanity of wh
 
 
 
