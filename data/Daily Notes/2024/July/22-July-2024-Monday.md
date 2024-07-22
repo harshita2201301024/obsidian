@@ -41,7 +41,6 @@ Get Ready and go to the gym at 5:45 AM
 7 days
 Next Monday - it will be done\
 
-I was not able to work due to unavailabil
 
 
 
@@ -81,15 +80,18 @@ Protein Bottle
 ---
 ### 📅 Daily Questions
 ##### 🌜 What Matters most in my life
-- 
+- family matters to me
 
 ##### 🙌 My Today Weight
-- 
+-  80 kg
 
 ##### 🚀 One+ thing I plan to accomplish is...
-- [ ] 
+
 
 ##### 👎 One thing I'm struggling with today is...
 
+going to wor
 
 👎 What new i learned today
+\
+Creating table in obsidian
