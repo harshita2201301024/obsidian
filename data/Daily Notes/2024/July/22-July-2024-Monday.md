@@ -39,7 +39,9 @@ Get Ready and go to the gym at 5:45 AM
 58 hours
 
 7 days
-Next Monday - it will be done
+Next Monday - it will be done\
+
+I was not able to work due to unavailabil
 
 
 
