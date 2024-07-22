@@ -22,7 +22,8 @@ Get Ready and go to the gym at 5:45 AM
 4. Clone Delegation
 5. Refactor Whole Code
 6. Change Search API
-7. 
+7. Responsiveness
+8. Change Behaviour fro
 
 
 
