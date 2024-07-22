@@ -35,7 +35,7 @@ Get Ready and go to the gym at 5:45 AM
 | Sanity of whole application                                            | 4 hour  |             |
 | Refactor Whole Code                                                    | 12 hour |             |
 
-\
+
 58 hours
 
 7 days
