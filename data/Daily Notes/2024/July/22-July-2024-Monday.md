@@ -16,25 +16,20 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-Clone Delegation - 1
-Payment Success Screen on Revoke and Add Smart POA - 2
+Clone Delegation - 1 - 4 Hours
+Payment Success Screen on Revoke and Add Smart POA - 2 - 6 Hours
 Public POA Page - 3
 Update Each and Every Ticket - 4
 Change Search API - 5
 Back Button is not working properly - 6
-
-4. 
-5. Refactor Whole Code - 14
-6. 
-7. Responsiveness - 12
-8. Change Behaviour from dashboard after having a discussion with Chandra - 10
-9. Some Issue from backoffice approval - 11
-10. 
-11. sorting not working on two fields - 9
-12. Investor inbox will receive notification - 7
-13. Remove Code from request delegation - 8
-14. Sanity of whole application - 13
-
+Investor inbox will receive notification - 7
+Remove Code from request delegation - 8
+sorting not working on two fields - 9
+Change Behaviour from dashboard after having a discussion with Chandra - 10
+Some Issue from backoffice approval - 11
+Responsiveness - 12
+Sanity of whole application - 13
+Refactor Whole Code - 14
 
 
 
