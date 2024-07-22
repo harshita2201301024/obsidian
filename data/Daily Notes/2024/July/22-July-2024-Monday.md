@@ -16,7 +16,8 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-
+1. Payment Success Screen on Revoke and Add Smart POA
+2. 
 
 
 
@@ -35,7 +36,6 @@ Plan Vue3, Nuxt 3 Course
 chhoti mma passport
 tuition academy 
 Underarm Hair Cut
-
 
 
 **Night Routine**
