@@ -27,7 +27,7 @@ Get Ready and go to the gym at 5:45 AM
 | Change Search API                                                      | 2 hour  | done   |
 | Back Button is not working properly                                    | 4 hour  | done   |
 | Investor inbox will receive notification                               | 2 hour  |        |
-| Remove Code from request delegation                                    | 4 hour  |        |
+| Remove Code from request delegation                                    | 4 hour  | done   |
 | sorting not working on two fields                                      | 2 hour  | done   |
 | Change Behaviour from dashboard after having a discussion with Chandra | 6 hour  |        |
 | Some Issue from backoffice approval                                    | 4 hour  |        |
