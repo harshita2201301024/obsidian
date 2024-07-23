@@ -37,6 +37,7 @@ Get Ready and go to the gym at 5:45 AM
 | don't show view if not smart POA                                       | 1 hour  | done   |
 **After Office Routing**
 Reach Home by 07:00 PM 
+PHYSIO 07-08:00 PM
 
 
 **MORNING Routine**
@@ -61,6 +62,23 @@ Badam Bhigona
 Do Brush
 Protein Bottle
 
+**Pending:**
+Car Key
+look for other exercise of shoulder
+apply for attendance
+shilpa shopping 
+Investment portfolio 
+book trip ticket
+Mobile phone automation via widget app
+plan for a foreign trip
+Shilpa House Sell
+Shilpa Bank Account
+Give key to Vijendra
+Plan Vue3, Nuxt 3 Course
+chhoti mma passport
+Look for new freelance job 
+tuition academy remove my name
+Shilpa Music Class
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
