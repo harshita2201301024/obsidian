@@ -35,6 +35,9 @@ Get Ready and go to the gym at 5:45 AM
 | Sanity of whole application                                            | 4 hour  |        |
 | Refactor Whole Code                                                    | 12 hour |        |
 | don't show view if not smart POA                                       | 1 hour  | done   |
+**After Office Routing**
+Reach Home by 
+
 **MORNING Routine**
 Note your weight
 Drink Water
@@ -43,7 +46,7 @@ Do Brush
 Get Ready and go to the gym at 5:45 AM
 
 Complete Payment - 09: 00 AM - 02:00 PM
-
+Investor Inbox - 02:00 PM - 05: 00 PM
 
 **Night Routine**
 Temple Sleep
