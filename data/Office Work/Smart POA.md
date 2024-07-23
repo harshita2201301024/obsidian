@@ -111,6 +111,19 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
+[FE] Change Start Date to Current Date after cloning and end date will be greater than start date
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
+
+[FE] QR Code Scan Redirect to this screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
+
+[FE] Remove Edit delegation
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
+
+[FE] Clone Delegation Applicaiton Form
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
+
+
 **In Progress**
 
 Download PDF in View Page - 1 hr
@@ -144,20 +157,9 @@ yasir added smart poa field in detail api
 [FE] Implement Clone Delegation for Revoked Delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 
-[FE] Remove Edit delegation
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
-
-[FE] Clone Delegation Applicaiton Form
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
-
-[FE] Change Start Date to Current Date after cloning and end date will be greater than start date
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
 
 [FE] Implement Payment Fees
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
-
-[FE] QR Code Scan Redirect to this screen
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
 
 8 Hours for miscellanious activities
 
