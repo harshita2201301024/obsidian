@@ -54,6 +54,8 @@ Do we have new filters??
 3. The system will not allow adding a new POA to the same person who already has an initiated/active/pending signature/pending payment delegation
 4. The system will not allow adding a new smart POA for a delegate who has a legacy delegation that is pending for back office approval.
 
+Figma - https://www.figma.com/proto/41EM6OZwm46IO3V5q184vk/IID-Enhancement%2FRequirements?page-id=13646%3A2&node-id=15968-30017&viewport=-7398%2C-12316%2C0.35&t=f5I4Lz4L5xgEjB4e-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=14252%3A6962&show-proto-sidebar=1
+
 **Done**
 
 [FE] Remove Add Delegation and Add Smart POA Link
