@@ -40,7 +40,8 @@ Reach Home by 07:00 PM
 PHYSIO 07:00-08:00 PM
 Dinner - 08: 00 PM - 09: 00 PM
 FINISH GRID Design - 09:00 PM - 10:00 PM
-GOOD N
+NIGHT ROUTINE - 10:00 PM - 10:30 PM
+Sleep - 10:30 PM - 11:30 PM
 
 
 **MORNING Routine**
