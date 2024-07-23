@@ -18,23 +18,23 @@ Get Ready and go to the gym at 5:45 AM
 
 
 
-| Task                                                                   | Time    | Status      |
-| ---------------------------------------------------------------------- | ------- | ----------- |
-| Clone Delegation                                                       | 4 hours | In Progress |
-| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |             |
-| Public POA Page                                                        | 3 hours |             |
-| Update Each and Every Ticket                                           | 1 hour  |             |
-| Change Search API                                                      | 2 hour  |             |
-| Back Button is not working properly                                    | 4 hour  |             |
-| Investor inbox will receive notification                               | 2 hour  |             |
-| Remove Code from request delegation                                    | 4 hour  |             |
-| sorting not working on two fields                                      | 2 hour  |             |
-| Change Behaviour from dashboard after having a discussion with Chandra | 6 hour  |             |
-| Some Issue from backoffice approval                                    | 4 hour  |             |
-| Responsiveness                                                         | 4 hour  |             |
-| Sanity of whole application                                            | 4 hour  |             |
-| Refactor Whole Code                                                    | 12 hour |             |
-| don't show view if not smart POA                                       | 1 hour  | done        |
+| Task                                                                   | Time    | Status |
+| ---------------------------------------------------------------------- | ------- | ------ |
+| Clone Delegation                                                       | 4 hours | done   |
+| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |        |
+| Public POA Page                                                        | 3 hours |        |
+| Update Each and Every Ticket                                           | 1 hour  |        |
+| Change Search API                                                      | 2 hour  |        |
+| Back Button is not working properly                                    | 4 hour  | done   |
+| Investor inbox will receive notification                               | 2 hour  |        |
+| Remove Code from request delegation                                    | 4 hour  |        |
+| sorting not working on two fields                                      | 2 hour  |        |
+| Change Behaviour from dashboard after having a discussion with Chandra | 6 hour  |        |
+| Some Issue from backoffice approval                                    | 4 hour  |        |
+| Responsiveness                                                         | 4 hour  |        |
+| Sanity of whole application                                            | 4 hour  |        |
+| Refactor Whole Code                                                    | 12 hour |        |
+| don't show view if not smart POA                                       | 1 hour  | done   |
 **MORNING Routine**
 Note your weight
 Drink Water
