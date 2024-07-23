@@ -37,7 +37,10 @@ Get Ready and go to the gym at 5:45 AM
 | don't show view if not smart POA                                       | 1 hour  | done   |
 **After Office Routing**
 Reach Home by 07:00 PM 
-PHYSIO 07-08:00 PM
+PHYSIO 07:00-08:00 PM
+Dinner - 08: 00 PM - 09: 00 PM
+FINISH GRID Design - 09:00 PM - 10:00 PM
+GOOD N
 
 
 **MORNING Routine**
