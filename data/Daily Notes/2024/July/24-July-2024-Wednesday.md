@@ -42,7 +42,7 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-Complete Payment - 09: 00 AM - 05:00 PM
+Complete Payment - 09: 00 AM - 02:00 PM
 
 
 **Night Routine**
