@@ -34,6 +34,7 @@ Get Ready and go to the gym at 5:45 AM
 | Responsiveness                                                         | 4 hour  |             |
 | Sanity of whole application                                            | 4 hour  |             |
 | Refactor Whole Code                                                    | 12 hour |             |
+| don't show view if not smart POA                                       | 1 hour  | done        |
 **MORNING Routine**
 Note your weight
 Drink Water
