@@ -36,7 +36,8 @@ Get Ready and go to the gym at 5:45 AM
 | Refactor Whole Code                                                    | 12 hour |        |
 | don't show view if not smart POA                                       | 1 hour  | done   |
 **After Office Routing**
-Reach Home by 
+Reach Home by 07:00 PM 
+
 
 **MORNING Routine**
 Note your weight
