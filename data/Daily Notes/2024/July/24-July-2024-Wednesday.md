@@ -21,7 +21,7 @@ Get Ready and go to the gym at 5:45 AM
 | Task                                                                   | Time    | Status |
 | ---------------------------------------------------------------------- | ------- | ------ |
 | Clone Delegation                                                       | 4 hours | done   |
-| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |        |
+| Payment Success Screen on Revoke and Add Smart POA                     | 6 hours | done   |
 | Public POA Page                                                        | 3 hours | done   |
 | Update Each and Every Ticket                                           | 1 hour  | done   |
 | Change Search API                                                      | 2 hour  | done   |
