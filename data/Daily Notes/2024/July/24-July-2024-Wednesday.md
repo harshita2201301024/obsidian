@@ -35,6 +35,7 @@ Get Ready and go to the gym at 5:45 AM
 | Sanity of whole application                                            | 4 hour  |        |
 | Refactor Whole Code                                                    | 12 hour |        |
 | don't show view if not smart POA                                       | 1 hour  | done   |
+| Corpora                                                                |         | C      |
 **After Office Routing**
 Reach Home by 07:00 PM 
 PHYSIO 07:00-08:00 PM
