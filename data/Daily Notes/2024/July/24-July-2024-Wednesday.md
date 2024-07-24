@@ -40,7 +40,7 @@ Get Ready and go to the gym at 5:45 AM
 | my business pagination                                                 |         |        |
 | save and exit                                                          |         |        |
 | business name sorting                                                  |         |        |
-|                                                                        |         |        |
+| cancel delegation should give popup                                    |         |        |
 **After Office Routing**
 Reach Home by 07:00 PM 
 PHYSIO 07:00-08:00 PM
