@@ -22,7 +22,7 @@ Get Ready and go to the gym at 5:45 AM
 | ---------------------------------------------------------------------- | ------- | ------ |
 | Clone Delegation                                                       | 4 hours | done   |
 | Payment Success Screen on Revoke and Add Smart POA                     | 6 hours |        |
-| Public POA Page                                                        | 3 hours |        |
+| Public POA Page                                                        | 3 hours | done   |
 | Update Each and Every Ticket                                           | 1 hour  | done   |
 | Change Search API                                                      | 2 hour  | done   |
 | Back Button is not working properly                                    | 4 hour  | done   |
@@ -35,7 +35,7 @@ Get Ready and go to the gym at 5:45 AM
 | Sanity of whole application                                            | 4 hour  |        |
 | Refactor Whole Code                                                    | 12 hour |        |
 | don't show view if not smart POA                                       | 1 hour  | done   |
-| Corpora                                                                |         | C      |
+| Corporate Body change revoke to cancel                                 |         |        |
 **After Office Routing**
 Reach Home by 07:00 PM 
 PHYSIO 07:00-08:00 PM
