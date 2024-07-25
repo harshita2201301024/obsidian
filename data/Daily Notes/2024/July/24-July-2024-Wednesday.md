@@ -40,7 +40,7 @@ Get Ready and go to the gym at 5:45 AM
 | my business pagination                                                 |         |                |
 | save and exit                                                          | done    |                |
 | business name sorting                                                  | done    |                |
-| cancel delegation should give popup ask from tejas                     |         |                |
+| cancel delegation should give popup ask from tejas                     | done    |                |
 | notification pay                                                       | done    |                |
 | show 500 error message on payment error failiing                       | done    |                |
 | hide Add Smart POA from admin                                          | done    |                |
