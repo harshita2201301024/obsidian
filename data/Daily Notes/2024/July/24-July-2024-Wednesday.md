@@ -45,6 +45,8 @@ Get Ready and go to the gym at 5:45 AM
 | show 500 error message on payment error failiing                       |         |        |
 | hide Add Smart POA from admin                                          |         |        |
 | Revoke Text is not visible                                             |         |        |
+| loaders issue                                                          |         |        |
+| issue assigned to me by yasir                                          |         |        |
 **After Office Routing**
 Reach Home by 07:00 PM 
 PHYSIO 07:00-08:00 PM
