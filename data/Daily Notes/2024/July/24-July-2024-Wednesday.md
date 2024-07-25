@@ -38,12 +38,12 @@ Get Ready and go to the gym at 5:45 AM
 | Corporate Body change revoke to cancel                                 |         |                |
 | Paytment PN_1002 handling                                              | done    |                |
 | my business pagination                                                 |         |                |
-| save and exit                                                          |         |                |
+| save and exit                                                          | done    |                |
 | business name sorting                                                  |         |                |
 | cancel delegation should give popup ask from tejas                     |         |                |
 | notification pay                                                       |         |                |
 | show 500 error message on payment error failiing                       |         |                |
-| hide Add Smart POA from admin                                          |         |                |
+| hide Add Smart POA from admin                                          | done    |                |
 | Revoke Text is not visible                                             |         |                |
 | loaders issue                                                          | done    | testing needed |
 | issue assigned to me by yasir                                          |         |                |
