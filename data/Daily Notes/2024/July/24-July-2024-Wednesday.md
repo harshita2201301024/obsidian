@@ -44,10 +44,10 @@ Get Ready and go to the gym at 5:45 AM
 | notification pay                                                       |         |                |
 | show 500 error message on payment error failiing                       |         |                |
 | hide Add Smart POA from admin                                          | done    |                |
-| Revoke Text is not visible                                             |         |                |
+| Revoke Text is not visible                                             | done    |                |
 | loaders issue                                                          | done    | testing needed |
 | issue assigned to me by yasir                                          |         |                |
-| Fill something by tomorrow                                             |         |                |
+| Fill timesheet by tomorrow                                             |         |                |
 | 2024 - Aakash wk23                                                     |         |                |
 **After Office Routing**
 Reach Home by 07:00 PM 
