@@ -39,7 +39,7 @@ Get Ready and go to the gym at 5:45 AM
 | Paytment PN_1002 handling                                              | done    |                |
 | my business pagination                                                 |         |                |
 | save and exit                                                          | done    |                |
-| business name sorting                                                  |         |                |
+| business name sorting                                                  | done    |                |
 | cancel delegation should give popup ask from tejas                     |         |                |
 | notification pay                                                       | done    |                |
 | show 500 error message on payment error failiing                       | done    |                |
