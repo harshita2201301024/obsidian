@@ -445,4 +445,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53311 - 3
 
 30 jul
 [FE] Implement Payment Fees
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 5
+
+[FE] Initiate POA Payment
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53067 - 2
+
+[FE] Confirm POA Payment
+
+
+
