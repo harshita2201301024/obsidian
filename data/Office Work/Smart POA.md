@@ -366,7 +366,7 @@ http://localhost:3000/api/services/delegation/search?&page=1&size=10&mode=0&dele
 ```
 
 Timesheet 22 Jul - 28 Jul
-22 Jul
+12 Jul
 [FE] remove Filter By
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53063 - 1
 
@@ -385,7 +385,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53062 - 1
 [FE] Add Sorting to each field and default sorting will be delegation reference number
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
-23 Jul
+15 Jul
 
 [FE] Change placeholder of search and add new fields
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53061. - 1
@@ -402,7 +402,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53060
 [FE] Remove Add Delegation and replace it with Add Smart POA - 1
 
-24 jul
+16 jul
 
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
@@ -410,7 +410,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 [FE] Implement Stepper and change design of POA Details
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
 
-25 jul
+17 jul
 
 [FE] Implement Save and Exit
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706 - 2
@@ -421,11 +421,11 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 [FE] Remove Edit delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
 
-2 jul
+18 jul
 [FE] Add Smart POA Application Form - 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 - 8
 
-21 jul
+19 jul
 [FE] Clone Delegation Applicaiton Form
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
 
