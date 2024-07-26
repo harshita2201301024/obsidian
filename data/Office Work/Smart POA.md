@@ -54,6 +54,8 @@ Do we have new filters??
 3. The system will not allow adding a new POA to the same person who already has an initiated/active/pending signature/pending payment delegation
 4. The system will not allow adding a new smart POA for a delegate who has a legacy delegation that is pending for back office approval.
 
+Figma - https://www.figma.com/proto/41EM6OZwm46IO3V5q184vk/IID-Enhancement%2FRequirements?page-id=13646%3A2&node-id=15968-30017&viewport=-7398%2C-12316%2C0.35&t=f5I4Lz4L5xgEjB4e-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=14252%3A6962&show-proto-sidebar=1
+
 **Done**
 
 [FE] Remove Add Delegation and Add Smart POA Link
@@ -111,6 +113,19 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 8
 
+[FE] Change Start Date to Current Date after cloning and end date will be greater than start date
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
+
+[FE] QR Code Scan Redirect to this screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
+
+[FE] Remove Edit delegation
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
+
+[FE] Clone Delegation Applicaiton Form
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
+
+
 **In Progress**
 
 Download PDF in View Page - 1 hr
@@ -144,19 +159,209 @@ yasir added smart poa field in detail api
 [FE] Implement Clone Delegation for Revoked Delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 
-[FE] Remove Edit delegation
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
-
-[FE] Clone Delegation Applicaiton Form
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
-
-[FE] Change Start Date to Current Date after cloning and end date will be greater than start date
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
 
 [FE] Implement Payment Fees
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
 
-[FE] QR Code Scan Redirect to this screen
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
-
 8 Hours for miscellanious activities
+
+
+
+http://localhost:3000/api/services/delegation/search?&page=1&size=10&mode=0&delegationType=1
+
+```
+{
+    "code": 0,
+    "desc": {
+        "en": "Success",
+        "ar": "Success",
+        "code": null
+    },
+    "data": {
+        "delegations": [
+            {
+                "id": 11735,
+                "nickName": "test poa",
+                "startDate": "2024-07-19",
+                "status": 1,
+                "assignedTo": {
+                    "id": 12361,
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    },
+                    "fullNamEn": "YOUSUF ABDULLA KAMBER",
+                    "fullNamAr": "يوسف عبدالله قمبر",
+                    "assignedToEid": "784194968139405",
+                    "assignedToEmail": "sonia@mailinator.com"
+                },
+                "delegator": {
+                    "id": 377,
+                    "underApproval": false
+                },
+                "assetsPerson": {
+                    "id": 377,
+                    "nameEn": "LVFUMEAH ATWETOWD",
+                    "nameAr": "لففوميه اتويتود",
+                    "eid": "784123367676766",
+                    "email": "iraqi@mailinator.com",
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    }
+                },
+                "headerAttributes": {
+                    "documents": []
+                },
+                "allowedActions": [
+                    "REVOKE"
+                ],
+                "smartPoaDocument": {
+                    "documentId": "955C822C-9B56-4E0E-A2D6-C30636F9476E",
+                    "documentType": "SMART_POA"
+                },
+                "smartPoa": true
+            },
+            {
+                "id": 11731,
+                "nickName": "test poa",
+                "startDate": "2024-07-19",
+                "status": 4,
+                "assignedTo": {
+                    "id": 400001,
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    },
+                    "fullNamEn": "MD RUHEL ISLAM RUSTUM ALI",
+                    "fullNamAr": "محمد روحال اسلام رستم على",
+                    "assignedToEid": "784198265790471",
+                    "assignedToEmail": "cb1234@mailinator.com"
+                },
+                "delegator": {
+                    "id": 377,
+                    "underApproval": false
+                },
+                "assetsPerson": {
+                    "id": 377,
+                    "nameEn": "LVFUMEAH ATWETOWD",
+                    "nameAr": "لففوميه اتويتود",
+                    "eid": "784123367676766",
+                    "email": "iraqi@mailinator.com",
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    }
+                },
+                "headerAttributes": {
+                    "documents": []
+                },
+                "allowedActions": [
+                    "CLONE"
+                ],
+                "smartPoaDocument": {
+                    "documentId": "4DBA8B1F-37D3-40BC-B031-450C70BE7E65",
+                    "documentType": "SMART_POA"
+                },
+                "smartPoa": true
+            },
+            {
+                "id": 11674,
+                "nickName": "Delegation",
+                "startDate": "2024-07-10",
+                "status": 4,
+                "assignedTo": {
+                    "id": 601804,
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    },
+                    "fullNamEn": "DAWOOD  Chauhan",
+                    "fullNamAr": "داود على عبدالله على احمد",
+                    "assignedToEid": "784197120821927",
+                    "assignedToEmail": "salem@salem.ae"
+                },
+                "delegator": {
+                    "id": 377,
+                    "underApproval": false
+                },
+                "assetsPerson": {
+                    "id": 377,
+                    "nameEn": "LVFUMEAH ATWETOWD",
+                    "nameAr": "لففوميه اتويتود",
+                    "eid": "784123367676766",
+                    "email": "iraqi@mailinator.com",
+                    "status": {
+                        "code": "1",
+                        "valueEn": "IID_VERIFIED",
+                        "valueAr": "IID_VERIFIED",
+                        "id": 1
+                    },
+                    "underApproval": false,
+                    "type": {
+                        "valueEn": "INDIVIDUAL",
+                        "valueAr": "INDIVIDUAL",
+                        "id": 0
+                    }
+                },
+                "headerAttributes": {
+                    "documents": []
+                },
+                "allowedActions": [],
+                "smartPoaDocument": {
+                    "documentId": null,
+                    "documentType": null
+                },
+                "smartPoa": false
+            }
+        ]
+    },
+    "pagination": {
+        "pageSize": 10,
+        "pageno": 1,
+        "pagecount": 1,
+        "totalItems": 3
+    }
+}
+```
+
