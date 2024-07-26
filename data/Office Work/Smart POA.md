@@ -421,29 +421,29 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50708 - 4
 [FE] Remove Edit delegation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50738 - 1
 
-26 jul
+2 jul
 [FE] Add Smart POA Application Form - 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50758 - 8
 
-27 jul
+21 jul
 [FE] Clone Delegation Applicaiton Form
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50768 - 8
 
-28 jul
+22 jul
 [FE] Change Start Date to Current Date after cloning and end date will be greater than start date
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50771 - 2
 
 [FE] Digital Signature Implementation
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 
-29 jul
+23 jul
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 5
 
 [FE] In-App Notification to invetor for payment
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53311 - 3
 
-30 jul
+24 jul
 [FE] Implement Payment Fees
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 5
 
@@ -453,14 +453,18 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53067 - 2
 [FE] Confirm POA Payment
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53068 - 2
 
-31 jul
+25 jul
 [FE] Implement Public Page of Smart POA Document
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/52051 - 4
 
 [FE] Revoke Delegation should lead to payment step
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53070 - 4
 
-1st Aug
+[FE] QR Code Scan Redirect to this screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843 - 1
+
+26th Jul
+
 [FE] Calculate Payment - Fees - Revoke
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53422 - 2
 
@@ -473,10 +477,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53313 - 2
 [FE] - Smart POA View Screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 3
 
-2nd Aug
 
-[FE] QR Code Scan Redirect to this screen
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843
 
 
 
