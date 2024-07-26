@@ -451,6 +451,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 5
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53067 - 2
 
 [FE] Confirm POA Payment
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53068 - 2
+
+31 jul
+[FE] Implement Public Page of Smart POA Document
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/52051 - 4
+
 
 
 
