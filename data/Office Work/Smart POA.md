@@ -366,3 +366,9 @@ http://localhost:3000/api/services/delegation/search?&page=1&size=10&mode=0&dele
 ```
 
 Timesheet 22 Jul - 28 Jul
+22 Jul
+[FE] remove Filter By
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53063 - 1
+
+[FE] Show Cancel POA for draft POAs
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53063 - 1
