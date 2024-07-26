@@ -462,7 +462,15 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53070 - 4
 
 1st Aug
 [FE] Calculate Payment - Fees - Revoke
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53422 - 2
 
+[FE] Online Payment - Revoke
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53423 - 2
+
+[FE] Cancel POA Request
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53313 - 2
+
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841
 
 
 
