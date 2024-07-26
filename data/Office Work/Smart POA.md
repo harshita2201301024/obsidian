@@ -470,7 +470,9 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53423 - 2
 [FE] Cancel POA Request
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53313 - 2
 
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841
+[FE] - Smart POA View Screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 3
+
 
 
 
