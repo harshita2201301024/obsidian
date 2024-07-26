@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b48d830656ceba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Startup/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "0f2dceb546281ab1",
+  "active": "b48d830656ceba97",
   "lastOpenFiles": [
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
     "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
