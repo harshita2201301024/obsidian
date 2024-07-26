@@ -440,3 +440,9 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50779 - 6
 [FE] In-app notification to delegate for digital signature
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50784 - 5
 
+[FE] In-App Notification to invetor for payment
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53311 - 3
+
+30 jul
+[FE] Implement Payment Fees
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50798 - 8
