@@ -407,4 +407,13 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53060
 [FE] Add and Populate additional Fields in Delegation Listing
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
 
+[FE] Implement Stepper and change design of POA Details
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50640 - 6
+
+25 jul
+
+[FE] Implement Save and Exit
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50706 - 2
+
+[FE] Implement Clone Delegation for Revoked Delegation
 
