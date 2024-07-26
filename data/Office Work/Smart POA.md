@@ -379,3 +379,13 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
 [FE] Remove Add Delegation and Add Smart POA Link
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
 
+[FE] Remove Disable Delegation
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53062 - 1
+
+[FE] Add Sorting to each field and default sorting will be delegation reference number
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
+
+23 Jul
+
+
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53061. - 1
