@@ -457,6 +457,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53068 - 2
 [FE] Implement Public Page of Smart POA Document
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/52051 - 4
 
+[FE] Revoke Delegation should lead to payment step
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53070 - 4
+
+1st Aug
+[FE] Calculate Payment - Fees - Revoke
+
 
 
 
