@@ -9,11 +9,7 @@
 | freelancer                                    |     |
 | Fiverr                                        |     |
 |                                               |     |
-**Aakash Bathla**  
-Dubai, Dubai  
-+971567203902  
-aakash.bathla7@gmail.com  
-[LinkedIn Profile](https://www.linkedin.com/in/aakashbathla)
+
 
 Dear Hiring Manager,
 
@@ -32,4 +28,3 @@ Warm regards,
 Aakash Bathla  
 +971567203902  
 aakash.bathla7@gmail.com  
-[LinkedIn Profile](https://www.linkedin.com/in/aakashbathla)
