@@ -372,3 +372,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53063 - 1
 
 [FE] Show Cancel POA for draft POAs
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53063 - 1
+
+[FE] Remove Disable Delegation and replace it with Revoke Delegation Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50514 - 2
+
+[FE] Remove Add Delegation and Add Smart POA Link
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50513 - 1
+
