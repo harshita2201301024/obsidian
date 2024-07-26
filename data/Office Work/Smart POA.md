@@ -387,5 +387,8 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 
 23 Jul
 
-
+[FE] Change placeholder of search and add new fields
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53061. - 1
+
+[FE] Pagination will not be visible if items are less than 10
+
