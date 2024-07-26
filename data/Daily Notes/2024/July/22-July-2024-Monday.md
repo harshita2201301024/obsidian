@@ -1,6 +1,6 @@
 ---
-created: 2024-02-27 00:08
----
+
+## created: 2024-02-27 00:08
 
 tags:: [[+Daily Notes]]
 
