@@ -473,6 +473,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53313 - 2
 [FE] - Smart POA View Screen
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 3
 
+2nd Aug
+
+[FE] QR Code Scan Redirect to this screen
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50843
 
 
 
