@@ -391,4 +391,13 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50589 - 2
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/53061. - 1
 
 [FE] Pagination will not be visible if items are less than 10
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50521 - 1
 
+[FE] Change Search Box Design
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50527 - 2
+
+[FE] Add and Populate additional Fields in Delegation Listing
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50537 - 2
+
+[FE] Clicking on Delegation will take you to Delegation Detail
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50563 - 3
