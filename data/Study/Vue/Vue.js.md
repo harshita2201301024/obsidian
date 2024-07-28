@@ -149,3 +149,54 @@ _}_
 
 
 we can also v-bind with an object
+_<button_ _class=__"btn"_ _:class=__"buttonClasses"__>__Log in__</button>_
+
+_setup__() {_
+
+_return_ _{_
+
+_buttonClasses__:_ _ref__({_
+
+_'btn-primary'__:_ _true__,_
+
+_'btn-small'__:_ _false_
+
+_}),_
+
+_};_
+
+_}_
+
+
+_<div_ _:style=__"textStyle"__>__Some text__</div>_
+
+_setup__() {_
+
+_return_ _{_
+
+_textStyle__:_ _ref__({_
+
+_71_
+
+_color__:_ _'red'__,_
+
+_fontWeight__:_ _'bold'_ _as_ _const_
+
+_})_
+
+_};_
+
+_}_
+
+
+_9.4.3._ _.exact_ _modifier_
+
+_If you want an event to be handled only if this is exactly this event, and not this event + another_
+
+_system modifier, you can add the_ _.exact_ _modifier._
+
+_9.4.5._ _.once_ _modifier_
+
+_If you want an event listener to execute only once, you can add the_ _.once_ _modifier:_
+
+_<button_ _@__click.once=__"save()"__>__Save__</button>_
