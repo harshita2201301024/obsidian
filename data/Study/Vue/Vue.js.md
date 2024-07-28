@@ -119,3 +119,33 @@ _is very similar to writing the following:_
 _<div_ _:textContent=__"user.name"__></div>_
 
 these above two are same
+
+
+_9.3.3._ _v-bind_ _with an object_
+
+_It is also possible to use_ _v-bind_ _without a parameter (no_ _:property__), and to give it an object directly._
+
+_In that case, the directive binds all the keys of the object:_
+
+_<button_ _v-bind=__"buttonProperties"__>__Log in__</button>_
+
+_with a property named_ _buttonProperties__, which can have as many key/value as you want:_
+
+_setup__() {_
+
+_return_ _{_
+
+_buttonProperties__:_ _ref__({_
+
+_disabled__:_ _true__,_
+
+_type__:_ _'button'_ _as_ _const_
+
+_}),_
+
+_};_
+
+_}_
+
+
+we can also v-bind with an object
