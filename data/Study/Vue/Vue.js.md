@@ -65,3 +65,34 @@ _Fun fact: if you interpolate a complete object, you’ll see the JSON structure
 
 _super handy when developing😀
 
+_When loading the app, you will have an error, telling you that this property does not exist:_
+
+_'[Vue warn]: Property "users" was accessed during render but is not defined on_
+
+_instance'_
+
+__
+
+_You only get this warning when you open your application in your browser. But,_
+
+_sadly, the compilation raises no warning if you have an error in a template, unlike_
+
+_some other frameworks like Angular. Hopefully you also have unit tests in your_
+
+_application that would catch the problem early enough, before going to_
+
+_production. We’ll see how to unit test components and their template in a few_
+
+_chapters._
+
+_There are some initiatives from the community to have template type-checking at_
+
+_compile time though:_
+
+_•_ _Volar_ _(the most advanced currently, that we use in our projects, this ebook_
+
+_examples and the Pro Pack exercises)_
+
+_•_ _VTI_ _from the Vetur team_
+
+_•_ _VueDX_ _All these projects are experimental but worth giving a try._
