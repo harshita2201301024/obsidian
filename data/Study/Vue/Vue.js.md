@@ -109,3 +109,13 @@ _accurate), which has the matching properties_ _type_ _and_ _value__. Each stand
 _corresponding property in the DOM node. But the DOM node also has additional properties, which_
 
 _don’t have a corresponding attribute. For example:_ _childElementCount__,_ _innerHTML_ _or_ _textContent__._
+
+_The interpolation we had above to display the user’s name:_
+
+_<div>__{{ user.name }}__</div>_
+
+_is very similar to writing the following:_
+
+_<div_ _:textContent=__"user.name"__></div>_
+
+these above two are same
