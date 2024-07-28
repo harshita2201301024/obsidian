@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Important Links/Links.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Important Links/Links.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Important Links/Links.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Important Links/Links.md"
+                "file": "data/Study/Vue/Vue.js.md"
               }
             }
           },
@@ -187,10 +187,10 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
+    "data/Others/Important Links/Links.md",
     "data/Study/Vue/Vue.js.md",
     "Untitled 1.md",
     "Untitled.md",
-    "data/Others/Important Links/Links.md",
     "data/Startup/Untitled.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
