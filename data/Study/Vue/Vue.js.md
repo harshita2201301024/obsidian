@@ -61,3 +61,7 @@ _<__/script>_
 
 ```
 
+_Fun fact: if you interpolate a complete object, you’ll see the JSON structure of this object, which is_
+
+_super handy when developing😀
+
