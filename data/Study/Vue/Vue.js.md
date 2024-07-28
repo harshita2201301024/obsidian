@@ -194,3 +194,9 @@ _9.4.3._ _.exact_ _modifier_
 _If you want an event to be handled only if this is exactly this event, and not this event + another_
 
 _system modifier, you can add the_ _.exact_ _modifier._
+
+_9.4.5._ _.once_ _modifier_
+
+_If you want an event listener to execute only once, you can add the_ _.once_ _modifier:_
+
+_<button_ _@__click.once=__"save()"__>__Save__</button>_
