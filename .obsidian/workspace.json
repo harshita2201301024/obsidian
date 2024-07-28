@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Untitled.md",
+                "file": "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Untitled.md"
+                "file": "data/Daily Notes/2024/July/24-July-2024-Wednesday.md"
               }
             }
           },
@@ -187,9 +187,11 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/July/29-July-2024-Monday.md",
+    "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
+    "data/Startup/Untitled.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
-    "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/21-July-2024-Sunday.md",
@@ -202,7 +204,6 @@
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Others/Things to bring from india.md",
     "Untitled.md",
-    "data/Startup/Untitled.md",
     "data/Startup",
     "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/10-July-2024-Wednesday.md",
@@ -217,7 +218,6 @@
     "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/July/04-July-2024-Thursday.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
-    "data/Daily Notes/2024/July/02-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July",
     "data/Study/Vue",
     "data/Study",
