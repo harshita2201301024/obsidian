@@ -96,3 +96,16 @@ _examples and the Pro Pack exercises)_
 _•_ _VTI_ _from the Vetur team_
 
 _•_ _VueDX_ _All these projects are experimental but worth giving a try._
+
+Difference between properties and attributes
+_The_ _input_ _tag above has two attributes: a_ _type_ _attribute, and a_ _value_ _attribute. When the browser_
+
+_parses this tag, it creates a corresponding DOM node (an_ _HTMLInputElement_ _if we want to be_
+
+_69_
+
+_accurate), which has the matching properties_ _type_ _and_ _value__. Each standard HTML attribute has a_
+
+_corresponding property in the DOM node. But the DOM node also has additional properties, which_
+
+_don’t have a corresponding attribute. For example:_ _childElementCount__,_ _innerHTML_ _or_ _textContent__._
