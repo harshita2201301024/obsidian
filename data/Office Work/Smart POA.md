@@ -519,3 +519,11 @@ Arabic Text
 "startDate": "Start Date",
 
 "endDate": "End Date",
+"addSmartPoa": "Add Smart POA",
+"cancelDelegationMessage": "By cancelling this delegation, any ongoing processes will be transferred under your management.",
+
+"cancelDelegationTitle": "Are you sure you want to cancel this delegation?",
+"revokeDelegationMessage": "By revoking this delegation, any ongoing processes will be transferred under your management.",
+
+"revokeDelegationTitle": "Are you sure you want to revoke this delegation?",
+"searchPlaceholder": "Search for Shortname, Reference No., Passport, EID or UID",
