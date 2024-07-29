@@ -527,3 +527,16 @@ Arabic Text
 
 "revokeDelegationTitle": "Are you sure you want to revoke this delegation?",
 "searchPlaceholder": "Search for Shortname, Reference No., Passport, EID or UID",
+"0": "Pending Activation",
+"4": "Revoked",
+
+"5": "Pending Signature",
+
+"6": "Pending Payment",
+
+"7": "Expired",
+
+"8": "Terminated"
+"delegationRevoked": "Delegation has been Revoked successfully",
+
+"delegationCancelled": "Delegation has been Cancelled successfully",
