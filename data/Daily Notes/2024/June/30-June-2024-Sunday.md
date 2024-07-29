@@ -5,6 +5,9 @@ tags:: [[+Daily Notes]]
 
 [[2024-06-04]]
 
+Singing Class Book
+Shop Purchase karni
+SPC Freezone business license apply
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
