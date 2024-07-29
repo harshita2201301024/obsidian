@@ -481,3 +481,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/50841 - 3
 
 
 
+Arabic Text
+"detailDelegation": "Delegation Details",
+
+"detailDelegate": "Delegate Details",
+"fileUploaded": "{0} files uploaded",
+
+"pdf": "PDF"
