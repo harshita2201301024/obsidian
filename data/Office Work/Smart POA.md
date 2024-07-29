@@ -488,3 +488,34 @@ Arabic Text
 "fileUploaded": "{0} files uploaded",
 
 "pdf": "PDF"
+"paymentSuccessful": "Payment Successful",
+"addNewDelegation": "Add Smart POA",
+"Successfully": "Document Signed Successfully",
+
+"smartPOA": "Smart POA",
+
+"signSmartPOA": "Sign Smart POA",
+"goToDelegations": "Go to Delegations",
+
+"clone": "Clone Delegation",
+
+"next": "Next",
+"sign": {
+
+"documentSign": "Document Signed Successfully",
+
+"delegateSign": "Delegate Signed Pending"
+
+},
+
+"cancelDelegation": "Cancel Delegation",
+
+"revokeDelegation": "Revoke Delegation",
+
+"smartPOA": "Smart POA",
+
+"POADetails": "POA Details",
+
+"startDate": "Start Date",
+
+"endDate": "End Date",
