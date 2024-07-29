@@ -8,6 +8,7 @@ tags:: [[+Daily Notes]]
 Singing Class Book
 Shop Purchase karni
 SPC Freezone business license apply
+Ameer Bonus
 
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
