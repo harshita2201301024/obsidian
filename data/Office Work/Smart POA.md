@@ -540,3 +540,9 @@ Arabic Text
 "delegationRevoked": "Delegation has been Revoked successfully",
 
 "delegationCancelled": "Delegation has been Cancelled successfully",
+
+
+
+
+
+corporate body
