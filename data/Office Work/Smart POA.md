@@ -558,3 +558,7 @@ Clone Delegation not allowed
 Operation on delegation not allowed as the allowed date has passed
 Special Authorization
 Smart Power of Attorney
+Modify Business Name for Specific Individual
+Change License Members for Specific Individual
+Cancel License for Specific Individual
+Permits for Specific Individual
