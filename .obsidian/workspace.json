@@ -182,8 +182,8 @@
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "8f2045b12db8efe3",
