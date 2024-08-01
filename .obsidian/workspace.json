@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Office Work/Smart POA.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
+    "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
-    "data/Office Work/Users.md",
     "data/Others/github_harshita/Untitled.md",
     "data/Others/Important Links/Links.md",
     "data/Office Work/Links.md",
