@@ -545,7 +545,7 @@ Arabic Text
 
 
 
-corporate body
+
 POA Details
 Signatures
 Payment
