@@ -551,3 +551,10 @@ corporate body
 POA Details
 Signatures
 Payment
+POA contract signature
+Smart POA payment
+End Date cannot be exceed than max limit
+Person document EID and Passport is expired
+Request Id not found
+Clone Delegation not allowed
+Operation on delegation not allowed as the allowed date has passed
