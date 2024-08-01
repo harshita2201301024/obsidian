@@ -60,3 +60,4 @@ F
 
 
 1. circle icon
+2. blue arrow icon on detail page
