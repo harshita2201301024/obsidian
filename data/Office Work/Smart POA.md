@@ -546,8 +546,6 @@ Arabic Text
 
 
 corporate body
-
-
 POA Details
 Signatures
 Payment
@@ -558,3 +556,5 @@ Person document EID and Passport is expired
 Request Id not found
 Clone Delegation not allowed
 Operation on delegation not allowed as the allowed date has passed
+Special Authorization
+Smart Power of Attorney
