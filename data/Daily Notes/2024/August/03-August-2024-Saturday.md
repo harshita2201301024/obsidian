@@ -20,7 +20,7 @@ Get Ready and go to the gym at 5:45 AM
 2. Map License and Tradename with funciton ids - 7 hours
 3. Performance Improvement - done - 7 hours
 4. Localisation of whole project - 6 hours
-5. show licenese id and function id in iid autocomplete
+5. show licenese id and function id in iid autocomplete - 5
 6. Handle Error Message Properly
 
 **Night Routine**
