@@ -18,10 +18,12 @@ Get Ready and go to the gym at 5:45 AM
 
 1. Code Refactoring - 7 hours
 2. Map License and Tradename with funciton ids - 7 hours
-3. Performance Improvement - done - 7 hours
-4. Localisation of whole project - 6 hours
-5. show licenese id and function id in iid autocomplete - 5
-6. Handle Error Message Properly - 5
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/54520
+1. Performance Improvement - done - 7 hours
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/54519
+5. Localisation of whole project - 6 hours
+6. show licenese id and function id in iid autocomplete - 5
+7. Handle Error Message Properly - 5
 
 **Night Routine**
 Temple Sleep
