@@ -18,7 +18,7 @@ Get Ready and go to the gym at 5:45 AM
 
 1. Code Refactoring
 2. Map License and Tradename with funciton ids
-3. Performance Improvement
+3. Performance Improvement - done
 4. Localisation of whole project
 5. show licenese id and function id in iid autocomplete
 6. Handle Error Message Properly
