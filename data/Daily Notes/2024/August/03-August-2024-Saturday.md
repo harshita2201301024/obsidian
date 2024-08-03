@@ -20,7 +20,8 @@ Get Ready and go to the gym at 5:45 AM
 2. Map License and Tradename with funciton ids
 3. Performance Improvement
 4. Localisation of whole project
-5. show licenese id and function id in tradename
+5. show licenese id and function id in iid autocomplete
+6. Payment w
 
 **Night Routine**
 Temple Sleep
