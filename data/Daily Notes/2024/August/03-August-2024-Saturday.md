@@ -21,7 +21,7 @@ Get Ready and go to the gym at 5:45 AM
 3. Performance Improvement
 4. Localisation of whole project
 5. show licenese id and function id in iid autocomplete
-6. Payment w
+6. 
 
 **Night Routine**
 Temple Sleep
