@@ -52,19 +52,23 @@ Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror
 Shilpa Medical - 7,8,9 august wed, thrus, friday
 Shilpa Bank Account - 7,8,9 august
 
-Book India Ticket - 10 august
-Shilpa Music Class - 10 august
-Chhoti Mma Passport - 10 august
+Dubai job resign - 10 august
+Govt job resign - 10 august
+
+Book India Ticket - 11 august
+Shilpa Music Class - 11 august
+Chhoti Mma Passport - 11 august
 
 Shilpa old house transfer\
 Shilpa old house construction
 Plot Boundary and foundation 
 Aakash Plot market status
+
+
 Car Key
 Mansi Laptop
 20g gold
-Govt job resign
-Dubai job resign
+
 plan October trip
 Academy plan
 CA own firm Business 
