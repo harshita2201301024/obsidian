@@ -52,10 +52,10 @@ Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror
 Shilpa Medical - 7,8,9 august wed, thrus, friday
 Shilpa Bank Account - 7,8,9 august
 
-Book India Ticket - 10 augut
-Shilpa Music Clas
+Book India Ticket - 10 august
+Shilpa Music Class - 10 august
+Chhoti Mma Passport - 10 august
 
-Chhoti Mma Passport
 Shilpa old house transfer\
 Shilpa old house construction
 Plot Boundary and foundation 
