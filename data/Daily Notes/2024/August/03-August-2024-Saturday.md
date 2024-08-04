@@ -61,7 +61,8 @@ plan October trip
 Academy plan
 CA own firm Business 
 Aakash Freelancing business plan
-Study FRM
+FRM Plan
+Book India Ticket 
 
 **Pending:**
 
