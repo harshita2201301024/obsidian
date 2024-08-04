@@ -47,6 +47,7 @@ Shilpa Medical
 Chhoti Mma Passport
 Shilpa Bank Account
 Buy Dress for Birthday and shoes - 5 august
+Wax - 6 august
 Give extra key to vijendra bhaiya
 Shilpa old house transfer\
 Shilpa old house construction
@@ -63,7 +64,6 @@ CA own firm Business
 Aakash Freelancing business plan
 FRM Plan
 Book India Ticket 
-Wax - 6 august
 
 **Pending:**
 
