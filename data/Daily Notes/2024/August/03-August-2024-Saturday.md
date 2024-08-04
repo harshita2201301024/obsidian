@@ -49,7 +49,9 @@ Shilpa Bank Account
 Buy Dress for Birthday and shoes
 Give extra key to vijendra bhaiya
 Shilpa old house transfer\
-Shilpa old r
+Shilpa old house construction
+Plot Boundary and foundation 
+Aakash Plot
 
 **Pending:**
 Car Key
