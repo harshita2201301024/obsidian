@@ -46,7 +46,9 @@ Shilpa Music Class
 Shilpa Medical
 Chhoti Mma Passport
 Shilpa Bank Account
-
+Buy Dress for Birthday and shoes
+Give extra key to vijendra bhaiya
+Shiloa
 
 **Pending:**
 Car Key
