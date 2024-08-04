@@ -43,7 +43,7 @@ Protein Bottle
 
 Buy Dress for Birthday and shoes - 5 august
 Wax - 6 august
-Car Service - 6 august - car wiper, mirror, light bulb, tyres check
+Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting
 Shilpa Music Class
 Shilpa Medical
 Chhoti Mma Passport
