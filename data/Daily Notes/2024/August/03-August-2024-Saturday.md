@@ -60,8 +60,8 @@ Dubai job resign
 plan October trip
 Academy plan
 CA own firm Business 
-Aakash Freelancing business
-
+Aakash Freelancing business plan
+Study FRM
 
 **Pending:**
 
@@ -69,7 +69,6 @@ look for other exercise of shoulder
 apply for attendance
 shilpa shopping 
 Investment portfolio 
-book trip ticket
 Mobile phone automation via widget app
 plan for a foreign trip
 Plan Vue3, Nuxt 3 Course
