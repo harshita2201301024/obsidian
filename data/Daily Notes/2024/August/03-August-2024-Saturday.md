@@ -46,7 +46,7 @@ Shilpa Music Class
 Shilpa Medical
 Chhoti Mma Passport
 Shilpa Bank Account
-Buy Dress for Birthday and shoes
+Buy Dress for Birthday and shoes - 5 august
 Give extra key to vijendra bhaiya
 Shilpa old house transfer\
 Shilpa old house construction
