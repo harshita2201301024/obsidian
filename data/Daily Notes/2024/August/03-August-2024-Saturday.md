@@ -45,6 +45,7 @@ send mail for leaves - 5 augsut
 Give extra key to sunny bhaiya - 5 august
 Buy Dress for Birthday and shoes - 5 august
 
+Aakash Speak with Sumeet regarding if i work from india - 6 august
 Wax - 6 august
 
 Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting, AC water check
