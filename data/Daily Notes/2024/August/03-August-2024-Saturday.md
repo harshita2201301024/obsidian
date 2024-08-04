@@ -63,6 +63,7 @@ CA own firm Business
 Aakash Freelancing business plan
 FRM Plan
 Book India Ticket 
+Wax - 6 august
 
 **Pending:**
 
