@@ -41,6 +41,32 @@ Badam Bhigona
 Do Brush
 Protein Bottle
 
+Car Service
+Shilpa Music Class
+Shilpa Medical
+Chhoti Mma Passport
+Shilpa Bank Account
+
+
+**Pending:**
+Car Key
+look for other exercise of shoulder
+apply for attendance
+shilpa shopping 
+Investment portfolio 
+book trip ticket
+Mobile phone automation via widget app
+plan for a foreign trip
+Shilpa House Sell
+Shilpa Bank Account
+Give key to Vijendra
+Plan Vue3, Nuxt 3 Course
+chhoti mma passport
+Look for new freelance job 
+tuition academy remove my name
+Shilpa Music Class
+Shilpa medical certificate
+
 
 << [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
