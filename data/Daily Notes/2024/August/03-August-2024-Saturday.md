@@ -58,6 +58,9 @@ Mansi Laptop
 Govt job resign
 Dubai job resign
 plan October trip
+Academy plan
+CA own firm Business 
+Aakash Freelancing business
 
 
 **Pending:**
