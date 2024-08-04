@@ -49,11 +49,13 @@ Wax - 6 august
 
 Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting, AC water check
 
-Shilpa Medical - 7,8,9 august
+Shilpa Medical - 7,8,9 august wed, thrus, friday
+Shilpa Bank Account - 7,8,9 august
 
-Shilpa Music Class
+Book India Ticket - 10 augut
+Shilpa Music Clas
+
 Chhoti Mma Passport
-Shilpa Bank Account
 Shilpa old house transfer\
 Shilpa old house construction
 Plot Boundary and foundation 
@@ -68,7 +70,7 @@ Academy plan
 CA own firm Business 
 Aakash Freelancing business plan
 FRM Plan
-Book India Ticket 
+
 
 **Pending:**
 
