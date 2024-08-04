@@ -54,8 +54,7 @@ Plot Boundary and foundation
 Aakash Plot market status
 Car Key
 Mansi Laptop
-Gold 30g
-
+Gold 
 
 
 **Pending:**
