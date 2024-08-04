@@ -41,7 +41,7 @@ Badam Bhigona
 Do Brush
 Protein Bottle
 
-
+send mail for leaves - 5 augsut
 Give extra key to sunny bhaiya - 5 august
 Buy Dress for Birthday and shoes - 5 august
 
@@ -60,15 +60,15 @@ Shilpa Music Class - 11 august
 Chhoti Mma Passport - 11 august
 Mansi Laptop - 11 august
 20g gold - 11 august
-Plan October trip - 11 UGUST
+Plan October trip - 11 august
+
+Car Key - 12 august
 
 Shilpa old house transfer\
 Shilpa old house construction
 Plot Boundary and foundation 
 Aakash Plot market status
 
-
-Car Key - 12 august
 
 Academy plan
 CA own firm Business 
