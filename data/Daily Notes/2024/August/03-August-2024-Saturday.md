@@ -41,7 +41,7 @@ Badam Bhigona
 Do Brush
 Protein Bottle
 
-Attestaion - 5 A
+Attestation - 5 August
 send mail for leaves - 5 augsut
 Give extra key to sunny bhaiya - 5 august
 Buy Dress for Birthday and shoes - 5 august
@@ -76,8 +76,8 @@ Aakash Plot market status
 
 
 CA own firm Business - 1st September
-Aakash Freelancing business plan
-FRM Plan
+Aakash Freelancing business plan - 1st September
+FRM Plan - 1st September
 
 
 **Pending:**
