@@ -60,6 +60,7 @@ Shilpa Music Class - 11 august
 Chhoti Mma Passport - 11 august
 Mansi Laptop - 11 august
 20g gold - 11 august
+Plan October trip - 11 UGUST
 
 Shilpa old house transfer\
 Shilpa old house construction
@@ -69,8 +70,6 @@ Aakash Plot market status
 
 Car Key - 12 august
 
-
-plan October trip
 Academy plan
 CA own firm Business 
 Aakash Freelancing business plan
