@@ -58,6 +58,8 @@ Govt job resign - 10 august
 Book India Ticket - 11 august
 Shilpa Music Class - 11 august
 Chhoti Mma Passport - 11 august
+Mansi Laptop - 11 august
+20g gold - 11 august
 
 Shilpa old house transfer\
 Shilpa old house construction
@@ -66,8 +68,7 @@ Aakash Plot market status
 
 
 Car Key
-Mansi Laptop
-20g gold
+
 
 plan October trip
 Academy plan
