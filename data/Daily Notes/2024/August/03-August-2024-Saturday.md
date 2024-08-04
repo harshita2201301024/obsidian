@@ -55,7 +55,9 @@ Aakash Plot market status
 Car Key
 Mansi Laptop
 20g gold
-
+Govt job resign
+Dubai job resign
+plan October trip
 
 
 **Pending:**
