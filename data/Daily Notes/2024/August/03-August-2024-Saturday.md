@@ -41,14 +41,18 @@ Badam Bhigona
 Do Brush
 Protein Bottle
 
+
+Give extra key to vijendra bhaiya - 5 august
 Buy Dress for Birthday and shoes - 5 august
+
 Wax - 6 august
-Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting
+
+Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting, AC water check
+
 Shilpa Music Class
 Shilpa Medical
 Chhoti Mma Passport
 Shilpa Bank Account
-Give extra key to vijendra bhaiya
 Shilpa old house transfer\
 Shilpa old house construction
 Plot Boundary and foundation 
