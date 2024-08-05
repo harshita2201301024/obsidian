@@ -36,6 +36,7 @@ Smart POA issues to fix
 17. Mobile Responsive of whole application
 18. check whole code and refactor if requires
 19. payment successful text on revoke payment and add delegation
+20. ask tejas to map the design with our design
 
 
 **Night Routine**
