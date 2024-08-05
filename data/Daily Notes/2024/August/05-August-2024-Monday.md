@@ -34,7 +34,7 @@ Smart POA issues to fix
 14. required docs not getting visible in request delegation - done
 15. request delegation not working - done
 16. Mobile Responsive of whole application
-17. check whole code
+17. check whole code and refactor if requires
 
 
 **Night Routine**
