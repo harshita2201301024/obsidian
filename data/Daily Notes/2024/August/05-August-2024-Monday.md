@@ -23,8 +23,7 @@ Smart POA issues to fix
 3. fix all PR comments and get it approved
 4. Tejas design review
 5. Pending Localisation
-6. 
-
+6. Fix all console errors
 
 
 **Night Routine**

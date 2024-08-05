@@ -42,6 +42,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "606cd5e388839f93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -188,11 +196,11 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Office Work/Users.md",
+    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/August Month Plan/August.md",
     "data/August Month Plan",
-    "data/Office Work/Users.md",
     "data/Others/Things to bring from india.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Office Work/Smart POA.md",
