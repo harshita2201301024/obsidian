@@ -27,7 +27,9 @@ Smart POA issues to fix
 7. Tejas design review - 2 hour
 8. Pending Localisation - 1 hour
 9. screen freeze on tab change
-10. 
+10. All should not come on delegation detail, if no dropdown
+11. required error fix on clone
+12. 
 
 
 
