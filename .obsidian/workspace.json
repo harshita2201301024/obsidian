@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/August Month Plan/August.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/August Month Plan/August.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/August Month Plan/August.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md"
+                "file": "data/August Month Plan/August.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
-    "data/Office Work/Users.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "data/August Month Plan/August.md",
+    "data/August Month Plan",
+    "data/Office Work/Users.md",
     "data/Others/Things to bring from india.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Office Work/Smart POA.md",
@@ -216,10 +218,8 @@
     "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Gym/Target - 70kg - 4 months ->9th July - 9th November.md",
-    "data/Archive/Hotel Apartment.md",
     "data/Gym",
     "Untitled 1",
-    "Untitled",
     "data/Daily Notes/2024/July",
     "data/Study/Vue",
     "data/Study",
