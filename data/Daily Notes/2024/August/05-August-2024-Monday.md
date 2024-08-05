@@ -31,7 +31,8 @@ Smart POA issues to fix
 11. required error fix on clone
 12. dropdown enable on delegation detail 
 13. checkbox design in dropdown
-14. required docs not getting visible in request delegation
+14. required docs not getting visible in request delegation - done
+15. request delegation not working - 
 
 
 **Night Routine**
