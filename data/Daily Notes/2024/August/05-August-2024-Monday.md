@@ -19,11 +19,13 @@ Get Ready and go to the gym at 5:45 AM
 Smart POA issues to fix
 
 1. call api for max delegation end date which was given to me by chandra
-2. error message on delegation search api should be as per tejas design
-3. fix all PR comments and get it approved
-4. Tejas design review
-5. Pending Localisation
-6. Fix all console errors
+2. error message on delegation search api should be as per tejas design - 1 hour
+3. fix all PR comments and get it approved - 4 hour
+4. Tejas design review - 2 hour
+5. Pending Localisation - 1 hour
+6. Fix all console errors - 1 hour
+7. Leaves apply - 5 min
+8. attestation talk - 10 min
 
 
 **Night Routine**
