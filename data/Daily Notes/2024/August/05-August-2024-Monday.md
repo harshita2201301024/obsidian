@@ -22,7 +22,7 @@ Smart POA issues to fix
 <mark style="background: #BBFABBA6;">2. attestation talk - 10 min - done</mark>
 3.  fix all PR comments and get it approved - 4 hour
 4. call api for max delegation end date which was given to me by chandra - 1 hour
-5.  Fix all console errors - 1 hour
+<mark style="background: #BBFABBA6;">5.  Fix all console errors - 1 hour</mark>
 6. error message on delegation search api should be as per tejas design - 1 hour
 7. Tejas design review - 2 hour
 8. Pending Localisation - 1 hour
