@@ -33,6 +33,8 @@ Smart POA issues to fix
 13. checkbox design in dropdown
 14. required docs not getting visible in request delegation - done
 15. request delegation not working - done
+16. Mobile Responsive of whole application
+17. check whole code
 
 
 **Night Routine**
