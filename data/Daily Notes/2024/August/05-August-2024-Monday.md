@@ -31,7 +31,7 @@ Smart POA issues to fix
 11. required error fix on clone
 12. dropdown enable on delegation detail 
 13. checkbox design in dropdown
-14. required docs not getting visible in request delegation - done
+14. <font style="color:green">required docs not getting visible in request delegation - done</font>
 15. <font style="color:green">Request Delegation not working</font>
 17. Mobile Responsive of whole application
 18. check whole code and refactor if requires
