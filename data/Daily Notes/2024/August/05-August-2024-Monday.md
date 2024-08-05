@@ -18,7 +18,9 @@ Get Ready and go to the gym at 5:45 AM
 
 Smart POA issues to fix
 
-1. call api to 
+1. call api for max delegation end date which was given to me by chandra
+2. error message on delegation search api should be as per tejas design
+3. 
 
 
 
