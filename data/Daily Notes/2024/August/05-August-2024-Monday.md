@@ -19,7 +19,7 @@ Get Ready and go to the gym at 5:45 AM
 Smart POA issues to fix
 
 1. Leaves apply - 5 min - done
-2. attestation talk - 10 min - d
+2. attestation talk - 10 min - done
 3.  fix all PR comments and get it approved - 4 hour
 4. call api for max delegation end date which was given to me by chandra - 1 hour
 5.  Fix all console errors - 1 hour
