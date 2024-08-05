@@ -20,7 +20,10 @@ Smart POA issues to fix
 
 1. call api for max delegation end date which was given to me by chandra
 2. error message on delegation search api should be as per tejas design
-3. 
+3. fix all PR comments and get it approved
+4. Tejas design review
+5. Pending Localisation
+6. 
 
 
 
