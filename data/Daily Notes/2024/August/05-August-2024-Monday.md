@@ -18,8 +18,8 @@ Get Ready and go to the gym at 5:45 AM
 
 Smart POA issues to fix
 
-1. Leaves apply - 5 min - done
-2. attestation talk - 10 min - done
+<mark style="background: #BBFABBA6;">1. Leaves apply - 5 min - done</mark>
+<mark style="background: #BBFABBA6;">2. attestation talk - 10 min - done</mark>
 3.  fix all PR comments and get it approved - 4 hour
 4. call api for max delegation end date which was given to me by chandra - 1 hour
 5.  Fix all console errors - 1 hour
@@ -27,12 +27,12 @@ Smart POA issues to fix
 7. Tejas design review - 2 hour
 8. Pending Localisation - 1 hour
 9. screen freeze on tab change
-10. All should not come on delegation detail, if no dropdown - done
+<mark style="background: #BBFABBA6;">10. All should not come on delegation detail, if no dropdown - done</mark>
 11. required error fix on clone
 12. dropdown enable on delegation detail 
 13. checkbox design in dropdown
-14. <font style="color:green">required docs not getting visible in request delegation - done</font>
-15. <font style="color:green">Request Delegation not working</font>
+<mark style="background: #BBFABBA6;">14. <font style="color:green">required docs not getting visible in request delegation - done</font></mark>
+<mark style="background: #BBFABBA6;">15. <font style="color:green">Request Delegation not working</font></mark>
 17. Mobile Responsive of whole application
 18. check whole code and refactor if requires
 
