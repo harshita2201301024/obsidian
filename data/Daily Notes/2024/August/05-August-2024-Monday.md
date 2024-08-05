@@ -28,7 +28,7 @@ Smart POA issues to fix
 8. Pending Localisation - 1 hour
 9. screen freeze on tab change
 <mark style="background: #BBFABBA6;">10. All should not come on delegation detail, if no dropdown - done</mark>
-11. required error fix on clone
+<mark style="background: #BBFABBA6;">11. required error fix on clone</mark>
 12. dropdown enable on delegation detail 
 13. checkbox design in dropdown
 <mark style="background: #BBFABBA6;">14. <font style="color:green">required docs not getting visible in request delegation - done</font></mark>
