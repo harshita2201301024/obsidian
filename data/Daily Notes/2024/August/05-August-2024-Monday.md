@@ -32,9 +32,9 @@ Smart POA issues to fix
 12. dropdown enable on delegation detail 
 13. checkbox design in dropdown
 14. required docs not getting visible in request delegation - done
-15. request delegation not working - done
-16. Mobile Responsive of whole application
-17. check whole code and refactor if requires
+15. <font style="color:green">Request Delegation not working</font>
+17. Mobile Responsive of whole application
+18. check whole code and refactor if requires
 
 
 **Night Routine**
