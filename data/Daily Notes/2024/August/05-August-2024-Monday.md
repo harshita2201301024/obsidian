@@ -29,7 +29,7 @@ Smart POA issues to fix
 9. screen freeze on tab change
 <mark style="background: #BBFABBA6;">10. All should not come on delegation detail, if no dropdown - done</mark>
 <mark style="background: #BBFABBA6;">11. required error fix on clone</mark>
-12. dropdown enable on delegation detail 
+<mark style="background: #FF5582A6;">12. dropdown enable on delegation detail </mark> - need to park it for now
 <mark style="background: #BBFABBA6;">13. checkbox design in dropdown</mark>
 <mark style="background: #BBFABBA6;">14. <font style="color:green">required docs not getting visible in request delegation - done</font></mark>
 <mark style="background: #BBFABBA6;">15. <font style="color:green">Request Delegation not working</font></mark>
