@@ -26,7 +26,7 @@ Smart POA issues to fix
 6. error message on delegation search api should be as per tejas design - 1 hour
 7. Tejas design review - 2 hour
 8. Pending Localisation - 1 hour
-9. screen freeze on tab change
+<mark style="background: #BBFABBA6;">9. screen freeze on tab change</mark>
 <mark style="background: #BBFABBA6;">10. All should not come on delegation detail, if no dropdown - done</mark>
 <mark style="background: #BBFABBA6;">11. required error fix on clone</mark>
 <mark style="background: #FF5582A6;">12. dropdown enable on delegation detail </mark> - need to park it for now
