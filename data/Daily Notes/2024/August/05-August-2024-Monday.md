@@ -38,6 +38,8 @@ Smart POA issues to fix
 19. payment successful text on revoke payment and add delegation
 20. ask tejas to map the design with our design
 
+profile editor modal - iid alert
+
 
 **Night Routine**
 Temple Sleep
