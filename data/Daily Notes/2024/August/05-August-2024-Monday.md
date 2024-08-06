@@ -23,9 +23,7 @@ Smart POA issues to fix
 3.  fix all PR comments and get it approved - 4 hour
 4. call api for max delegation end date which was given to me by chandra - 1 hour
 <mark style="background: #BBFABBA6;">5.  Fix all console errors - 1 hour</mark>
-6. error message on delegation search api should be as per tejas design - 1 hour
-7. Tejas design review - 2 hour
-8. Pending Localisation - 1 hour
+<mark style="background: #FF5582A6;">8. Pending Localisation - 1 hour</mark> - pending text for 4 tiems
 <mark style="background: #BBFABBA6;">9. screen freeze on tab change</mark>
 <mark style="background: #BBFABBA6;">10. All should not come on delegation detail, if no dropdown - done</mark>
 <mark style="background: #BBFABBA6;">11. required error fix on clone</mark>
@@ -36,6 +34,8 @@ Smart POA issues to fix
 17. Mobile Responsive of whole application
 18. check whole code and refactor if requires
 <mark style="background: #FF5582A6;">19. payment successful text on revoke payment and add delegation</mark> -<mark style="background: #FFF3A3A6;"> pending payment successful text for revoke delegation</mark>
+6. error message on delegation search api should be as per tejas design - 1 hour
+7. Tejas design review - 2 hour
 20. ask tejas to map the design with our design
 
 profile editor modal - iid alert
