@@ -35,7 +35,7 @@ Smart POA issues to fix
 <mark style="background: #BBFABBA6;">15. <font style="color:green">Request Delegation not working</font></mark>
 17. Mobile Responsive of whole application
 18. check whole code and refactor if requires
-19. payment successful text on revoke payment and add delegation
+<mark style="background: #FF5582A6;">19. payment successful text on revoke payment and add delegation</mark> 
 20. ask tejas to map the design with our design
 
 profile editor modal - iid alert
