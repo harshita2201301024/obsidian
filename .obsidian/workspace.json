@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+                "file": "data/Others/Birthday/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+                "file": "data/Others/Birthday/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+                "file": "data/Others/Birthday/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md"
+                "file": "data/Others/Birthday/Untitled.md"
               }
             }
           },
@@ -169,13 +169,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "6bbf9f6978874523",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Others/Birthday/Untitled.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
     "data/Office Work/Users.md",
-    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
     "data/Others/Things to bring from india.md",
@@ -205,7 +206,6 @@
     "data/Daily Notes/2024/July/07-July-2024-Sunday.md",
     "data/Gym",
     "Untitled 1",
-    "data/Daily Notes/2024/July",
-    "data/Study/Vue"
+    "data/Daily Notes/2024/July"
   ]
 }
