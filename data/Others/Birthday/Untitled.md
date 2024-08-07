@@ -7,4 +7,4 @@ Aquaventure
 
 
 Shippuuuu my beautiful wife
-you know that i love you more than myself. there w
+You know that i love you more than myself. You are the main reason of my happiness. 
