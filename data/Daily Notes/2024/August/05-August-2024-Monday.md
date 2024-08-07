@@ -37,6 +37,7 @@ Smart POA issues to fix
 6. error message on delegation search api should be as per tejas design - 1 hour
 7. Tejas design review - 2 hour
 20. ask tejas to map the design with our design
+21. Android design
 
 profile editor modal - iid alert
 
