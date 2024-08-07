@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bbf9f6978874523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Others/Birthday/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "606cd5e388839f93",
             "type": "leaf",
             "state": {
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Birthday/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Birthday/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "data/Others/Birthday/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +153,10 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "6bbf9f6978874523",
+  "active": "606cd5e388839f93",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Others/Birthday/Untitled.md",
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
