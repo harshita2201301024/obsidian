@@ -20,7 +20,7 @@ Smart POA issues to fix
 
 <mark style="background: #BBFABBA6;">1. Leaves apply - 5 min - done</mark>
 <mark style="background: #BBFABBA6;">2. attestation talk - 10 min - done</mark>
-3.  fix all PR comments and get it approved - 4 hour
+<mark style="background: #BBFABBA6;">3.  fix all PR comments and get it approved - 4 hour</mark>
 4. call api for max delegation end date which was given to me by chandra - 1 hour
 <mark style="background: #BBFABBA6;">5.  Fix all console errors - 1 hour</mark>
 <mark style="background: #FF5582A6;">8. Pending Localisation - 1 hour</mark> - pending text for 4 tiems
