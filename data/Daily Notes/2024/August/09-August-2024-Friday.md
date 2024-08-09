@@ -18,7 +18,11 @@ Get Ready and go to the gym at 5:45 AM
 
 1. delegation api issue fixed
 2. take localization of newly added permissions 
-3. 
+3. call api for max delegation end date which was given to me by chandra - 1 hour
+4. Mobile Responsive
+5. Android PDF
+6. Send Screenshots to Tejas
+7. 
 
 
 **Night Routine**
