@@ -3,7 +3,7 @@
 
 **Pros:**
 
-1. Shilpa will learn lot of things (related to work, )
+1. Shilpa will learn lot of things (related to work, communication skills, dubai experience, leadership skilla)
 2. We will be saving 6 lakh per month
 3. No risk Involved
 
