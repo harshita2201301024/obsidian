@@ -32,7 +32,7 @@ Smart POA issues to fix
 <mark style="background: #BBFABBA6;">14. <font style="color:green">required docs not getting visible in request delegation - done</font></mark>
 <mark style="background: #BBFABBA6;">15. <font style="color:green">Request Delegation not working</font></mark>
 17. Mobile Responsive of whole application
-18. check whole code and refactor if requires
+<mark style="background: #BBFABBA6;">18. check whole code and refactor if requires </mark>
 <mark style="background: #FF5582A6;">19. payment successful text on revoke payment and add delegation</mark> -<mark style="background: #FFF3A3A6;"> pending payment successful text for revoke delegation</mark>
 6. error message on delegation search api should be as per tejas design - 1 hour
 7. Tejas design review - 2 hour

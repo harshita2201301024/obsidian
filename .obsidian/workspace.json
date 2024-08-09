@@ -11,8 +11,12 @@
             "id": "606cd5e388839f93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "data/Daily Notes/2024/August/05-August-2024-Monday.md"
+              }
             }
           },
           {
@@ -155,13 +163,13 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Office Work/Smart POA.md",
     "data/Others/Birthday/Untitled.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
     "data/Office Work/Users.md",
-    "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
     "data/Others/Things to bring from india.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
