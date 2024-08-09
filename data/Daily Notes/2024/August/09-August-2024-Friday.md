@@ -16,7 +16,8 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-1. dele
+1. delegation api issue fixed
+2. 
 
 
 **Night Routine**
