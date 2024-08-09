@@ -19,6 +19,8 @@
 
 **Pros**
 
+1. She will be happy working in ranchi but not sure about aakash
+2. Good Weather and Good Environment 
 
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
