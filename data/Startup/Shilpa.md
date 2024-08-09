@@ -19,13 +19,14 @@
 
 **Pros**
 
-1. She will be happy working in ranchi but not sure about aakash
+1. She will be happy working in ranchi
 2. Good Weather and Good Environment 
-3. Family Time
-4. We will be saving 3 Lakh Per month 
+3. Great Family Time
+4. We will be saving 3 Lakh Per month
 
 **Cons**
  1.  Not Much Career Growth
+ 2. 
 
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
