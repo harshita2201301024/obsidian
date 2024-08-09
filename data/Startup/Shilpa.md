@@ -32,10 +32,10 @@
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
 Aakash Freelance Work P1 - **1 Lakh**
-Shilpa Freelance Work P1
+Shilpa Freelance Work P1 - 
 Shilpa TKC Business
 Tuition Academy - **10k**
-Investment Portfolio P1
+Investment Portfolio - **10k**
 
 **PROS:**
 1. Shilpa will be happy with her business, working remotely
