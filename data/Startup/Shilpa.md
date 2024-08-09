@@ -1,23 +1,24 @@
 
-1. Continue Job in Dubai
+<mark style="background: #BBFABBA6;">Continue Job in Dubai</mark>
 
 **Pros:**
 
 1. We will be saving 6 lakh per month
+2. Shilpa will be lear
 
 **Cons:**
 
 1. Lot of mental pressure
 2. no family time
 3. will never be able to start our own business
-4. 
+4. Need to leave government Job
 
 
-5. Continue Job in Ranchi
+<mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;"></mark>Continue Job in Ranchi</mark>
 
 
 
-6. Start own Business
+<mark style="background: #BBFABBA6;">Start own Business</mark>
 
 Aakash Freelance Work
 Shilpa Freelance Work
