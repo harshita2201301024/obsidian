@@ -3,14 +3,20 @@
 
 **Pros:**
 
-1. We will be saving 6 lakh per mo
+1. We will be saving 6 lakh per month
+
+**Cons:**
+
+1. Lot of mental pressure
+2. no family time
+3. will never 
 
 
-2. Continue Job in Ranchi
+5. Continue Job in Ranchi
 
 
 
-3. Start own Business
+6. Start own Business
 
 Aakash Freelance Work
 Shilpa Freelance Work
