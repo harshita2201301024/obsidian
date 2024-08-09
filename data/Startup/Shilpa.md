@@ -3,7 +3,7 @@
 
 **Pros:**
 
-1. Shilpa will learn lot of things (related to work, communication skills, dubai experience, leadership skilla)
+1. Shilpa will learn lot of things (related to work, communication skills, dubai experience, leadership skills)
 2. We will be saving 6 lakh per month
 3. No risk Involved
 
@@ -16,6 +16,8 @@
 
 
 <mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;"></mark>Continue Job in Ranchi</mark>
+
+**Pros**
 
 
 
