@@ -31,12 +31,15 @@
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
+**6 Month**
+
 Aakash Freelance Work P1 - **1 Lakh**
 Shilpa Freelance Work P1 - 
 Shilpa TKC Business
 Tuition Academy - **10k**
 Investment Portfolio - **10k**
-
+Toastmaster Public Speaking
+Physical Health
 
 **PROS:**
 1. Shilpa will be happy with her business, working remotely
