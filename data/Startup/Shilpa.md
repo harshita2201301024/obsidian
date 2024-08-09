@@ -3,7 +3,7 @@
 
 **Pros:**
 
-1. Shilpa will learn lot of things
+1. Shilpa will learn lot of things (related to work, )
 2. We will be saving 6 lakh per month
 3. No risk Involved
 
@@ -31,7 +31,7 @@ Investment Portfolio
 1. Shilpa will be happy with her business, working remotely
 2. Scope of lot of future growth
 3. Family Time
-4.  We will be saving minimum l3.5 Lakh Per Month
+4.  We will be saving minimum 3.5 Lakh Per Month
 
 **CONS:**
 1. Risk Involved, if i lost my job
