@@ -21,6 +21,8 @@
 
 1. She will be happy working in ranchi but not sure about aakash
 2. Good Weather and Good Environment 
+3. Family Time
+4. Not Much Career Growth
 
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
