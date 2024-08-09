@@ -16,14 +16,13 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-1. delegation api issue fixed - 2hours
-2. take localization of newly added permissions 
-3. call api for max delegation end date which was given to me by chandra - 1 hour
-4. Mobile Responsive
-5. Android PDF
-6. Send Screenshots to Tejas
-7. Fix Tejas Design Fixes
-8. Android Design of pdf
+1. delegation api issue fixed - 2 hours
+2. take localization of newly added permissions  - 0.5 hour
+3. call api for max delegation end date which was given to me by chandra - 2 hour
+4. Mobile Responsive - 1 hour
+5. Android PDF - 2 hour
+6. Send Screenshots to Tejas - 1 hour
+7. Fix Tejas Design Fixes - 2 hour
 
 
 **Night Routine**
