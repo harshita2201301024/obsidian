@@ -26,7 +26,7 @@
 
 **Cons**
  1.  Not Much Career Growth
- 2. 
+ 2. We will never be able to start our own business
 
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
