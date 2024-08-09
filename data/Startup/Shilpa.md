@@ -21,5 +21,7 @@ Investment Portfolio
 3. Family Time
 4.  We will be saving 3.5 Lakh Per Month
 
-CONS:
+**CONS:**
+1. Risk Involved, if i lost my job
+2. Shilpa might get bored and 
 
