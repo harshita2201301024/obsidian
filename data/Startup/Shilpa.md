@@ -32,7 +32,7 @@
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
 Aakash Freelance Work P1
-Shilpa Freelance Work
+Shilpa Freelance Work P1
 Shilpa TKC Business
 Tuition Academy
 Investment Portfolio P1
