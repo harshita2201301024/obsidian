@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Shilpa.md"
+                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md"
               }
             }
           },
@@ -161,13 +161,15 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "606cd5e388839f93",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
-    "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
-    "data/Office Work/Links.md",
+    "data/Office Work/Users.md",
+    "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Office Work/Smart POA.md",
+    "data/Startup/Shilpa.md",
+    "data/Office Work/Links.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Study/Vue/Vue.js.md",
     "data/Startup/Untitled.md",
@@ -178,9 +180,7 @@
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Others/Birthday/Untitled.md",
     "data/Office Work/dummy.md",
-    "data/Office Work/Users.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
