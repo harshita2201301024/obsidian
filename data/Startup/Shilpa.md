@@ -40,6 +40,7 @@ Tuition Academy - **10k**
 Investment Portfolio - **10k**
 Toastmaster Public Speaking
 Physical Health
+FRM
 
 **PROS:**
 1. Shilpa will be happy with her business, working remotely
