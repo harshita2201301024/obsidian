@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/Office Work/Smart POA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/Office Work/Smart POA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+                "file": "data/Office Work/Smart POA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/03-August-2024-Saturday.md"
+                "file": "data/Office Work/Smart POA.md"
               }
             }
           },
@@ -161,16 +161,17 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "606cd5e388839f93",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Office Work/Smart POA.md",
     "data/Startup/Shilpa.md",
     "data/Office Work/Links.md",
-    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Study/Vue/Vue.js.md",
     "data/Startup/Untitled.md",
     "data/Others/Interview/Javascript.md",
@@ -188,7 +189,6 @@
     "data/August Month Plan/August.md",
     "data/August Month Plan",
     "data/Daily Notes/2024/August",
-    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Others/Important Links/Links.md",
     "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
