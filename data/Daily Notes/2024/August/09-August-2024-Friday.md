@@ -16,7 +16,7 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-1. delegation api issue fixed - 2 hours -> 11am - 1pm
+1. delegation api issue fixed - 2 hours -> 11am - 1pm -> <mark style="background: #BBFABBA6;">done</mark>
 2. take localization of newly added permissions  - 0.5 hour -> 1:30pm - 2pm
 3. call api for max delegation end date which was given to me by chandra - 2pm - 4pm
 4. Mobile Responsive - 1 hour
