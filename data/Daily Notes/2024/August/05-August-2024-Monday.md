@@ -41,10 +41,12 @@ Smart POA issues to fix
 
 profile editor modal - iid alert
 
-Mobile Should Show Sign Document - 
-Mobile Responsiveness of Whole Application - 8 hours
-Request Delegation Side Effects Fixing - 6 hours
+Mobile Should Show Sign Document -  4 hours
+Mobile Responsiveness of Whole Application - 7 hours
+Request Delegation Side Effects Fixing - 7 hours
 Code Refactoring - 7 hours
+call api for max delegation end date which was given to me by chandra - 4 hours
+
 
 
 **Night Routine**
