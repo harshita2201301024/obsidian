@@ -37,6 +37,7 @@ Shilpa TKC Business
 Tuition Academy - **10k**
 Investment Portfolio - **10k**
 
+
 **PROS:**
 1. Shilpa will be happy with her business, working remotely
 2. Scope of lot of future growth
