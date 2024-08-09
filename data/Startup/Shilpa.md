@@ -34,7 +34,7 @@
 Aakash Freelance Work P1
 Shilpa Freelance Work P1
 Shilpa TKC Business
-Tuition Academy
+Tuition Academy 
 Investment Portfolio P1
 
 **PROS:**
