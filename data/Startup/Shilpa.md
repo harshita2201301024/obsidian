@@ -31,10 +31,10 @@
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
-Aakash Freelance Work P1
+Aakash Freelance Work P1 - **1 Lakh**
 Shilpa Freelance Work P1
 Shilpa TKC Business
-Tuition Academy 
+Tuition Academy - **20k**
 Investment Portfolio P1
 
 **PROS:**
