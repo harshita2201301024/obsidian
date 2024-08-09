@@ -18,12 +18,13 @@ Get Ready and go to the gym at 5:45 AM
 
 <mark style="background: #BBFABBA6;">1. delegation api issue fixed - 2 hours -> 11am - 1pm -> <mark style="background: #BBFABBA6;">done</mark></mark>
 <mark style="background: #BBFABBA6;">2. take localization of newly added permissions  - 0.5 hour -> 1:30pm - 2pm - <mark style="background: #BBFABBA6;">done</mark>
-</mark>3. call api for max delegation end date which was given to me by chandra - 2pm - 4pm
+</mark>
+3. call api for max delegation end date which was given to me by chandra - 2pm - 4pm
 <mark style="background: #BBFABBA6;">4. Mobile Responsive - 1 hour - <mark style="background: #BBFABBA6;">done</mark></mark>
 <mark style="background: #BBFABBA6;">5.<mark style="background: #BBFABBA6;"> Android PDF</mark> - 2 hour -> 4pm - 5:00pm
 </mark>
-6. Send Screenshots to Tejas - 1 hour
-7. Fix Tejas Design Fixes - 2 hour
+<mark style="background: #BBFABBA6;">6. Send Screenshots to Tejas - 1 hour</mark>
+<mark style="background: #FF5582A6;">7. Fix Tejas Design Fixes - 2 hour</mark> - later after moving to nuxt3
 8. Send Timesheet - 0.5 hour
 9. remove poa details from add screen
 
