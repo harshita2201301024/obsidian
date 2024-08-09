@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+                "file": "data/Office Work/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+                "file": "data/Office Work/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+                "file": "data/Office Work/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/09-August-2024-Friday.md"
+                "file": "data/Office Work/Links.md"
               }
             }
           },
@@ -163,6 +163,10 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Office Work/Smart POA.md",
+    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/Study/Vue/Vue.js.md",
     "data/Startup/Untitled.md",
     "data/Others/Interview/Javascript.md",
@@ -173,13 +177,9 @@
     "data/Others/Birthday/Untitled.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Links.md",
-    "data/Office Work/Smart POA.md",
     "data/Office Work/Users.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
-    "data/Daily Notes/2024/August/09-August-2024-Friday.md",
-    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
-    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
