@@ -1,7 +1,7 @@
 
 <mark style="background: #BBFABBA6;">Continue Job in Dubai</mark>
 
-CA
+**CAREER**
 
 **Pros:**
 
@@ -19,6 +19,8 @@ CA
 
 <mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;"></mark>Continue Job in Ranchi</mark>
 
+**FAMILY** 
+
 **Pros**
 
 1. She will be happy working in ranchi
@@ -34,6 +36,8 @@ CA
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
 **6 Month**
+
+
 
 Aakash Freelance Work P1 - **1 Lakh** - 3 hours
 Shilpa Freelance Work P1 - 
