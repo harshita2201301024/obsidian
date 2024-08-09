@@ -17,7 +17,8 @@ Do Brush
 Get Ready and go to the gym at 5:45 AM
 
 1. delegation api issue fixed
-2. take localisation of newly added permissions in 
+2. take localization of newly added permissions 
+3. 
 
 
 **Night Routine**
