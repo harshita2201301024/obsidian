@@ -3,8 +3,9 @@
 
 **Pros:**
 
-1. We will be saving 6 lakh per month
-2. Shilpa will be lear
+1. Shilpa will learn lot of things
+2. We will be saving 6 lakh per month
+3. No risk Involved
 
 **Cons:**
 
