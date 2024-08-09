@@ -9,7 +9,8 @@
 
 1. Lot of mental pressure
 2. no family time
-3. will never 
+3. will never be able to start our own business
+4. 
 
 
 5. Continue Job in Ranchi
@@ -28,7 +29,7 @@ Investment Portfolio
 1. Shilpa will be happy with her business, working remotely
 2. Scope of lot of future growth
 3. Family Time
-4.  We will be saving 3.5 Lakh Per Month
+4.  We will be saving minimum l3.5 Lakh Per Month
 
 **CONS:**
 1. Risk Involved, if i lost my job
