@@ -23,6 +23,7 @@ Get Ready and go to the gym at 5:45 AM
 5. Android PDF - 2 hour
 6. Send Screenshots to Tejas - 1 hour
 7. Fix Tejas Design Fixes - 2 hour
+8. Send Timesheet - 0.5 hour
 
 
 **Night Routine**
