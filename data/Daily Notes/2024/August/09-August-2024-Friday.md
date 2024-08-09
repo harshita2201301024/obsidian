@@ -25,6 +25,7 @@ Get Ready and go to the gym at 5:45 AM
 6. Send Screenshots to Tejas - 1 hour
 7. Fix Tejas Design Fixes - 2 hour
 8. Send Timesheet - 0.5 hour
+9. remove poa details fr
 
 
 **Night Routine**
