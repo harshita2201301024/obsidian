@@ -34,7 +34,7 @@
 Aakash Freelance Work P1 - **1 Lakh**
 Shilpa Freelance Work P1
 Shilpa TKC Business
-Tuition Academy - **20k**
+Tuition Academy - **10k**
 Investment Portfolio P1
 
 **PROS:**
