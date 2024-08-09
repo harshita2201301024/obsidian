@@ -31,11 +31,11 @@
 
 <mark style="background: #BBFABBA6;">Start own Business</mark>
 
-Aakash Freelance Work
+Aakash Freelance Work P1
 Shilpa Freelance Work
 Shilpa TKC Business
 Tuition Academy
-Investment Portfolio
+Investment Portfolio P1
 
 **PROS:**
 1. Shilpa will be happy with her business, working remotely
