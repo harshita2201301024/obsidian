@@ -24,4 +24,5 @@ Investment Portfolio
 **CONS:**
 1. Risk Involved, if i lost my job
 2. Shilpa might get bored and get diverted from her path
+3. Need to leave government Job
 
