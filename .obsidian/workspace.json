@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Study/Vue/Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md"
+                "file": "data/Study/Vue/Vue.js.md"
               }
             }
           },
@@ -161,8 +161,11 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Startup/Untitled.md",
+    "data/Others/Interview/Javascript.md",
+    "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Frontend Web Architecture.md",
     "data/Others/github_harshita/Untitled.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
@@ -192,9 +195,6 @@
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
     "data/Others/Important Links",
-    "Untitled 1.md",
-    "Untitled.md",
-    "data/Startup/Untitled.md",
     "data/Startup",
     "data/Gym",
     "Untitled 1",
