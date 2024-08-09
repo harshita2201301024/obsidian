@@ -37,8 +37,8 @@ Aakash Freelance Work P1 - **1 Lakh** - 3 hours
 Shilpa Freelance Work P1 - 
 Shilpa TKC Business
 Tuition Academy - **10k** - 2hour
-Investment Portfolio - **10k** 
-Toastmaster Public Speaking
+Investment Portfolio - **10k**
+Toastmaster Public Speaking 
 Physical Health
 FRM
 
