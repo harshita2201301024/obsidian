@@ -1,6 +1,9 @@
 
 1. Continue Job in Dubai
 
+**Pros:**
+
+1. We will be saving 6 lakh per mo
 
 
 2. Continue Job in Ranchi
