@@ -15,5 +15,9 @@ Shilpa TKC Business
 Tuition Academy
 Investment Portfolio
 
-We will be saving 3.5 Lakh Per Month
-Shilpa Will be happy
+**PROS:**
+1.  We will be saving 3.5 Lakh Per Month
+2. Shilpa Will be happy with her business, working remotely
+3. Scope of lot of future growth
+4. W
+
