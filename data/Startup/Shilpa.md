@@ -22,7 +22,9 @@
 **FAMILY** 
 
 Call Sir - 12pm
-email to fintech 
+email to finact - 5pm
+pack all stuff - tomorrow
+Book air ticket - 
 
 **Pros**
 
