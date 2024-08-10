@@ -24,7 +24,7 @@
 Call Sir - 12pm
 email to finact - 5pm
 pack all stuff - tomorrow
-Book air ticket - 
+Book air ticket - today
 
 **Pros**
 
