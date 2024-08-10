@@ -1,8 +1,6 @@
 
 <mark style="background: #BBFABBA6;">Continue Job in Dubai</mark>
 
-
-
 **CAREER**
 
 **Pros:**
@@ -22,6 +20,9 @@
 <mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;"></mark>Continue Job in Ranchi</mark>
 
 **FAMILY** 
+
+Call Sir - 12pm
+email to fintech 
 
 **Pros**
 
