@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to do Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to do Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to do Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Shilpa.md"
+                "file": "data/Others/Things to do Today.md"
               }
             }
           },
@@ -163,14 +163,16 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Others/Things to bring from india.md",
+    "data/Others/Things to do Today.md",
+    "data/Daily Notes/2024/July/29-July-2024-Monday.md",
+    "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Office Work/Users.md",
-    "data/Daily Notes/2024/July/29-July-2024-Monday.md",
-    "data/Startup/Shilpa.md",
     "data/Office Work/Links.md",
     "data/Study/Vue/Vue.js.md",
     "data/Startup/Untitled.md",
@@ -185,7 +187,6 @@
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
-    "data/Others/Things to bring from india.md",
     "data/August Month Plan/August.md",
     "data/August Month Plan",
     "data/Daily Notes/2024/August",
@@ -193,7 +194,6 @@
     "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/23-July-2024-Tuesday.md",
     "data/Daily Notes/2024/July/21-July-2024-Sunday.md",
-    "data/Daily Notes/2024/July/22-July-2024-Monday.md",
     "data/Others/Important Links",
     "data/Startup",
     "data/Gym",
