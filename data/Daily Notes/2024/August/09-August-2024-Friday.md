@@ -25,7 +25,7 @@ Get Ready and go to the gym at 5:45 AM
 </mark>
 <mark style="background: #BBFABBA6;">6. Send Screenshots to Tejas - 1 hour</mark>
 <mark style="background: #FF5582A6;">7. Fix Tejas Design Fixes - 2 hour</mark> - later after moving to nuxt3
-8. Send Timesheet - 0.5 hour
+<mark style="background: #BBFABBA6;">8. Send Timesheet - 0.5 hour</mark>
 9. remove poa details from add screen
 10. show error message on sign screen
 
