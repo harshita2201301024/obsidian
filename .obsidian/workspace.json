@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+                "file": "data/Startup/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+                "file": "data/Startup/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+                "file": "data/Startup/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/12-August-2024-Monday.md"
+                "file": "data/Startup/Untitled.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
-    "data/Startup/Untitled.md",
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+    "data/Startup/Untitled.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/Office Work/Users.md",
     "data/August Month Plan/August.md",

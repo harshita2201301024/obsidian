@@ -32,5 +32,5 @@ aakash.bathla7@gmail.com
 
 
 hi sir, 
-due to some emergent family situation, i am travelling to india. i dont know w
+due to some emergent family situation, i am travelling to india. i dont know when i will be b
 

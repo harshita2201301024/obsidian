@@ -16,7 +16,8 @@ Take your protein bottle ready with you in gym
 Do Brush
 Get Ready and go to the gym at 5:45 AM
 
-Bulb Fix
+1. Bulb Fix
+2. 
 
 **Night Routine**
 Temple Sleep
