@@ -32,5 +32,5 @@ aakash.bathla7@gmail.com
 
 
 hi sir, 
-i am 
+due to some emergent family situation, i am travelling to india with my husband.
 
