@@ -1,5 +1,7 @@
 
 1. Shilpa send email 
-2. Shilpa Bag pack
-3. Shilpa Bag Pack
-4. Shilpa Speak with Director 
+2. Shilpa Bag Pack
+3. Shilpa Speak with Director of Finance\
+4. Taxi Book Tomorrow
+5. Packiing of all clothes
+6. 
