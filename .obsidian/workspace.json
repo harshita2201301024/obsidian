@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/Untitled.md",
+                "file": "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/Untitled.md",
+                "file": "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/Untitled.md",
+                "file": "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/Untitled.md"
+                "file": "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md"
               }
             }
           },
@@ -189,7 +189,7 @@
   "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
     "data/Study/Vue/From Zero to something/2. Vue CLI.md",
-    "data/Study/Vue/From Zero to something/Untitled.md",
+    "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
     "data/Study/Vue/From Zero to something/1. The progressive framework.md",
     "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
     "data/Study/Vue/Vue.js.md",
