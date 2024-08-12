@@ -16,3 +16,7 @@
 
 The curly braces around user are specific to the Vue templating syntax, indicating that user should be replaced by its value.
 
+We are using the latest version of Vue in this example. You can specify any version
+you want by adding @version after https://unpkg.com/vue in the URL. This version
+of the ebook is using vue@3.4.31.
+
