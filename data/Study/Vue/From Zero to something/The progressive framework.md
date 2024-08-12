@@ -44,3 +44,43 @@ of the ebook is using vue@3.4.31.
 </html>
 ```
 
+if we want to register one more component. 
+
+``` HTML
+<html lang="en">
+  <meta charset="UTF-8" />
+  <head>
+    <title>Vue - the progressive framework</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script type="text/x-template" id="unread-messages-template">
+      <div>You have {{ unreadMessagesCount }} messages</div>
+    </script>
+  </head>
+  <body>
+    <div id="app">
+      <h1>Hello {{ user }}</h1>
+      <unread-messages></unread-messages>
+    </div>
+    <script>
+      const UnreadMessagesComponent = {
+        template: "#unread-messages-template",
+        setup() {
+          return { unreadMessagesCount: 4 }
+        },
+      }
+      const RootComponent = {
+        components: {
+          UnreadMessages: UnreadMessagesComponent,
+        },
+        setup() {
+          return { user: "Cédric" }
+        },
+      }
+      const app = Vue.createApp(RootComponent)
+      app.mount("#app")
+    </script>
+  </body>
+</html>
+
+```
+
