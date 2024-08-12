@@ -84,3 +84,7 @@ if we want to register one more component.
 
 ```
 
+A Vue application is super easy to start: just pure JavaScript and
+HTML, no tooling, components are simple objects. Even someone that doesn’t know Vue can
+understand what’s going on. And this is one of the strengths of the framework: it’s easy to start, easy to grasp, and you can progressively learn the features.
+
