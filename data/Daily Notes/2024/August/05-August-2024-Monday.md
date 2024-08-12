@@ -18,14 +18,19 @@ Get Ready and go to the gym at 5:45 AM
 
 Smart POA issues to fix
 
-1. Leaves apply - 5 min
-2. attestation talk - 10 min
+1. Leaves apply - 5 min - done
+2. attestation talk - 10 min - done
 3.  fix all PR comments and get it approved - 4 hour
 4. call api for max delegation end date which was given to me by chandra - 1 hour
 5.  Fix all console errors - 1 hour
 6. error message on delegation search api should be as per tejas design - 1 hour
 7. Tejas design review - 2 hour
 8. Pending Localisation - 1 hour
+9. screen freeze on tab change
+10. All should not come on delegation detail, if no dropdown
+11. required error fix on clone
+12. dropdown enable on delegation detail 
+13. checkbox design in dropdown
 
 
 
