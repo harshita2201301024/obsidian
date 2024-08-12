@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/Vue.js.md",
+                "file": "data/Study/Vue/From Zero to something/The progressive framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/Vue.js.md",
+                "file": "data/Study/Vue/From Zero to something/The progressive framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/Vue.js.md",
+                "file": "data/Study/Vue/From Zero to something/The progressive framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/Vue.js.md"
+                "file": "data/Study/Vue/From Zero to something/The progressive framework.md"
               }
             }
           },
@@ -186,10 +186,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "8f2045b12db8efe3",
   "lastOpenFiles": [
-    "data/Study/Vue/Untitled",
     "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
+    "data/Study/Vue/From Zero to something/The progressive framework.md",
+    "data/Study/Vue/Vue.js.md",
+    "data/Study/Vue/From Zero to something",
     "conflict-files-obsidian-git.md",
     "data/Startup/Shilpa.md",
     "data/Others/Things to do Today.md",
@@ -202,7 +204,6 @@
     "data/August Month Plan",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Daily Notes/2024/August",
-    "data/Study/Vue/Vue.js.md",
     "data/Others/Important Links/Links.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -222,7 +223,6 @@
     "data/Gym",
     "Untitled 1",
     "Untitled",
-    "data/Daily Notes/2024/July",
-    "data/Study/Vue"
+    "data/Daily Notes/2024/July"
   ]
 }
