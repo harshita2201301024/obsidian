@@ -14,4 +14,5 @@
 </html>
 ```
 
+The curly braces around user are specific to the Vue templating syntax, indicating that user should be replaced by its value.
 
