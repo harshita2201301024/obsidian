@@ -20,7 +20,7 @@ We are using the latest version of Vue in this example. You can specify any vers
 you want by adding @version after https://unpkg.com/vue in the URL. This version
 of the ebook is using vue@3.4.31.
 
-```
+``` HTML
 <html lang="en">
   <meta charset="UTF-8" />
   <head>
