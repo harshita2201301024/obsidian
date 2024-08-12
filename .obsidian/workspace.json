@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bbf9f6978874523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Others/Things to bring from india.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f38b82b19a038bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Office Work/Vue2 to Vue3 Migration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f2045b12db8efe3",
+            "id": "606cd5e388839f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +161,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "8f2045b12db8efe3",
+  "active": "606cd5e388839f93",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
@@ -197,6 +172,14 @@
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Office Work/Smart POA.md",
+    "data/Others/Things to bring from india.md",
+    "data/Others/Things to do Today.md",
+    "data/Startup/Shilpa.md",
+    "data/Startup/Untitled.md",
+    "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+    "data/Office Work/Users.md",
     "data/August Month Plan/August.md",
     "data/August Month Plan",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
@@ -206,6 +189,8 @@
     "Untitled 1.md",
     "Untitled.md",
     "data/Startup/Untitled.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "data/Daily Notes/2024/July/29-July-2024-Monday.md",
     "data/Daily Notes/2024/July/24-July-2024-Wednesday.md",
     "data/Office Work/Smart POA.md",
@@ -216,6 +201,25 @@
     "data/Daily Notes/2024/July/22-July-2024-Monday.md",
     "data/Daily Notes/2024/July/01-July-2024-Monday.md",
     "data/Daily Notes/2024/July/12-July-2024-Friday.md",
+    "data/Daily Notes/2024/06-June/2024-06-04-Tuesday.md",
+    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Office Work/Links.md",
+    "data/Study/Vue/Vue.js.md",
+    "data/Others/Interview/Javascript.md",
+    "data/Others/Interview/HR interview Questions.md",
+    "data/Others/Interview/Frontend Web Architecture.md",
+    "data/Others/github_harshita/Untitled.md",
+    "data/Others/Extras/Templates/Template, Daily Note.md",
+    "data/Others/Birthday/Untitled.md",
+    "data/Office Work/dummy.md",
+    "data/Office Work/Vue2 to Vue3 Migration.md",
+    "data/Others/Birthday",
+    "data/Others/Excalidraw/Untitled",
+    "Untitled",
+    "data/August Month Plan",
+    "data/Daily Notes/2024/August",
+    "data/Others/Important Links/Links.md",
     "data/Others/Important Links",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Startup",
@@ -224,5 +228,6 @@
     "Untitled",
     "data/Daily Notes/2024/July",
     "data/Study/Vue"
+    "data/Daily Notes/2024/July"
   ]
 }
