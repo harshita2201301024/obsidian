@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "459b2aac8fabba97",
+    "type": "split",
+    "children": [
+      {
+        "id": "4105b1f1cb3a984a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d82eec0df8f1f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c68271928a272a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a2947955ff39462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97a330c0de39ac89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4252734e58e8e05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "885e86f831f7e67c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be26ddff3d02b3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8873a3ce08c796e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b99487de792169e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ef07dbaa38d89dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e901401e834c9b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11c4e341c5ca2e46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+    }
+  },
+  "active": "1d82eec0df8f1f3e",
+  "lastOpenFiles": []
+}
