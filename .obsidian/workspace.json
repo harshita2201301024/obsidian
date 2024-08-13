@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/5. Create Vue.md",
+                "file": "data/Study/Vue/From Zero to something/4. Vite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/5. Create Vue.md",
+                "file": "data/Study/Vue/From Zero to something/4. Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/5. Create Vue.md",
+                "file": "data/Study/Vue/From Zero to something/4. Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/5. Create Vue.md"
+                "file": "data/Study/Vue/From Zero to something/4. Vite.md"
               }
             }
           },
@@ -161,10 +161,10 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "606cd5e388839f93",
   "lastOpenFiles": [
-    "data/Study/Vue/From Zero to something/4. Vite.md",
     "data/Study/Vue/From Zero to something/5. Create Vue.md",
+    "data/Study/Vue/From Zero to something/4. Vite.md",
     "data/Others/Interview/Javascript.md",
     "data/Office Work/Users.md",
     "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
