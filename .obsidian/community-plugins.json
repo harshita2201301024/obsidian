@@ -11,6 +11,6 @@
   "obsidian-git",
   "nldates-obsidian",
   "obsidian-importer",
-  "obsidian-format-code",
-  "code-styler"
+  "highlightr-plugin",
+  "obsidian-format-code"
 ]
