@@ -4,4 +4,4 @@
 4. Footer Design is not correct
 5. Payment Success screen giving error
 6. Payment is failing after pending payment
-7. 
+7. Add Smart POA refresh 
