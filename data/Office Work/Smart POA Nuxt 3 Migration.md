@@ -1,3 +1,5 @@
-1. Sorting Not working
+1. Sorting Not working on some field
 2. Sorting Api Call going twice
-3. 
+3. Tab Default highlight color
+4. Footer Design is not correct
+5. 
