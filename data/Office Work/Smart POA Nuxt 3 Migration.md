@@ -9,3 +9,10 @@
 9. notification sidebar not appearing
 10. autocomplete component not working perfectly
 11. Design fixes
+
+
+Footer Design is not correct
+Payment Success screen giving error
+Payment is failing after pending payment
+Add Smart POA refresh sidebar appearning
+signing page button issue
