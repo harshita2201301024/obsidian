@@ -25,3 +25,6 @@ autocomplete component not working perfectly
 tabbing issue
 delegation add refresh issue
 spacing issue
+we will confirm 1000px width
+footer issue
+
