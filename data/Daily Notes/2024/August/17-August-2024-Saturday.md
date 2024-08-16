@@ -22,7 +22,11 @@ Delegation Footer Alignment Issue - 1 Hour
 Payment Initiated - 1 Hour
 Sorting Icon - 1 Hour
 Call With Tejas - 1 Hour
-All Payment Tes
+All Payment Testing and fix issues - 2 hours
+
+11 Issues
+
+10AM - 10PM
 
 
 
