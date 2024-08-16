@@ -567,11 +567,10 @@ API_URL=http://172.16.20.221:8099
 
 
 
-1. Payment Issue
-2. EID Number
-3. IID Autocomplete
-4. Reset Button is giving Error
-5. Payment Issue
-6. Mobile Issue
+1. Payment Issue  - 1 hour
+2. EID Number - discuss with chandra
+3. IID Autocomplete - 4 hour
+4. Reset Button is giving Error - 2 hour
+6. Mobile Issue - 2 Hour
 7. Connect with Tejas 
 8. All Design Issues that rasham raised
