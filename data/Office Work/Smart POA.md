@@ -563,3 +563,9 @@ Change License Members for Specific Individual
 Cancel License for Specific Individual
 Permits for Specific Individual
 API_URL=http://172.16.20.221:8099
+
+
+
+
+1. Payment Issue
+2. EDI
