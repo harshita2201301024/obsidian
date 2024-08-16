@@ -568,4 +568,7 @@ API_URL=http://172.16.20.221:8099
 
 
 1. Payment Issue
-2. EDI
+2. EID Number
+3. IID Autocomplete
+4. Reset Button is giving Error
+5. 
