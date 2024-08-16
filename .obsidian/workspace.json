@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Office Work/Smart POA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Office Work/Smart POA.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Office Work/Smart POA Nuxt 3 Migration.md",
+    "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Others/Things to bring from india.md",
     "data/Startup/Untitled.md",
     "data/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
-    "data/Office Work/Users.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
-    "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Links.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Office Work/dummy.md",
