@@ -571,4 +571,6 @@ API_URL=http://172.16.20.221:8099
 2. EID Number
 3. IID Autocomplete
 4. Reset Button is giving Error
-5. 
+5. Payment Issue
+6. Mobile Issue
+7. Connect with 
