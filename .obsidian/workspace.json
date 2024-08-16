@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Things to bring from india.md",
+                "file": "data/Office Work/Smart POA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Things to bring from india.md",
+                "file": "data/Office Work/Smart POA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Things to bring from india.md",
+                "file": "data/Office Work/Smart POA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Things to bring from india.md"
+                "file": "data/Office Work/Smart POA.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Others/Things to bring from india.md",
     "data/Startup/Untitled.md",
     "data/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
@@ -183,7 +184,6 @@
     "data/Study/Vue/From Zero to something/2. Vue CLI.md",
     "data/Study/Vue/From Zero to something/1. The progressive framework.md",
     "data/Study/Vue/From Zero to something",
-    "data/Others/Things to bring from india.md",
     "data/Others/Things to do Today.md",
     "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
