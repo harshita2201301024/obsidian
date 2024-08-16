@@ -569,9 +569,8 @@ API_URL=http://172.16.20.221:8099
 
 1. Payment Issue  - 2hour -> 12pm - 2pm
 2. Connect with Tejas - 1 Hour -> 2pm - 3pm
-3. EID Number -> Discuss with chandra - 2pm - 3pm
-4. IID Autocomplete - 4 hour - 3p
+3. EID Number -> Discuss with chandra -> 3pm - 4pm
+4. IID Autocomplete -> 4 hour - 4pm - 8pm
 5. Reset Button is giving Error - 2 hour
 6. Mobile Issue - 2 Hour
-7. Connect with Tejas - 1 Hour
 8. All Design Issues that rashami raised - 3 hour
