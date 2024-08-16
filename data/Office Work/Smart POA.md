@@ -574,3 +574,4 @@ API_URL=http://172.16.20.221:8099
 5. Payment Issue
 6. Mobile Issue
 7. Connect with Tejas 
+8. All Design Issues that rasham raised
