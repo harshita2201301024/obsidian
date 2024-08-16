@@ -572,5 +572,5 @@ API_URL=http://172.16.20.221:8099
 3. IID Autocomplete - 4 hour
 4. Reset Button is giving Error - 2 hour
 6. Mobile Issue - 2 Hour
-7. Connect with Tejas 
-8. All Design Issues that rasham raised
+7. Connect with Tejas - 1 Hour
+8. All Design Issues that rashami raised - 2 hour
