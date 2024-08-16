@@ -19,7 +19,10 @@ Get Ready and go to the gym at 5:45 AM
 Reset Button Fix - 2 hours 
 Permission Fix - 3 Hours
 Delegation Footer Alignment Issue - 1 Hour
-Payment Initiated - 2 Ho
+Payment Initiated - 1 Hour
+Sorting Icon - 1 Hour
+Call With Tejas - 1 Hour
+All Payment Tes
 
 
 
