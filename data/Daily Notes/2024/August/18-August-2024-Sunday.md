@@ -18,7 +18,11 @@ Get Ready and go to the gym at 5:45 AM
 
 1. Reset Button Fix - 2 Hours
 2. Do the Latest Deployment and close all bugs - 1 hour
-3. 
+3. Fix Alignment Issue - 1 hour
+4. Fix Sorting ISsue - 1 Hour
+
+
+Plan Next Day
 
 
 **Night Routine**
