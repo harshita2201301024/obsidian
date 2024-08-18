@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md"
+                "file": "data/Others/Extras/Templates/Template, Daily Note.md"
               }
             }
           },
@@ -163,11 +163,11 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Archive/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
     "data/Startup/Business.md",
     "data/Startup/Shilpa.md",
-    "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
