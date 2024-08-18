@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/17-August-2024-Saturday.md"
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md"
               }
             }
           },
@@ -163,12 +163,13 @@
   },
   "active": "606cd5e388839f93",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
+    "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Links.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
     "data/Others/Things to bring from india.md",
     "data/Startup/Untitled.md",
@@ -190,7 +191,6 @@
     "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/August Month Plan/August.md",
-    "Untitled.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
