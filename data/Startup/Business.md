@@ -31,6 +31,3 @@ aakash.bathla7@gmail.com
 
 
 
-hi sir, 
-due to some emergent family situation, i am travelling to india. i dont know when i will be back. i know this karam client dependency is on me. I will try to support from india. i am really sorry for this sudden plan. but i have to be in india right now.
-
