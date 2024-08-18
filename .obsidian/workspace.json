@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55f8acd0f55636c3",
+        "id": "d3e2069c5073bca9",
         "type": "tabs",
         "children": [
           {
-            "id": "606cd5e388839f93",
+            "id": "4cdaacc8adca3dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md"
+                "file": "data/Daily Notes/2024/August/18-August-2024-Sunday.md"
               }
             }
           },
@@ -161,8 +161,9 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "606cd5e388839f93",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Archive/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
@@ -190,7 +191,6 @@
     "data/Study/Vue/From Zero to something",
     "data/Others/Things to do Today.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
-    "data/August Month Plan/August.md",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
     "Untitled",
