@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
+                "file": "Daily Notes/2024/August/18-August-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
+            "file": "Daily Notes/2024/August/18-August-2024-Sunday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/July/01-July-2024-Monday.md",
+            "file": "Daily Notes/2024/August/18-August-2024-Sunday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/July/01-July-2024-Monday.md"
+            "file": "Daily Notes/2024/August/18-August-2024-Sunday.md"
           }
         }
       }
@@ -133,40 +133,41 @@
   },
   "active": "c81f5bb8dbdf5b98",
   "lastOpenFiles": [
-    "Aarti.md",
+    "Office Work/Links.md",
+    "Office Work/Smart POA Nuxt 3 Migration.md",
+    "Archive/Aarti.md",
+    "Daily Notes/2024/July/07-July-2024-Sunday.md",
+    "Daily Notes/2024/July/22-July-2024-Monday.md",
+    "Daily Notes/2024/July/12-July-2024-Friday.md",
+    "Daily Notes/2024/July/09-July-2024-Tuesday.md",
+    "Daily Notes/2024/July/21-July-2024-Sunday.md",
+    "Daily Notes/2024/July/29-July-2024-Monday.md",
+    "August Month Plan/August.md",
+    "August Month Plan",
+    "Others/Birthday",
+    "Study/Vue/From Zero to something/5. Create Vue.md",
+    "Study/Vue/From Zero to something/4. Vite.md",
+    "Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
+    "Study/Vue/From Zero to something",
+    "Daily Notes/2024/July/23-July-2024-Tuesday.md",
+    "Study/Vue/From Zero to something/1. The progressive framework.md",
+    "Others/Things to do Today.md",
+    "Others/Birthday/Untitled.md",
+    "Office Work/Smart POA.md",
+    "Daily Notes/2024/July/10-July-2024-Wednesday.md",
+    "Daily Notes/2024/July/24-July-2024-Wednesday.md",
+    "Daily Notes/2024/August/05-August-2024-Monday.md",
+    "Daily Notes/2024/August/17-August-2024-Saturday.md",
+    "Daily Notes/2024/August/12-August-2024-Monday.md",
+    "Daily Notes/2024/August/18-August-2024-Sunday.md",
+    "Daily Notes/2024/August",
+    "Daily Notes/2024/August/09-August-2024-Friday.md",
+    "Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "Startup",
+    "Gym",
+    "Others/Important Links",
     "Others/github_harshita",
-    "Daily Notes/2024/June/29-June-2024-Saturday.md",
-    "Office Work/Vue2 to Vue3 Migration.md",
-    "Daily Notes/2024/June/30-June-2024-Sunday.md",
-    "Office Work/dummy.md",
-    "Daily Notes/2024/June/28-June-2024-Friday.md",
-    "Daily Notes/2024/June/26-June-2024-Wednesday.md",
     "Daily Notes/2024/July",
-    "Daily Notes/2024/June/25-June-2024-Tuesday.md",
-    "Daily Notes/2024/July/01-July-2024-Monday.md",
-    "Study/Vue/Vue.js.md",
-    "Study/Vue",
-    "Study",
-    "Others/github_harshita/Untitled.md",
-    "Daily Notes/2024/June/10-June-2024-Monday.md",
-    "Daily Notes/2024/June/20-June-2024-Thursday.md",
-    "Others/Novels/trip/Unplanned Trip to See the Milky Way, Mosques, Gurdwaras and Temples in Abu Dhabi.md",
-    "Others/Novels/trip",
-    "Others/Novels/Untitled.md",
-    "Others/Novels",
-    "Daily Notes/2024/03-March/2024-03-15-Friday.md",
-    "Office Work/Users.md",
-    "Office Work/Untitled.md",
-    "Daily Notes/2024/June/04-June-2024 Tuesday.md",
-    "Daily Notes/2024/June/05-June-2024 Wednesday.md",
-    "Daily Notes/2024/June/06-June-2024 Thursday.md",
-    "Daily Notes/2024/June",
-    "Daily Notes/2024/June/08-June-2024-Saturday.md",
-    "Daily Notes/2024/05-May/2024-05-27-Monday.md",
-    "Daily Notes/2024/03-March/2024-03-07-Thursday.md",
-    "Daily Notes/04-June-2024-Tuesday.md",
-    "Office Work",
-    "Daily Notes/2024/06-June",
-    "Daily Notes/2024/05-May"
+    "Study/Vue"
   ]
 }
