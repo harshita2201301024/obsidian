@@ -8,4 +8,5 @@ created: 2024-02-27 00:08
 5. implement payment - 2 hour
 6. mobile design check - 2 hour
 
-kapde sukne 
+kapde sukne daalne
+almira settle krni hai
