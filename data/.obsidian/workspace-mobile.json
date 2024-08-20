@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "August Month Plan/August.md",
+                "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "August Month Plan/August.md",
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "August Month Plan/August.md",
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "August Month Plan/August.md"
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md"
           }
         }
       }
@@ -133,8 +133,10 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
-    "2024-08-21.md",
     "August Month Plan/August.md",
+    "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+    "Daily Notes/2024/August/21-August-02024-Wednesday3.md",
+    "2024-08-21.md",
     "Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "2024-08-20.md",
     "Untitled.md",
@@ -161,8 +163,6 @@
     "Others/Birthday/Untitled.md",
     "Office Work/Smart POA.md",
     "Daily Notes/2024/July/10-July-2024-Wednesday.md",
-    "Daily Notes/2024/July/24-July-2024-Wednesday.md",
-    "Daily Notes/2024/August/05-August-2024-Monday.md",
     "Daily Notes/2024/August",
     "Startup",
     "Gym",
