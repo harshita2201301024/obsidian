@@ -65,3 +65,16 @@ F
 payment spacing 
 back button spcing
 tick mark center
+
+
+ else if (listItem.action === INBOX_ACTION_TYPE.DELEGATION_PAY) {  
+  this.$paramsRouter.push({  
+    name: 'delegations-add',  
+    params: {  
+      delegation: {  
+        identifier: listItem.keyIdentifier,  
+        status: DELEGATION_STATUS.PENDING_PAYMENT  
+      }  
+    }  
+  })  
+}
