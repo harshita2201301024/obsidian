@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+                "file": "Gym/Gym.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+            "file": "Gym/Gym.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+            "file": "Gym/Gym.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md"
+            "file": "Gym/Gym.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "98920d36a3d74d98",
   "lastOpenFiles": [
-    "Gym/Gym.md",
     "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+    "Gym/Gym.md",
     "Office Work/Links.md",
     "Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "August Month Plan/August.md",
