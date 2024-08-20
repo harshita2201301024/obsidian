@@ -8,7 +8,8 @@ created: 2024-02-27 00:08
 5. implement payment - 2 hour
 6. mobile design check - 2 hour - pdf load and number is not coming
 <mark style="background: #BBFABBA6;">7. delegation max 100 character - done</mark>
-<mark style="background: #FF5582A6;">Business activities setup - 3 hours</mark>
+<mark style="background: #FF5582A6;">Business activities setup - 3 hours</mark>\
+end date should be required
 
 kapde sukne daalne
 almira settle krni hai
