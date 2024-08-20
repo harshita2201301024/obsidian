@@ -7,6 +7,7 @@ created: 2024-02-27 00:08
 4. arabic layout check - 1 hour
 5. implement payment - 2 hour
 6. mobile design check - 2 hour
+7. delegation max 100 character
 
 kapde sukne daalne
 almira settle krni hai
