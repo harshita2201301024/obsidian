@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending Things/Pending.md",
+                "file": "Gym/Gym.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pending Things/Pending.md",
+            "file": "Gym/Gym.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pending Things/Pending.md",
+            "file": "Gym/Gym.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pending Things/Pending.md"
+            "file": "Gym/Gym.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "98920d36a3d74d98",
   "lastOpenFiles": [
-    "August Month Plan/August.md",
     "Pending Things/Pending.md",
+    "August Month Plan/August.md",
     "Others/Things to bring from india.md",
     "Pending Things",
     "Gym/Gym.md",
