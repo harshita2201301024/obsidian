@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Things to bring from india.md",
-                "mode": "source",
+                "file": "Pending Things/Pending.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Others/Things to bring from india.md",
+            "file": "Pending Things/Pending.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Others/Things to bring from india.md",
+            "file": "Pending Things/Pending.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Others/Things to bring from india.md"
+            "file": "Pending Things/Pending.md"
           }
         }
       }
@@ -146,17 +146,18 @@
   },
   "active": "98920d36a3d74d98",
   "lastOpenFiles": [
-    "Gym/Gym.md",
+    "August Month Plan/August.md",
+    "Pending Things/Pending.md",
     "Others/Things to bring from india.md",
+    "Pending Things",
+    "Gym/Gym.md",
     "Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "Office Work/Links.md",
     "Daily Notes/2024/August/20-August-2024-Tuesday.md",
-    "August Month Plan/August.md",
     "Daily Notes/2024/August/21-August-02024-Wednesday3.md",
     "2024-08-21.md",
     "2024-08-20.md",
     "Untitled.md",
-    "Untitled",
     "Daily Notes/2024/August/18-August-2024-Sunday.md",
     "Office Work/Smart POA Nuxt 3 Migration.md",
     "Archive/Aarti.md",
@@ -175,7 +176,6 @@
     "Daily Notes/2024/July/23-July-2024-Tuesday.md",
     "Study/Vue/From Zero to something/1. The progressive framework.md",
     "Others/Things to do Today.md",
-    "Others/Birthday/Untitled.md",
     "Daily Notes/2024/August",
     "Startup",
     "Gym",
