@@ -6,7 +6,7 @@ created: 2024-02-27 00:08
 3. reset button fix - 1 hour
 <mark style="background: #BBFABBA6;">4. arabic layout check - 1 hour</mark>
 5. implement payment - 2 hour
-6. mobile design check - 2 hour
+6. mobile design check - 2 hour - pdf load and number is not coming
 <mark style="background: #BBFABBA6;">7. delegation max 100 character - done</mark>
 
 kapde sukne daalne
