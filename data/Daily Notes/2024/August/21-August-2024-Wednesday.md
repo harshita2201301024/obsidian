@@ -4,8 +4,8 @@ created: 2024-02-27 00:08
 Mobile issues
 Beard 
 Payment Implement
-foreign investor tooltip component 
+<mark style="background: #BBFABBA6;">foreign investor tooltip component  - done</mark>
 Reset Button 
 Almira
 Order desi ghee, rice
-Checkbox issue
+<mark style="background: #BBFABBA6;">Checkbox issue - done</mark>
