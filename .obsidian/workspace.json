@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/21-August-2024-Wednesday.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
@@ -170,7 +171,6 @@
     "data/Daily Notes/2024/August/17-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
-    "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "data/Office Work/Links.md",
     "data/Office Work/Users.md",
     "data/Pending Things/Pending.md",
