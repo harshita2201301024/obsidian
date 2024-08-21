@@ -8,3 +8,4 @@ foreign investor tooltip component
 Reset Button 
 Almira
 Order desi ghee, rice
+Checkbox issue
