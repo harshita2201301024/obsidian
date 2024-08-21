@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Gym.md",
-                "mode": "source",
+                "file": "Daily Notes/2024/August/09-August-2024-Friday.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gym/Gym.md",
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gym/Gym.md",
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gym/Gym.md"
+            "file": "Daily Notes/2024/August/21-August-2024-Wednesday.md"
           }
         }
       }
@@ -144,18 +143,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98920d36a3d74d98",
+  "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
     "Daily Notes/2024/August/21-August-2024-Wednesday.md",
+    "Daily Notes/2024/August/05-August-2024-Monday.md",
+    "Daily Notes/2024/August/09-August-2024-Friday.md",
+    "+Daily Notes.md",
     "Gym/Gym.md",
+    "Pending Things/Pending.md",
+    "August Month Plan/August.md",
+    "Others/Things to bring from india.md",
+    "Pending Things",
     "Office Work/Links.md",
     "Daily Notes/2024/August/20-August-2024-Tuesday.md",
-    "August Month Plan/August.md",
     "Daily Notes/2024/August/21-August-02024-Wednesday3.md",
     "2024-08-21.md",
     "2024-08-20.md",
     "Untitled.md",
-    "Untitled",
     "Daily Notes/2024/August/18-August-2024-Sunday.md",
     "Office Work/Smart POA Nuxt 3 Migration.md",
     "Archive/Aarti.md",
@@ -171,11 +175,6 @@
     "Study/Vue/From Zero to something/4. Vite.md",
     "Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
     "Study/Vue/From Zero to something",
-    "Daily Notes/2024/July/23-July-2024-Tuesday.md",
-    "Study/Vue/From Zero to something/1. The progressive framework.md",
-    "Others/Things to do Today.md",
-    "Others/Birthday/Untitled.md",
-    "Office Work/Smart POA.md",
     "Daily Notes/2024/August",
     "Startup",
     "Gym",

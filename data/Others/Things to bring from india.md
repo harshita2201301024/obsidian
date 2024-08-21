@@ -21,6 +21,3 @@ winter dress shilpa
 uncle pendrive
 second hand laptop
 30g gold
-
-
-written m mail kar do jo bhi h
