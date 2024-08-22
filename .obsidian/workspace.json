@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "file": "data/Office Work/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "file": "data/Office Work/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md",
+                "file": "data/Office Work/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/From Zero to something/6. Single File Component.md"
+                "file": "data/Office Work/Links.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/From Zero to something/6. Single File Component.md",
     "data/Office Work/Users.md",
     "data/Office Work/Links.md",
     "data/Office Work/Smart POA.md",
@@ -189,7 +190,6 @@
     "data/Others/Things to bring from india.md",
     "data/Daily Notes/2024/July/03-July-2024-Wednesday.md",
     "data/Daily Notes/2024/July/11-July-2024-Thursday.md",
-    "data/Office Work/dummy.md",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
     "data/Others/Birthday",
