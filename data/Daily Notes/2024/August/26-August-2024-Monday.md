@@ -7,6 +7,7 @@ Submit Timesheet - 08: 00 AM - 08: 30 AM Submit Timesheet
 Ajumal PR fix - 08: 30 AM - 08: 35 AM Submit PR
 Office - 08: 35 AM - 04: 30 PM 
 Apply for next day leave - 10: 00 AM - 10: 15 AM
-Phone ESIM to Physical Sim
+Phone ESIM to Physical Sim - 04:30 PM - 08:30 PM
+House Cleaning - 08: 30 PM - 09: 30 PM 
 Pick Shilpa from airport 
 Matar Mashroom + rice 
