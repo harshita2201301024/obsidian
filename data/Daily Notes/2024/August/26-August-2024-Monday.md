@@ -6,4 +6,4 @@ Go to gym in morning
 Ajumal PR fix
 Apply for next day leave
 Pick Shilpa from airport
-matar paneer 
+Matar Mashroom + rice 
