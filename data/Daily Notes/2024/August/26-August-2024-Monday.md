@@ -7,3 +7,4 @@ Ajumal PR fix
 Apply for next day leave
 Pick Shilpa from airport
 Matar Mashroom + rice 
+Phone ESIM to Physical Sim
