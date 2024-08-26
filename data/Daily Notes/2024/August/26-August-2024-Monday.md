@@ -30,13 +30,13 @@ Matar Mashroom + rice
 
 56121 - 21 aug - 3 hour
 56974 - 21 aug - 1 hour
-56285 - 21 aug - 1 hour
+56285 - 21 aug - 2 hour
 56119 - 21 aug - 2hour
 
 56109 - 22 aug - 2 hour
 57222,57230 - 22 aug - 1 hour
 57214 - 22 aug - 1 hour
-56461 - foreign investor 22 aug - 4 hour 
+56461 - foreign investor - 22 aug - 4 hour 
 
 
 56992 - 23 aug - 2 hour
