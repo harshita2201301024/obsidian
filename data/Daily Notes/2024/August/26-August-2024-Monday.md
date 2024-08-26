@@ -13,24 +13,8 @@ Pick Shilpa from airport - 08: 30 PM - 09: 30 PM
 Matar Mashroom + rice 
 
 
-55957
-56992 - 23 aug - 1 hour
-57222,57230 - 22 aug - 1 hour
-57348 - 23 aug - foreeign investor - 4 hour
-57214 - 22 aug - 1 hour
 
 
-
-55978 - 19,20 aug - 2hour
-
-
-
-57219 - 23 aug - 1 hour
-
-
-
-
-56530 - 23 aug - 1 hour
 
 
 55919 - 19 aug - 2hour
@@ -49,4 +33,12 @@ Matar Mashroom + rice
 56119 - 21 aug - 2hour
 
 56109 - 22 aug - 2 hour
+57222,57230 - 22 aug - 1 hour
+57214 - 22 aug - 1 hour
 
+
+56992 - 23 aug - 1 hour
+57348 - 23 aug - foreeign investor - 4 hour
+55978 - 19,20 aug - 2hour
+57219 - 23 aug - 1 hour
+56530 - 23 aug - 1 hour
