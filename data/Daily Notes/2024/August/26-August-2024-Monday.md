@@ -10,6 +10,8 @@ Office - 08: 35 AM - 04: 30 PM
 57323 - nuxt 3
 57328 - nuxt 3
 send mail for timesheet
+Cash from ATM
+
 
 
 Apply for next day leave - 10: 00 AM - 10: 15 AM
