@@ -15,4 +15,6 @@ Matar Mashroom + rice
 
 55957
 56992 - 23 aug - 1 hour
-57222,57230 - 22 aug - 0.5
+57222,57230 - 22 aug - 1 hour
+57348 - 23 aug - foreeign investor - 4 hour
+
