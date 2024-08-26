@@ -6,6 +6,11 @@ Get Ready for Office 07: 30 AM - 08: 00 AM Get Ready
 <mark style="background: #BBFABBA6;">Submit Timesheet - 08: 00 AM - 08: 30 AM Submit Timesheet</mark>
 <mark style="background: #BBFABBA6;">Ajumal PR fix - 08: 30 AM - 08: 35 AM Submit PR</mark>
 Office - 08: 35 AM - 04: 30 PM 
+57361 - smart poa
+57323 - nuxt 3
+57328 - nuxt 3
+send mai
+
 Apply for next day leave - 10: 00 AM - 10: 15 AM
 Phone ESIM to Physical Sim - 04:30 PM - 07:30 PM
 House Cleaning - 07: 30 PM - 08: 30 PM 
