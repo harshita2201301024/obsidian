@@ -7,8 +7,8 @@ Get Ready for Office 07: 30 AM - 08: 00 AM Get Ready
 <mark style="background: #BBFABBA6;">Ajumal PR fix - 08: 30 AM - 08: 35 AM Submit PR</mark>
 Office - 08: 35 AM - 04: 30 PM 
 57361 - smart poa
-57323 - nuxt 3
-57328 - nuxt 3
+57323 - nuxt 3 - 
+57328 - nuxt 3 - 1 hour
 send mail for timesheet
 Cash from ATM
 
