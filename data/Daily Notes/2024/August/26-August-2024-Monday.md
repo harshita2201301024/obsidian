@@ -9,7 +9,8 @@ Office - 08: 35 AM - 04: 30 PM
 57361 - smart poa
 57323 - nuxt 3
 57328 - nuxt 3
-send mai
+send mail for timesheet
+
 
 Apply for next day leave - 10: 00 AM - 10: 15 AM
 Phone ESIM to Physical Sim - 04:30 PM - 07:30 PM
