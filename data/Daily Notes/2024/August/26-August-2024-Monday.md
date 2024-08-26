@@ -18,18 +18,18 @@ Matar Mashroom + rice
 57222,57230 - 22 aug - 1 hour
 57348 - 23 aug - foreeign investor - 4 hour
 57214 - 22 aug - 1 hour
-56492 - 20 aug - 6 hour
-56121 - 21 aug - 3 hour
-56285 - 21 aug - 1 hour
-55978 - 19,20 aug - 2hour
-56119 - 21 aug - 2hour
 
-56628 - 20 aug - 1 hour
+
+
+55978 - 19,20 aug - 2hour
+
+
+
 57219 - 23 aug - 1 hour
 
 
-56974 - 21 aug - 1 hour
-56109 - 22 aug - 2 hour
+
+
 56530 - 23 aug - 1 hour
 
 
@@ -40,3 +40,13 @@ Matar Mashroom + rice
 
 56598 - 20 aug - 1 hour
 56568 - 20 aug - 1hour
+56628 - 20 aug - 1 hour
+56492 - 20 aug - 5 hour
+
+56121 - 21 aug - 3 hour
+56974 - 21 aug - 1 hour
+56285 - 21 aug - 1 hour
+56119 - 21 aug - 2hour
+
+56109 - 22 aug - 2 hour
+
