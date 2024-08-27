@@ -7,5 +7,8 @@ Send mail for Leave Apply and regularization -> 05: 30 PM - 06: 00 PM
 Setup Zoho in phone -> 06: 00 PM - 06: 30 PM
 Apple Center phone booking -> 06: 30 PM - 07: 00 PM
 Fix All Issues - 08:30 AM - 05:30 PM
-Grocerry Order -
+Grocery Order -> 07: 00 PM - 07: 30 PM
+Study Vue.js -> 07:
+Wedding Videos -> 08: 00 PM - 10: 00 PM
+
 
