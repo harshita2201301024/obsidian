@@ -9,6 +9,7 @@ Setup Zoho in phone -> 06: 00 PM - 06: 30 PM
 Apple Center phone booking -> 06: 30 PM - 07: 00 PM
 Grocery Order -> 07: 00 PM - 07: 30 PM
 Study Vue.js -> 07: 30 PM - 08: 30 PM
+Business Meeting -> 08: 30 PM - 09: 30 PM
 Wedding Videos -> 08: 00 PM - 10: 00 PM
 
 
