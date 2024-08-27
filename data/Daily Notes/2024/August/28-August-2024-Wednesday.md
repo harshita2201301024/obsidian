@@ -5,4 +5,5 @@ Go to Gym\
 Send mail for Leave Apply and regularization
 Setup Zoho in phone
 Apple Center phone booking
+Fix All Issues
 
