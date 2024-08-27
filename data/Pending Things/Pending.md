@@ -3,16 +3,16 @@
 - [x] Give extra key to sunny bhaiya - 5 august ✅ 2024-08-21
 - [x] Buy Dress for Birthday and shoes - 5 august ✅ 2024-08-21
 
-- [ ] Aakash Speak with Sumeet regarding if i work from india - 6 august
-- [ ] Wax - 6 august
+- [x] Aakash Speak with Sumeet regarding if i work from india - 6 august
+- [x] Wax - 6 august
 
 - [x] Car Service - 6 august - car wiper, mirror, light bulb, tyres check, back mirror, car tinting, AC water check ✅ 2024-08-21
 
 - [ ] Shilpa Medical - 7,8,9 august wed, thrus, friday
 - [ ] Shilpa Bank Account - 7,8,9 august
 
-- [ ] Dubai job resign - 10 august
-- [ ] Govt job resign - 10 august
+- [x] Dubai job resign - 10 august
+- [x] Govt job resign - 10 august
 
 - [x] Plan Rakhi - 11 august ✅ 2024-08-21
 - [x] Book India Ticket - 11 august ✅ 2024-08-21
