@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md"
+                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md"
               }
             }
           },
@@ -163,11 +163,12 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Daily Notes/2024/August/Untitled.md",
     "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
-    "data/Daily Notes/2024/August/26-August-2024-Monday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Links.md",
     "data/Pending Things/Pending.md",
@@ -189,7 +190,6 @@
     "data/Archive/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
     "data/Startup/Business.md",
-    "data/Startup/Shilpa.md",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
     "data/Others/Birthday",
