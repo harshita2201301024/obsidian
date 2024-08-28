@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Daily Notes/2024/August/28-August-2024-Wednesday.md"
               }
             }
           },
@@ -163,13 +163,13 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Office Work/Links.md",
-    "data/Office Work/Users.md",
-    "data/Pending Things/Pending.md",
-    "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
+    "data/Office Work/Users.md",
+    "data/Office Work/Links.md",
+    "data/Pending Things/Pending.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Study/Vue/From Zero to something/6. Single File Component.md",
     "data/Office Work/Smart POA.md",
