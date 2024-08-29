@@ -13,3 +13,4 @@ Kapde Lapetna -> 8PM - 9PM
 
 
 
+Replace profile with tradename
