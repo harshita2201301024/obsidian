@@ -14,3 +14,4 @@ Kapde Lapetna -> 8PM - 9PM
 
 
 Replace profile with tradename
+Disable Link Button
