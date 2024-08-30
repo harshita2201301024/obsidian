@@ -51,5 +51,7 @@ Leen
 
 go to dev-helm
 create new branch add 3 files
-1. 
+1. make changes templates/portal.yaml
+2. make changes in values.yaml
+3. make changes in chart.yaml
 Atlast fleet.yml in dev portal
