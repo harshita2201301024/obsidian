@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Things to do Today.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Things to do Today.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Things to do Today.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Things to do Today.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Others/Things to do Today.md",
     "data/Office Work/Links.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
@@ -189,7 +190,6 @@
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Archive/Aarti.md",
     "Vue 2 to Vue 3 Migration.md",
-    "data/Startup/Business.md",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
     "data/Others/Birthday",
