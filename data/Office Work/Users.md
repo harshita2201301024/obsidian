@@ -80,3 +80,6 @@ tick mark center
 }
 
 
+We gave new customers $10 for joining, and we gave them $10 more every time
+they referred a friend.
+
