@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Things to bring from india.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Things to bring from india.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Others/Things to bring from india.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Others/Things to bring from india.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Others/Things to do Today.md",
+    "data/Others/Things to bring from india.md",
+    "data/Office Work/Links.md",
     "data/Office Work/Users.md",
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
@@ -170,8 +173,6 @@
     "data/Daily Notes/2024/August/26-August-2024-Monday.md",
     "data/Others/Novels/Zero To One.md",
     "data/Others/Novels/Untitled.md",
-    "data/Others/Things to do Today.md",
-    "data/Office Work/Links.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Pending Things/Pending.md",
     "data/Daily Notes/2024/August/Untitled.md",
@@ -189,7 +190,6 @@
     "data/Daily Notes/2024/August/18-August-2024-Sunday.md",
     "data/Pending Things",
     "data/Gym/Gym.md",
-    "data/Untitled.md",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
     "data/Others/Birthday",
