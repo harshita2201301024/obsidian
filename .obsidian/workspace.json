@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md"
+                "file": "data/Office Work/Links.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
     "data/Office Work/Users.md",
+    "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Daily Notes/2024/September",
     "data/Office Work/Links.md",
@@ -183,7 +184,6 @@
     "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Study/Vue/From Zero to something/6. Single File Component.md",
-    "data/Office Work/Smart POA.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
