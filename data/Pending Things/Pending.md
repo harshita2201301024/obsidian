@@ -31,3 +31,4 @@
 - [ ] Aakash Plot market status
 - [ ] Bosa
 - [ ] Plants Change ram mathi
+- [ ] Fix table 
