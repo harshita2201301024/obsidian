@@ -10,16 +10,18 @@
 <mark style="background: #BBFABBA6;">belly</mark>
 <mark style="background: #BBFABBA6;">hair colors</mark>
 <mark style="background: #BBFABBA6;">shilpa undergarments</mark>
-mandir ka smaan
-photooo
-family photo
-chhoti tray
-aakash ug
-winter dress shilpa
+<mark style="background: #BBFABBA6;">mandir ka smaan</mark>
+<mark style="background: #BBFABBA6;">photooo</mark>
+<mark style="background: #BBFABBA6;">family photo</mark>
+<mark style="background: #BBFABBA6;">chhoti tray</mark>
+<mark style="background: #BBFABBA6;">aakash ug</mark>
+<mark style="background: #BBFABBA6;">winter dress shilpa</mark>
 
 **Things to take india**
-uncle pendrive
-second hand laptop
-30g gold
+<mark style="background: #BBFABBA6;">uncle pendrive</mark>
+<mark style="background: #BBFABBA6;">second hand laptop</mark>
+<mark style="background: #BBFABBA6;">30g gold</mark>
 
+
+Transfer money to mummy
 
