@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/26-August-2024-Monday.md"
+                "file": "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md"
               }
             }
           },
@@ -163,6 +163,8 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/26-August-2024-Monday.md",
+    "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
     "data/Others/Novels/Zero To One.md",
     "data/Others/Novels/Untitled.md",
     "data/Office Work/Users.md",
@@ -170,7 +172,6 @@
     "data/Office Work/Links.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Pending Things/Pending.md",
-    "data/Daily Notes/2024/August/26-August-2024-Monday.md",
     "data/Daily Notes/2024/August/Untitled.md",
     "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
@@ -189,7 +190,6 @@
     "data/Untitled.md",
     "data/2024-08-20.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
     "data/Others/Birthday",
