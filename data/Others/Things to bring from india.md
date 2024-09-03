@@ -25,4 +25,6 @@
 
 Transfer money to mummy
 Convert number to prepaid
+Talk about academy with bhai sister
+Airtel wifi plan
 
