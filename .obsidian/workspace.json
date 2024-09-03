@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Modify Business.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Modify Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+                "file": "data/Office Work/Modify Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/02-September-2024-Monday.md"
+                "file": "data/Office Work/Modify Business.md"
               }
             }
           },
@@ -161,13 +161,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/02-September-2024-Monday.md",
+    "data/Office Work/Modify Business.md",
     "data/Office Work/Untitled",
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
-    "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Daily Notes/2024/September",
     "data/Others/Things to bring from india.md",
     "data/Others/Things to do Today.md",
@@ -197,7 +198,6 @@
     "data/Others/Excalidraw/Untitled",
     "Untitled",
     "data/August Month Plan",
-    "data/Daily Notes/2024/August",
-    "data/Others/Important Links"
+    "data/Daily Notes/2024/August"
   ]
 }
