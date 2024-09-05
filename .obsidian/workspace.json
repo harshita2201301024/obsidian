@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Startup/Shilpa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Startup/Shilpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Startup/Shilpa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Startup/Shilpa.md"
               }
             }
           },
@@ -163,11 +163,12 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Startup/Business.md",
+    "data/Office Work/Users.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
     "data/Office Work/Links.md",
     "data/Office Work/Smart POA.md",
-    "data/Office Work/Users.md",
     "data/Office Work/Modify Business.md",
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
@@ -190,7 +191,6 @@
     "data/Study/Vue/From Zero to something/6. Single File Component.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
-    "data/Daily Notes/2024/August/09-August-2024-Friday.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
