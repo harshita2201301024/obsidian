@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Pending Things/Pending.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -163,13 +163,15 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/From Zero to something/2. Vue CLI.md",
+    "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
+    "data/Pending Things/Pending.md",
     "data/Startup/Business.md",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels/Zero To One.md",
     "data/Office Work/Users.md",
     "data/Others/Things to bring from india.md",
     "data/Others/Things to do Today.md",
-    "data/Pending Things/Pending.md",
     "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
@@ -189,8 +191,6 @@
     "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
-    "data/Study/Vue/From Zero to something/6. Single File Component.md",
-    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
