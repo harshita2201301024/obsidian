@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to bring from india.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to bring from india.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to bring from india.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Shilpa.md"
+                "file": "data/Others/Things to bring from india.md"
               }
             }
           },
@@ -163,7 +163,11 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Others/Things to do Today.md",
+    "data/Others/Things to bring from india.md",
+    "data/Pending Things/Pending.md",
     "data/Startup/Business.md",
+    "data/Startup/Shilpa.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
@@ -172,10 +176,8 @@
     "data/Office Work/Modify Business.md",
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
-    "data/Others/Things to bring from india.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
-    "data/Others/Things to do Today.md",
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
     "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
@@ -183,14 +185,12 @@
     "data/Others/Novels/Zero To One.md",
     "data/Others/Novels/Untitled.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
-    "data/Pending Things/Pending.md",
     "data/Daily Notes/2024/August/Untitled.md",
     "data/Daily Notes/2024/August/28-August-2024-Wednesday.md",
     "data/Daily Notes/2024/August/20-August-2024-Tuesday.md",
     "data/Daily Notes/2024/August/21-August-2024-Wednesday.md",
     "data/Study/Vue/From Zero to something/6. Single File Component.md",
     "data/Daily Notes/2024/August/05-August-2024-Monday.md",
-    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
