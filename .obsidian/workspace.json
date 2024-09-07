@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Others/Interview/HR interview Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Others/Interview/HR interview Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Others/Interview/HR interview Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md"
+                "file": "data/Others/Interview/HR interview Questions.md"
               }
             }
           },
@@ -163,8 +163,11 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Office Work/Links.md",
+    "data/Others/Interview/Frontend Web Architecture.md",
+    "data/Others/Interview/Enterprise Application Development and Architecture.md",
+    "data/Others/Birthday/Untitled.md",
     "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+    "data/Office Work/Links.md",
     "data/Daily Notes/2024/September/06-September-2024-Friday.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Modify Business.md",
@@ -188,9 +191,6 @@
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
-    "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
-    "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
-    "data/Daily Notes/2024/August/26-August-2024-Monday.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
