@@ -6,4 +6,5 @@ created: 2024-02-27 00:08
 3. Timesheet
 4. Post Job for academy
 5. Shilpa music class
-6. Prepare resume, coverletter  
+6. Prepare resume india, cover letter, 
+7. Go to Gym
