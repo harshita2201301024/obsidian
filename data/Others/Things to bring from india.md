@@ -23,15 +23,16 @@
 <mark style="background: #BBFABBA6;">30g gold</mark>
 
 
-Transfer money to mummy
+Give cash to mummy
 Convert number to prepaid
 Talk about academy with bhai sister
 Airtel wifi plan
 Buy phone for bhai
 Indian Coin
-Change name plate
+Change name plate of shippu's house
 Video and Photo Editing
 Eye Operation
-Book place for
+Book place for tour
+
 
 
