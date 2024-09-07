@@ -11,4 +11,5 @@ created: 2024-02-27 00:08
 8. Open Shilpa Bank Account
 9. Gym jaana
 10. cutting + beard
-11. 
+11. freelancing naukri
+12. 
