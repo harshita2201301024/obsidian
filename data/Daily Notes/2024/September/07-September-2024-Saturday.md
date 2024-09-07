@@ -9,4 +9,5 @@ created: 2024-02-27 00:08
 6. Prepare resume india, cover letter, 
 7. Go to Gym
 8. Open Shilpa Bank Account
-9. Cloteh
+9. Gym jaana
+10. 
