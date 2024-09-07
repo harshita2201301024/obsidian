@@ -29,5 +29,8 @@ Talk about academy with bhai sister
 Airtel wifi plan
 Buy phone for bhai
 Indian Coin
+Change name plate
+Video and Photo Editing
+
 
 
