@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Pending Things/Pending.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Pending Things/Pending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Pending Things/Pending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md"
+                "file": "data/Pending Things/Pending.md"
               }
             }
           },
@@ -164,9 +164,10 @@
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
     "data/Others/Things to bring from india.md",
+    "data/Pending Things/Pending.md",
+    "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Daily Notes/2024/September/06-September-2024-Friday.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
@@ -174,7 +175,6 @@
     "Untitled.md",
     "data/Study/Vue/From Zero to something/2. Vue CLI.md",
     "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
-    "data/Pending Things/Pending.md",
     "data/Startup/Business.md",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels/Zero To One.md",

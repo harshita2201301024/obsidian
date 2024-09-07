@@ -29,6 +29,5 @@
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
-- [ ] Bosa
-- [ ] Plants Change ram mathi
-- [ ] Fix table 
+- [x] Plants Change 
+- [x] Fix table 
