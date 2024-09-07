@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Interview/HR interview Questions.md"
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Frontend Web Architecture.md",
     "data/Others/Interview/Enterprise Application Development and Architecture.md",
     "data/Others/Birthday/Untitled.md",
@@ -190,7 +191,6 @@
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
-    "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
