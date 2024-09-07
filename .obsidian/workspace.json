@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Pending Things/Pending.md",
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Pending Things/Pending.md"
+                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md"
               }
             }
           },
@@ -163,34 +163,34 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Others/Things to bring from india.md",
-    "data/Others/Things to do Today.md",
-    "data/Pending Things/Pending.md",
+    "data/Office Work/Links.md",
     "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+    "data/Daily Notes/2024/September/06-September-2024-Friday.md",
+    "data/Office Work/dummy.md",
+    "data/Office Work/Modify Business.md",
+    "data/Office Work/Smart POA.md",
+    "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Users.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Daily Notes/2024/September/06-September-2024-Friday.md",
-    "data/Office Work/Smart POA.md",
-    "data/Office Work/Links.md",
+    "data/Others/Things to bring from india.md",
+    "data/Others/Things to do Today.md",
+    "data/Startup/Business.md",
+    "data/Pending Things/Pending.md",
+    "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "Untitled.md",
     "data/Study/Vue/From Zero to something/2. Vue CLI.md",
     "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
-    "data/Startup/Business.md",
     "data/Others/Novels/Untitled.md",
     "data/Others/Novels/Zero To One.md",
-    "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
-    "data/Office Work/Modify Business.md",
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
-    "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
     "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
     "data/Daily Notes/2024/August/26-August-2024-Monday.md",
-    "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Pending Things",
     "data/Study/Vue/the Templating Syntax",
     "data/Study/Vue/From Zero to something",
