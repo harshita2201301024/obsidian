@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/September/08-September-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/September/08-September-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/September/08-September-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/07-September-2024-Saturday.md"
+                "file": "data/Daily Notes/2024/September/08-September-2024-Sunday.md"
               }
             }
           },
@@ -163,11 +163,11 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Daily Notes/2024/September/08-September-2024-Sunday.md",
     "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
     "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
-    "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Users.md",
     "data/Daily Notes/2024/September/06-September-2024-Friday.md",
