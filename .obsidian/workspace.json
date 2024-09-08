@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/September/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/September/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
+                "file": "data/Daily Notes/2024/September/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/03-September-2024-Tuesday.md"
+                "file": "data/Daily Notes/2024/September/Untitled.md"
               }
             }
           },
@@ -163,12 +163,13 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
+    "data/Daily Notes/2024/September/Untitled.md",
     "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Office Work/Modify Business.md",
     "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Daily Notes/2024/September/06-September-2024-Friday.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
-    "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Links.md",
@@ -188,7 +189,6 @@
     "data/Study/Vue/From Zero to something/2. Vue CLI.md",
     "data/Study/Vue/From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
     "data/Others/Novels/Untitled.md",
-    "data/Others/Novels/Zero To One.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
