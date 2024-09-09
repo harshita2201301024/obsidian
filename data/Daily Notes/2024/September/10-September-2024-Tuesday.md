@@ -9,4 +9,4 @@ created: 2024-02-27 00:08
 6. GYM
 7. Hair Color
 8. Make a plan for Revoults
-9. 
+9. Study Vue
