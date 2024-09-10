@@ -1,6 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
+GYM 
 Fix 2 issues
 pr merge of modify business name
 study vue.js
@@ -14,7 +15,7 @@ aakash job posts
 academy job post
 Launch TKC Dubai
 
-pending
+Pending
 - [ ] Shilpa Bank Account - 7,8,9 august
 - [ ] Shilpa Music Class - 11 august
 - [ ] Plan October trip - 11 august
