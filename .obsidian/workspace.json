@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
+                "file": "data/Office Work/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
+                "file": "data/Office Work/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
+                "file": "data/Office Work/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/10-September-2024-Tuesday.md"
+                "file": "data/Office Work/Links.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/September/09-September-2024-Monday.md",
     "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
+    "data/Daily Notes/2024/September/09-September-2024-Monday.md",
     "data/Daily Notes/2024/September/08-September-2024-Sunday.md",
     "data/Office Work/Links.md",
     "data/Office Work/Users.md",
