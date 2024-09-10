@@ -9,4 +9,6 @@ data structure prepartion for revault and make a plan
 
 VAT 
 freelancing accounts
+aakash job posts
+academy job post
 
