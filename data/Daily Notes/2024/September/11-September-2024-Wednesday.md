@@ -14,3 +14,6 @@ aakash job posts
 academy job post
 Launch TKC Dubai
 
+pending
+- [ ] Shilpa Bank Account - 7,8,9 august
+- [ ] 
