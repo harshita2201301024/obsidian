@@ -10,5 +10,5 @@ created: 2024-02-27 00:08
 7. Reply to Reolut's 04:30 PM - 05:00 PM
 8. Reply to uplers's
 10. Make a plan for Revoults - 05:00 PM - 06:00 PM
-11. Study Vue - 06:
+11. Study Vue - 06:00 PM - 08:00 PM
 
