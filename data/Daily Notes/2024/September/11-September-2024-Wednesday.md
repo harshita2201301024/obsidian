@@ -16,4 +16,11 @@ Launch TKC Dubai
 
 pending
 - [ ] Shilpa Bank Account - 7,8,9 august
-- [ ] 
+- [ ] Shilpa Music Class - 11 august
+- [ ] Plan October trip - 11 august
+- [ ] Car Key - 12 august
+- [ ] Academy plan - 13 August
+- [ ] Shilpa old house transfer\
+- [ ] Shilpa old house construction
+- [ ] Plot Boundary and foundation 
+- [ ] Aakash Plot market status
