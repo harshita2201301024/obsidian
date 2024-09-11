@@ -54,4 +54,3 @@ for (let fruit of fruits) {
 - **`for...in`**: Iterates over keys (property names) of an object.
 - **`for...of`**: Iterates over values of an iterable (like arrays or strings).
 
-
