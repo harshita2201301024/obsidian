@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5872000f5d6fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Study/Vue/the Templating Syntax/9.4 Events with v-on.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.4 Events with v-on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Study/Vue/the Templating Syntax/9.4 Events with v-on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md"
+                "file": "data/Study/Vue/the Templating Syntax/9.4 Events with v-on.md"
               }
             }
           },
@@ -162,9 +175,10 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4cdaacc8adca3dff",
+  "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
     "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
+    "data/Study/Vue/the Templating Syntax/9.4 Events with v-on.md",
     "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Others/Things to bring from india.md",
     "data/Pending Things/Pending.md",
@@ -189,7 +203,6 @@
     "data/Others/Interview/Enterprise Application Development and Architecture.md",
     "data/Others/Birthday/Untitled.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
