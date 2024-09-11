@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Untitled.md",
+                "file": "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Untitled.md",
+                "file": "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Untitled.md",
+                "file": "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Untitled.md"
+                "file": "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md"
               }
             }
           },
@@ -178,7 +178,7 @@
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
     "data/Study/Vue/11. How to build Components/11.4. Derive state with computed.md",
-    "data/Study/Vue/11. How to build Components/Untitled.md",
+    "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
     "data/Study/Vue/11. How to build Components/11.3 ref or reactive.md",
     "data/Study/Vue/11. How to build Components/11.2 Reactive property with `reactive`.md",
     "data/Study/Vue/11. How to build Components/11.1. Reactive Property with ref.md",
