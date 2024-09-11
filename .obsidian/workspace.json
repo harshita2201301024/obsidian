@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
+                "file": "data/Study/Javascript/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14871039e31b122b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
+                "file": "data/Study/Javascript/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
+                "file": "data/Study/Javascript/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md"
+                "file": "data/Study/Javascript/Untitled.md"
               }
             }
           },
@@ -178,8 +177,10 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
     "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
+    "data/Study/Javascript/Untitled.md",
+    "data/Study/Javascript",
+    "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
     "data/Study/Vue/10. Directives",
     "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
@@ -204,7 +205,6 @@
     "data/Others/Interview/HR interview Questions.md",
     "data/Others/Interview/Frontend Web Architecture.md",
     "data/Others/Interview/Enterprise Application Development and Architecture.md",
-    "data/Others/Birthday/Untitled.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
@@ -212,7 +212,6 @@
     "data/Study/Vue/8. From Zero to something",
     "data/Others/Birthday",
     "data/Others/Excalidraw/Untitled",
-    "Untitled",
-    "data/August Month Plan"
+    "Untitled"
   ]
 }
