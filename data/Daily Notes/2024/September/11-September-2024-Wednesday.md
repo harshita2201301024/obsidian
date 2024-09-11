@@ -7,6 +7,8 @@ pr merge of modify business name
 study vue.js
 <mark style="background: #BBFABBA6;">video screening complete of uplers</mark>
 data structure prepartion for revault and make a plan
+two months utility bills
+
 
 
 VAT 

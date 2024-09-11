@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
+                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14871039e31b122b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
+                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
+                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md"
+                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md"
               }
             }
           },
@@ -165,6 +164,7 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Others/Things to bring from india.md",
     "data/Pending Things/Pending.md",
@@ -178,7 +178,6 @@
     "data/Daily Notes/2024/September/07-September-2024-Saturday.md",
     "data/Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
     "data/Study/Vue/the Templating Syntax/9.1 Interpolation.md",
-    "data/Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Daily Notes/2024/September/06-September-2024-Friday.md",
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/04-September-2024-Wednesday.md",
