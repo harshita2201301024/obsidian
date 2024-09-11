@@ -96,3 +96,5 @@ for (let fruit of fruits) {
 ```
 
 In summary, `for...in` **can** be used with arrays, but it’s better to use `for...of` for value iteration, especially to avoid unintended behavior with custom properties or non-numeric keys.
+
+Be careful though: if the object comes from the server as JSON, there is no guarantee regarding the order of the properties in the object. So it’s usually best to stick to arrays when the order matters.
