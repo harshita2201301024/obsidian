@@ -17,7 +17,7 @@ Launch TKC Dubai
 
 Pending
 - [ ] Shilpa Bank Account - 7,8,9 august
-- [ ] Shilpa Music Class - 11 august
+- [x] Shilpa Music Class - 11 august ✅ 2024-09-11
 - [ ] Plan October trip - 11 august
 - [ ] Car Key - 12 august
 - [ ] Academy plan - 13 August
