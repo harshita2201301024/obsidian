@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Javascript/Untitled.md",
+                "file": "data/Study/Javascript/Promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Javascript/Untitled.md",
+                "file": "data/Study/Javascript/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Javascript/Untitled.md",
+                "file": "data/Study/Javascript/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Javascript/Untitled.md"
+                "file": "data/Study/Javascript/Promises.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Javascript/Prmoises.md",
-    "data/Study/Javascript/Untitled.md",
+    "data/Study/Javascript/For_in and For_of.md",
+    "data/Study/Javascript/Async_Await.md",
+    "data/Study/Javascript/Promises.md",
     "data/Study/Javascript/Proxies.md",
     "data/Study/Javascript/Symbols.md",
     "data/Study/Javascript/Map and Set.md",
@@ -204,7 +205,6 @@
     "data/Daily Notes/2024/September/05-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/04-September-2024-Wednesday.md",
     "data/Daily Notes/2024/September/03-September-2024-Tuesday.md",
-    "data/Daily Notes/2024/September/02-September-2024-Monday.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
