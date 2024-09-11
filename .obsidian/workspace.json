@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Javascript/For_in and For_of.md",
+                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Javascript/For_in and For_of.md",
+                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Javascript/For_in and For_of.md",
+                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Javascript/For_in and For_of.md"
+                "file": "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md"
               }
             }
           },
@@ -177,9 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Study/Javascript/For_in and For_of.md",
     "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
     "data/Study/Javascript/Promises.md",
-    "data/Study/Javascript/For_in and For_of.md",
     "data/Study/Javascript/Async_Await.md",
     "data/Study/Javascript/Proxies.md",
     "data/Study/Javascript/Symbols.md",
