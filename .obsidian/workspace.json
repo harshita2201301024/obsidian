@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md",
+                "file": "data/Study/Vue/14. Many define components/14.1 option api.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md",
+                "file": "data/Study/Vue/14. Many define components/14.1 option api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md",
+                "file": "data/Study/Vue/14. Many define components/14.1 option api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md"
+                "file": "data/Study/Vue/14. Many define components/14.1 option api.md"
               }
             }
           },
@@ -175,11 +175,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/14. Many ways to define components",
-    "data/Office Work/Links.md",
     "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md",
+    "data/Study/Vue/14. Many define components/14.1 option api.md",
+    "data/Study/Vue/14. Many define components",
+    "data/Office Work/Links.md",
     "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
     "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Study/Vue/13. Composition API/13. Composition API.md",
@@ -211,7 +212,6 @@
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
-    "data/Study/Vue/9. the Templating Syntax",
-    "data/Study/Vue/8. From Zero to something"
+    "data/Study/Vue/9. the Templating Syntax"
   ]
 }
