@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+                "file": "data/Study/Vue/12. Style your components/12. Style your components.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+                "file": "data/Study/Vue/12. Style your components/12. Style your components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+                "file": "data/Study/Vue/12. Style your components/12. Style your components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md"
+                "file": "data/Study/Vue/12. Style your components/12. Style your components.md"
               }
             }
           },
@@ -175,13 +175,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+    "data/Study/Vue/12. Style your components/12. Style your components.md",
     "data/Study/Vue/12. Style your components",
     "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
     "data/Study/Vue/11. How to build Components/11.6 Passing props to components.md",
     "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
-    "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
     "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Office Work/Links.md",
@@ -211,7 +212,6 @@
     "data/Pending Things",
     "data/Study/Vue/9. the Templating Syntax",
     "data/Study/Vue/8. From Zero to something",
-    "data/Others/Birthday",
-    "data/Others/Excalidraw/Untitled"
+    "data/Others/Birthday"
   ]
 }
