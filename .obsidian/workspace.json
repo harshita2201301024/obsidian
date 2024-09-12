@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Office Work/Links.md",
     "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
     "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
     "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
@@ -185,7 +186,6 @@
     "data/Study/Vue/14. Many define components/14.1 option api.md",
     "data/Study/Vue/13. Composition API/13.2 Extracting common login in use....md",
     "data/Study/Vue/14. Many define components",
-    "data/Office Work/Links.md",
     "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
     "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Study/Vue/13. Composition API/13. Composition API.md",
