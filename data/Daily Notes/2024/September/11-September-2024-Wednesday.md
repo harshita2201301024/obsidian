@@ -1,6 +1,8 @@
 ---
 created: 2024-02-27 00:08
 ---
+login was not working for whole day
+
 GYM 
 Fix 2 issues
 pr merge of modify business name

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Custom events with emit.md",
+                "file": "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Custom events with emit.md",
+                "file": "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Custom events with emit.md",
+                "file": "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/11. How to build Components/Custom events with emit.md"
+                "file": "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+    "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
     "data/Study/Vue/11. How to build Components/11.6 Passing props to components.md",
-    "data/Study/Vue/11. How to build Components/Custom events with emit.md",
     "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
     "data/Study/Vue/11. How to build Components/11.4. Derive state with computed.md",
     "data/Study/Vue/11. How to build Components/11.3 ref or reactive.md",
@@ -200,7 +201,6 @@
     "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
     "data/Study/Vue/10. Directives",
     "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
-    "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Others/Things to bring from india.md",
     "data/Pending Things/Pending.md",
     "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
