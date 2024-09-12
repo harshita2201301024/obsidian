@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md"
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Office Work/Links.md",
     "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
     "data/Study/Vue/13. Composition API/13. Composition API.md",
@@ -188,7 +189,6 @@
     "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
     "data/Study/Vue/11. How to build Components/11.6 Passing props to components.md",
     "data/Study/Vue/11. How to build Components/11.7 Custom events with emit.md",
-    "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Study/Vue/11. How to build Components/11.4. Derive state with computed.md",
     "data/Study/Vue/11. How to build Components/11.3 ref or reactive.md",
