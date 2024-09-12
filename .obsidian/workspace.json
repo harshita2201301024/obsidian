@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
+                "file": "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
+                "file": "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
+                "file": "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.2 Implicit return.md"
+                "file": "data/Study/Vue/15. Script Setup/15.3 defineProps.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
     "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
+    "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
+    "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
     "data/Study/Vue/14. Many define components/14.2 Composition api.md",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components/14.1 option api.md",
@@ -207,7 +208,6 @@
     "data/Study/Vue/10. Directives/10.6 Raw content with v-pre.md",
     "data/Study/Vue/10. Directives/10.5. HTML content with v-html.md",
     "data/Study/Vue/10. Directives/10.1 Conditions in templates with v-if.md",
-    "data/Study/Javascript/For_in and For_of.md",
     "data/Study/Javascript",
     "data/Study/Vue/10. Directives",
     "data/Office Work/Untitled",
