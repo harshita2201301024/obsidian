@@ -84,3 +84,44 @@ downloadFile(params) {
         .catch(reject)
     })
   }
+
+  initiateBrowserDownload(blobUrl, fileName, resolve, blob, blob2) {
+    const isMobileSafari =
+      /^((?!chrome|android).)*safari/i.test(navigator.userAgent) &&
+      /iPad|iPhone|iPod/.test(navigator.platform)
+    if (isMobileSafari) {
+      FileSaver.saveAs(blob2, fileName)
+    } else {
+      FileSaver.saveAs(blob, fileName)
+    }
+    console.log(blobUrl)
+    console.log(resolve)
+
+    //
+    // if (isMobileSafari) {
+    //   const reader = new FileReader()
+    //   reader.onload = function () {
+    //     const link = document.createElement('a')
+    //
+    //     link.href = reader.result
+    //     link.download = fileName
+    //     document.body.appendChild(link)
+    //     link.click()
+    //     setTimeout(function () {
+    //       window.URL.revokeObjectURL(blobUrl)
+    //       resolve('')
+    //     }, 500)
+    //   }
+    //   reader.readAsDataURL(blobUrl)
+    // } else {
+    //   const link = document.createElement('a')
+    //   link.href = blobUrl
+    //   link.setAttribute('download', fileName)
+    //   document.body.appendChild(link)
+    //   link.click()
+    //   setTimeout(function () {
+    //     window.URL.revokeObjectURL(blobUrl)
+    //     resolve('')
+    //   }, 500)
+    // }
+  }
