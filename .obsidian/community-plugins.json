@@ -15,5 +15,6 @@
   "obsidian-format-code",
   "code-styler",
   "execute-code",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "obsidian-linter"
 ]
