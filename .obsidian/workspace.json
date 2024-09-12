@@ -175,10 +175,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "1b5872000f5d6fe6",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
-    "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+    "data/Study/Vue/13. Composition API",
+    "data/Study/Vue/Untitled.md",
     "data/Study/Vue/12. Style your components/12. Style your components.md",
+    "data/Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
     "data/Study/Vue/12. Style your components",
     "data/Study/Vue/11. How to build Components/11.5 Execute a side effect with watchEffect and watch.md",
     "data/Study/Vue/11. How to build Components/11.6 Passing props to components.md",
@@ -205,8 +207,6 @@
     "data/Study/Javascript",
     "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
     "data/Study/Vue/10. Directives",
-    "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
-    "data/Others/Things to bring from india.md",
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September",
     "data/Pending Things",
