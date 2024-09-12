@@ -55,3 +55,32 @@ create new branch add 3 files
 2. make changes in values.yaml
 3. make changes in chart.yaml
 Atlast fleet.yml in dev portal
+
+
+
+
+downloadFile(params) {
+    return new Promise((resolve, reject) => {
+      const url = this.formatUrl(params.originalPath)
+      InternalApi.downloadFile(url)
+        .then(({ response, fileName }) => {
+          const blob = new Blob([response], { type: response.type })
+          const blobSafari = new Blob([response], { type: 'application/octet-stream' })
+          if (window.navigator && window.navigator.msSaveOrOpenBlob) {
+            window.navigator.msSaveOrOpenBlob(blob)
+            return
+          }
+          const blobUrl = window.URL.createObjectURL(blob)
+
+          if (params.isPreview) {
+            openInNewTab(blobUrl)
+            resolve('')
+          } else if (params.getBlob) {
+            resolve(blobUrl)
+          } else {
+            this.initiateBrowserDownload(blobUrl, fileName, resolve, blob, blobSafari)
+          }
+        })
+        .catch(reject)
+    })
+  }
