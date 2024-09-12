@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Office Work/Links.md",
+    "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Study/Vue/13. Composition API/13.1 Clean design with the Composition API.md",
     "data/Study/Vue/13. Composition API/13. Composition API.md",
     "data/Study/Vue/12. Style your components/12. Style your components.md",
