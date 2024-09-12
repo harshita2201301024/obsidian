@@ -14,5 +14,6 @@
   "highlightr-plugin",
   "obsidian-format-code",
   "code-styler",
-  "execute-code"
+  "execute-code",
+  "obsidian-plugin-prettier"
 ]
