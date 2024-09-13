@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.2 Unit Test.md",
+                "file": "data/Study/Vue/16. Testing your app/16.3 Vitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.2 Unit Test.md",
+                "file": "data/Study/Vue/16. Testing your app/16.3 Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.2 Unit Test.md",
+                "file": "data/Study/Vue/16. Testing your app/16.3 Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.2 Unit Test.md"
+                "file": "data/Study/Vue/16. Testing your app/16.3 Vitest.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/16. Testing your app/16.1 The problem with troubleshooting is that trouble shoots back.md",
     "data/Study/Vue/16. Testing your app/16.2 Unit Test.md",
+    "data/Study/Vue/16. Testing your app/16.3 Vitest.md",
+    "data/Study/Vue/16. Testing your app/16.1 The problem with troubleshooting is that trouble shoots back.md",
     "data/Study/Vue/15. Script Setup/15.6 Closed by default and defineExpose.md",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup/15.5 defineOptions.md",
@@ -207,7 +208,6 @@
     "data/Study/Vue/11. How to build Components/11.3 ref or reactive.md",
     "data/Study/Vue/11. How to build Components/11.2 Reactive property with `reactive`.md",
     "data/Study/Vue/11. How to build Components/11.1. Reactive Property with ref.md",
-    "data/Study/Vue/11. How to build Components/11. How to build components.md",
     "data/Study/Vue/11. How to build Components",
     "data/Study/Javascript",
     "data/Study/Vue/10. Directives",
