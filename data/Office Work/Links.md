@@ -6,6 +6,9 @@ deployment Portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/portal-d
 iid portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/det-iid_portal
 Epics - https://devops.det.gov.ae/DefaultCollection/IID/_backlogs/backlog/IID%20Team/Epics
 Rancher - https://k8s01-rmc.corp.det.gov.ae/dashboard/c/c-m-g4sb59z7/explorer/apps.deployment/iid-uat/portal#pods
+feature dev deployment - [https://devops.det.gov.ae/DefaultCollection/IID/_git/gitops-feature-dev](https://devops.det.gov.ae/DefaultCollection/IID/_git/gitops-feature-dev "https://devops.det.gov.ae/defaultcollection/iid/_git/gitops-feature-dev")
+
+
 
 
 ```
