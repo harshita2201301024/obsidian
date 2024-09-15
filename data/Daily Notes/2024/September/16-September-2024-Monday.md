@@ -5,7 +5,6 @@ Wake up at 07: 00 AM
 Record Weight
 Bank Account - 08: 00 AM - 09:30 AM
 Office Work -  https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59251/
-
-OLX Ad Post
+10: 00 AM - 04: 00 PM
 
 
