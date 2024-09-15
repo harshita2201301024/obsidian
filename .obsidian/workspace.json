@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/11-September-2024-Wednesday.md"
+                "file": "data/Daily Notes/2024/September/12-September-2024-Thursday.md"
               }
             }
           },
@@ -175,13 +175,13 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "1b5872000f5d6fe6",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Daily Notes/2024/September/10-September-2024-Tuesday.md",
     "data/Daily Notes/2024/September/09-September-2024-Monday.md",
     "data/Others/Things to bring from india.md",
     "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
-    "data/Daily Notes/2024/September/11-September-2024-Wednesday.md",
     "data/Study/Vue/16. Testing your app/16.4 @vue test-utils.md",
     "data/Study/Vue/16. Testing your app/16.3 Vitest.md",
     "data/Office Work/Links.md",
