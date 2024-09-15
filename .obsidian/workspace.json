@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md",
+                "file": "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md",
+                "file": "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md",
+                "file": "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md"
+                "file": "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/16. Testing your app/16.4 @vue test-utils.md",
     "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md",
+    "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md",
+    "data/Study/Vue/16. Testing your app/16.4 @vue test-utils.md",
     "data/Daily Notes/2024/September/16-September-2024-Monday.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Others/Birthday/Untitled.md",
@@ -203,7 +204,6 @@
     "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
     "data/Study/Vue/15. Script Setup/15.2 Implicit return.md",
     "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
-    "data/Study/Vue/14. Many define components/14.2 Composition api.md",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
     "data/Study/Vue/13. Composition API",
