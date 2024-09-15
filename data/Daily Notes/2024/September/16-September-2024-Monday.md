@@ -8,4 +8,5 @@ Office Work -  https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/5
 10: 00 AM - 04: 00 PM
 
 Study - 04: 00 PM - 07: 00 PM
+Logo + Visiting Card + Website - 
 
