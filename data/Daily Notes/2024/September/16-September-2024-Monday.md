@@ -14,6 +14,21 @@ Logo + Visiting Card + Website - 07: 00 PM - 09:00 PM
 Read Novel
 
 Pending
+VAT 
+freelancing accounts
+aakash job posts
+academy job post
+Launch TKC Dubai
+mac charger fix
+Shilpa Bank Account - 7,8,9 august
+- [x] Shilpa Music Class - 11 august ✅ 2024-09-11
+- [ ] Plan October trip - 11 august
+- [ ] Car Key - 12 august
+- [ ] Academy plan - 13 August
+- [ ] Shilpa old house transfer\
+- [ ] Shilpa old house construction
+- [ ] Plot Boundary and foundation 
+- [ ] Aakash Plot market status
 
 
 
