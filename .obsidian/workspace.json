@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Register a Dubai Mainland CB.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Register a Dubai Mainland CB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Links.md",
+                "file": "data/Office Work/Register a Dubai Mainland CB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Links.md"
+                "file": "data/Office Work/Register a Dubai Mainland CB.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Office Work/Register a Dubai Mainland CB.md",
+    "data/Office Work/Modify Business.md",
+    "data/Office Work/dummy.md",
     "data/Office Work/Links.md",
+    "data/Office Work/Register a Dubai Mainland CB.md",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app/16.7. Cypress.md",
     "data/Daily Notes/2024/September/16-September-2024-Monday.md",
@@ -194,7 +196,6 @@
     "data/Others/Interview/Web Sockets.md",
     "data/Startup/Business.md",
     "data/Startup/Shilpa.md",
-    "data/Office Work/Modify Business.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Users.md",
     "data/Others/Things to bring from india.md",
@@ -204,7 +205,6 @@
     "data/Study/Vue/15. Script Setup/15.6 Closed by default and defineExpose.md",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup/15.5 defineOptions.md",
-    "data/Study/Vue/15. Script Setup/15.3 defineProps.md",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
     "data/Study/Vue/13. Composition API",
