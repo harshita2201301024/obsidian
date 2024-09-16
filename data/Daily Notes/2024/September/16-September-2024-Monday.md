@@ -10,7 +10,7 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59358/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59378/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59368/
-- [ ] Read Corporate bod
+- [ ] Read Corporate Body Story
 - [ ] 10: 00 AM - 04: 00 PM
 
 - [ ] Study - 04: 00 PM - 06: 00 PM
