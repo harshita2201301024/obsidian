@@ -13,7 +13,6 @@ created: 2024-02-27 00:08
 - [ ] Read Corporate Body Story
 - [ ] Create Tasks
 - [ ] Decide Timeline
-- [ ] 10: 00 AM - 04: 00 PM
 
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
