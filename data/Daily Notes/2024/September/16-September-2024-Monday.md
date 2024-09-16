@@ -31,4 +31,3 @@ Shilpa Bank Account - 7,8,9 august
 - [ ] Aakash Plot market status
 
 
-
