@@ -13,6 +13,7 @@ created: 2024-02-27 00:08
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59394/ - assigned to aksh
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58632/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59418/
 - [ ] Read Corporate Body Story
 - [ ] Create Tasks
 - [ ] Decide Timeline
