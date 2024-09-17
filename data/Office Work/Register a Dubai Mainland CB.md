@@ -6,4 +6,5 @@ Display the listing of company location
 2. Field will be dynamic
 3. Show Error Message
 4. Sometimes we have to show popup, sometimes we don't have to show popup
-5. will also contain
+5. can also contain tabbing
+6. Click here to register manually
