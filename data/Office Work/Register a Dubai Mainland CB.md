@@ -14,12 +14,12 @@ As a service center agent, I want to be able to register a new corporate body, s
 5. Design Footer - 4
 6.  Company Details
 	1. Design - 8
-	2. Details could be pre-filled or we have enter them manually
-	3. Some fields can be disabled or some will be enabled
-	4. Search Activities Design
-	5. Company Mobile and Company Email need to verify
-	6. Otp screen
-	7. Fields will be dynamic based on what selected
+	2. Details could be pre-filled or we have enter them manually - 8
+	3. Some fields can be disabled or some will be enabled - 3
+	4. Search Activities Design - 3
+	5. Company Mobile and Company Email need to verify - 3
+	6. Otp screen - 3
+	7. Fields will be dynamic based on what selected - 4
 8. Add Corporate Body Legal Representative
 	1. Open Legal Representative Add Screen
 	2. Edit Legal Representative and Delete Legal Representative
