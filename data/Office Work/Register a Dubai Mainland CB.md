@@ -1,11 +1,11 @@
 As a service center agent, I want to be able to register a new corporate body, so that it is added to the license members and CB legal rep IID profiles.
 
 1. Display sidenav and subnav - 3 
-	1. Give Permissioning to Corporate Body, which user it should be visiable
-2. Display the listing of company location
-	1. Clicking on listing can open search popup or skip it
+	1. Give Permissioning to Corporate Body, which user it should be visiable - 2
+2. Display the listing of company location - 4
+	1. Clicking on listing can open search popup or skip it - 2
 3. Search
-	1. Search Company
+	1. Search Company - 
 	2. Field will be dynamic
 	3. Show Error Message
 	4. Sometimes we have to show popup, sometimes we don't have to show popup
