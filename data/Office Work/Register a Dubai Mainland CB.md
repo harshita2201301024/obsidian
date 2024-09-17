@@ -23,4 +23,5 @@ As a service center agent, I want to be able to register a new corporate body, s
 	1. Open Legal Representative Add Screen
 	2. Edit Legal Representative and Delete Legal Representative
 	3. Legal Representative Type of Assignment and Design
-7. 
+7. Add Company Structure
+	1. 
