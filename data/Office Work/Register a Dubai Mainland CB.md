@@ -23,10 +23,12 @@ As a service center agent, I want to be able to register a new corporate body, s
 	5. Company Mobile and Company Email need to verify - 3
 	6. Otp screen - 3
 	7. Fields will be dynamic based on what selected - 4
+	Total: 32 Horus
 7. Add Corporate Body Legal Representative
 	1. Open Legal Representative Add Screen - 4
 	2. Edit Legal Representative and Delete Legal Representative - 4
 	3. Legal Representative Type of Assignment and Design. -2
+	Total: 10 Hours
 8. Add Company Structure Design - 4
 	1. Search Corporate Body Design - 4
 		1. Validation on Search Corporate Body - 2
@@ -39,6 +41,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Add/View Layer Concept - 5
 		1. Open New Screen - 5
 		2. Same concept of partner and corporate body will be here also - 5
+		Total: 49 Hours
 9. UBO Screen - 8
 	1. UBO LISTING
 	2. UBO ADD, EDIT
