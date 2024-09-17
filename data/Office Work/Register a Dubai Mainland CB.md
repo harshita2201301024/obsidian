@@ -21,9 +21,9 @@ As a service center agent, I want to be able to register a new corporate body, s
 	6. Otp screen - 3
 	7. Fields will be dynamic based on what selected - 4
 8. Add Corporate Body Legal Representative
-	1. Open Legal Representative Add Screen
-	2. Edit Legal Representative and Delete Legal Representative
-	3. Legal Representative Type of Assignment and Design
+	1. Open Legal Representative Add Screen - 4
+	2. Edit Legal Representative and Delete Legal Representative - 4
+	3. Legal Representative Type of Assignment and Design. -2
 9. Add Company Structure
 	1. Search Corporate Body
 		1. Validation on Search Corporate Body
@@ -34,8 +34,8 @@ As a service center agent, I want to be able to register a new corporate body, s
 		2. Add Partner details Screen - pre filled
 		3. Add Partner Details Manually
 	3. Add/View Layer Concept
-		1. Open New Screen
-		2. Same concept of partner and corporate body will be here also
+		1. Open New Screen - 5
+		2. Same concept of partner and corporate body will be here also - 5
 10. UBO Screen
 	1. UBO LISTING
 	2. UBO ADD, EDIT
