@@ -9,4 +9,6 @@ As a service center agent, I want to be able to register a new corporate body, s
 	4. Sometimes we have to show popup, sometimes we don't have to show popup
 	5. can also contain tabbing
 	6. Click here to register manually
-4. 
+4.  Company Details
+	1. Details could be pre-filled or we have enter them manually
+	2. 
