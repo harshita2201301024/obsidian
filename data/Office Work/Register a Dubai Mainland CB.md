@@ -33,14 +33,14 @@ As a service center agent, I want to be able to register a new corporate body, s
 		1. Validation on Search Partner - 2
 		2. Add Partner details Screen - pre filled - 4 
 		3. Add Partner Details Manually - 4
-	3. Add/View Layer Concept
+	3. Add/View Layer Concept - 5
 		1. Open New Screen - 5
 		2. Same concept of partner and corporate body will be here also - 5
-10. UBO Screen
+10. UBO Screen - 8
 	1. UBO LISTING
 	2. UBO ADD, EDIT
-11. Company Documents Screen
+11. Company Documents Screen - 8
 	1. Add Company Documents Screen
 	2. Delete view feature will also be ther
-12. Corporate Body Submission
+12. Corporate Body Submission - 4
 	1. Corporate Body Design Screen
