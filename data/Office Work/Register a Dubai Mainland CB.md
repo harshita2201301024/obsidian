@@ -50,3 +50,6 @@ As a service center agent, I want to be able to register a new corporate body, s
 	2. Delete view feature will also be ther
 11. Corporate Body Submission 
 	1. Corporate Body Design Screen  - 4
+
+142 Hours
+
