@@ -10,21 +10,21 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Show Error Message - 2
 	5. can also contain tabbing - 4
 	6. Click here to register manually - 2
-4. Design Stepper
-5. Design Footer
+4. Design Stepper - 4
+5. Design Footer - 4
 6.  Company Details
-	1. Details could be pre-filled or we have enter them manually
-	2. Some fields can be disabled or some will be enabled
-	3. Design
+	1. Design - 8
+	2. Details could be pre-filled or we have enter them manually
+	3. Some fields can be disabled or some will be enabled
 	4. Search Activities Design
 	5. Company Mobile and Company Email need to verify
 	6. Otp screen
 	7. Fields will be dynamic based on what selected
-7. Add Corporate Body Legal Representative
+8. Add Corporate Body Legal Representative
 	1. Open Legal Representative Add Screen
 	2. Edit Legal Representative and Delete Legal Representative
 	3. Legal Representative Type of Assignment and Design
-8. Add Company Structure
+9. Add Company Structure
 	1. Search Corporate Body
 		1. Validation on Search Corporate Body
 		2. Add Corporate Body Detail Screen - pre filled
@@ -36,11 +36,11 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Add/View Layer Concept
 		1. Open New Screen
 		2. Same concept of partner and corporate body will be here also
-9. UBO Screen
+10. UBO Screen
 	1. UBO LISTING
 	2. UBO ADD, EDIT
-10. Company Documents Screen
+11. Company Documents Screen
 	1. Add Company Documents Screen
 	2. Delete view feature will also be ther
-11. Corporate Body Submission
+12. Corporate Body Submission
 	1. Corporate Body Design Screen
