@@ -2,6 +2,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 
 1. Display sidenav and subnav
 2. Display the listing of company location
+	1. Clicking on listing can open search popup or skip it
 3. Search
 	1. Search Company
 	2. Field will be dynamic
