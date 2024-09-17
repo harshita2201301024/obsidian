@@ -14,4 +14,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 	1. Details could be pre-filled or we have enter them manually
 	2. Some fields can be disabled or some will be enabled
 	3. Design
-	4. 
+	4. Search Activities Design
+	5. Company Mobile and Company Email need to verify
+	6. otp screen
+	7. Fields will be dy
