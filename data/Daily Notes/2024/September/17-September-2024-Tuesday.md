@@ -9,6 +9,8 @@ created: 2024-02-27 00:08
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59586/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329/
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] 
 - [ ] Study - 04: 00 PM - 06: 00 PM
