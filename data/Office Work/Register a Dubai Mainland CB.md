@@ -5,12 +5,11 @@ As a service center agent, I want to be able to register a new corporate body, s
 2. Display the listing of company location - 4
 	1. Clicking on listing can open search popup or skip it - 2
 3. Search
-	1. Search Company - 
-	2. Field will be dynamic
-	3. Show Error Message
-	4. Sometimes we have to show popup, sometimes we don't have to show popup
-	5. can also contain tabbing
-	6. Click here to register manually
+	1. Search Company Design - 4
+	2. Field will be dynamic - 2
+	3. Show Error Message - 2
+	5. can also contain tabbing - 4
+	6. Click here to register manually - 2
 4. Design Stepper
 5. Design Footer
 6.  Company Details
