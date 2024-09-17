@@ -17,7 +17,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Design
 	4. Search Activities Design
 	5. Company Mobile and Company Email need to verify
-	6. otp screen
+	6. Otp screen
 	7. Fields will be dynamic based on what selected
 6. Add Corporate Body Legal Representative
 	1. Open Legal Representative Add Screen
@@ -26,5 +26,9 @@ As a service center agent, I want to be able to register a new corporate body, s
 7. Add Company Structure
 	1. Search Corporate Body
 	2. Validation on Search Corporate Body
-	3. Add Corporate Body Detail Screen
-	4. 
+	3. Add Corporate Body Detail Screen - pre filled
+	4. Add Corporate Body Details Manually
+	5. Search Partner
+	6. Validation on Search Partner
+	7. Add Partner details Screen - pre filled
+	8. Add Partner Details 
