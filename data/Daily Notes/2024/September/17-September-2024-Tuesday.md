@@ -17,6 +17,7 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59690
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58963
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58969
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58973
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
