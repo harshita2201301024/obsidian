@@ -31,4 +31,5 @@ As a service center agent, I want to be able to register a new corporate body, s
 	5. Search Partner
 	6. Validation on Search Partner
 	7. Add Partner details Screen - pre filled
-	8. Add Partner Details 
+	8. Add Partner Details Manually
+	9. Add new Layer Concept
