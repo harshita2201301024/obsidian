@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Daily Notes/2024/September/17-September-2024-Tuesday.md"
               }
             }
           },
@@ -175,15 +175,15 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
     "data/Office Work/Smart POA.md",
+    "data/Office Work/Users.md",
+    "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
     "data/Office Work/Modify Business.md",
     "data/Office Work/Links.md",
     "data/Office Work/Register a Dubai Mainland CB.md",
     "data/Daily Notes/2024/September/16-September-2024-Monday.md",
-    "data/Office Work/Users.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app/16.7. Cypress.md",
