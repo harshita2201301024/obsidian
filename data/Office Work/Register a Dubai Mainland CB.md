@@ -25,4 +25,6 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Legal Representative Type of Assignment and Design
 7. Add Company Structure
 	1. Search Corporate Body
-	2. Add Corporat
+	2. Validation on Search Corporate Body
+	3. Add Corporate Body Detail Screen
+	4. 
