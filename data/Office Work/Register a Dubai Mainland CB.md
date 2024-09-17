@@ -33,4 +33,8 @@ As a service center agent, I want to be able to register a new corporate body, s
 		2. Add Partner details Screen - pre filled
 		3. Add Partner Details Manually
 	3. Add/View Layer Concept
-		1. 
+		1. Open New Screen
+		2. Same concept of partner and corporate body will be here also
+8. UBO Screen
+	1. UBO LISTING
+	2. UBO ADD, EDIT
