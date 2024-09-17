@@ -20,4 +20,6 @@ As a service center agent, I want to be able to register a new corporate body, s
 	6. otp screen
 	7. Fields will be dynamic based on what selected
 6. Add Corporate Body Legal Representative
-	1. 
+	1. Open Legal Representative Add Screen
+	2. Edit Legal Representative and Delete Legal Representaive
+	3. 
