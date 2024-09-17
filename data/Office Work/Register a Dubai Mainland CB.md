@@ -17,4 +17,5 @@ As a service center agent, I want to be able to register a new corporate body, s
 	4. Search Activities Design
 	5. Company Mobile and Company Email need to verify
 	6. otp screen
-	7. Fields will be dy
+	7. Fields will be dynamic based on what selected
+5. 
