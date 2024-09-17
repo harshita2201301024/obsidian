@@ -25,14 +25,14 @@ As a service center agent, I want to be able to register a new corporate body, s
 	2. Edit Legal Representative and Delete Legal Representative - 4
 	3. Legal Representative Type of Assignment and Design. -2
 9. Add Company Structure Design - 4
-	1. Search Corporate Body 
-		1. Validation on Search Corporate Body
-		2. Add Corporate Body Detail Screen - pre filled
-		3. Add Corporate Body Details Manually
-	2. Search Partner
-		1. Validation on Search Partner
-		2. Add Partner details Screen - pre filled
-		3. Add Partner Details Manually
+	1. Search Corporate Body Design - 4
+		1. Validation on Search Corporate Body - 2
+		2. Add Corporate Body Detail Screen - pre filled - 4
+		3. Add Corporate Body Details Manually - 4
+	2. Search Partner - 4
+		1. Validation on Search Partner - 2
+		2. Add Partner details Screen - pre filled - 4 
+		3. Add Partner Details Manually - 4
 	3. Add/View Layer Concept
 		1. Open New Screen - 5
 		2. Same concept of partner and corporate body will be here also - 5
