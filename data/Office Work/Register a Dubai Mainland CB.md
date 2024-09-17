@@ -12,6 +12,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Show Error Message - 2
 	5. can also contain tabbing - 4
 	6. Click here to register manually - 2
+	Total: 14 Hours
 4. Design Stepper - 4
 5. Design Footer - 4
 6.  Company Details
