@@ -41,7 +41,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 	3. Add/View Layer Concept - 5
 		1. Open New Screen - 5
 		2. Same concept of partner and corporate body will be here also - 5
-		Total: 49 Hours
+		Total: 47 Hours
 9. UBO Screen - 8
 	1. UBO LISTING
 	2. UBO ADD, EDIT
