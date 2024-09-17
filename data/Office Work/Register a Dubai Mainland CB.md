@@ -10,7 +10,8 @@ As a service center agent, I want to be able to register a new corporate body, s
 	4. Sometimes we have to show popup, sometimes we don't have to show popup
 	5. can also contain tabbing
 	6. Click here to register manually
-4.  Company Details
+4. Design Stepper
+5.  Company Details
 	1. Details could be pre-filled or we have enter them manually
 	2. Some fields can be disabled or some will be enabled
 	3. Design
@@ -18,4 +19,5 @@ As a service center agent, I want to be able to register a new corporate body, s
 	5. Company Mobile and Company Email need to verify
 	6. otp screen
 	7. Fields will be dynamic based on what selected
-5. 
+6. Add Corporate Body Legal Representative
+	1. 
