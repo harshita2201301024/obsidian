@@ -11,7 +11,7 @@ created: 2024-02-27 00:08
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59619/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59619/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59629
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59630/
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
