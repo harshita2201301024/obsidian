@@ -19,12 +19,12 @@ created: 2024-02-27 00:08
 Pending
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
 - [ ] VAT 
-freelancing accounts
-aakash job posts
-academy job post
-Launch TKC Dubai
-mac charger fix
-Shilpa Bank Account - 7,8,9 august
+- [ ] freelancing accounts
+- [ ] aakash job posts
+- [ ] academy job post
+- [ ] Launch TKC Dubai
+- [ ] mac charger fix
+- [ ] Shilpa Bank Account - 7,8,9 august
 - [x] Shilpa Music Class - 11 august ✅ 2024-09-11
 - [ ] Plan October trip - 11 august
 - [ ] Car Key - 12 august
