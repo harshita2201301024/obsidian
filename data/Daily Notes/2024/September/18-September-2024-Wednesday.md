@@ -1,0 +1,15 @@
+---
+created: 2024-02-27 00:08
+---
+
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/57743/ - assigned to ammar
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
+
+
+- [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
+- [ ] Study - 04: 00 PM - 06: 00 PM
+- [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
+- [ ] <mark style="background: #FFF3A3A6;">Visiting Card</mark> + <mark style="background: #FF5582A6;">Website</mark> - 07: 00 PM - 09:00 PM
