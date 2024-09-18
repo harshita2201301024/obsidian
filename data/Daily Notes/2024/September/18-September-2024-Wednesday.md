@@ -4,7 +4,7 @@ created: 2024-02-27 00:08
 - [x] Clone Delegations Details Title
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/57743/ - Follow up with Ammar
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/ - Follow up with Ammar
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59696/
