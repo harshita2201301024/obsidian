@@ -14,4 +14,4 @@ created: 2024-02-27 00:08
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
-- [ ] <mark style="background: #FFF3A3A6;">Visiting Card</mark> + <mark style="background: #FF5582A6;">Website</mark> - 07: 00 PM - 09:00 PM
+- [ ] <mark style="background: #FFF3A3A6;"></mark> <mark style="background: #FF5582A6;">Website</mark> - 07: 00 PM - 09:00 PM
