@@ -46,3 +46,7 @@ create new branch add 3 files
 3. make changes in chart.yaml
 Atlast fleet.yml in dev portal
 
+https://stackoverflow.com/questions/11704267/in-javascript-how-to-conditionally-add-a-member-to-an-object
+
+
+
