@@ -7,7 +7,7 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/ - Follow up with Ammar
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58962
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59696/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59702/
 
