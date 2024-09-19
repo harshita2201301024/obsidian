@@ -1,18 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [x] Clone Delegations Details Title
-
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59343/ - Follow up with Ammar
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59590/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/58962
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59696/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59702/
-- [x] Smart POA invalid request
-- [x] Smart POA spacing issue
-
-
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59710/
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
