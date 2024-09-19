@@ -9,7 +9,8 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59329
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59696/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59702/
-- [ ] Smart POA invalid request
+- [x] Smart POA invalid request
+- [ ] S
 
 
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
