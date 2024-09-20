@@ -5,7 +5,8 @@ created: 2024-02-27 00:08
 - [ ] Add Nationality to searching
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
 - [ ] Implement enrichment-search api and display the confirm page
-- [ ] 
+- [ ] Display Summary Page
+- [ ] Move to Next screen
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
