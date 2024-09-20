@@ -7,9 +7,10 @@ created: 2024-02-27 00:08
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
-- [ ] Reply to Request Delegation
-- [ ] Request Delegation and End Date Issue
-- [ ] Add Guardi
+- [x] Reply to Request Delegation
+- [x] Request Delegation and End Date Issue
+- [ ] Add Guardian request in link 
+- [ ] Replace Request Delegation with Guardian Request
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
