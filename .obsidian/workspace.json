@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/20-September-2024-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/20-September-2024-Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/September/20-September-2024-Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Daily Notes/2024/September/20-September-2024-Friday.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/September/20-September-2024-Friday.md",
     "data/Office Work/Users.md",
+    "data/Daily Notes/2024/September/20-September-2024-Friday.md",
     "data/Daily Notes/2024/September/19-September-2024-Thursday.md",
     "data/Office Work/Add TLS person search.md",
     "data/Office Work/Links.md",
