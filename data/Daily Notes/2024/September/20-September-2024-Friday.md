@@ -9,6 +9,7 @@ created: 2024-02-27 00:08
 - [ ] Move to Next screen
 - [ ] Reply to Request Delegation
 - [ ] Request Delegation and End Date Issue
+- [ ] Add Guardi
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
