@@ -9,6 +9,7 @@ created: 2024-02-27 00:08
 - [ ] Move to Next screen
 - [x] Reply to Request Delegation
 - [x] Request Delegation and End Date Issue
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60003/
 - [ ] Add Guardian request in link 
 - [ ] Replace Request Delegation with Guardian Request
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
