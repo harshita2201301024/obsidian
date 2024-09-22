@@ -6,8 +6,8 @@ Aakash you have to work hard because now you have lot of responsibilities.
 2. Drink lot of water
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS - 08:15 PM - 09:00 PM
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/ - 07: 45 PM - 08:15 PM
-- [ ] Fill Timesheet - 07:04 PM - 07:45 PM
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/ - 07: 45 PM - 08:15 PM
+- [x] Fill Timesheet - 07:04 PM - 07:45 PM
 - [ ] Study Vue.js
 
 

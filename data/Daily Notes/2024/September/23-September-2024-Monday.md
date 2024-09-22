@@ -12,7 +12,7 @@ created: 2024-02-27 00:08
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
