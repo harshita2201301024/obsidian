@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/September/11-September-2024-Wednesday.md",
+                "file": "Others/Things to bring from india.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/September/11-September-2024-Wednesday.md",
+            "file": "Others/Things to bring from india.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/September/11-September-2024-Wednesday.md",
+            "file": "Others/Things to bring from india.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/September/11-September-2024-Wednesday.md"
+            "file": "Others/Things to bring from india.md"
           }
         }
       }
@@ -145,41 +145,41 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
-    "Pending Things/Pending.md",
-    "Daily Notes/2024/September/04-September-2024-Wednesday.md",
-    "Daily Notes/2024/September/08-September-2024-Sunday.md",
-    "Daily Notes/2024/September/10-September-2024-Tuesday.md",
-    "Daily Notes/2024/September/09-September-2024-Monday.md",
-    "Daily Notes/2024/September/11-September-2024-Wednesday.md",
-    "Daily Notes/2024/September/07-September-2024-Saturday.md",
-    "Daily Notes/2024/September/05-September-2024-Thursday.md",
-    "Daily Notes/2024/September/06-September-2024-Friday.md",
-    "Daily Notes/2024/September",
-    "Daily Notes/2024/September/02-September-2024-Monday.md",
-    "Study/Vue/the Templating Syntax/9.3 Property binding with v-bind.md",
-    "Study/Vue/the Templating Syntax/9.1 Interpolation.md",
-    "Study/Vue/the Templating Syntax/9.2 Using Other components in our templates.md",
-    "Study/Vue/the Templating Syntax",
-    "Office Work/Modify Business.md",
-    "Daily Notes/2024/September/03-September-2024-Tuesday.md",
-    "Others/Novels/Zero To One.md",
-    "Daily Notes/2024/August/26-August-2024-Monday.md",
-    "Daily Notes/2024/August/29-August-2024-Thursday.md",
-    "Daily Notes/2024/August/21-August-2024-Wednesday.md",
-    "Daily Notes/2024/August/05-August-2024-Monday.md",
-    "Daily Notes/2024/August/09-August-2024-Friday.md",
-    "+Daily Notes.md",
-    "Gym/Gym.md",
-    "August Month Plan/August.md",
-    "Others/Things to bring from india.md",
-    "Pending Things",
-    "Office Work/Links.md",
-    "August Month Plan",
-    "Others/Birthday",
-    "Study/Vue/From Zero to something",
-    "Daily Notes/2024/August",
-    "Startup",
-    "Gym",
-    "Others/Important Links"
+    "Daily Notes/2024/September/22-September-2024-Sunday.md",
+    "Daily Notes/2024/September/12-September-2024-Thursday.md",
+    "Daily Notes/2024/September/18-September-2024-Wednesday.md",
+    "Daily Notes/2024/September/19-September-2024-Thursday.md",
+    "Daily Notes/2024/September/16-September-2024-Monday.md",
+    "Daily Notes/2024/September/17-September-2024-Tuesday.md",
+    "Daily Notes/2024/September/20-September-2024-Friday.md",
+    "Study/Javascript/For_in and For_of.md",
+    "Study/Javascript/Proxies.md",
+    "Study/Javascript",
+    "Office Work/Add TLS person search.md",
+    "Study/Vue/15. Script Setup",
+    "Study/Vue/11. How to build Components/11. How to build components.md",
+    "Study/Vue/11. How to build Components/11.6 Passing props to components.md",
+    "Study/Vue/11. How to build Components/11.3 ref or reactive.md",
+    "Study/Vue/11. How to build Components/11.8 Lifecycle functions.md",
+    "Study/Vue/11. How to build Components",
+    "Daily Notes/2024/September/23-September-2024-Monday.md",
+    "Study/Vue/11. How to build Components/11.4. Derive state with computed.md",
+    "Study/Vue/11. How to build Components/11.2 Reactive property with `reactive`.md",
+    "Study/Vue/8. From Zero to something/2. Vue CLI.md",
+    "Study/Vue/8. From Zero to something/5. Create Vue.md",
+    "Study/Vue/8. From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
+    "Study/Vue/8. From Zero to something/1. The progressive framework.md",
+    "Study/Vue/8. From Zero to something",
+    "Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
+    "Study/Vue/9. the Templating Syntax/9.1 Interpolation.md",
+    "Study/Vue/9. the Templating Syntax/9.2 Using Other components in our templates.md",
+    "Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
+    "Study/Vue/9. the Templating Syntax",
+    "Study/Vue/15. Script Setup/15.2 Implicit return.md",
+    "Study/Vue/14. Many define components",
+    "Study/Vue/13. Composition API",
+    "Study/Vue/10. Directives",
+    "Study/Vue/16. Testing your app",
+    "Study/Vue/12. Style your components"
   ]
 }
