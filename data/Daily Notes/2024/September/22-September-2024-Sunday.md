@@ -1,6 +1,8 @@
 ---
 created: 2024-02-27 00:08
 ---
+Aakash you have to work hard because now you have lot of responsibilities. 
+1. Eat Good Food 
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS - 08:15 PM - 09:00 PM
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/ - 07: 45 PM - 08:15 PM
@@ -11,8 +13,8 @@ created: 2024-02-27 00:08
 **Personal**
 
 - [ ] Bank Cash - 09:00 PM - 09: 10 PM
-- [ ] Beard Cutting - 09: 10 PM - 10:15 PM
-- [ ] Sabzi lene jaana - 09: 10 PM - 10: 00 PM
+- [ ] Beard Cutting - 09: 10 PM - 10:00 PM
+- [ ] Sabzi lene jaana - 10: 00 PM - 10: 30 PM
 
 **TKC**
 
