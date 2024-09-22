@@ -19,8 +19,16 @@ created: 2024-02-27 00:08
 - [ ] Work from for leaves
 - [ ] Beard Cutting
 - [ ] Sabzi lene jaana
-- [ ] Meeting with shitiz
 - [ ] Rent payment of Dheeraj
+
+TKC
+
+- [ ] Study VAT
+- [ ] Study Corporate Tax
+- [ ] Meeting with shitiz
+- [ ] Discussions about Sardar ji
+	- [ ] why he wants to join with us?
+	- [ ] 
 
 Pending
 - [ ] freelancing accounts
