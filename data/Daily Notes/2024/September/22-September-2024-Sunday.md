@@ -2,7 +2,9 @@
 created: 2024-02-27 00:08
 ---
 Aakash you have to work hard because now you have lot of responsibilities. 
-1. Eat Good Food 
+1. Eat Good Food to stay healthy
+2. Drink lot of water
+3. 
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS - 08:15 PM - 09:00 PM
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/ - 07: 45 PM - 08:15 PM
