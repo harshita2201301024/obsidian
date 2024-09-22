@@ -28,7 +28,7 @@ created: 2024-02-27 00:08
 
 - [ ] Study VAT
 - [ ] Study Corporate Tax
-- [ ] Meeting with shitiz
+- [ ] Meeting with Shitiz
 - [ ] Discussions about Sardar ji
 	- [ ] Why he wants to join with us?
 	- [ ] How much salary we need to pay him?
@@ -38,6 +38,7 @@ created: 2024-02-27 00:08
 - [ ] Meeting with 618
 - [ ] Website Preparation of TKC
 - [ ] TKC social media channels Start Posting
+- [ ] How Mainland License Work
 
 **Pending**
 
