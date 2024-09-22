@@ -15,7 +15,7 @@ created: 2024-02-27 00:08
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
-- [ ] Work from for leaves
+- [ ] Work from Home for leaves
 
 
 **Personal**
