@@ -20,6 +20,7 @@ created: 2024-02-27 00:08
 
 Pending
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
+- [ ] 
 - [ ] VAT 
 - [ ] freelancing accounts
 - [ ] aakash job posts

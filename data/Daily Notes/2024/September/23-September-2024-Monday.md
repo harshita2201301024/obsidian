@@ -45,6 +45,7 @@ created: 2024-02-27 00:08
 **Pending**
 
 - [ ] Freelancing accounts
+- [ ] Check Eye Operation
 - [ ] Aakash job posts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
