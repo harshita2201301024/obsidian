@@ -16,6 +16,7 @@ created: 2024-02-27 00:08
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
+- [ ] Get Laptop from sumeet
 
 
 **Personal**
