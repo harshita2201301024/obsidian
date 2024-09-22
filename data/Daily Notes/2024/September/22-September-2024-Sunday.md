@@ -18,6 +18,8 @@ created: 2024-02-27 00:08
 - [ ] Study Vue.js
 - [ ] Work from for leaves
 - [ ] Beard Cutting
+- [ ] Sabzi lene jaana
+- [ ] 
 
 Pending
 - [ ] VAT 
