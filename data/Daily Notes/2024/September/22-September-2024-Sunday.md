@@ -17,7 +17,7 @@ Aakash you have to work hard because now you have lot of responsibilities.
 - [ ] Beard Cutting - 09: 10 PM - 10:00 PM
 - [ ] Sabzi lene jaana - 10: 00 PM - 10: 30 PM
 
-Freelance
+**Freelance**
 
 **TKC**
 
