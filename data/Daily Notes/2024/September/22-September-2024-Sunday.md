@@ -10,9 +10,9 @@ created: 2024-02-27 00:08
 
 **Personal**
 
-- [ ] Bank Cash - 09:
-- [ ] Beard Cutting - 09: 00 PM - 09:15 PM
-- [ ] Sabzi lene jaana 
+- [ ] Bank Cash - 09:00 PM - 09: 10 PM
+- [ ] Beard Cutting - 09: 10 PM - 10:15 PM
+- [ ] Sabzi lene jaana - 09: 10 PM - 10: 00 PM
 
 **TKC**
 
