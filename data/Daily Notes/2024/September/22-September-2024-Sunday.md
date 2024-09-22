@@ -10,9 +10,9 @@ created: 2024-02-27 00:08
 
 **Personal**
 
-- [ ] Beard Cutting
-- [ ] Sabzi lene jaana
-- [ ] Rent payment of Dheeraj
+- [ ] Bank Cash - 09:
+- [ ] Beard Cutting - 09: 00 PM - 09:15 PM
+- [ ] Sabzi lene jaana 
 
 **TKC**
 
