@@ -15,7 +15,8 @@ created: 2024-02-27 00:08
 - [ ] <mark style="background: #FFF3A3A6;"></mark> <mark style="background: #FF5582A6;">Website</mark> - 07: 00 PM - 09:00 PM
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
 - [ ] Fill Timesheet
-- [ ] Study
+- [ ] Study Vue.js
+- [ ] Work from for leaves
 
 Pending
 - [ ] VAT 
