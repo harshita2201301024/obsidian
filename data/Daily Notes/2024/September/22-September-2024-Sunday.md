@@ -12,7 +12,6 @@ created: 2024-02-27 00:08
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
-- [ ] <mark style="background: #FFF3A3A6;"></mark> <mark style="background: #FF5582A6;">Website</mark> - 07: 00 PM - 09:00 PM
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
@@ -38,12 +37,13 @@ created: 2024-02-27 00:08
 - [ ] Website Preparation of TKC
 - [ ] TKC social media channels Start Posting
 
-Pending
+**Pending**
+
 - [ ] Freelancing accounts
 - [ ] aakash job posts
 - [ ] academy job post
 - [ ] Launch TKC Dubai
-- [ ] mac charger fix
+- [ ] Mac charger fix
 - [ ] Shilpa Bank Account - 7,8,9 august
 - [x] Shilpa Music Class - 11 august ✅ 2024-09-11
 - [ ] Plan October trip - 11 august
