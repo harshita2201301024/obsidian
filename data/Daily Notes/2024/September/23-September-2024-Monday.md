@@ -17,6 +17,7 @@ created: 2024-02-27 00:08
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
 - [ ] Get Laptop from sumeet
+- [ ] Sumit Child
 
 
 **Personal**
