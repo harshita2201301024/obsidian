@@ -30,7 +30,9 @@ created: 2024-02-27 00:08
 	- [ ] why he wants to join with us?
 	- [ ] How much salary we need to pay him?
 	- [ ] New employee that we are hiring, how much cost we have to bear?
-	- [ ] Me
+- [ ] Meeting with 418
+- [ ] Website Preparation of TKC
+- [ ] 
 
 Pending
 - [ ] freelancing accounts
