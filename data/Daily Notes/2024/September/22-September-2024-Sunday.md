@@ -28,7 +28,8 @@ TKC
 - [ ] Meeting with shitiz
 - [ ] Discussions about Sardar ji
 	- [ ] why he wants to join with us?
-	- [ ] 
+	- [ ] How much salary we need to pay him?
+	- [ ] New employee that we are hiring, how much cost we have to bear?
 
 Pending
 - [ ] freelancing accounts
