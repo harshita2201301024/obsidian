@@ -19,6 +19,7 @@ created: 2024-02-27 00:08
 - [ ] Work from for leaves
 - [ ] Beard Cutting
 - [ ] Sabzi lene jaana
+- [ ] Meeting with shitiz
 - [ ] 
 
 Pending
