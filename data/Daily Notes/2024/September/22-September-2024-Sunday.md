@@ -20,10 +20,9 @@ created: 2024-02-27 00:08
 - [ ] Beard Cutting
 - [ ] Sabzi lene jaana
 - [ ] Meeting with shitiz
-- [ ] Rent payment of 
+- [ ] Rent payment of Dheeraj
 
 Pending
-- [ ] VAT 
 - [ ] freelancing accounts
 - [ ] aakash job posts
 - [ ] academy job post
