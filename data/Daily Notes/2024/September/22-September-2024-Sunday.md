@@ -17,6 +17,10 @@ created: 2024-02-27 00:08
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
 - [ ] Work from for leaves
+
+
+**Personal**
+
 - [ ] Beard Cutting
 - [ ] Sabzi lene jaana
 - [ ] Rent payment of Dheeraj
@@ -32,10 +36,10 @@ created: 2024-02-27 00:08
 	- [ ] New employee that we are hiring, how much cost we have to bear?
 - [ ] Meeting with 418
 - [ ] Website Preparation of TKC
-- [ ] TKC social media channels
+- [ ] TKC social media channels Start Posting
 
 Pending
-- [ ] freelancing accounts
+- [ ] Freelancing accounts
 - [ ] aakash job posts
 - [ ] academy job post
 - [ ] Launch TKC Dubai
