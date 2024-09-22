@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/September/16-September-2024-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/September/16-September-2024-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
+                "file": "data/Daily Notes/2024/September/16-September-2024-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/22-September-2024-Sunday.md"
+                "file": "data/Daily Notes/2024/September/16-September-2024-Monday.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
+    "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
     "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
+    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
     "data/Daily Notes/2024/September/20-September-2024-Friday.md",
     "data/Office Work/Users.md",
     "data/Office Work/Links.md",
@@ -187,7 +188,6 @@
     "data/Office Work/Untitled",
     "data/Daily Notes/2024/September/18-September-2024-Wednesday.md",
     "data/Study/Vue/16. Testing your app/16.7. Cypress.md",
-    "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
     "data/Daily Notes/2024/September/16-September-2024-Monday.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Smart POA.md",
