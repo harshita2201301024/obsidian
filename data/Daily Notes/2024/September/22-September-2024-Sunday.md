@@ -21,7 +21,7 @@ created: 2024-02-27 00:08
 - [ ] Sabzi lene jaana
 - [ ] Rent payment of Dheeraj
 
-TKC
+**TKC**
 
 - [ ] Study VAT
 - [ ] Study Corporate Tax
@@ -30,6 +30,7 @@ TKC
 	- [ ] why he wants to join with us?
 	- [ ] How much salary we need to pay him?
 	- [ ] New employee that we are hiring, how much cost we have to bear?
+	- [ ] Me
 
 Pending
 - [ ] freelancing accounts
@@ -46,3 +47,4 @@ Pending
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
+- [ ] Join Toasmaster
