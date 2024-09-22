@@ -17,6 +17,7 @@ created: 2024-02-27 00:08
 - [ ] Fill Timesheet
 - [ ] Study Vue.js
 - [ ] Work from for leaves
+- [ ] Beard Cutting
 
 Pending
 - [ ] VAT 
