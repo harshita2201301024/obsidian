@@ -32,7 +32,7 @@ created: 2024-02-27 00:08
 	- [ ] New employee that we are hiring, how much cost we have to bear?
 - [ ] Meeting with 418
 - [ ] Website Preparation of TKC
-- [ ] 
+- [ ] TKC social media channels
 
 Pending
 - [ ] freelancing accounts
