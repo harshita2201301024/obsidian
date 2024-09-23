@@ -6,10 +6,11 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60194
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60073/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60065/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60064/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60065/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60064/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60106/
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
