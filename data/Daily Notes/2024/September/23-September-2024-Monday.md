@@ -3,7 +3,7 @@ created: 2024-02-27 00:08
 ---
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/
 - [ ] Add Nationality to searching
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - issue license for TLS
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
