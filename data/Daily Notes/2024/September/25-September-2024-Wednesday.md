@@ -15,7 +15,7 @@ created: 2024-02-27 00:08
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
-- [ ] Get Laptop from 
+- [ ] Laptop for 
 - [ ] Rent payment of Dheeraj
 - [ ] Apply for leave
 
