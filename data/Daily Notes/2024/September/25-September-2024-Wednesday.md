@@ -42,7 +42,7 @@ GYM -> 8PM - 10PM
 
 - [ ] Study VAT
 - [ ] Study Corporate Tax
-- [ ] Meeting with Shitiz
+- [ ] Meeting with Shitiz in October
 - [ ] Discussions about Sardar ji
 	- [ ] Why he wants to join with us?
 	- [ ] How much salary we need to pay him?
@@ -53,6 +53,7 @@ GYM -> 8PM - 10PM
 - [ ] Website Preparation of TKC
 - [ ] TKC social media channels Start Posting
 - [ ] How Mainland License Work
+- [ ] Prepare
 
 **Pending**
 
