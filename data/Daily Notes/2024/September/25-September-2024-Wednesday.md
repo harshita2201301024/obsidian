@@ -14,12 +14,15 @@ Bugs -> 4PM - 6PM
 - [ ] Add Guardian request in link 
 - [ ] Replace Request Delegation with Guardian Request
 
-Personal -> 6PM - 10 PM
+Personal -> 6PM - 8PM
 
 - [ ] Rent Payment of Dheeraj
 - [ ] Mansi Laptop Fix
 - [ ] Book Event Ticket
--
+- [ ] Fill Timesheet
+- [ ] Speak w
+
+GYM -> 8PM - 10PM
 
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
