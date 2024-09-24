@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -177,8 +177,11 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
+    "data/Office Work/Smart POA Nuxt 3 Migration.md",
+    "data/Office Work/Vue2 to Vue3 Migration.md",
+    "data/Office Work/Users.md",
     "data/Study/Vue/20. Router/20. Router.md",
+    "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
     "data/Study/Vue/20. Router",
     "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
     "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
@@ -202,11 +205,8 @@
     "data/Office Work/Links.md",
     "data/Daily Notes/2024/September/23-September-2024-Monday.md",
     "data/Office Work/Smart POA.md",
-    "data/Office Work/Users.md",
     "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
     "data/Daily Notes/2024/September/20-September-2024-Friday.md",
-    "data/Daily Notes/2024/September/19-September-2024-Thursday.md",
-    "data/Daily Notes/2024/September/18-September-2024-Wednesday.md",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
