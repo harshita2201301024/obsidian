@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
+                "file": "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
+                "file": "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
+                "file": "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md"
+                "file": "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/19. Suspense/19. Suspense.md",
     "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
+    "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
+    "data/Study/Vue/19. Suspense/19. Suspense.md",
     "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
     "data/Study/Vue/19. Suspense",
     "data/Study/Vue/18. Slots/18.4 Slot props.md",
@@ -206,7 +207,6 @@
     "data/Office Work/Add TLS person search.md",
     "data/Office Work/Untitled",
     "data/Office Work/dummy.md",
-    "data/Office Work/Modify Business.md",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
