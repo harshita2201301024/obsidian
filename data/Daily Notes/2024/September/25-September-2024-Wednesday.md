@@ -4,7 +4,7 @@ created: 2024-02-27 00:08
 - [ ] Complete TLS Search - 8AM - 4 PM With Azhar Mobeen
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/ 
 - [ ] Add Nationality to searching
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 8
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
@@ -15,9 +15,10 @@ created: 2024-02-27 00:08
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
-- [ ] Laptop for 
+- [ ] Laptop for Fix
 - [ ] Rent payment of Dheeraj
 - [ ] Apply for leave
+- [ ] Book October Ticket
 
 
 **Personal**
