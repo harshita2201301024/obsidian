@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Study/Vue/20. Router/20.1. En route.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Study/Vue/20. Router/20.1. En route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md",
+                "file": "data/Study/Vue/20. Router/20.1. En route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20. Router.md"
+                "file": "data/Study/Vue/20. Router/20.1. En route.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Study/Vue/20. Router/20. Router.md",
+    "data/Study/Vue/20. Router/20.1. En route.md",
     "data/Gym/Gym.md",
     "data/Daily Notes/2024/September/23-September-2024-Monday.md",
     "data/Office Work/Add TLS person search.md",
@@ -188,7 +190,6 @@
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Users.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Study/Vue/20. Router/20. Router.md",
     "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
     "data/Study/Vue/20. Router",
     "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
@@ -205,7 +206,6 @@
     "data/Study/Vue/17. Send and receive data through HTTP/17.4 Tests.md",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
-    "data/Study/Vue/17. Send and receive data through HTTP/17.2 Advanced options.md",
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
