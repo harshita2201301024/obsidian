@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.1. En route.md",
+                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.1. En route.md",
+                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.1. En route.md",
+                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.1. En route.md"
+                "file": "data/Study/Vue/20. Router/20.2 Navigation.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router/20.1. En route.md",
+    "data/Study/Vue/20. Router/20.2 Navigation.md",
+    "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Office Work/Add TLS person search.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Links.md",
