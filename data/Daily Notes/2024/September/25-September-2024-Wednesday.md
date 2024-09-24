@@ -27,6 +27,7 @@ GYM -> 8PM - 10PM
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 
+Pending
 
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
@@ -53,7 +54,6 @@ GYM -> 8PM - 10PM
 - [ ] Website Preparation of TKC
 - [ ] TKC social media channels Start Posting
 - [ ] How Mainland License Work
-- [ ] Prepare
 
 **Pending**
 
