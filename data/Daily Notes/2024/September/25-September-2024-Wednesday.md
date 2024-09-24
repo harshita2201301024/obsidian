@@ -1,7 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-Complete TLS Search 
+Complete TLS Search -> 8PM - 4PM
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/ 
 - [ ] Add Nationality to searching
@@ -9,12 +9,14 @@ Complete TLS Search
 - [ ] Display Summary Page
 - [ ] Move to Next screen
 
-
+Bugs
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
+- [ ] Add Guardian request in link 
+- [ ] Replace Request Delegation with Guardian Request
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 
-- [ ] Add Guardian request in link 
-- [ ] Replace Request Delegation with Guardian Request
+
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
