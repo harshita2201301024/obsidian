@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
+                "file": "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
+                "file": "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.2 Navigation.md",
+                "file": "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.2 Navigation.md"
+                "file": "data/Daily Notes/2024/September/25-September-2024-Wednesday.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/20. Router/20.1. En route.md",
+    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
+    "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
     "data/Study/Vue/20. Router/20.2 Navigation.md",
+    "data/Study/Vue/20. Router/20.1. En route.md",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Office Work/Add TLS person search.md",
     "data/Office Work/dummy.md",
@@ -174,7 +176,6 @@
     "data/Office Work/Register a Dubai Mainland CB.md",
     "data/Office Work/Smart POA.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
-    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
     "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Study/Vue/20. Router/20. Router.md",
     "data/Gym/Gym.md",
@@ -192,7 +193,6 @@
     "data/Study/Vue/18. Slots/18.4 Slot props.md",
     "data/Study/Vue/18. Slots/18.3 Fallback content.md",
     "data/Study/Vue/18. Slots/18.2 Named slots.md",
-    "data/Study/Vue/18. Slots/18.1. Content projection with slot.md",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Office Work/Untitled",
