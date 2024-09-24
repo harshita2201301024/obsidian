@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
+                "file": "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
+                "file": "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
+                "file": "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md"
+                "file": "data/Study/Vue/19. Suspense/19.5 script setup and await.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
     "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
+    "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
+    "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
     "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
     "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
     "data/Study/Vue/19. Suspense/19. Suspense.md",
@@ -205,7 +206,6 @@
     "data/Daily Notes/2024/September/19-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/18-September-2024-Wednesday.md",
     "data/Daily Notes/2024/September/17-September-2024-Tuesday.md",
-    "data/Daily Notes/2024/September/16-September-2024-Monday.md",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
