@@ -1,13 +1,18 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Complete TLS Search - 8AM - 3 PM 
+Complete TLS Search 
+
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/ 
 - [ ] Add Nationality to searching
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
+
+
+
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
+
 - [ ] Add Guardian request in link 
 - [ ] Replace Request Delegation with Guardian Request
 - [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
