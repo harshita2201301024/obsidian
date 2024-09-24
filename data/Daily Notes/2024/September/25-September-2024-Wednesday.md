@@ -9,10 +9,14 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Display Summary Page
 - [ ] Move to Next screen
 
-Bugs
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
-- [ ] Add Guardian request in link 
+Bugs -> 4PM - 6PM 
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
+- [x] Add Guardian request in link 
 - [ ] Replace Request Delegation with Guardian Request
+
+Personal 
+
+Rent Payment of 
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 
@@ -25,7 +29,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60066/
 - [ ] Laptop for Fix
 - [ ] Rent payment of Dheeraj
 - [ ] Apply for leave
-- [ ] Book October Ticket
+- [ ] Book October Event Ticket
 
 
 **Personal**
