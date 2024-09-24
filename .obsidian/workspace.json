@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
+                "file": "data/Study/Vue/19. Suspense/19. Suspense.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
+                "file": "data/Study/Vue/19. Suspense/19. Suspense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
+                "file": "data/Study/Vue/19. Suspense/19. Suspense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md"
+                "file": "data/Study/Vue/19. Suspense/19. Suspense.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
-    "data/Study/Vue/18. Slots/18.4 Slot props.md",
     "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
+    "data/Study/Vue/19. Suspense/19. Suspense.md",
+    "data/Study/Vue/19. Suspense",
+    "data/Study/Vue/18. Slots/18.4 Slot props.md",
     "data/Study/Vue/18. Slots/18.3 Fallback content.md",
     "data/Study/Vue/18. Slots/18.2 Named slots.md",
     "data/Study/Vue/18. Slots/18.1. Content projection with slot.md",
@@ -205,13 +207,11 @@
     "data/Office Work/dummy.md",
     "data/Office Work/Modify Business.md",
     "data/Office Work/Register a Dubai Mainland CB.md",
-    "data/Daily Notes/2024/September/12-September-2024-Thursday.md",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
     "data/Study/Vue/13. Composition API",
     "data/Study/Vue/12. Style your components",
-    "data/Study/Vue/11. How to build Components",
-    "data/Study/Javascript"
+    "data/Study/Vue/11. How to build Components"
   ]
 }
