@@ -16,20 +16,19 @@ Bugs -> 4PM - 6PM
 
 Personal 
 
-Rent Payment of 
+Rent Payment of Dheeraj
+Mansi Laptop Fix
+Book Event Ticket
+
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 
 
-- [ ] Do the testing of Smart POA completely on my end, mainly poa detail issue
 - [ ] Study - 04: 00 PM - 06: 00 PM
 - [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
 - [ ] Study Vue.js
 - [ ] Work from Home for leaves
-- [ ] Laptop for Fix
-- [ ] Rent payment of Dheeraj
 - [ ] Apply for leave
-- [ ] Book October Event Ticket
 
 
 **Personal**
