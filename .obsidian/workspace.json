@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Study/Vue/20. Router/20. Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Study/Vue/20. Router/20. Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Study/Vue/20. Router/20. Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Study/Vue/20. Router/20. Router.md"
               }
             }
           },
@@ -177,9 +177,17 @@
   },
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
+    "data/Gym/Gym.md",
+    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
+    "data/Office Work/Add TLS person search.md",
+    "data/Office Work/dummy.md",
+    "data/Office Work/Links.md",
+    "data/Office Work/Modify Business.md",
+    "data/Office Work/Register a Dubai Mainland CB.md",
+    "data/Office Work/Smart POA.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Office Work/Users.md",
+    "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Study/Vue/20. Router/20. Router.md",
     "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
     "data/Study/Vue/20. Router",
@@ -198,15 +206,7 @@
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
     "data/Study/Vue/17. Send and receive data through HTTP/17.2 Advanced options.md",
-    "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
-    "data/Study/Vue/17. Send and receive data through HTTP/17.1 Getting Data.md",
-    "data/Study/Vue/16. Testing your app/16.7. Cypress.md",
     "data/Study/Vue/17. Send and receive data through HTTP",
-    "data/Office Work/Links.md",
-    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
-    "data/Office Work/Smart POA.md",
-    "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
-    "data/Daily Notes/2024/September/20-September-2024-Friday.md",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
