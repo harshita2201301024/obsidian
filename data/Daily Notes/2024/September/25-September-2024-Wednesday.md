@@ -20,7 +20,7 @@ Personal -> 6PM - 8PM
 - [ ] Mansi Laptop Fix
 - [ ] Book Event Ticket
 - [ ] Fill Timesheet
-- [ ] Speak w
+- [ ] Speak with Vijendra if he can share production data
 
 GYM -> 8PM - 10PM
 
