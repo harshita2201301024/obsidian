@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
+                "file": "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
+                "file": "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
+                "file": "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md"
+                "file": "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   "active": "1b5872000f5d6fe6",
   "lastOpenFiles": [
     "data/Study/Vue/17. Send and receive data through HTTP/17.2 Advanced options.md",
+    "data/Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
+    "data/Study/Vue/15. Script Setup/15.1 Migrate a component.md",
     "data/Study/Vue/17. Send and receive data through HTTP/17.1 Getting Data.md",
     "data/Study/Vue/16. Testing your app/16.7. Cypress.md",
     "data/Study/Vue/17. Send and receive data through HTTP",
@@ -203,8 +205,6 @@
     "data/Study/Vue/16. Testing your app/16.6 End-to-end tests (e2e).md",
     "data/Study/Vue/16. Testing your app/16.5 Snapshot testing.md",
     "data/Study/Vue/16. Testing your app/16.4 @vue test-utils.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Others/Birthday/Untitled.md",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
