@@ -371,3 +371,467 @@ https://www.figma.com/proto/41EM6OZwm46IO3V5q184vk/IID-Enhancement%2FRequirement
         "messages": null
     }
 }
+
+4th api
+
+{
+    "code": 0,
+    "desc": {
+        "en": "Success",
+        "ar": "Success"
+    },
+    "data": {
+        "sections": [
+            {
+                "key": "RESIDENCY_ADDRESS",
+                "data": [
+                    {
+                        "id": 163,
+                        "systemFieldId": 42,
+                        "multiSelect": false,
+                        "labelEn": "Emirate",
+                        "labelAr": "الإمارة",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 7,
+                            "name": "Lookup",
+                            "maxLength": -1,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": -1
+                        },
+                        "controlType": "dropdown",
+                        "name": "emirates",
+                        "placeHolderEn": "Emirate",
+                        "placeHolderAr": "الإمارة",
+                        "enabled": true,
+                        "sequence": 1,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": [
+                            {
+                                "id": 32,
+                                "textEn": "Dubai",
+                                "textAr": "دبي",
+                                "value": "32",
+                                "selected": true,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 33,
+                                "textEn": "Abu Dhabi",
+                                "textAr": "أبوظبي ",
+                                "value": "33",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 34,
+                                "textEn": "Sharjah",
+                                "textAr": "الشارقة",
+                                "value": "34",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 35,
+                                "textEn": "Umm Al Quwain",
+                                "textAr": "أم القوين ",
+                                "value": "35",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 36,
+                                "textEn": "Ajman",
+                                "textAr": "عجمان ",
+                                "value": "36",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 37,
+                                "textEn": "Ras Al Khaimah",
+                                "textAr": "راس الخيمة",
+                                "value": "37",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            },
+                            {
+                                "id": 38,
+                                "textEn": "Fujairah",
+                                "textAr": "الفجيرة",
+                                "value": "38",
+                                "selected": false,
+                                "editable": true,
+                                "multiSelect": false
+                            }
+                        ],
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": "address",
+                        "groupType": "RESIDENCY_ADDRESS",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "emirate"
+                    },
+                    {
+                        "id": 169,
+                        "systemFieldId": 48,
+                        "multiSelect": false,
+                        "labelEn": "Address",
+                        "labelAr": "العنوان",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 500,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": -1
+                        },
+                        "controlType": "text",
+                        "name": "address",
+                        "placeHolderEn": "Address",
+                        "placeHolderAr": "العنوان",
+                        "enabled": true,
+                        "sequence": 2,
+                        "iconPath": null,
+                        "validation": "{\"regex\":\"^[a-zA-Z\\u0600-\\u06FF0-9٠-٩ ]{0,500}$\"}",
+                        "mandatory": false,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": "address",
+                        "groupType": "RESIDENCY_ADDRESS",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "address"
+                    }
+                ]
+            },
+            {
+                "key": "PERSON_INFO",
+                "data": [
+                    {
+                        "id": 137,
+                        "systemFieldId": 67,
+                        "multiSelect": false,
+                        "labelEn": "First Name English",
+                        "labelAr": "الاسم الأول بالإنجليزية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": 1
+                        },
+                        "controlType": "text",
+                        "name": "firstNameEn",
+                        "placeHolderEn": "First Name English",
+                        "placeHolderAr": "الاسم الأول بالإنجليزية",
+                        "enabled": true,
+                        "sequence": 1,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "firstNameEn"
+                    },
+                    {
+                        "id": 138,
+                        "systemFieldId": 68,
+                        "multiSelect": false,
+                        "labelEn": "Middle Name English",
+                        "labelAr": "اسم الأب بالإنجليزية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": -1
+                        },
+                        "controlType": "text",
+                        "name": "middleNameEn",
+                        "placeHolderEn": "Middle Name English",
+                        "placeHolderAr": "اسم الأب بالإنجليزية",
+                        "enabled": true,
+                        "sequence": 2,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": false,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "middleNameEn"
+                    },
+                    {
+                        "id": 139,
+                        "systemFieldId": 69,
+                        "multiSelect": false,
+                        "labelEn": "Last Name English",
+                        "labelAr": "اسم العائلة بالإنجليزية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": 1
+                        },
+                        "controlType": "text",
+                        "name": "lastNameEn",
+                        "placeHolderEn": "Last Name English",
+                        "placeHolderAr": "اسم العائلة بالإنجليزية",
+                        "enabled": true,
+                        "sequence": 3,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "lastNameEn"
+                    },
+                    {
+                        "id": 140,
+                        "systemFieldId": 70,
+                        "multiSelect": false,
+                        "labelEn": "First Name Arabic",
+                        "labelAr": "الاسم الأول بالعربية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": 1
+                        },
+                        "controlType": "text",
+                        "name": "firstNameAr",
+                        "placeHolderEn": "First Name Arabic",
+                        "placeHolderAr": "الاسم الأول بالعربية",
+                        "enabled": true,
+                        "sequence": 4,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "firstNameAr"
+                    },
+                    {
+                        "id": 141,
+                        "systemFieldId": 71,
+                        "multiSelect": false,
+                        "labelEn": "Middle Name Arabic",
+                        "labelAr": "اسم الأب بالعربية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": -1
+                        },
+                        "controlType": "text",
+                        "name": "middleNameAr",
+                        "placeHolderEn": "Middle Name Arabic",
+                        "placeHolderAr": "اسم الأب بالعربية",
+                        "enabled": true,
+                        "sequence": 5,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": false,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "middleNameAr"
+                    },
+                    {
+                        "id": 142,
+                        "systemFieldId": 72,
+                        "multiSelect": false,
+                        "labelEn": "Last Name Arabic",
+                        "labelAr": "اسم العائلة بالعربية",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 100,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": 1
+                        },
+                        "controlType": "text",
+                        "name": "lastNameAr",
+                        "placeHolderEn": "Last Name Arabic",
+                        "placeHolderAr": "اسم العائلة بالعربية",
+                        "enabled": true,
+                        "sequence": 6,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "PERSON_INFO",
+                        "approvalType": {
+                            "valueEn": "NA",
+                            "valueAr": "NA",
+                            "id": 0
+                        },
+                        "documents": null,
+                        "mapField": "lastNameAr"
+                    }
+                ]
+            },
+            {
+                "key": "IDENTIFICATION_DOC",
+                "data": [
+                    {
+                        "id": 152,
+                        "systemFieldId": 55,
+                        "multiSelect": false,
+                        "labelEn": "Passport Number",
+                        "labelAr": "رقم جواز السفر",
+                        "defaultValueEn": "DEFAULT EN",
+                        "defaultValueAr": "",
+                        "dataType": {
+                            "id": 1,
+                            "name": "String",
+                            "maxLength": 20,
+                            "precision": -1,
+                            "scale": -1,
+                            "minLength": 5
+                        },
+                        "controlType": "text",
+                        "name": "personPassport",
+                        "placeHolderEn": "Passport Number",
+                        "placeHolderAr": "رقم جواز السفر",
+                        "enabled": true,
+                        "sequence": 1,
+                        "iconPath": null,
+                        "validation": "",
+                        "mandatory": true,
+                        "editable": false,
+                        "systemEditable": false,
+                        "values": null,
+                        "visible": false,
+                        "category": null,
+                        "groupCategory": null,
+                        "groupType": "IDENTIFICATION_DOC",
+                        "approvalType": {
+                            "valueEn": "BACK_OFFICE",
+                            "valueAr": "BACK_OFFICE",
+                            "id": 1
+                        },
+                        "documents": [
+                            {
+                                "valueEn": "PASSPORT",
+                                "valueAr": "PASSPORT",
+                                "id": 17
+                            },
+                            {
+                                "valueEn": "PASSPORTSELFIE",
+                                "valueAr": "PASSPORTSELFIE",
+                                "id": 18
+                            }
+                        ],
+                        "mapField": "passportNo"
+                    }
+                ]
+            }
+        ]
+    }
+}
