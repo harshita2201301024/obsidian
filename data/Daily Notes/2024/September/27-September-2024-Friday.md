@@ -13,7 +13,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] GYM - 8PM - 10PM
 
 
-**Thi **
+**This Week Plan **
 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
 - [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
@@ -28,6 +28,8 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
 - [ ] Complete Vue Book -> P0 -> 10 Hour
 - [ ] Apply for Freelancing Jobs - 3 Hour
+- [ ] Shilpa Music Class -> 2 Hour
+- [ ] Buy Sabzi from Market -> 2 Hour
 
 **TKC**
 
