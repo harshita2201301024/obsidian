@@ -14,7 +14,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Join Toasmaster
 
 
-**This Week Plan **
+**This Week Plan**
 - [ ] Complete Vue Book -> P0 -> 10 Hour
 - [ ] Apply for Freelancing Jobs ->P0 - 3 Hour
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
