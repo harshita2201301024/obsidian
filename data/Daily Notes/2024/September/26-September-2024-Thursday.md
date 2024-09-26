@@ -7,6 +7,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
+- [ ] 45355 PR comments
 
 Bugs -> 4PM - 6PM 
 
@@ -15,7 +16,6 @@ Bugs -> 4PM - 6PM
 
 Personal -> 6PM - 8PM
 
-- [ ] Rent Payment of Dheeraj
 - [ ] Mansi Laptop Fix
 - [ ] Book Event Ticket
 - [ ] Fill Timesheet
