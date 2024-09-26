@@ -17,7 +17,8 @@ Personal -> 6PM - 8PM
 - [ ] Book Event Ticket
 - [ ] Fill Timesheet
 - [ ] Speak with Vijendra if he can share production data
-- [ ] We don't have budget 
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir
+- [ ] 
 - [ ] Prasad House
 - [ ] Business Bay for Desk
 
