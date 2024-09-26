@@ -5,11 +5,11 @@ Complete TLS Search -> 8PM - 4PM
 
 
 - [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
-- [ ] Display Summary Page - 1PM - 
-- [ ] Implement enrichment-search api and display the confirm page
-- [ ] Move to Next screen
+- [ ] Display Summary Page - 1PM - 4PM
+- [ ] Move to Next screen - 4PM - 6PM
 - [ ] Talk about Leave with sumeet and Ajumal
-- [ ] Prepare Website of TKC
+- [ ] Prepare Website of TKC - 6PM - 8PM
+- [ ] GYM - 8PM - 10PM
 
 
 Personal -> 6PM - 8PM
