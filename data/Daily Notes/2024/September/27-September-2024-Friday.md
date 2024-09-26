@@ -17,8 +17,9 @@ Personal -> 6PM - 8PM
 - [ ] Book Event Ticket
 - [ ] Fill Timesheet
 - [ ] Speak with Vijendra if he can share production data
+- [ ] We don't have budget 
 - [ ] Prasad House
-- [ ] Business Bay 
+- [ ] Business Bay for Desk
 
 GYM -> 8PM - 10PM
 
