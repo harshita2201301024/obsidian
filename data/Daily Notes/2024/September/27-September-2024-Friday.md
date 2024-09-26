@@ -31,6 +31,8 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
 - [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 
+
+
 **TKC**
 
 - [ ] Study VAT
@@ -59,7 +61,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Plan October trip - 11 august
 - [ ] Car Key - 12 august
 - [ ] Academy plan - 13 August
-- [ ] Shilpa old house transfer\
+- [ ] Shilpa old house transfer
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
