@@ -6,7 +6,7 @@ Complete TLS Search -> 8PM - 4PM
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/ 
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60723/
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60730
-- [ ] Sumeet called me to fix two bugs of smart poa (payment and )
+- [ ] Sumeet called me to fix two bugs of smart poa (notification payment and notificaiton signature)
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
