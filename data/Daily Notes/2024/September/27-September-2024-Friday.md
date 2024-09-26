@@ -8,7 +8,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Display Summary Page
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Move to Next screen
-- [ ] Talk about 
+- [ ] Talk about Leave with sumeet and Ajumal
 
 
 Personal -> 6PM - 8PM
@@ -60,7 +60,7 @@ GYM -> 8PM - 10PM
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
 - [ ] Shilpa Bank Account - 7,8,9 august
-- [ ] Shilpa Music Class - 11 august ✅ 2024-09-11
+- [ ] Shilpa Music Class - 11 august 
 - [ ] Plan October trip - 11 august
 - [ ] Car Key - 12 august
 - [ ] Academy plan - 13 August
