@@ -27,6 +27,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
 - [ ] Complete Vue Book -> P0 -> 10 Hour
+- [ ] Apply for Freelancing Jobs - 3 Hour
 
 
 **Pending**
