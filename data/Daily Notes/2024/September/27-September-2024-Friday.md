@@ -18,7 +18,7 @@ Personal -> 6PM - 8PM
 - [ ] Fill Timesheet
 - [ ] Speak with Vijendra if he can share production data
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir
-- [ ] 
+- [ ] Excel Sheet Share for pricing
 - [ ] Prasad House
 - [ ] Business Bay for Desk
 
