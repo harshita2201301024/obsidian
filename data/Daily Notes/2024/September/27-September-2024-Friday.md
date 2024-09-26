@@ -14,19 +14,16 @@ Complete TLS Search -> 8PM - 4PM
 
 Personal -> 6PM - 8PM
 
-- [ ] Mansi Laptop Fix
-- [ ] Book Event Ticket
-- [ ] Fill Timesheet
-- [ ] Speak with Vijendra if he can share production data
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir
-- [ ] Excel Sheet Share for pricing
-- [ ] Prasad House
-- [ ] Business Bay for Desk
-- [ ] Look for hotel
-- [ ] Look for Taxi Driver
-
-
-GYM -> 8PM - 10PM
+- [ ] Mansi Laptop Fix - P1
+- [ ] Book Event Ticket - P1
+- [ ] Fill Timesheet - P1
+- [ ] Speak with Vijendra if he can share production data - P0
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0
+- [ ] Excel Sheet Share for pricing - P1
+- [ ] Prasad House - P2
+- [ ] Business Bay for Desk - P2
+- [ ] Look for hotel - P2
+- [ ] Look for Taxi Driver - P2
 
 
 **Pending**
