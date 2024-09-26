@@ -15,16 +15,16 @@ Complete TLS Search -> 8PM - 4PM
 
 Personal -> 6PM - 8PM
 
-- [ ] Mansi Laptop Fix - P1 - 1 Hour
-- [ ] Book Event Ticket - P1 - 0.5 Hour
-- [ ] Fill Timesheet - P1 - 1 Hour
-- [ ] Speak with Vijendra if he can share production data - P0 - 1 Hour
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 - Assign to Shilpa
-- [ ] Excel Sheet Share for Hopricing - P1 - Assign to Shilpa
-- [ ] Prasad House - P2 - 1 
-- [ ] Business Bay for Desk - P2
-- [ ] Look for hotel - P2
-- [ ] Look for Taxi Driver - P2
+- [ ] Mansi Laptop Fix -> P1 - 1 Hour
+- [ ] Book Event Ticket -> P1 - 0.5 Hour
+- [ ] Fill Timesheet - P1 -> 1 Hour
+- [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+- [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
+- [ ] Prasad House - P2 -> 1 Hour 
+- [ ] Business Bay for Desk - P2 -> 5 Hour
+- [ ] Look for hotel - P2 -> 5 Hour
+- [ ] Look for Taxi Driver - P2 -
 
 
 **Pending**
