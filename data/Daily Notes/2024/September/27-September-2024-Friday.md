@@ -26,7 +26,7 @@ Personal -> 6PM - 8PM
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
-- [ ] Complete Vue Book -> 
+- [ ] Complete Vue Book -> P0 -> 10 Hour
 
 
 **Pending**
