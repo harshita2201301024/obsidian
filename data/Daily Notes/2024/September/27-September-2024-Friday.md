@@ -22,6 +22,7 @@ Personal -> 6PM - 8PM
 - [ ] Excel Sheet Share for pricing
 - [ ] Prasad House
 - [ ] Business Bay for Desk
+- [ ] Look for hotel
 - [ ] 
 
 GYM -> 8PM - 10PM
