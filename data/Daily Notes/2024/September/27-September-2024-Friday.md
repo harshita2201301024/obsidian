@@ -13,7 +13,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] GYM - 8PM - 10PM
 
 
-**Personal **
+**Thi **
 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
 - [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
@@ -28,19 +28,6 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
 - [ ] Complete Vue Book -> P0 -> 10 Hour
 - [ ] Apply for Freelancing Jobs - 3 Hour
-
-
-**Pending**
-
-- [ ] Study - 04: 00 PM - 06: 00 PM
-- [ ] Freelancing Aakash - 06:00 PM - 07: 00 PM
-- [ ] Study Vue.js
-- [ ] Work from Home for leaves
-- [ ] Apply for leave
-
-
-**Personal**
-
 
 **TKC**
 
