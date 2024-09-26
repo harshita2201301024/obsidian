@@ -17,6 +17,8 @@ Personal -> 6PM - 8PM
 - [ ] Book Event Ticket
 - [ ] Fill Timesheet
 - [ ] Speak with Vijendra if he can share production data
+- [ ] Prasad House
+- [ ] Business Bay 
 
 GYM -> 8PM - 10PM
 
@@ -59,7 +61,6 @@ GYM -> 8PM - 10PM
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
-- [ ] Shilpa Bank Account - 7,8,9 august
 - [ ] Shilpa Music Class - 11 august 
 - [ ] Plan October trip - 11 august
 - [ ] Car Key - 12 august
