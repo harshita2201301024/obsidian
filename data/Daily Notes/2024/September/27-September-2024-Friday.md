@@ -11,25 +11,26 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Apply for leave
 - [ ] Prepare Website of TKC - 6PM - 8PM
 - [ ] GYM - 8PM - 10PM
+- [ ] Join Toasmaster
 
 
 **This Week Plan **
-
+- [ ] Complete Vue Book -> P0 -> 10 Hour
+- [ ] Apply for Freelancing Jobs ->P0 - 3 Hour
+- [ ] Shilpa Music Class -> P0 -> 4 Hour
+- [ ] Buy Sabzi from Market -> P0 -> 2 Hour
+- [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
 - [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
 - [ ] Book Event Ticket -> P1 - 0.5 Hour
 - [ ] Fill Timesheet - P1 -> 1 Hour
-- [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 - [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
 - [ ] Prasad House - P2 -> 1 Hour 
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
-- [ ] Complete Vue Book -> P0 -> 10 Hour
-- [ ] Apply for Freelancing Jobs ->P0 - 3 Hour
-- [ ] Shilpa Music Class -> P0 -> 4 Hour
-- [ ] Buy Sabzi from Market -> P0 -> 2 Hour
+
 
 
 
@@ -65,4 +66,3 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
-- [ ] Join Toasmaster
