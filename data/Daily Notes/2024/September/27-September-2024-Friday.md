@@ -29,7 +29,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Complete Vue Book -> P0 -> 10 Hour
 - [ ] Apply for Freelancing Jobs ->P0 - 3 Hour
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
-- [ ] Buy Sabzi from Market -> 2 Hour
+- [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 
 **TKC**
 
