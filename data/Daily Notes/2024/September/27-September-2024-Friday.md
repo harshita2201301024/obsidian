@@ -8,19 +8,20 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Display Summary Page - 1PM - 4PM
 - [ ] Move to Next screen - 4PM - 6PM
 - [ ] Talk about Leave with sumeet and Ajumal
+- [ ] Apply for leave
 - [ ] Prepare Website of TKC - 6PM - 8PM
 - [ ] GYM - 8PM - 10PM
 
 
 Personal -> 6PM - 8PM
 
-- [ ] Mansi Laptop Fix - P1
-- [ ] Book Event Ticket - P1
-- [ ] Fill Timesheet - P1
-- [ ] Speak with Vijendra if he can share production data - P0
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0
-- [ ] Excel Sheet Share for pricing - P1
-- [ ] Prasad House - P2
+- [ ] Mansi Laptop Fix - P1 - 1 Hour
+- [ ] Book Event Ticket - P1 - 0.5 Hour
+- [ ] Fill Timesheet - P1 - 1 Hour
+- [ ] Speak with Vijendra if he can share production data - P0 - 1 Hour
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 - Assign to Shilpa
+- [ ] Excel Sheet Share for Hopricing - P1 - Assign to Shilpa
+- [ ] Prasad House - P2 - 1 
 - [ ] Business Bay for Desk - P2
 - [ ] Look for hotel - P2
 - [ ] Look for Taxi Driver - P2
