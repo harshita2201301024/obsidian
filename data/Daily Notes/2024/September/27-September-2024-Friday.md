@@ -4,8 +4,8 @@ created: 2024-02-27 00:08
 Complete TLS Search -> 8PM - 4PM
 
 
-- [ ] Implement enrichment-search api and display the confirm page
-- [ ] Display Summary Page
+- [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
+- [ ] Display Summary Page - 1PM - 
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Move to Next screen
 - [ ] Talk about Leave with sumeet and Ajumal
@@ -23,13 +23,11 @@ Personal -> 6PM - 8PM
 - [ ] Prasad House
 - [ ] Business Bay for Desk
 - [ ] Look for hotel
-- [ ] Taxi Driver
-- [ ] 
+- [ ] Look for Taxi Driver
+
 
 GYM -> 8PM - 10PM
 
-
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/45355 - Work on PR comments -> 10 PM - 12 AM
 
 **Pending**
 
