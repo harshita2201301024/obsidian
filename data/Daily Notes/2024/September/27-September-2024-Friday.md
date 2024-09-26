@@ -16,6 +16,7 @@ Complete TLS Search -> 8PM - 4PM
 Personal -> 6PM - 8PM
 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
+- [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
 - [ ] Book Event Ticket -> P1 - 0.5 Hour
 - [ ] Fill Timesheet - P1 -> 1 Hour
 - [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
@@ -25,6 +26,7 @@ Personal -> 6PM - 8PM
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
+- [ ] Complete Vue Book -> 
 
 
 **Pending**
