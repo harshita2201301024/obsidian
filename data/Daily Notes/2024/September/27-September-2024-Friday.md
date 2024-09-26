@@ -21,8 +21,9 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 - [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+- [ ] Check Eye Operation - P0 -> 1 Hour
+- [ ] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
-- [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
 - [ ] Book Event Ticket -> P1 - 0.5 Hour
 - [ ] Fill Timesheet - P1 -> 1 Hour
 - [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
@@ -53,7 +54,6 @@ Complete TLS Search -> 8PM - 4PM
 **Pending**
 
 - [ ] Freelancing accounts
-- [ ] Check Eye Operation
 - [ ] Aakash job posts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
