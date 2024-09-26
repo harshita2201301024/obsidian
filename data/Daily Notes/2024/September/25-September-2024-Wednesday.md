@@ -5,7 +5,7 @@ Complete TLS Search -> 8PM - 4PM
 
 - [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/59866/ 
 - [x] Add Nationality to searching
-- [ ] Worked on enrichment search
+- [ ] Worked on enrichment search and error handling
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
