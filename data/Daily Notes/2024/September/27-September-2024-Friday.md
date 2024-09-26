@@ -24,7 +24,7 @@ Personal -> 6PM - 8PM
 - [ ] Prasad House - P2 -> 1 Hour 
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
-- [ ] Look for Taxi Driver - P2 -
+- [ ] Look for Taxi Driver - P2 -> 5 Hour
 
 
 **Pending**
