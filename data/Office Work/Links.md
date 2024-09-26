@@ -51,3 +51,7 @@ https://stackoverflow.com/questions/11704267/in-javascript-how-to-conditionally-
 
 
 
+gitops-uat
+create a branch from main
+update tags.yml
+raise a PR and get it approved from sumeet and ajumal
