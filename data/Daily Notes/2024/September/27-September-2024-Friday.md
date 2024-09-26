@@ -13,7 +13,7 @@ Complete TLS Search -> 8PM - 4PM
 - [ ] GYM - 8PM - 10PM
 
 
-Personal -> 6PM - 8PM
+**Personal **
 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
 - [ ] Join Toastmaster and Attend Meeting -> p0 3 Hour 
