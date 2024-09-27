@@ -3,7 +3,6 @@ Dev Url: https://iid-dev.detsandbox.com/
 Work Items: https://devops.det.gov.ae/DefaultCollection/IID/_workitems/recentlyupdated/
 Pull Requests: https://devops.det.gov.ae/DefaultCollection/IID/_git/det-iid_portal/pullrequests?_a=mine
 deployment Portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/portal-dev
-Feature Dev Deployment portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/portal-feature-dev
 iid portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/det-iid_portal
 Epics - https://devops.det.gov.ae/DefaultCollection/IID/_backlogs/backlog/IID%20Team/Epics
 Rancher - https://k8s01-rmc.corp.det.gov.ae/dashboard/c/c-m-g4sb59z7/explorer/apps.deployment/iid-uat/portal#pods
