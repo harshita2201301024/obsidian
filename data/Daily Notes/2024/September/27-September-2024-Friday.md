@@ -6,10 +6,6 @@ Complete TLS Search -> 8PM - 4PM
 
 - [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60609/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60954/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60927/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60950/
 
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60964/
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60962/
@@ -17,6 +13,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60957/
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60927/
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60954/
 https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60950/
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 - [ ] Display Summary Page - 1PM - 4PM
 - [ ] Move to Next screen - 4PM - 6PM
 - [ ] Talk about Leave with sumeet and Ajumal
