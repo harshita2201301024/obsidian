@@ -24,12 +24,15 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 
 
 **This Week Plan**
-- [ ] Complete Vue Book -> P0 -> 10 Hour -> 10PM - 5AM
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+
+
+- [ ] Complete Vue Book -> P0 -> 10 Hour 
 - [ ] Apply for Freelancing Jobs ->P0 - 3 Hour -> 
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
 - [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 - [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+
 - [ ] Check Eye Operation - P0 -> 1 Hour
 - [ ] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
