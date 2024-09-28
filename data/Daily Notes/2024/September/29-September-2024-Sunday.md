@@ -8,9 +8,9 @@ created: 2024-02-27 00:08
 - [ ] Prepare Website of TKC - 6PM - 8PM
 - [ ] GYM - 8PM - 10PM
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
-
-
-**This Week Plan**
+- [ ] Check Eye Operation -> Assign to Shilpa
+- [ ] Sim Pick ->
+- [ ] Temple Clean
 
 
 
