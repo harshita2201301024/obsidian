@@ -27,8 +27,10 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 - [ ] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
 - [ ] Book Event Ticket -> P1 - 0.5 Hour
-- [ ] Fill Timesheet - P1 -> 1 Hour
-- [ ] Printout
+- [ ] Fill Timesheet - P1 -> 1 Hour -> 6:30 pm
+- [ ] Printout - 4 PM - 4:30 PM
+- [ ] Buy Sabzi from Market -> P0 -> 2 Hour -> 4:30 PM - 6:30 PM
+
 
 
 
@@ -36,7 +38,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 - [ ] Complete Vue Book -> P0 -> 10 Hour 
 - [ ] Apply for Freelancing Jobs ->P0 - 3 Hour -> 
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
-- [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 - [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
 - [ ] Check Eye Operation - P0 -> 1 Hour
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
