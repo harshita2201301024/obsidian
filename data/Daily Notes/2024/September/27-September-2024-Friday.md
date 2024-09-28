@@ -25,6 +25,12 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 
 **This Week Plan**
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+- [ ] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
+- [ ] Book Event Ticket -> P1 - 0.5 Hour
+- [ ] Fill Timesheet - P1 -> 1 Hour
+- [ ] Printout
+
+
 
 
 - [ ] Complete Vue Book -> P0 -> 10 Hour 
@@ -32,18 +38,14 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
 - [ ] Buy Sabzi from Market -> P0 -> 2 Hour
 - [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
-
 - [ ] Check Eye Operation - P0 -> 1 Hour
-- [ ] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
 - [ ] Mansi Laptop Fix -> P1 - 1 Hour
-- [ ] Book Event Ticket -> P1 - 0.5 Hour
-- [ ] Fill Timesheet - P1 -> 1 Hour
 - [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
 - [ ] Prasad House - P2 -> 1 Hour 
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
-- [ ] Printout
+
 
 
 
