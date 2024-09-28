@@ -24,7 +24,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 
 
 **This Week Plan**
-- [ ] Complete Vue Book -> P0 -> 10 Hour
+- [ ] Complete Vue Book -> P0 -> 10 Hour -> 10PM - 5AM
 - [ ] Apply for Freelancing Jobs ->P0 - 3 Hour
 - [ ] Shilpa Music Class -> P0 -> 4 Hour
 - [ ] Buy Sabzi from Market -> P0 -> 2 Hour
@@ -40,6 +40,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 - [ ] Business Bay for Desk - P2 -> 5 Hour
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
+- [ ] Printout
 
 
 
