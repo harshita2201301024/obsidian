@@ -1,10 +1,10 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Complete TLS Search -> 8PM - 4PM
-- [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
-- [ ] Display Summary Page - 1PM - 4PM
-- [ ] Move to Next screen - 4PM - 6PM
+- [ ] Complete TLS Search -> 10AM - 4PM
+	- [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
+	- [ ] Display Summary Page - 1PM - 4PM
+	- [ ] Move to Next screen - 4PM - 6PM
 - [ ] Talk about Leave with sumeet and Ajumal
 - [ ] Prepare Website of TKC - 6PM - 8PM
 - [ ] GYM - 8PM - 10PM
