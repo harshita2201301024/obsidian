@@ -10,7 +10,7 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60065/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60064/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60015/
-- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60106/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60106/
 - [ ] Implement enrichment-search api and display the confirm page
 - [ ] Display Summary Page
 - [ ] Move to Next screen
