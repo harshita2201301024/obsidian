@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/September/27-September-2024-Friday.md",
+                "file": "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/September/27-September-2024-Friday.md",
+                "file": "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/September/27-September-2024-Friday.md",
+                "file": "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/September/27-September-2024-Friday.md"
+                "file": "data/Daily Notes/2024/September/29-September-2024-Sunday.md"
               }
             }
           },
@@ -164,10 +164,11 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/September/27-September-2024-Friday.md",
+    "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
     "data/Daily Notes/2024/September/26-September-2024-Thursday.md",
     "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
     "data/Daily Notes/2024/September/23-September-2024-Monday.md",
-    "data/Daily Notes/2024/September/27-September-2024-Friday.md",
     "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
     "data/Office Work/Links.md",
     "data/Office Work/Users.md",
@@ -191,7 +192,6 @@
     "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
     "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
     "data/Study/Vue/19. Suspense/19. Suspense.md",
-    "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
     "data/Study/Vue/19. Suspense",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",

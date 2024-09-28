@@ -25,11 +25,6 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60945/
 
 **This Week Plan**
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
-- [x] Join Toastmaster and Attend Meeting -> p0 -> 3 Hour 
-- [x] Book Event Ticket -> P1 - 0.5 Hour -> 7:30 PM - 08: 00 PM
-- [x] Fill Timesheet - P1 -> 1 Hour -> 6:30 PM - 7:30 PM
-- [x] Printout - 4 PM - 4:30 PM
-- [x] Buy Sabzi from Market -> P0 -> 2 Hour -> 4:30 PM - 6:30 PM
 
 
 
