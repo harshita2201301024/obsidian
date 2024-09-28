@@ -10,7 +10,7 @@ created: 2024-02-27 00:08
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 - [ ] Check Eye Operation -> Assign to Shilpa
 - [ ] Mandir Cleaning -> Assign to Shilpa
-- [ ] Call Regarding Ma
+- [ ] Call Regarding Maithali and Check City Max Price -> Assign to Shilpa
 - [ ] Sim Pick ->
 - [ ] Temple Clean
 
