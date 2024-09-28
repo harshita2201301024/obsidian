@@ -1,21 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Complete TLS Search -> 1PM - 6PM
-	- [ ] Implement enrichment-search api and display the confirm page - 1PM - 6PM
-	- [ ] Display Summary Page 
-	- [ ] Move to Next screen
-- [ ] Prepare Website of TKC - 10AM - 1PM
-- [ ] GYM - 10AM - 1PM
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa -> 1PM - 2PM
-- [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
-- [ ] Mandir Cleaning -> Assign to Shilpa -> 3PM - 4PM
-- [ ] Call Regarding Maithali and Check City Max Price -> Assign to Shilpa -> 4PM - 5PM
-- [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
-- [ ] Temple Clean -> Assign to Shilpa -> 6PM - 6:30PM 
-- [ ] Mansi Laptop Fix -> 6:30PM - 7PM
-- [ ] Sim Pick -> 7PM - 8PM
-- [ ] Attend Maithali Function -> 8PM - 10PM
+
 
 
 
