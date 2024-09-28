@@ -15,6 +15,7 @@ created: 2024-02-27 00:08
 - [ ] Temple Clean -> Assign to Shilpa -> 6PM - 6:30PM 
 - [ ] Mansi Laptop Fix -> 6:30PM - 7PM
 - [ ] Sim Pick -> 7PM - 8PM
+- [ ] Attend Maithali Function -> 8PM - 10PM
 
 
 
