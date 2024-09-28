@@ -12,9 +12,10 @@ created: 2024-02-27 00:08
 - [ ] Mandir Cleaning -> Assign to Shilpa -> 3PM - 4PM
 - [ ] Call Regarding Maithali and Check City Max Price -> Assign to Shilpa -> 4PM - 5PM
 - [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
-- [ ] Sim Pick -> 8
-- [ ] Mansi Laptop Fix -> 7PM - PM
-- [ ] Temple Clean -> Assign to Shilpa -> 6PM - 7PM 
+- [ ] Temple Clean -> Assign to Shilpa -> 6PM - 6:30PM 
+- [ ] Mansi Laptop Fix -> 6:30PM - 7PM
+- [ ] Sim Pick -> 7PM - 8PM
+
 
 
 
