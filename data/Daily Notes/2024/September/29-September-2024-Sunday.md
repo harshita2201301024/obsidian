@@ -11,7 +11,9 @@ created: 2024-02-27 00:08
 - [ ] Check Eye Operation -> Assign to Shilpa
 - [ ] Mandir Cleaning -> Assign to Shilpa
 - [ ] Call Regarding Maithali and Check City Max Price -> Assign to Shilpa
+- [ ] Check Hotel Price -> Assign to Shilpa
 - [ ] Sim Pick ->
+- [ ] Mansi Laptop Fix ->
 - [ ] Temple Clean
 
 
