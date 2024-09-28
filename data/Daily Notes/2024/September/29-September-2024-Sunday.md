@@ -1,18 +1,17 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Complete TLS Search -> 10AM - 4PM
-	- [ ] Implement enrichment-search api and display the confirm page - 9AM - 1PM
+- [ ] Complete TLS Search -> 10AM - 6PM
+	- [ ] Implement enrichment-search api and display the confirm page - 10AM - 1PM
 	- [ ] Display Summary Page - 1PM - 4PM
 	- [ ] Move to Next screen - 4PM - 6PM
-- [ ] Talk about Leave with sumeet and Ajumal
 - [ ] Prepare Website of TKC - 6PM - 8PM
 - [ ] GYM - 8PM - 10PM
-- [ ] Join Toasmaster
+- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 
 
 **This Week Plan**
-- [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
+
 
 
 
@@ -52,6 +51,7 @@ created: 2024-02-27 00:08
 
 **Pending**
 
+- [ ] Talk about Leave with sumeet and Ajumal
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
 - [ ] Aademy job post
