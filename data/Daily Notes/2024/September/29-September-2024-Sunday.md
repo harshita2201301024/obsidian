@@ -5,8 +5,8 @@ created: 2024-02-27 00:08
 	- [ ] Implement enrichment-search api and display the confirm page - 10AM - 1PM
 	- [ ] Display Summary Page - 1PM - 4PM
 	- [ ] Move to Next screen - 4PM - 6PM
-- [ ] Prepare Website of TKC - 6PM - 8PM
-- [ ] GYM - 8PM - 10PM
+- [ ] Prepare Website of TKC - 10AM - 8PM
+- [ ] GYM - 10AM - 1PM
 - [ ] We don't have budget discuss with Renu Mam and Tarun Sir - P0 >- Assign to Shilpa
 - [ ] Check Eye Operation -> Assign to Shilpa
 - [ ] Sim Pick ->
