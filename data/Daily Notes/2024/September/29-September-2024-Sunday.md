@@ -14,7 +14,7 @@ created: 2024-02-27 00:08
 - [ ] Check Hotel Price -> Assign to Shilpa
 - [ ] Sim Pick ->
 - [ ] Mansi Laptop Fix ->
-- [ ] Temple Clean
+- [ ] Temple Clean -> Assign to Shihlpa
 
 
 
