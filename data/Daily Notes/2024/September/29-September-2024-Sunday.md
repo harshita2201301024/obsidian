@@ -2,7 +2,6 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] Mandir Cleaning -> Assign to Shilpa -> 8:30AM - 9AM
 - [ ] Complete TLS Search -> 9AM - 5PM
 	- [ ] Implement enrichment-search api and display the confirm page - 1PM - 6PM
 	- [ ] Display Summary Page 
@@ -13,7 +12,6 @@ created: 2024-02-27 00:08
 
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
 - [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
-- [ ] Temple Clean -> Assign to Shilpa -> 6PM - 6:30PM 
 - [ ] Mansi Laptop Fix -> 6:30PM - 7PM
 
 
@@ -57,6 +55,7 @@ created: 2024-02-27 00:08
 **Pending**
 
 - [ ] Talk about Leave with sumeet and Ajumal
+- [ ] Mandir Cleaning
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
 - [ ] Aademy job post
