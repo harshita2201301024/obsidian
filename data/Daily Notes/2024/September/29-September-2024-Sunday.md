@@ -7,9 +7,11 @@ created: 2024-02-27 00:08
 	- [ ] Display Summary Page 
 	- [ ] Move to Next screen
 - [ ] Meeting with Tarun sir client -> 6PM - 8PM
-- [ ] GYM 
+- [ ] GYM -> 8PM - 10PM
+
+
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
-- [ ] Mandir Cleaning -> Assign to Shilpa -> 3PM - 4PM
+- [ ] Mandir Cleaning -> Assign to Shilpa -> 8PM - 4PM
 - [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
 - [ ] Temple Clean -> Assign to Shilpa -> 6PM - 6:30PM 
 - [ ] Mansi Laptop Fix -> 6:30PM - 7PM
