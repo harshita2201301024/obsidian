@@ -1,11 +1,13 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] GYM - 10AM - 1PM
-- [ ] Complete TLS Search -> 9AM - PM
+
+- [ ] Complete TLS Search -> 9AM - 5PM
 	- [ ] Implement enrichment-search api and display the confirm page - 1PM - 6PM
 	- [ ] Display Summary Page 
 	- [ ] Move to Next screen
+- [ ] Meeting with Tarun sir client -> 6PM - 8PM
+- [ ] GYM 
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
 - [ ] Mandir Cleaning -> Assign to Shilpa -> 3PM - 4PM
 - [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
