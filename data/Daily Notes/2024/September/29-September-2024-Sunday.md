@@ -8,6 +8,7 @@ created: 2024-02-27 00:08
 	- [ ] Move to Next screen
 - [ ] Meeting with Tarun sir client -> 6PM - 8PM
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60979/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/57743?src=WorkItemMention&src-action=artifact_link
 - [ ] GYM -> 8PM - 10PM
 - [ ] Book Herat Riya Ticket
 - [ ] Delete logo from project and laptop
