@@ -9,6 +9,7 @@ created: 2024-02-27 00:08
 - [ ] Meeting with Tarun sir client -> 6PM - 8PM
 - [ ] GYM -> 8PM - 10PM
 - [ ] Book Herat Riya Ticket
+- [ ] Delete logo from project and laptop
 
 
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
