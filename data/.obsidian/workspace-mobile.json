@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/September/26-September-2024-Thursday.md",
+                "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/September/26-September-2024-Thursday.md",
+            "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/September/26-September-2024-Thursday.md",
+            "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/September/26-September-2024-Thursday.md"
+            "file": "Daily Notes/2024/September/30-September-2024-Monday.md"
           }
         }
       }
@@ -145,6 +145,10 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
+    "Pending Things/Pending.md",
+    "Daily Notes/2024/September/30-September-2024-Monday.md",
+    "Daily Notes/2024/September/26-September-2024-Thursday.md",
+    "Daily Notes/2024/September/29-September-2024-Sunday.md",
     "Daily Notes/2024/September/27-September-2024-Friday.md",
     "Study/Vue/18. Slots/18.1. Content projection with slot.md",
     "Study/Vue/18. Slots/18.4 Slot props.md",
@@ -170,11 +174,7 @@
     "Study/Vue/19. Suspense/19.5 script setup and await.md",
     "Study/Vue/18. Slots/18.3 Fallback content.md",
     "Daily Notes/2024/September/23-September-2024-Monday.md",
-    "Daily Notes/2024/September/26-September-2024-Thursday.md",
     "Others/Things to bring from india.md",
-    "Daily Notes/2024/September/22-September-2024-Sunday.md",
-    "Daily Notes/2024/September/12-September-2024-Thursday.md",
-    "Daily Notes/2024/September/18-September-2024-Wednesday.md",
     "Study/Javascript",
     "Study/Vue/15. Script Setup",
     "Study/Vue/11. How to build Components",
