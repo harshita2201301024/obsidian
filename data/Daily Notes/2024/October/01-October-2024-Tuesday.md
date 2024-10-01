@@ -8,6 +8,7 @@ created: 2024-02-27 00:08
 	- [ ] Move to Next screen
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60964/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60957/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/61251/
 - [ ] GYM -> 8PM - 10PM
 - [x] Book Herat Riya Ticket
 - [ ] Delete logo from project and laptop
