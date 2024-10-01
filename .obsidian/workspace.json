@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Users.md",
+                "file": "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Users.md"
+                "file": "data/Daily Notes/2024/October/01-October-2024-Tuesday.md"
               }
             }
           },
@@ -164,10 +164,12 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Office Work/Links.md",
-    "data/Office Work/Users.md",
     "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
     "data/Daily Notes/2024/September/30-September-2024-Monday.md",
+    "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
+    "data/Daily Notes/2024/October",
+    "data/Office Work/Users.md",
+    "data/Office Work/Links.md",
     "data/Office Work/Add TLS person search.md",
     "data/Daily Notes/2024/September/27-September-2024-Friday.md",
     "data/Daily Notes/2024/September/26-September-2024-Thursday.md",
@@ -191,7 +193,6 @@
     "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
     "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
     "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
-    "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
     "data/Study/Vue/19. Suspense",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
@@ -199,7 +200,6 @@
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
-    "data/Study/Vue/13. Composition API",
-    "data/Study/Vue/12. Style your components"
+    "data/Study/Vue/13. Composition API"
   ]
 }
