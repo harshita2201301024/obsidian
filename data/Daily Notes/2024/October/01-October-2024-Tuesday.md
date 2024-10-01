@@ -6,8 +6,8 @@ created: 2024-02-27 00:08
 	- [x] Implement enrichment-search api and display the confirm page - 1PM - 6PM
 	- [ ] Display Summary Page 
 	- [ ] Move to Next screen
-https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60964/
-
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60964/
+- [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60957/
 - [ ] GYM -> 8PM - 10PM
 - [ ] Book Herat Riya Ticket
 - [ ] Delete logo from project and laptop
