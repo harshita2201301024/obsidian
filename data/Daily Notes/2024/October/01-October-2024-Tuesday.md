@@ -4,13 +4,14 @@ created: 2024-02-27 00:08
 
 - [x] Complete TLS Search -> 9AM - 5PM
 	- [x] Implement enrichment-search api and display the confirm page - 1PM - 6PM
-	- [ ] Display Summary Page 
-	- [ ] Move to Next screen
+	- [x] Display Summary Page 
+	- [x] Move to Next screen
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60964/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60957/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/61251/
 - [ ] GYM -> 8PM - 10PM
 - [x] Book Herat Riya Ticket
+- [x] Completed the happy scenario of find user by tls id
 - [ ] Delete logo from project and laptop
 - [ ] Health Insurance for family
 
