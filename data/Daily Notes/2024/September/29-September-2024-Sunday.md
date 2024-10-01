@@ -2,11 +2,11 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] Complete TLS Search -> 9AM - 5PM
-	- [ ] Implement enrichment-search api and display the confirm page - 1PM - 6PM
+- [x] Complete TLS Search -> 9AM - 5PM
+	- [x] Implement enrichment-search api and display the confirm page - 1PM - 6PM
 	- [ ] Display Summary Page 
 	- [ ] Move to Next screen
-- [ ] Meeting with Tarun sir client -> 6PM - 8PM
+- [x] Meeting with Tarun sir client -> 6PM - 8PM
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60979/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/57743?src=WorkItemMention&src-action=artifact_link
 - [ ] GYM -> 8PM - 10PM
