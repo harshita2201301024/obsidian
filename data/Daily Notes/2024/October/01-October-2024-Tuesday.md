@@ -74,4 +74,4 @@ created: 2024-02-27 00:08
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
 - [ ] Resignation shilpa
-- [ ] Change name 
+- [ ] Change name of every account
