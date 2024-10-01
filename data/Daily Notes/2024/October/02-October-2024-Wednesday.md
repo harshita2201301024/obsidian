@@ -8,6 +8,7 @@ created: 2024-02-27 00:08
 - [ ] step 3 should have a name findUser
 - [ ] why i am passing :show-tls="true"
 - [ ] formType is not needed please check
+- [ ] also check isEnrichmentJourney
 - [ ] 
 - [ ] 
 - [ ] GYM -> 8PM - 10PM
