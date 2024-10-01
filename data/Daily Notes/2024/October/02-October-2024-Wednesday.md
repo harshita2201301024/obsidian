@@ -5,7 +5,7 @@ created: 2024-02-27 00:08
 
 - [ ] ConfirmProfileInformation remove //
 - [ ] Write catch and iid alert for ConfirmProfileInformation
-- [ ] 
+- [ ] step 3 should have a name findUser
 - [ ] 
 - [ ] 
 - [ ] 
