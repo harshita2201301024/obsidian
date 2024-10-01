@@ -4,7 +4,7 @@ created: 2024-02-27 00:08
 
 
 - [ ] ConfirmProfileInformation remove //
-- [ ] 
+- [ ] Write catch and iid alert for ConfirmProfileInformation
 - [ ] 
 - [ ] 
 - [ ] 
