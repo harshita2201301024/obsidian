@@ -11,6 +11,7 @@ created: 2024-02-27 00:08
 - [ ] GYM -> 8PM - 10PM
 - [x] Book Herat Riya Ticket
 - [ ] Delete logo from project and laptop
+- [ ] Health Insurance for family
 
 
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
