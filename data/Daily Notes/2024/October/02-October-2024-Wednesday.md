@@ -11,7 +11,7 @@ created: 2024-02-27 00:08
 - [ ] also check isEnrichmentJourney
 - [ ] close button on dialog
 - [ ] all apis error handling
-- [ ] 
+- [ ] Translation
 - [ ] GYM -> 8PM - 10PM
 - [ ] Delete logo from project and laptop
 - [ ] Health Insurance for family
