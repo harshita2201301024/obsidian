@@ -81,4 +81,4 @@ created: 2024-02-27 00:08
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
-- [ ] 
+- [ ] Buy gift for siya and tejas
