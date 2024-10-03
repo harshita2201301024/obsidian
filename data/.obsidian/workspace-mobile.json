@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
+                "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
+            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/September/30-September-2024-Monday.md",
+            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/September/30-September-2024-Monday.md"
+            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md"
           }
         }
       }
@@ -145,8 +145,12 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
-    "Pending Things/Pending.md",
+    "Daily Notes/2024/October/02-October-2024-Wednesday.md",
+    "Daily Notes/2024/October/01-October-2024-Tuesday.md",
     "Daily Notes/2024/September/30-September-2024-Monday.md",
+    "Daily Notes/2024/October/03-October-2024-Thursday.md",
+    "Daily Notes/2024/October",
+    "Pending Things/Pending.md",
     "Daily Notes/2024/September/26-September-2024-Thursday.md",
     "Daily Notes/2024/September/29-September-2024-Sunday.md",
     "Daily Notes/2024/September/27-September-2024-Friday.md",
@@ -172,14 +176,10 @@
     "Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
     "Study/Vue/20. Router/20. Router.md",
     "Study/Vue/19. Suspense/19.5 script setup and await.md",
-    "Study/Vue/18. Slots/18.3 Fallback content.md",
-    "Daily Notes/2024/September/23-September-2024-Monday.md",
-    "Others/Things to bring from india.md",
     "Study/Javascript",
     "Study/Vue/15. Script Setup",
     "Study/Vue/11. How to build Components",
     "Study/Vue/8. From Zero to something",
-    "Study/Vue/9. the Templating Syntax",
-    "Study/Vue/14. Many define components"
+    "Study/Vue/9. the Templating Syntax"
   ]
 }
