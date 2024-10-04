@@ -53,6 +53,10 @@ minors: 
 r.shehadeh@dubaitourism.ae
 784198016269080
 
+rashmi_local@mailinator.com
+784196902615754
+
+
 power@mailinator.com
 
 2000346
