@@ -216,3 +216,8 @@ Delegate Personal Information
 Choose the permissions and related licenses you want to provide the above delegate.
 Assign delegates to issue and manage licenses and business names on your behalf.
 Search for delegate, short name or ref. number
+
+
+delegationDelegator
+delegatorDetails
+detailDelegate
