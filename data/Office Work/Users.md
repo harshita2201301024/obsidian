@@ -221,3 +221,5 @@ Search for delegate, short name or ref. number
 delegationDelegator
 delegatorDetails
 detailDelegate
+delegationDetails
+delegateDetails
