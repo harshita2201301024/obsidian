@@ -84,7 +84,3 @@ tick mark center
   })  
 }
 
-
-1. he is not on employment visa
-2. i don't k
-
