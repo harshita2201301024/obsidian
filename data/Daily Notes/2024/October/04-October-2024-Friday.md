@@ -4,6 +4,7 @@ created: 2024-02-27 00:08
 
 
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/61661
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/61736/
 - [ ] GYM -> 8PM - 10PM
 - [ ] Delete logo from project and laptop
 - [ ] Health Insurance for family
