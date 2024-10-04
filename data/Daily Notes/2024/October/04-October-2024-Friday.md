@@ -792,3 +792,556 @@ export default defineEventHandler((event) => {
     }  
   }  
 })
+
+1st api
+
+{
+    "code": 0,
+    "desc": {
+        "en": "Success",
+        "ar": "Success",
+        "code": null
+    },
+    "errors": null,
+    "data": {
+        "identifier": "TElDRU5TRXwxMjAwMjA1NzB8TkF8TkE=",
+        "from": {
+            "id": 15,
+            "action": "LEGAL_DOCS"
+        },
+        "to": [
+            {
+                "id": 43,
+                "action": "LEGAL_DOCS"
+            }
+        ],
+        "res": {
+            "primaryPersonId": 12477,
+            "legalDocApplicable": true,
+            "legalDocSignComplete": false,
+            "tradeNameEn": "abcdeerfff For Web-Design",
+            "tradeNameAr": "بسديرفف لتصميم مواقع الشبكة المعلوماتية ( الانترنت)",
+            "canSkipLegalDoc": false,
+            "legalDocDetailList": [
+                {
+                    "members": [],
+                    "legalType": "MOA",
+                    "signStatus": false,
+                    "signRequired": true,
+                    "legalDocIdentifier": "TElDRU5TRXwxMjAwMjA1NzB8TU9BfC18MTI0Nzc=",
+                    "allowedModes": [
+                        "ESIGN",
+                        "NOTARIZED"
+                    ],
+                    "loggedInUserSignRequired": false,
+                    "sendToPartners": false,
+                    "sendToApplicant": false,
+                    "onBehalfSign": false
+                }
+            ],
+            "licenseContext": {
+                "tnAttrs": {
+                    "TNLinked": 1,
+                    "TNPaymentRequired": 1,
+                    "LegalTypeAttached": 1,
+                    "InitiatedFromPaidTN": 0,
+                    "TNPaid": 1,
+                    "TNReserve": 0
+                },
+                "nsdAttrs": {
+                    "NSDPaymentRequired": 1,
+                    "NSDDone": 1,
+                    "NSDPaid": 1,
+                    "NSDRequired": 1,
+                    "NSDSent": 1
+                },
+                "iaAttrs": {
+                    "IAPaymentRequired": 1,
+                    "WIPLicense": -1,
+                    "IARequired": 1,
+                    "IADone": 1,
+                    "IASent": -1,
+                    "IAPaid": 1
+                },
+                "driePreIaAttrs": {
+                    "DRIEPreInitialDone": 1,
+                    "DRIEPreInitialRequired": 1
+                },
+                "driePreLicAttrs": {
+                    "DRIEPreLicenseDone": 1,
+                    "DRIEPreLicenseRequired": 1
+                },
+                "profileAttrs": {
+                    "BankAuthoritiesDisplay": 1,
+                    "ManagerAuthoritiesDone": 1,
+                    "ManagerAuthoritiesDisplay": 1,
+                    "ShareDetailsDisplay": 1,
+                    "ShareDetailsDone": 1,
+                    "BankAuthoritiesDone": 1
+                },
+                "legalDocAttrs": {
+                    "LegalDocumentRequired": 1,
+                    "LegalDocumentDone": -1
+                },
+                "ejariAttrs": {
+                    "EjariRequired": 1,
+                    "EjariDone": 1
+                },
+                "otherAttrs": {},
+                "wipContext": {}
+            },
+            "displayServiceCenters": false
+        },
+        "journeyType": null
+    },
+    "actions": {
+        "from": {
+            "id": 15,
+            "action": "LEGAL_DOCS"
+        },
+        "next": {
+            "id": 43,
+            "action": "LEGAL_DOCS"
+        },
+        "page": {
+            "id": 43,
+            "action": "LEGAL_DOCS"
+        }
+    },
+    "step": 13
+}
+
+2nd api
+{
+    "code": 0,
+    "desc": {
+        "en": "Success",
+        "ar": "Success",
+        "code": null
+    },
+    "errors": null,
+    "data": {
+        "identifier": "TElDRU5TRXwxMjAwMjA1NzB8TkF8TkE=",
+        "from": {
+            "id": 43,
+            "action": "LEGAL_DOCS"
+        },
+        "to": [
+            {
+                "id": 43,
+                "action": "NEXT"
+            }
+        ],
+        "res": {
+            "primaryPersonId": 12477,
+            "legalDocApplicable": true,
+            "legalDocSignComplete": true,
+            "tradeNameEn": "abcdeerfff For Web-Design",
+            "tradeNameAr": "بسديرفف لتصميم مواقع الشبكة المعلوماتية ( الانترنت)",
+            "canSkipLegalDoc": false,
+            "legalDocDetailList": [
+                {
+                    "members": [],
+                    "legalType": "MOA",
+                    "signingMode": "NOTARIZED",
+                    "signStatus": true,
+                    "signRequired": true,
+                    "legalDocIdentifier": "TElDRU5TRXwxMjAwMjA1NzB8TU9BfC18MTI0Nzc=",
+                    "documentId": "5C26FBD0-E92E-4C5C-AF32-6423BF2133DD",
+                    "loggedInUserSignRequired": false,
+                    "sendToPartners": false,
+                    "sendToApplicant": false,
+                    "onBehalfSign": false
+                }
+            ],
+            "licenseContext": {
+                "tnAttrs": {
+                    "TNLinked": 1,
+                    "TNPaymentRequired": 1,
+                    "LegalTypeAttached": 1,
+                    "InitiatedFromPaidTN": 0,
+                    "TNPaid": 1,
+                    "TNReserve": 0
+                },
+                "nsdAttrs": {
+                    "NSDPaymentRequired": 1,
+                    "NSDDone": 1,
+                    "NSDPaid": 1,
+                    "NSDRequired": 1,
+                    "NSDSent": 1
+                },
+                "iaAttrs": {
+                    "IAPaymentRequired": 1,
+                    "WIPLicense": -1,
+                    "IARequired": 1,
+                    "IADone": 1,
+                    "IASent": -1,
+                    "IAPaid": 1
+                },
+                "driePreIaAttrs": {
+                    "DRIEPreInitialDone": 1,
+                    "DRIEPreInitialRequired": 1
+                },
+                "driePreLicAttrs": {
+                    "DRIEPreLicenseDone": 1,
+                    "DRIEPreLicenseRequired": 1
+                },
+                "profileAttrs": {
+                    "BankAuthoritiesDisplay": 1,
+                    "ManagerAuthoritiesDone": 1,
+                    "ManagerAuthoritiesDisplay": 1,
+                    "ShareDetailsDisplay": 1,
+                    "ShareDetailsDone": 1,
+                    "BankAuthoritiesDone": 1
+                },
+                "legalDocAttrs": {
+                    "LegalDocumentRequired": 1,
+                    "LegalDocumentDone": 1
+                },
+                "ejariAttrs": {
+                    "EjariRequired": 1,
+                    "EjariDone": 1
+                },
+                "otherAttrs": {},
+                "wipContext": {}
+            },
+            "displayServiceCenters": false
+        },
+        "journeyType": null
+    },
+    "actions": {
+        "from": {
+            "id": 43,
+            "action": "LEGAL_DOCS"
+        },
+        "next": {
+            "id": 43,
+            "action": "NEXT"
+        },
+        "page": {}
+    },
+    "step": 13
+}
+
+3rd api
+{
+    "code": 0,
+    "desc": {
+        "en": "Success",
+        "ar": "Success",
+        "code": null
+    },
+    "errors": null,
+    "data": {
+        "identifier": "TElDRU5TRXwxMjAwMjA1NzB8TkF8TkE=",
+        "from": {
+            "id": 53,
+            "action": "NEXT"
+        },
+        "to": [
+            {
+                "id": 41,
+                "action": "NEXT"
+            }
+        ],
+        "res": {
+            "primaryPersonId": 12477,
+            "error": false,
+            "message": {
+                "en": "Success",
+                "ar": "تم بنجاح"
+            },
+            "licenseContext": {
+                "tnAttrs": {
+                    "TNLinked": 1,
+                    "TNPaymentRequired": 1,
+                    "LegalTypeAttached": 1,
+                    "InitiatedFromPaidTN": 0,
+                    "TNPaid": 1,
+                    "TNReserve": 0
+                },
+                "nsdAttrs": {
+                    "NSDPaymentRequired": 1,
+                    "NSDDone": 1,
+                    "NSDPaid": 1,
+                    "NSDRequired": 1,
+                    "NSDSent": 1
+                },
+                "iaAttrs": {
+                    "IAPaymentRequired": 1,
+                    "WIPLicense": -1,
+                    "IARequired": 1,
+                    "IADone": 1,
+                    "IASent": -1,
+                    "IAPaid": 1
+                },
+                "driePreIaAttrs": {
+                    "DRIEPreInitialDone": 1,
+                    "DRIEPreInitialRequired": 1
+                },
+                "driePreLicAttrs": {
+                    "DRIEPreLicenseDone": 1,
+                    "DRIEPreLicenseRequired": 1
+                },
+                "profileAttrs": {
+                    "BankAuthoritiesDisplay": 1,
+                    "ManagerAuthoritiesDone": 1,
+                    "ManagerAuthoritiesDisplay": 1,
+                    "ShareDetailsDisplay": 1,
+                    "ShareDetailsDone": 1,
+                    "BankAuthoritiesDone": 1
+                },
+                "legalDocAttrs": {
+                    "LegalDocumentRequired": 1,
+                    "LegalDocumentDone": 1
+                },
+                "ejariAttrs": {
+                    "EjariRequired": 1,
+                    "EjariDone": 1
+                },
+                "otherAttrs": {},
+                "wipContext": {}
+            },
+            "id": "120020570",
+            "paymentDetail": {
+                "redirectUrl": null,
+                "errorCode": null,
+                "errorMsg": null,
+                "voucherDetail": null,
+                "paymentModes": [
+                    "E_PAY",
+                    "VOUCHER"
+                ],
+                "serviceProviderFees": {
+                    "items": [
+                        {
+                            "code": 2,
+                            "value": "DED",
+                            "amount": 18811.64,
+                            "primary": true
+                        }
+                    ],
+                    "total": 18811.64
+                }
+            },
+            "feeItems": [
+                {
+                    "id": 873,
+                    "name": "Smart Social Responsibility Platform fees",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 1500,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Community Contribution Fund",
+                        "valueAr": "صندوق المساهمات المجتمعية",
+                        "id": 136
+                    }
+                },
+                {
+                    "id": 412,
+                    "name": "Government Cultural Fee",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 10,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 725,
+                    "name": "Fees for Administrative Services",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 50,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 72,
+                    "name": "Public waste-related services fees",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 2000,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Dubai Municipality",
+                        "valueAr": "بلدية دبي",
+                        "id": 2
+                    }
+                },
+                {
+                    "id": 663,
+                    "name": "Fees for issuing a commercial license",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 600,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 654,
+                    "name": "Commercial License - Tejari",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 100,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Tejari",
+                        "valueAr": "تجاري",
+                        "id": 47
+                    }
+                },
+                {
+                    "id": 762,
+                    "name": "Business Names Advertis.",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 350,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 602,
+                    "name": "Service Improvement Fees/ commerial",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 80,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Dubai Municipality",
+                        "valueAr": "بلدية دبي",
+                        "id": 2
+                    }
+                },
+                {
+                    "id": 51,
+                    "name": "Market Fees",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 8211.64,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Dubai Municipality",
+                        "valueAr": "بلدية دبي",
+                        "id": 2
+                    }
+                },
+                {
+                    "id": 41,
+                    "name": "Ministry of Economy and Commer",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 2500,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Ministry of Economy",
+                        "valueAr": "وزارة الإقتصاد",
+                        "id": 4
+                    }
+                },
+                {
+                    "id": 149,
+                    "name": "Foreign company name fees",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 2000,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 657,
+                    "name": "Commercial License - Tejari - DES",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 100,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "DIGITAL ECONOMY SOLUTIONS LLC",
+                        "valueAr": "شركة ديجيتال ايكونومي سوليوشتنز",
+                        "id": 130
+                    }
+                },
+                {
+                    "id": 201,
+                    "name": "Current year fees- Chamber",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 1000,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Dubai Chamber of Commerce",
+                        "valueAr": "غرفة تجارة وصناعة دبى",
+                        "id": 3
+                    }
+                },
+                {
+                    "id": 702,
+                    "name": "Local fees-Trade license",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 100,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Local Fees",
+                        "valueAr": "الرسوم المحلية",
+                        "id": 5
+                    }
+                },
+                {
+                    "id": 615,
+                    "name": "Innovation Dirham Fees",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 10,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Department of Economy & Tourism",
+                        "valueAr": "دائرة الاقتصاد والسياحة",
+                        "id": 1
+                    }
+                },
+                {
+                    "id": 458,
+                    "name": "DCD Fee - Group 1",
+                    "nameAr": "خدمات إدارية التاجر الإلكتروني",
+                    "fee": 200,
+                    "benficiaryId": 2,
+                    "revenueDestination": {
+                        "valueEn": "Dubai Civil Defence",
+                        "valueAr": "ادارة الدفاع المدني - دبي",
+                        "id": 39
+                    }
+                }
+            ],
+            "txnKey": "f0a34dab-d978-4dd1-9733-f1dcde17a22c",
+            "voucherKey": "88480e0e-a407-473a-87b0-b2a3f1e82ceb",
+            "licenseDetail": {
+                "id": "120020570",
+                "status": 10,
+                "tradeNameDetail": {
+                    "id": 12028722,
+                    "nameEn": "abcdeerfff For Web-Design",
+                    "nameAr": "بسديرفف لتصميم مواقع الشبكة المعلوماتية ( الانترنت)"
+                }
+            }
+        },
+        "journeyType": null
+    },
+    "actions": {
+        "from": {
+            "id": 53,
+            "action": "NEXT"
+        },
+        "next": {
+            "id": 41,
+            "action": "NEXT"
+        },
+        "page": {}
+    },
+    "step": 14
+}
