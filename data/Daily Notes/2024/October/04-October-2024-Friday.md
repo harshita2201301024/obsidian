@@ -82,3 +82,13 @@ created: 2024-02-27 00:08
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
 - [ ] Buy gift for siya and tejas
+
+/Users/a.bathla/Documents/det-nuxt3/det-iid_portal/components/License/LicenseCondition/LicenseCondition.vue
+
+@update-field="handleUpdateField"
+
+handleUpdateField({ name, value }) {  
+  this[`${this.licenseType}Form`].bean.attributes[name].value = value  
+},
+
+@update:model-value="$emit('updateField', { name: field.name, value: $event })"
