@@ -3,16 +3,7 @@ created: 2024-02-27 00:08
 ---
 
 
-- [ ] ConfirmProfileInformation remove //
-- [ ] Write catch and iid alert for ConfirmProfileInformation
-- [ ] step 3 should have a name findUser
-- [ ] why i am passing :show-tls="true"
-- [ ] formType is not needed please check
-- [ ] also check isEnrichmentJourney
-- [ ] close button on dialog
-- [ ] all apis error handling
-- [ ] Translation
-- [ ] status-info logic
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/61661
 - [ ] GYM -> 8PM - 10PM
 - [ ] Delete logo from project and laptop
 - [ ] Health Insurance for family
