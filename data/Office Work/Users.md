@@ -209,3 +209,7 @@ export default defineEventHandler((event) => {
 Please enter the delegate information
 Select Delegator
 Delegator Details
+Delegate Details
+Delegate Email
+Delegate Signature Pending
+Delegate Personal Information
