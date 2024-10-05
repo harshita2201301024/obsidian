@@ -41,6 +41,8 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
+
+
 | 05.10.24            | 06.10.24             | 07.10.24          | 08.10.24                 | 09.10             |
 | ------------------- | -------------------- | ----------------- | ------------------------ | ----------------- |
 | Fill Timesheet      | Shilpa Singing Class |                   | Mma Passport Appointment | BNI Meeting       |
@@ -49,8 +51,8 @@ created: 2024-02-27 00:08
 | Chapter 20 Vue.js   | Chapter 21 Vue.js    | Chapter 22 Vue.js | Chapter 23 Vue.js        | Chapter 24 Vue.js |
 
 
-| 10.10.2024        | 11.10.2024        | 12.10.2024        | 13.10.2024        | 14.10.2024 |
-| ----------------- | ----------------- | ----------------- | ----------------- | ---------- |
-|                   |                   | Garba Event       | Toastmaster Class |            |
-| Chapter 25 Vue.js | Chapter 26 Vue.js | Chapter 18 Vue.js |                   |            |
+| 10.10.2024        | 11.10.2024        | 12.10.2024        | 13.10.2024        | 14.10.2024        |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+|                   |                   | Garba Event       | Toastmaster Class |                   |
+| Chapter 25 Vue.js | Chapter 26 Vue.js | Chapter 28 Vue.js | Chapter 29 Vue.js | Chapter 30 Vue.js |
 
