@@ -31,8 +31,9 @@ created: 2024-02-27 00:08
 - [ ] add nominee in hdfc 
 - [ ] Buy gift for siya and tejas
 - [ ] Shivam Mobile
-- [ ] Aman Mobile
-- [ ] Shveta Laptop
+- [ ] Aman Mobile - 70000
+- [ ] Shveta Laptop - 
+- [ ] Rahul Chopra Earphone
 - [ ] Mma Gold
 - [ ] Meeting with 618
 - [ ] Website preparation of TKC
