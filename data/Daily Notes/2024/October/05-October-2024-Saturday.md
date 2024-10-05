@@ -2,8 +2,8 @@
 created: 2024-02-27 00:08
 ---
 - [ ] Health Insurance for family
-- [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
-- [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
+- [ ] Check Eye Operation
+- [ ] Check Hotel Price
 - [ ] Mansi Laptop Fix 
 - [ ] Complete Vue Book 
 - [ ] Apply for Freelancing Jobs
@@ -36,4 +36,5 @@ created: 2024-02-27 00:08
 - [ ] Website preparation of TKC
 - [ ] Launch of TKC on social media
 - [ ] How mainland license work
-- [ ] 
+- [ ] Study VAT
+- [ ] Study Corporate Tax
