@@ -35,7 +35,7 @@ created: 2024-02-27 00:08
 - [ ] Shivam Mobile
 - [ ] Aman Mobile
 - [ ] Shveta Laptop
-- [ ] Mma 
+- [ ] Mma Gold
 - [ ] Meeting with 618
 - [ ] Website preparation of TKC
 - [ ] Launch of TKC on social media
