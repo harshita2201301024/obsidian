@@ -34,3 +34,6 @@ created: 2024-02-27 00:08
 - [ ] Buy gift for siya and tejas
 - [ ] Meeting with 618
 - [ ] Website preparation of TKC
+- [ ] Launch of TKC on social media
+- [ ] How mainland license work
+- [ ] 
