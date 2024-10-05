@@ -43,4 +43,4 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
-Today Tasks
+06.10.24
