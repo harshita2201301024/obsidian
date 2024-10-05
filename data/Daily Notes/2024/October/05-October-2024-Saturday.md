@@ -32,9 +32,9 @@ created: 2024-02-27 00:08
 - [ ] Buy gift for siya and tejas
 - [ ] Shivam Mobile
 - [ ] Aman Mobile - 70000
-- [ ] Shveta Laptop - 
-- [ ] Rahul Chopra Earphone
-- [ ] Mma Gold
+- [ ] Shveta Laptop - 10000
+- [ ] Rahul Chopra Earphone - 10000
+- [ ] Mma Gold - 
 - [ ] Meeting with 618
 - [ ] Website preparation of TKC
 - [ ] Launch of TKC on social media
