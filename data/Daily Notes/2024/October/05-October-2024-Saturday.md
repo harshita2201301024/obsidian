@@ -43,9 +43,9 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
-| 05.10.24       | 06.10.24             |
-| -------------- | -------------------- |
-| Fill Timesheet | Shilpa Singing Class |
-|                | Cricket Match        |
+| 05.10.24       | 06.10.24             | 07.10.24 | 08.10.24                 | 09.10 |
+| -------------- | -------------------- | -------- | ------------------------ | ----- |
+| Fill Timesheet | Shilpa Singing Class |          | Mma Passport Appointment |       |
+|                | Cricket Match        |          |                          |       |
 
 
