@@ -32,6 +32,10 @@ created: 2024-02-27 00:08
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
 - [ ] Buy gift for siya and tejas
+- [ ] Shivam Mobile
+- [ ] Aman Mobile
+- [ ] Shveta Laptop
+- [ ] Mma 
 - [ ] Meeting with 618
 - [ ] Website preparation of TKC
 - [ ] Launch of TKC on social media
