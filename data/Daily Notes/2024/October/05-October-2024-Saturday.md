@@ -2,7 +2,7 @@
 created: 2024-02-27 00:08
 ---
 - [ ] Health Insurance for family
-- [ ] Check Eye Operation
+
 - [ ] Check Hotel Price
 - [ ] Mansi Laptop Fix 
 - [ ] Complete Vue Book 
@@ -43,12 +43,12 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
-| 05.10.24       | 06.10.24             | 07.10.24 | 08.10.24                 | 09.10       |
-| -------------- | -------------------- | -------- | ------------------------ | ----------- |
-| Fill Timesheet | Shilpa Singing Class |          | Mma Passport Appointment | BNI Meeting |
-|                | Cricket Match        |          |                          | Vrat        |
-|                |                      |          |                          |             |
-|                |                      |          |                          |             |
+| 05.10.24            | 06.10.24             | 07.10.24 | 08.10.24                 | 09.10       |
+| ------------------- | -------------------- | -------- | ------------------------ | ----------- |
+| Fill Timesheet      | Shilpa Singing Class |          | Mma Passport Appointment | BNI Meeting |
+| Check Eye Operation | Cricket Match        |          |                          | Vrat        |
+|                     |                      |          |                          |             |
+|                     |                      |          |                          |             |
 
 
 | 10.10.2024 | 11.10.2024 | 12.10.2024  | 13.10.2024        | 14.10.2024 |
