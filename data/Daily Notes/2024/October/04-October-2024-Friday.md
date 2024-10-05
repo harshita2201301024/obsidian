@@ -10,9 +10,6 @@ created: 2024-02-27 00:08
 
 
 
-- [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
-- [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
-- [ ] Mansi Laptop Fix -> 6:30PM - 7PM
 
 
 
@@ -20,17 +17,7 @@ created: 2024-02-27 00:08
 
 
 
-- [ ] Complete Vue Book -> P0 -> 10 Hour 
-- [ ] Apply for Freelancing Jobs ->P0 - 3 Hour -> 
-- [ ] Shilpa Music Class -> P0 -> 4 Hour
-- [ ] Speak with Vijendra if he can share production data - P0 -> 1 Hour
-- [ ] Check Eye Operation - P0 -> 1 Hour
-- [ ] Mansi Laptop Fix -> P1 - 1 Hour
-- [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
-- [ ] Prasad House - P2 -> 1 Hour 
-- [ ] Business Bay for Desk - P2 -> 5 Hour
-- [ ] Look for hotel - P2 -> 5 Hour
-- [ ] Look for Taxi Driver - P2 -> 5 Hour
+
 
 
 
