@@ -4,14 +4,14 @@ created: 2024-02-27 00:08
 - [ ] Health Insurance for family
 - [ ] Check Eye Operation -> Assign to Shilpa -> 2PM - 3PM
 - [ ] Check Hotel Price -> Assign to Shilpa -> 5- 6PM
-- [ ] Mansi Laptop Fix -> 6:30PM - 7PM
-- [ ] Complete Vue Book -> P0 -> 10 Hour 
-- [ ] Apply for Freelancing Jobs ->P0 - 3 Hour -> 
-- [ ] Shilpa Music Class -> P0 -> 4 Hour
-- [ ] Excel Sheet Share for pricing - P1 -> Assign to Shilpa
-- [ ] Prasad House - P2 -> 1 Hour 
-- [ ] Look for hotel - P2 -> 5 Hour
-- [ ] Look for Taxi Driver - P2 -> 5 Hour
+- [ ] Mansi Laptop Fix 
+- [ ] Complete Vue Book 
+- [ ] Apply for Freelancing Jobs
+- [ ] Shilpa Music Class 
+- [ ] Excel Sheet Share for pricing
+- [ ] Prasad House 
+- [ ] Look for hotel 
+- [ ] Look for Taxi Driver
 - [ ] Talk about Leave with Megha
 - [ ] Mandir Cleaning
 - [ ] Freelancing accounts
@@ -19,10 +19,10 @@ created: 2024-02-27 00:08
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
-- [ ] Shilpa Music Class - 11 august 
-- [ ] Plan October trip - 11 august
-- [ ] Car Key - 12 august
-- [ ] Academy plan - 13 August
+- [ ] Shilpa Music Class 
+- [ ] Plan October trip
+- [ ] Car Key 
+- [ ] Academy plan 
 - [ ] Shilpa old house transfer
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
