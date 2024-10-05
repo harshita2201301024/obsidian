@@ -43,4 +43,14 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
-06.10.24
+
+
+
+
+
+| 06.10.24             |     |
+| -------------------- | --- |
+| Shilpa Singing Class |     |
+| Cricket Match        |     |
+|                      |     |
+
