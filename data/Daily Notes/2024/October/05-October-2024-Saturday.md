@@ -12,3 +12,23 @@ created: 2024-02-27 00:08
 - [ ] Prasad House - P2 -> 1 Hour 
 - [ ] Look for hotel - P2 -> 5 Hour
 - [ ] Look for Taxi Driver - P2 -> 5 Hour
+- [ ] Talk about Leave with Megha
+- [ ] Mandir Cleaning
+- [ ] Freelancing accounts
+- [ ] Aakash job posts
+- [ ] Aademy job post
+- [ ] Launch TKC Dubai
+- [ ] Mac charger fix
+- [ ] Shilpa Music Class - 11 august 
+- [ ] Plan October trip - 11 august
+- [ ] Car Key - 12 august
+- [ ] Academy plan - 13 August
+- [ ] Shilpa old house transfer
+- [ ] Shilpa old house construction
+- [ ] Plot Boundary and foundation 
+- [ ] Aakash Plot market status
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Buy gift for siya and tejas
