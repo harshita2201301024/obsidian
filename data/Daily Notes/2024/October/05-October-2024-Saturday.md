@@ -2,8 +2,6 @@
 created: 2024-02-27 00:08
 ---
 - [ ] Health Insurance for family
-
-- [ ] Check Hotel Price
 - [ ] Mansi Laptop Fix 
 - [ ] Complete Vue Book 
 - [ ] Apply for Freelancing Jobs
@@ -47,7 +45,7 @@ created: 2024-02-27 00:08
 | ------------------- | -------------------- | -------- | ------------------------ | ----------- |
 | Fill Timesheet      | Shilpa Singing Class |          | Mma Passport Appointment | BNI Meeting |
 | Check Eye Operation | Cricket Match        |          |                          | Vrat        |
-|                     |                      |          |                          |             |
+| Check Hotel Price   |                      |          |                          |             |
 |                     |                      |          |                          |             |
 
 
