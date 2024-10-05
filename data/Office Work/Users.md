@@ -223,3 +223,9 @@ delegatorDetails
 detailDelegate
 delegationDetails
 delegateDetails
+
+
+if (this.createdForUser.creationType !== PERMISSIONS_USER_TYPES.SELF_USER) {  
+  payload.creationType = this.createdForUser.creationType  
+  payload.primaryPersonId = this.createdForUser.primaryPersonId  
+}
