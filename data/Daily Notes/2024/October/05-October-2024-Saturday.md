@@ -43,11 +43,6 @@ created: 2024-02-27 00:08
 - [ ] Study VAT
 - [ ] Study Corporate Tax
 
-
-
-
-
-
 | 05.10.24       |     |
 | -------------- | --- |
 | Fill Timesheet |     |
@@ -56,4 +51,5 @@ created: 2024-02-27 00:08
 | -------------------- | --- |
 | Shilpa Singing Class |     |
 | Cricket Match        |     |
+
 
