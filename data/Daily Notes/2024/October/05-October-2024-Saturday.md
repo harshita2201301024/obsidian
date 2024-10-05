@@ -32,3 +32,5 @@ created: 2024-02-27 00:08
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
 - [ ] Buy gift for siya and tejas
+- [ ] Meeting with 618
+- [ ] Website preparation of TKC
