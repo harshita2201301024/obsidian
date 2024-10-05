@@ -46,7 +46,7 @@ created: 2024-02-27 00:08
 | Fill Timesheet      | Shilpa Singing Class |          | Mma Passport Appointment | BNI Meeting |
 | Check Eye Operation | Cricket Match        |          |                          | Vrat        |
 | Check Hotel Price   |                      |          |                          |             |
-|                     |                      |          |                          |             |
+| Chapter 20          | Chapt                |          |                          |             |
 
 
 | 10.10.2024 | 11.10.2024 | 12.10.2024  | 13.10.2024        | 14.10.2024 |
