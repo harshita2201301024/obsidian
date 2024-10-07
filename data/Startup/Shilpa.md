@@ -67,5 +67,5 @@ FRM
 | Netlify DNS        | GoDaddy DNS            |
 | ------------------ | ---------------------- |
 | dns2.p09.nsone.net | ns64.domaincontrol.com |
-| dns3.p09.nsone.net |                        |
+| dns3.p09.nsone.net | ns63.domaincontrol.com |
 | dns4.p09.nsone.net |                        |
