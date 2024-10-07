@@ -1,8 +1,6 @@
 ---
 created: 2024-02-27 00:08
 ---
-
-
 - [ ] Health Insurance for family
 - [ ] Mansi Laptop Fix 
 - [ ] Complete Vue Book 
