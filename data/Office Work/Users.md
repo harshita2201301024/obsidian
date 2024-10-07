@@ -50,6 +50,13 @@ minors: 
 784201149085413    2011-11-22    F  
 784199597496571    2003-11-30    M
 
+r.shehadeh@dubaitourism.ae
+784198016269080
+
+rashmi_local@mailinator.com
+784196902615754
+01 Jul 1969
+
 power@mailinator.com
 
 2000346
@@ -81,3 +88,144 @@ tick mark center
   })  
 }
 
+
+license.post.js
+
+export default defineEventHandler((event) => {  
+  return {  
+    code: 0,  
+    desc: {  
+      en: 'Success',  
+      ar: 'Success',  
+      code: null  
+    },  
+    errors: null,  
+    data: {  
+      identifier: 'TElDRU5TRXwxMjAwMTk0OTF8TkF8TkE=',  
+      from: {  
+        id: 15,  
+        action: 'LEGAL_DOCS'  
+      },  
+      to: [  
+        {  
+          id: 43,  
+          action: 'LEGAL_DOCS'  
+        }  
+      ],  
+      res: {  
+        primaryPersonId: 11005,  
+        legalDocApplicable: true,  
+        legalDocSignComplete: false,  
+        tradeNameEn: 'aakashbathla For Web-Design',  
+        tradeNameAr: 'ششنشسا لتصميم مواقع الشبكة المعلوماتية ( الانترنت)',  
+        canSkipLegalDoc: false,  
+        legalDocDetailList: [  
+          {  
+            members: [],  
+            legalType: 'LSA',  
+            signStatus: false,  
+            signRequired: true,  
+            legalDocIdentifier: 'TElDRU5TRXwxMjAwMTk0OTF8TFNBfC18MTEwMDU=',  
+            allowedModes: ['ESIGN', 'NOTARIZED'],  
+            loggedInUserSignRequired: false,  
+            sendToPartners: false,  
+            sendToApplicant: false,  
+            onBehalfSign: false  
+          }  
+        ],  
+        licenseContext: {  
+          tnAttrs: {  
+            TNLinked: 1,  
+            TNPaymentRequired: 0,  
+            LegalTypeAttached: 1,  
+            InitiatedFromPaidTN: 0,  
+            TNPaid: 0,  
+            TNReserve: 0  
+          },  
+          nsdAttrs: {  
+            NSDPaymentRequired: 1,  
+            NSDDone: 1,  
+            NSDPaid: 1,  
+            NSDRequired: 1,  
+            NSDSent: 1  
+          },  
+          iaAttrs: {  
+            IAPaymentRequired: 0,  
+            WIPLicense: -1,  
+            IARequired: 0,  
+            IADone: -1,  
+            IASent: -1,  
+            IAPaid: -1  
+          },  
+          driePreIaAttrs: {  
+            DRIEPreInitialDone: 1,  
+            DRIEPreInitialRequired: 1  
+          },  
+          driePreLicAttrs: {  
+            DRIEPreLicenseDone: 1,  
+            DRIEPreLicenseRequired: 1  
+          },  
+          profileAttrs: {  
+            BankAuthoritiesDisplay: 0,  
+            ManagerAuthoritiesDone: -1,  
+            ManagerAuthoritiesDisplay: 0,  
+            ShareDetailsDisplay: 0,  
+            ShareDetailsDone: -1,  
+            BankAuthoritiesDone: -1  
+          },  
+          legalDocAttrs: {  
+            LegalDocumentRequired: 1,  
+            LegalDocumentDone: -1  
+          },  
+          ejariAttrs: {  
+            EjariRequired: 1,  
+            EjariDone: 1  
+          },  
+          otherAttrs: {},  
+          wipContext: {}  
+        },  
+        displayServiceCenters: false  
+      },  
+      journeyType: null  
+    },  
+    actions: {  
+      from: {  
+        id: 15,  
+        action: 'LEGAL_DOCS'  
+      },  
+      next: {  
+        id: 43,  
+        action: 'LEGAL_DOCS'  
+      },  
+      page: {  
+        id: 43,  
+        action: 'LEGAL_DOCS'  
+      }  
+    },  
+    step: 13  
+  }  
+})
+
+Please enter the delegate information
+Select Delegator
+Delegator Details
+Delegate Details
+Delegate Email
+Delegate Signature Pending
+Delegate Personal Information
+Choose the permissions and related licenses you want to provide the above delegate.
+Assign delegates to issue and manage licenses and business names on your behalf.
+Search for delegate, short name or ref. number
+
+
+delegationDelegator
+delegatorDetails
+detailDelegate
+delegationDetails
+delegateDetails
+
+
+if (this.createdForUser.creationType !== PERMISSIONS_USER_TYPES.SELF_USER) {  
+  payload.creationType = this.createdForUser.creationType  
+  payload.primaryPersonId = this.createdForUser.primaryPersonId  
+}

@@ -12,5 +12,9 @@
   "nldates-obsidian",
   "obsidian-importer",
   "highlightr-plugin",
-  "obsidian-format-code"
+  "obsidian-format-code",
+  "code-styler",
+  "execute-code",
+  "obsidian-plugin-prettier",
+  "obsidian-linter"
 ]

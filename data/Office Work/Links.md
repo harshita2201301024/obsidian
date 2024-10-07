@@ -6,6 +6,10 @@ deployment Portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/portal-d
 iid portal: https://devops.det.gov.ae/DefaultCollection/IID/_git/det-iid_portal
 Epics - https://devops.det.gov.ae/DefaultCollection/IID/_backlogs/backlog/IID%20Team/Epics
 Rancher - https://k8s01-rmc.corp.det.gov.ae/dashboard/c/c-m-g4sb59z7/explorer/apps.deployment/iid-uat/portal#pods
+feature dev deployment - [https://devops.det.gov.ae/DefaultCollection/IID/_git/gitops-feature-dev](https://devops.det.gov.ae/DefaultCollection/IID/_git/gitops-feature-dev "https://devops.det.gov.ae/defaultcollection/iid/_git/gitops-feature-dev")
+
+Form Builder implementation
+https://devops.det.gov.ae/DefaultCollection/IID/_git/det-iid_portal/pullrequest/13036
 
 
 ```
@@ -34,19 +38,6 @@ Vue.config.devtools = true;
 devtools.emit("init", Vue);
 ```
 
-{
-
-"tlsTradeNameId": "2451681",
-
-"creationType": "3",
-
-"primaryPersonId": "186"
-
-}
-
-Mohammed Arafat
-Leen
-
 
 
 go to dev-helm
@@ -55,3 +46,13 @@ create new branch add 3 files
 2. make changes in values.yaml
 3. make changes in chart.yaml
 Atlast fleet.yml in dev portal
+
+https://stackoverflow.com/questions/11704267/in-javascript-how-to-conditionally-add-a-member-to-an-object
+
+
+
+
+gitops-uat
+create a branch from main
+update tags.yml
+raise a PR and get it approved from sumeet and ajumal

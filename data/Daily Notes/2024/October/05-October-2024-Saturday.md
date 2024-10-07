@@ -1,0 +1,45 @@
+---
+created: 2024-02-27 00:08
+---
+
+
+- [ ] Health Insurance for family
+- [ ] Mansi Laptop Fix 
+- [ ] Complete Vue Book 
+- [ ] Apply for Freelancing Jobs
+- [ ] Shilpa Music Class 
+- [ ] Excel Sheet Share for pricing
+- [ ] Prasad House 
+- [ ] Look for hotel 
+- [ ] Look for Taxi Driver
+- [ ] Talk about Leave with Megha
+- [ ] Mandir Cleaning
+- [ ] Freelancing accounts
+- [ ] Aakash job posts
+- [ ] Aademy job post
+- [ ] Launch TKC Dubai
+- [ ] Mac charger fix
+- [ ] Shilpa Music Class 
+- [ ] Plan October trip
+- [ ] Car Key 
+- [ ] Academy plan 
+- [ ] Shilpa old house transfer
+- [ ] Shilpa old house construction
+- [ ] Plot Boundary and foundation 
+- [ ] Aakash Plot market status
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Buy gift for siya and tejas
+- [x] Shivam Mobile
+- [ ] Aman Mobile - 70000
+- [x] Shveta Laptop - 10000
+- [x] Rahul Chopra Earphone - 10000
+- [ ] Mma Gold
+- [ ] Meeting with 618
+- [ ] Website preparation of TKC
+- [ ] Launch of TKC on social media
+- [ ] How mainland license work
+- [ ] Study VAT
+- [ ] Study Corporate Tax
