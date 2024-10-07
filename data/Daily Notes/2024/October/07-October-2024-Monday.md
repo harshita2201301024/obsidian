@@ -3,15 +3,15 @@ created: 2024-02-27 00:08
 ---
 - [ ] Look for hotel 
 - [ ] Look for Taxi Driver
-- [ ] 
 - [ ] Look for office
-- [ ] Health Insurance for family
 - [ ] Complete Vue Book 
+
+
+- [ ] Health Insurance for family
 - [ ] Apply for Freelancing Jobs
 - [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
 - [ ] Talk about Leave with Megha
-- [ ] Mandir Cleaning
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
 - [ ] Aademy job post
