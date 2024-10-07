@@ -3,10 +3,12 @@ created: 2024-02-27 00:08
 ---
 - [ ] Look for hotel 
 - [ ] Look for Taxi Driver
-- [ ] 
+- [ ] Look for office
+
+
 
 - [ ] Health Insurance for family
-- [ ] Mansi Laptop Fix 
+- [x] Mansi Laptop Fix 
 - [ ] Complete Vue Book 
 - [ ] Apply for Freelancing Jobs
 - [ ] Shilpa Music Class 
