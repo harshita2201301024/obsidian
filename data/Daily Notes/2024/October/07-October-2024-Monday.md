@@ -1,7 +1,9 @@
 ---
 created: 2024-02-27 00:08
 ---
-Look fo
+- [ ] Look for hotel 
+- [ ] Look for Taxi Driver
+- [ ] 
 
 - [ ] Health Insurance for family
 - [ ] Mansi Laptop Fix 
@@ -10,8 +12,7 @@ Look fo
 - [ ] Shilpa Music Class 
 - [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
-- [ ] Look for hotel 
-- [ ] Look for Taxi Driver
+
 - [ ] Talk about Leave with Megha
 - [ ] Mandir Cleaning
 - [ ] Freelancing accounts
