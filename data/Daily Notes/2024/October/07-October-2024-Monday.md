@@ -5,6 +5,9 @@ created: 2024-02-27 00:08
 - [ ] Look for Taxi Driver
 - [ ] Look for office
 - [ ] Complete Vue Book 
+- [ ] Complete Vuetify book
+- [ ] GYM
+- [ ] 
 
 
 - [ ] Health Insurance for family
