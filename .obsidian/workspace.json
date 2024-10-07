@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
+                "file": "data/Startup/Shilpa.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
+                "file": "data/Startup/Shilpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
+                "file": "data/Startup/Shilpa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/August/29-August-2024-Thursday.md"
+                "file": "data/Startup/Shilpa.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "01581d03eb60efd9",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
     "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
     "data/Study/Vue/9. the Templating Syntax/9.2 Using Other components in our templates.md",
@@ -205,7 +206,6 @@
     "data/Study/Vue/18. Slots/18.4 Slot props.md",
     "data/Study/Vue/18. Slots/18.3 Fallback content.md",
     "data/Study/Vue/18. Slots/18.2 Named slots.md",
-    "data/Study/Vue/18. Slots/18.1. Content projection with slot.md",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Study/Vue/16. Testing your app",
