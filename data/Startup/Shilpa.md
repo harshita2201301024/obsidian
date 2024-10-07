@@ -64,9 +64,9 @@ FRM
 2. Shilpa might get bored and get diverted from her path
 3. Need to leave government Job
 
-|   |
-|---|
-|dns1.p09.nsone.net|
-|dns2.p09.nsone.net|
-|dns3.p09.nsone.net|
-|dns4.p09.nsone.net|
+| Netlify DNS        | GoDaddy DNS                                                                                  |
+| ------------------ | -------------------------------------------------------------------------------------------- |
+| dns1.p09.nsone.net | \|                        \|<br>\| ---------------------- \|<br>\| ns63.domaincontrol.com \| |
+| dns2.p09.nsone.net |                                                                                              |
+| dns3.p09.nsone.net |                                                                                              |
+| dns4.p09.nsone.net |                                                                                              |
