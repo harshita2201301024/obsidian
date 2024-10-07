@@ -54,3 +54,7 @@ As a service center agent, I want to be able to register a new corporate body, s
 142 Hours
 
 We can register a corporate body for dubai mainland, dubai freezone, non dubai
+
+there are two parts 
+register a corporate body
+Claim Corporate Body
