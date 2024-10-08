@@ -7,7 +7,7 @@ created: 2024-02-27 00:08
 - [ ] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] GYM
-- [ ] 
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/49001/
 
 
 - [ ] Health Insurance for family
