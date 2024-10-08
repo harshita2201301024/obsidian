@@ -7,7 +7,8 @@ created: 2024-02-27 00:08
 - [ ] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] GYM
-- [ ] Reply from megha 
+- [ ] Reply from megha regarding leave
+- [ ] Complete corporate body profile
 
 
 - [ ] Health Insurance for family
