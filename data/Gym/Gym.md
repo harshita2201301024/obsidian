@@ -79,3 +79,9 @@ Dumbell press 10 15 20
 Chest press 10 10 10
 
 Bench press 0 5 5 
+
+Military press 10
+
+Forward dumbell 2.5
+
+Side dumbbell 2.5
