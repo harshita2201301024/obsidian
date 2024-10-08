@@ -1,7 +1,7 @@
 As a service center agent, I want to be able to register a new corporate body, so that it is added to the license members and CB legal rep IID profiles.
 
 1. Display sidenav and subnav - 3 
-	1. Give Permissioning to Corporate Body, which user it should be visiable - 2      
+<mark style="background: #FFF3A3A6;">	1. Give Permissioning to Corporate Body, which user it should be visiable - 2      </mark>
 	Total : 5 Hours
 2. Display the listing of company location - 4
 	1. Clicking on listing can open search popup or skip it - 2
@@ -81,3 +81,10 @@ Claim Corporate Body
 
 
 <mark style="background: #FFF3A3A6;">	1. Give Permissioning to Corporate Body, which user it should be visiable - 2      </mark>
+permissions-service.js
+```js
+if (menuItem.to.startsWith('/corporate-body')) {
+          return true
+        }
+```
+
