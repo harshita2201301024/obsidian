@@ -12,6 +12,7 @@ created: 2024-02-27 00:08
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/49036/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/48994/
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/48890/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/60020/
 
 
 - [ ] Health Insurance for family
