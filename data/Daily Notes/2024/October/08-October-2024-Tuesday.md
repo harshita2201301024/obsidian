@@ -1,11 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Look for hotel 
-- [ ] Look for Taxi Driver
-- [ ] Look for office
-- [ ] Complete Vue Book 
-- [ ] Complete Vuetify book
+
 - [ ] GYM
 - [ ] Reply from megha regarding leave
 - [ ] Prepare corporate body profile task and complete it
@@ -16,6 +12,11 @@ created: 2024-02-27 00:08
 
 
 - [ ] Health Insurance for family
+- [ ] Look for hotel 
+- [ ] Look for Taxi Driver
+- [ ] Look for office
+- [ ] Complete Vue Book 
+- [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
