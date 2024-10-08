@@ -60,3 +60,10 @@ register a corporate body
 
 
 Claim Corporate Body
+
+
+1. licesnse detail
+2. license search
+3. error handling
+4. stepper
+5. 
