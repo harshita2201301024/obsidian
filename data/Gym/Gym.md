@@ -87,3 +87,5 @@ Forward dumbell 2.5
 Side dumbbell 2.5
 
 Shoulder back weight kheechna 10
+
+Rope pull down 7.5kg
