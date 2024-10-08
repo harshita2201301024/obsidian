@@ -76,3 +76,5 @@ Claim Corporate Body
 10. Add UBO
 11. upload lot of company documents
 12. final screen
+13. design in that way that edit can also come
+14. 
