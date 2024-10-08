@@ -73,4 +73,6 @@ Claim Corporate Body
 		8.1 Add legal representative screen
 		8.2 Listing of corporate body
 9. Company structure - 2 days
-10. 
+10. Add UBO
+11. upload lot of company documents
+12. final screen
