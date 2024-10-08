@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
+                "file": "data/Others/Things to bring from india.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01581d03eb60efd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Startup/Shilpa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 300
   },
   "right": {
     "id": "14871039e31b122b",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
+                "file": "data/Startup/Shilpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
+                "file": "data/Startup/Shilpa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md"
+                "file": "data/Startup/Shilpa.md"
               }
             }
           },
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,44 +174,44 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4cdaacc8adca3dff",
+  "active": "01581d03eb60efd9",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/October/07-October-2024-Monday.md",
     "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
+    "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
+    "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
+    "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
+    "data/Study/Vue/9. the Templating Syntax/9.2 Using Other components in our templates.md",
+    "data/Study/Vue/9. the Templating Syntax/9.1 Interpolation.md",
+    "data/Study/Vue/9. the Templating Syntax",
+    "data/Study/Vue/8. From Zero to something/6. Single File Component.md",
+    "data/Study/Vue/8. From Zero to something/5. Create Vue.md",
+    "data/Study/Vue/8. From Zero to something/4. Vite.md",
+    "data/Study/Vue/8. From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
+    "data/Study/Vue/8. From Zero to something/2. Vue CLI.md",
+    "data/Study/Vue/8. From Zero to something/1. The progressive framework.md",
+    "data/Study/Vue/8. From Zero to something",
     "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
     "data/Study/Vue/20. Router/20.3 Parameters.md",
-    "data/Office Work/Users.md",
-    "data/Office Work/Register a Dubai Mainland CB.md",
-    "data/Office Work/Links.md",
-    "data/Office Work/Add TLS person search.md",
     "data/Study/Vue/20. Router/20.2 Navigation.md",
-    "data/Daily Notes/2024/October/05-October-2024-Saturday.md",
-    "data/Daily Notes/2024/October/04-October-2024-Friday.md",
-    "data/Daily Notes/2024/October/03-October-2024-Thursday.md",
-    "data/Daily Notes/2024/October/02-October-2024-Wednesday.md",
-    "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
-    "data/Daily Notes/2024/September/30-September-2024-Monday.md",
-    "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
-    "data/Daily Notes/2024/September/29-September-2024-Sunday.md",
-    "data/Office Work/Modify Business.md",
-    "data/Office Work/Smart POA.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
-    "data/Office Work/dummy.md",
-    "data/Daily Notes/2024/October",
-    "data/Daily Notes/2024/September/27-September-2024-Friday.md",
-    "data/Daily Notes/2024/September/26-September-2024-Thursday.md",
-    "data/Daily Notes/2024/September/25-September-2024-Wednesday.md",
-    "data/Daily Notes/2024/September/23-September-2024-Monday.md",
-    "data/Daily Notes/2024/September/22-September-2024-Sunday.md",
-    "Screenshot 2024-09-24 at 4.16.37 PM.png",
+    "data/Study/Vue/20. Router/20.1. En route.md",
+    "data/Study/Vue/20. Router/20. Router.md",
     "data/Study/Vue/20. Router",
+    "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
+    "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
+    "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
+    "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
+    "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
+    "data/Study/Vue/19. Suspense/19. Suspense.md",
     "data/Study/Vue/19. Suspense",
+    "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
+    "data/Study/Vue/18. Slots/18.4 Slot props.md",
+    "data/Study/Vue/18. Slots/18.3 Fallback content.md",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
-    "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
     "data/Study/Vue/14. Many define components",
-    "data/Study/Vue/13. Composition API"
+    "data/Study/Vue/13. Composition API",
+    "Screenshot 2024-09-24 at 4.16.37 PM.png"
   ]
 }
