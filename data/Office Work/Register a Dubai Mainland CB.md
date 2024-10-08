@@ -72,4 +72,5 @@ Claim Corporate Body
 8. add corporate body leagal representative
 		8.1 Add legal representative screen
 		8.2 Listing of corporate body
-	
+9. Company structure - 2 days
+10. 
