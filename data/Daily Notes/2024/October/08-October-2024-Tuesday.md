@@ -12,6 +12,8 @@ created: 2024-02-27 00:08
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
 - [x] Corporate body story review
+- [x] permissioning issue
+- [x] listing fixes
 - [ ] Kirayedar ghar khali
 - [ ] give domain details to shilpa
 
