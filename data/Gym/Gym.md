@@ -75,3 +75,5 @@ Target - 70kg
 Inclined barbell 0 5 5 
 
 Dumbell press 10 15 20
+
+Chest press 10 10 10
