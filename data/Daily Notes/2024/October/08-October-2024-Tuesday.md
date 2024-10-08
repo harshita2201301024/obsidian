@@ -18,7 +18,7 @@ created: 2024-02-27 00:08
 - [ ] give domain details to shilpa
 - [ ] du balance deduct
 - [ ] shilpa office bank account open
-- [ ] shilpa 
+- [ ] book passport appointment again
 
 
 - [ ] Health Insurance for family
