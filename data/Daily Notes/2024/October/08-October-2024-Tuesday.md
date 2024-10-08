@@ -8,7 +8,9 @@ created: 2024-02-27 00:08
 - [ ] Complete Vuetify book
 - [ ] GYM
 - [ ] Reply from megha regarding leave
-- [ ] Complete corporate body profile
+- [ ] Prepare corporate body profile task and complete it
+- [ ] resolve all the existing production bugs that i have
+- [ ] 
 
 
 - [ ] Health Insurance for family
