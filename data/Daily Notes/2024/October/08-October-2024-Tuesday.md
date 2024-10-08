@@ -8,7 +8,7 @@ created: 2024-02-27 00:08
 - [ ] Resolve all the existing production bugs that i have
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
-- [ ] 
+- [ ] apply mma pan card
 
 
 - [ ] Health Insurance for family
@@ -26,7 +26,6 @@ created: 2024-02-27 00:08
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
-- [ ] Shilpa Music Class 
 - [ ] Plan October trip
 - [ ] Car Key 
 - [ ] Academy plan 
