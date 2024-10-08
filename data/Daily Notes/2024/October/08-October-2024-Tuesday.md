@@ -9,6 +9,7 @@ created: 2024-02-27 00:08
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
 - [ ] apply mma pan card
+- [ ] Complete Chapter 20,22 of vue book
 
 
 - [ ] Health Insurance for family
