@@ -77,4 +77,7 @@ Claim Corporate Body
 11. upload lot of company documents
 12. final screen
 13. design in that way that edit can also come
-14. 
+
+
+
+<mark style="background: #FFF3A3A6;">	1. Give Permissioning to Corporate Body, which user it should be visiable - 2      </mark>
