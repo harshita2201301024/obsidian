@@ -11,6 +11,7 @@ created: 2024-02-27 00:08
 - [ ] apply mma pan card
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
+- [x] Corporate body story review
 
 
 - [ ] Health Insurance for family
