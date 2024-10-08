@@ -66,4 +66,5 @@ Claim Corporate Body
 2. license search
 3. error handling
 4. stepper
-5. 
+5. show company details by using form builder
+6. 
