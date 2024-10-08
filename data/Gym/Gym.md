@@ -73,3 +73,5 @@ Target - 70kg
 25kg flying chest
 
 Inclined barbell 0 5 5 
+
+Dumbell press 10 15 20
