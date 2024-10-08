@@ -70,4 +70,6 @@ Claim Corporate Body
 6. verify email and mobile
 7. go to next step
 8. add corporate body leagal representative
-9. 
+		8.1 Add legal representative screen
+		8.2 Listing of corporate body
+	
