@@ -67,3 +67,9 @@ Target - 70.5kg
 Week 16
 Actual Weight- 
 Target - 70kg
+
+
+
+25kg flying chest
+
+Inclined barbell 0 5 5 

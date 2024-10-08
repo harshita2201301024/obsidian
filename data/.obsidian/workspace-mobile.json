@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
+                "file": "Gym/Gym.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
+            "file": "Gym/Gym.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md",
+            "file": "Gym/Gym.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2024/October/03-October-2024-Thursday.md"
+            "file": "Gym/Gym.md"
           }
         }
       }
@@ -145,10 +145,16 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
+    "Study/Vue/20. Router/20.3 Parameters.md",
+    "Daily Notes/2024/October/05-October-2024-Saturday.md",
+    "Daily Notes/2024/October/04-October-2024-Friday.md",
+    "Daily Notes/2024/October/07-October-2024-Monday.md",
+    "Study/Vue/20. Router/20.4 Router and Suspense.md",
+    "Daily Notes/2024/October/08-October-2024-Tuesday.md",
+    "Daily Notes/2024/October/03-October-2024-Thursday.md",
     "Daily Notes/2024/October/02-October-2024-Wednesday.md",
     "Daily Notes/2024/October/01-October-2024-Tuesday.md",
     "Daily Notes/2024/September/30-September-2024-Monday.md",
-    "Daily Notes/2024/October/03-October-2024-Thursday.md",
     "Daily Notes/2024/October",
     "Pending Things/Pending.md",
     "Daily Notes/2024/September/26-September-2024-Thursday.md",
@@ -169,13 +175,7 @@
     "Study/Vue/19. Suspense/19.3 Suspense events.md",
     "Study/Vue/19. Suspense/19. Suspense.md",
     "Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
-    "Study/Vue/19. Suspense/19.1 Display a fallback content.md",
-    "Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
     "Study/Vue/19. Suspense",
-    "Study/Vue/20. Router/20.1. En route.md",
-    "Study/Vue/17. Send and receive data through HTTP/17.3 Interceptors.md",
-    "Study/Vue/20. Router/20. Router.md",
-    "Study/Vue/19. Suspense/19.5 script setup and await.md",
     "Study/Javascript",
     "Study/Vue/15. Script Setup",
     "Study/Vue/11. How to build Components",
