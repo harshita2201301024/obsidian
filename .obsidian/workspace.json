@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/October/07-October-2024-Monday.md",
+                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/October/07-October-2024-Monday.md",
+                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/October/07-October-2024-Monday.md",
+                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/October/07-October-2024-Monday.md"
+                "file": "data/Daily Notes/2024/October/08-October-2024-Tuesday.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
     "data/Daily Notes/2024/October/07-October-2024-Monday.md",
+    "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
     "data/Office Work/Users.md",
     "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
     "data/Study/Vue/20. Router/20.3 Parameters.md",
