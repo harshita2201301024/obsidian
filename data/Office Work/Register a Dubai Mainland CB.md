@@ -66,5 +66,8 @@ Claim Corporate Body
 2. license search
 3. error handling
 4. stepper
-5. show company details by using form builder
-6. 
+5. show company details by using form builder, fields could be editable or not
+6. verify email and mobile
+7. go to next step
+8. add corporate body leagal representative
+9. 
