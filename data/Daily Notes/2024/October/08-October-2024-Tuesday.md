@@ -16,6 +16,9 @@ created: 2024-02-27 00:08
 - [x] listing fixes
 - [ ] Kirayedar ghar khali
 - [ ] give domain details to shilpa
+- [ ] du balance deduct
+- [ ] shilpa office bank account open
+- [ ] 
 
 
 - [ ] Health Insurance for family
