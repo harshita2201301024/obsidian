@@ -8,6 +8,8 @@ created: 2024-02-27 00:08
 - [ ] Complete Vuetify book
 - [ ] GYM
 - [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/49001/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/48622/
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/49036/
 
 
 - [ ] Health Insurance for family
