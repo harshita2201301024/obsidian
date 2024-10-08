@@ -88,4 +88,8 @@ Side dumbbell 2.5
 
 Shoulder back weight kheechna 10
 
-Rope pull down 7.5kg
+Rope pull down 7.5
+
+Triceps barbell - empty weight 
+
+Triceps weight pichhe se kheechna- 5 10 10
