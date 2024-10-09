@@ -26,11 +26,11 @@ Protein 1 or 2 scoop a daya
 
 ## Pull Exercises (Back, Biceps)
 
-| Date       | Weight  | Pull down  | Row      | Lower back | Back Exercise 4 | Back Exercise 5 | Biceps Exercise 1 | Biceps Exercise 2 | Biceps Exercise 3 | Notes |
-| ---------- | ------- | ---------- | -------- | ---------- | --------------- | --------------- | ----------------- | ----------------- | ----------------- | ----- |
-| 09-10-2024 | 79.85kg | 20 20 20   | 10 20 30 | 10 10 10   |                 |                 |                   |                   |                   |       |
-| 12-10-2024 | 79kg    |            |          |            |                 |                 |                   |                   |                   |       |
-| YYYY-MM-DD |         |            |          |            |                 |                 |                   |                   |                   |       |
+| Date       | Weight  | Pull down | Row      | Lower back | Cable stations back | Back Exercise 5 | Biceps Exercise 1 | Biceps Exercise 2 | Biceps Exercise 3 | Notes |
+| ---------- | ------- | --------- | -------- | ---------- | ------------------- | --------------- | ----------------- | ----------------- | ----------------- | ----- |
+| 09-10-2024 | 79.85kg | 20 20 20  | 10 20 30 | 10 10 10   | 25 25 25            |                 |                   |                   |                   |       |
+| 12-10-2024 | 79kg    |           |          |            |                     |                 |                   |                   |                   |       |
+| YYYY-MM-DD |         |           |          |            |                     |                 |                   |                   |                   |       |
 
 ---
 
