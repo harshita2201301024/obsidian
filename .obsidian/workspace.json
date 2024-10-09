@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.7 Route Matching.md",
+                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.7 Route Matching.md",
+                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.7 Route Matching.md",
+                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.7 Route Matching.md"
+                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "e77cda284e614bb0",
   "lastOpenFiles": [
-    "data/Study/Vue/20. Router/20.6 Redirects.md",
     "data/Study/Vue/20. Router/20.7 Route Matching.md",
+    "data/Study/Vue/20. Router/20.8 Nested routes.md",
+    "data/Study/Vue/20. Router/20.6 Redirects.md",
     "data/Study/Vue/20. Router/20.5 Passing parameters as props.md",
     "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
     "data/Office Work/Links.md",
@@ -203,7 +204,6 @@
     "data/Office Work/Smart POA.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Daily Notes/2024/October",
-    "data/Daily Notes/2024/September/27-September-2024-Friday.md",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
     "data/Study/Vue/19. Suspense",
