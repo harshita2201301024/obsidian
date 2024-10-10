@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Gym.md",
+                "file": "Daily Notes/2024/October/08-October-2024-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gym/Gym.md",
+            "file": "Daily Notes/2024/October/08-October-2024-Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gym/Gym.md",
+            "file": "Daily Notes/2024/October/08-October-2024-Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gym/Gym.md"
+            "file": "Daily Notes/2024/October/08-October-2024-Tuesday.md"
           }
         }
       }
@@ -145,6 +145,11 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
+    "Study/Vue/20. Router/20.8 Nested routes.md",
+    "Study/Vue/20. Router/20.5 Passing parameters as props.md",
+    "Study/Vue/20. Router/20.7 Route Matching.md",
+    "Study/Vue/20. Router/20.6 Redirects.md",
+    "Gym/Gym.md",
     "Study/Vue/20. Router/20.3 Parameters.md",
     "Daily Notes/2024/October/05-October-2024-Saturday.md",
     "Daily Notes/2024/October/04-October-2024-Friday.md",
@@ -169,12 +174,7 @@
     "Study/Vue/20. Router/20.2 Navigation.md",
     "Study/Vue/20. Router",
     "Study/Vue/17. Send and receive data through HTTP/17.4 Tests.md",
-    "Study/Vue/17. Send and receive data through HTTP/17.2 Advanced options.md",
-    "Study/Vue/17. Send and receive data through HTTP/17.1 Getting Data.md",
     "Study/Vue/17. Send and receive data through HTTP",
-    "Study/Vue/19. Suspense/19.3 Suspense events.md",
-    "Study/Vue/19. Suspense/19. Suspense.md",
-    "Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
     "Study/Vue/19. Suspense",
     "Study/Javascript",
     "Study/Vue/15. Script Setup",
