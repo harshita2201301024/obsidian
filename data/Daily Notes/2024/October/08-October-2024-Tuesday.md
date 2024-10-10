@@ -56,3 +56,11 @@ created: 2024-02-27 00:08
 - [ ] How mainland license work
 - [ ] Study VAT
 - [ ] Study Corporate Tax
+
+
+aalu
+aata
+suji 
+disposal tiffin
+bacho gift
+bhaiya phone
