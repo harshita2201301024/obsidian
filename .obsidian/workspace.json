@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+                "file": "data/Study/Vue/20. Router/20.10 Meta information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+                "file": "data/Study/Vue/20. Router/20.10 Meta information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+                "file": "data/Study/Vue/20. Router/20.10 Meta information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md"
+                "file": "data/Study/Vue/20. Router/20.10 Meta information.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Gym/Gym.md",
     "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+    "data/Study/Vue/20. Router/20.10 Meta information.md",
+    "data/Gym/Gym.md",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
     "data/Study/Vue/20. Router/20.8 Nested routes.md",
     "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
