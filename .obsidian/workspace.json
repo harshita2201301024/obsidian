@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Gym/Gym.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e77cda284e614bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
+                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
+                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md",
+                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.8 Nested routes.md"
+                "file": "data/Study/Vue/20. Router/20.9 Navigation guards.md"
               }
             }
           },
@@ -175,10 +162,13 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "e77cda284e614bb0",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
+    "data/Gym/Gym.md",
+    "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+    "data/Study/Vue/20. Router/20.9 Navigation guards",
     "data/Study/Vue/20. Router/20.8 Nested routes.md",
+    "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
     "data/Office Work/Links.md",
     "data/Office Work/dummy.md",
     "data/Office Work/Register a Dubai Mainland CB.md",
@@ -191,7 +181,6 @@
     "data/Study/Vue/20. Router/20.6 Redirects.md",
     "data/Study/Vue/20. Router/20.5 Passing parameters as props.md",
     "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
-    "data/Gym/Gym.md",
     "data/Daily Notes/2024/October/07-October-2024-Monday.md",
     "data/Study/Vue/20. Router/20.3 Parameters.md",
     "data/Office Work/Add TLS person search.md",
@@ -201,8 +190,6 @@
     "data/Daily Notes/2024/October/03-October-2024-Thursday.md",
     "data/Daily Notes/2024/October/02-October-2024-Wednesday.md",
     "data/Daily Notes/2024/October/01-October-2024-Tuesday.md",
-    "data/Daily Notes/2024/September/30-September-2024-Monday.md",
-    "data/Daily Notes/2024/June/30-June-2024-Sunday.md",
     "data/Daily Notes/2024/October",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
@@ -212,7 +199,6 @@
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
     "data/Study/Vue/15. Script Setup",
-    "data/Study/Vue/14. Many define components",
-    "data/Study/Vue/13. Composition API"
+    "data/Study/Vue/14. Many define components"
   ]
 }
