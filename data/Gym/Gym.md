@@ -36,11 +36,11 @@ Protein 1 or 2 scoop a daya
 
 ## Legs & Abs
 
-| Date       | Weight | Staircases | Uthao bethak | Leg press | Leg curl          | Hamstring curl | Abs Exercise 1 | Abs Exercise 2 | Abs Exercise 3 | Notes |
-| ---------- | ------ | ---------- | ------------ | --------- | ----------------- | -------------- | -------------- | -------------- | -------------- | ----- |
-| 10-10-2024 | 79kg   | 10 min     | 10 10 10     | 20 20 20  | 5th 6th 7th plate | 3rd 4th 5th    |                |                |                |       |
-| 13-10-2024 | 78.5kg |            |              |           |                   |                |                |                |                |       |
-| YYYY-MM-DD |        |            |              |           |                   |                |                |                |                |       |
+| Date       | Weight | Staircases | Uthao bethak | Leg press | Leg curl          | Hamstring curl | Plank            | Abs scissor lying  | Abs Exercise 3 | Notes |
+| ---------- | ------ | ---------- | ------------ | --------- | ----------------- | -------------- | ---------------- | ------------------ | -------------- | ----- |
+| 10-10-2024 | 79kg   | 10 min     | 10 10 10     | 20 20 20  | 5th 6th 7th plate | 3rd 4th 5th    | 1min 1 min 1 min 10 10 10             |                |       |
+| 13-10-2024 | 78.5kg |            |              |           |                   |                |                  |                    |                |       |
+| YYYY-MM-DD |        |            |              |           |                   |                |                  |                    |                |       |
 
 ---
 
