@@ -5,7 +5,7 @@ created: 2024-02-27 00:08
 - [ ] GYM
 - [ ] Reply from megha regarding leave
 - [ ] Prepare corporate body profile task and complete it
-- [ ] Resolve all the existing production bugs that i have
+- [x] Resolve all the existing production bugs that i have
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
 - [ ] apply mma pan card
