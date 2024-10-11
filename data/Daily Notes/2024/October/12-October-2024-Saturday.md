@@ -16,11 +16,8 @@ created: 2024-02-27 00:08
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
 - [ ] godaddy money follow up
-- [ ] give domain details to shilpa
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
-- [ ] Health Insurance for family
-- [ ] Look for hotel 
 - [ ] Look for Taxi Driver
 - [ ] Look for office
 - [ ] Complete Vue Book 
@@ -28,7 +25,6 @@ created: 2024-02-27 00:08
 - [ ] Apply for Freelancing Jobs
 - [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
-- [ ] Talk about Leave with Megha
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
 - [ ] Aademy job post
