@@ -18,7 +18,7 @@ Protein 1 or 2 scoop a daya
 
 | Date       | Weight | Barbell Press | Inclined Barbell Press | Declined Barbell Press | Chest Exercise 4 | Chest Exercise 5 | Triceps Exercise 1 | Triceps Exercise 2 | Triceps Exercise 3 | Shoulder Exercise 1 | Shoulder Exercise 2 | Shoulder Exercise 3 | Notes |
 | ---------- | ------ | ------------- | ---------------------- | ---------------------- | ---------------- | ---------------- | ------------------ | ------------------ | ------------------ | ------------------- | ------------------- | ------------------- | ----- |
-| 08-10-2024 | 80kg   |               |                        |                        |                  |                  |                    |                    |                    |                     |                     |                     |       |
+| 08-10-2024 | 80kg   | 0 10 10       | 0 2.5 5                |                        |                  |                  |                    |                    |                    |                     |                     |                     |       |
 | 11-10-2024 | 79.5kg |               |                        |                        |                  |                  |                    |                    |                    |                     |                     |                     |       |
 | YYYY-MM-DD |        |               |                        |                        |                  |                  |                    |                    |                    |                     |                     |                     |       |
 
