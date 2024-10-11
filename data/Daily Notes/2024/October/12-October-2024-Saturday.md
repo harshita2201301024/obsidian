@@ -4,8 +4,6 @@ created: 2024-02-27 00:08
 
 - [ ] GYM -> 4PM - 6PM 
 - [ ] vue study -> 10AM - 12 PM
-- [ ] Kirayedar ghar khali -> 10 AM 
-- [ ] apply mma pan card -> 10 AM
 - [ ] Website preparation of TKC -> 12 PM - 2PM
 - [ ] Buy gift for siya and tejas -> 2PM - 4PM
 - [ ] Aman Mobile - 70000 -> 2PM - 4PM
@@ -16,9 +14,12 @@ created: 2024-02-27 00:08
 - [ ] Print one pager calendar ->10AM
 - [ ] dish cleaner -> 2PM - 4PM 
 - [ ] singing practice -> 4PM - 6PM
-- [ ] book eye appointment
-- [ ] login AML
-- [ ] pay motin salary
+
+- [ ] book eye appointment -> 12PM - 2PM
+- [ ] Kirayedar ghar khali -> 12 PM 
+- [ ] apply mma pan card -> 12 PM
+- [ ] login AML -> 12PM
+- [ ] pay motin salary -> 12PM 
 
 
 
