@@ -13,6 +13,8 @@ created: 2024-02-27 00:08
 - [ ] vue study
 - [ ] study corporate tax
 - [ ] Print one pager calendar
+- [ ] dish cleaner
+- [ ] 
 
 
 
