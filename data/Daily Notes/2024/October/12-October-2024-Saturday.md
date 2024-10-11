@@ -5,6 +5,7 @@ created: 2024-02-27 00:08
 - [ ] GYM
 - [ ] Kirayedar ghar khali
 - [ ] apply mma pan card
+- [ ] Website preparation of TKC
 
 
 
@@ -41,10 +42,7 @@ created: 2024-02-27 00:08
 - [ ] add nominee in hdfc 
 - [ ] Buy gift for siya and tejas
 - [ ] Aman Mobile - 70000
-- [ ] Mma Gold
 - [ ] Meeting with 618
-- [ ] Website preparation of TKC
-- [ ] Launch of TKC on social media
 - [ ] How mainland license work
 - [ ] Study VAT
 - [ ] Study Corporate Tax
