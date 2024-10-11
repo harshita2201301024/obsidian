@@ -2,15 +2,16 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] GYM -> 4PM - 
-- [ ] Kirayedar ghar khali
-- [ ] apply mma pan card
+- [ ] GYM -> 4PM - 6PM 
+- [ ] vue study -> 10AM - 12 PM
+- [ ] Kirayedar ghar khali -> 10 AM 
+- [ ] apply mma pan card -> 10 AM
 - [ ] Website preparation of TKC
 - [ ] Buy gift for siya and tejas
 - [ ] Aman Mobile - 70000
 - [ ] Garba
 - [ ] Rohit Lunch
-- [ ] vue study
+
 - [ ] study corporate tax
 - [ ] Print one pager calendar
 - [ ] dish cleaner
