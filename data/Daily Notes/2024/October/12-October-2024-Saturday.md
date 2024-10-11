@@ -12,9 +12,9 @@ created: 2024-02-27 00:08
 - [ ] Garba -> 6PM - 10PM
 - [ ] Rohit Lunch -> 1PM - 2PM
 
-- [ ] study corporate tax
-- [ ] Print one pager calendar
-- [ ] dish cleaner
+- [ ] study corporate tax - >10 PM - 12PM
+- [ ] Print one pager calendar ->10AM
+- [ ] dish cleaner -> 2PM - 4PM 
 - [ ] singing practice -> 4PM - 6PM
 - [ ] book eye appointment
 - [ ] login AML
