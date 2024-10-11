@@ -12,7 +12,7 @@ created: 2024-02-27 00:08
 - [ ] Prepare corporate body profile task and complete it
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
-
+- [ ] apply for leave after coming from india
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
 - [ ] godaddy money follow up
@@ -23,7 +23,6 @@ created: 2024-02-27 00:08
 - [ ] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
-- [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
