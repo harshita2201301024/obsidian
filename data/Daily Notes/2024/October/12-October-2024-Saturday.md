@@ -2,7 +2,7 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] GYM
+- [ ] GYM - 
 - [ ] Kirayedar ghar khali
 - [ ] apply mma pan card
 - [ ] Website preparation of TKC
@@ -17,7 +17,7 @@ created: 2024-02-27 00:08
 - [ ] singing practice
 - [ ] book eye appointment
 - [ ] login AML
-- [ ] Give salary to both
+- [ ] pay motin salary
 
 
 
