@@ -4,6 +4,7 @@ created: 2024-02-27 00:08
 
 - [ ] GYM
 - [ ] Kirayedar ghar khali
+- [ ] apply mma pan card
 
 
 
@@ -11,10 +12,10 @@ created: 2024-02-27 00:08
 - [ ] Prepare corporate body profile task and complete it
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
-- [ ] apply mma pan card
+
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
-
+- [ ] godaddy money follow up
 - [ ] give domain details to shilpa
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
