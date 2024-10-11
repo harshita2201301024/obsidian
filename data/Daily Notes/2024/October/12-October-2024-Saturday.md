@@ -6,16 +6,16 @@ created: 2024-02-27 00:08
 - [ ] vue study -> 10AM - 12 PM
 - [ ] Kirayedar ghar khali -> 10 AM 
 - [ ] apply mma pan card -> 10 AM
-- [ ] Website preparation of TKC
-- [ ] Buy gift for siya and tejas
-- [ ] Aman Mobile - 70000
-- [ ] Garba
-- [ ] Rohit Lunch
+- [ ] Website preparation of TKC -> 12 PM - 2PM
+- [ ] Buy gift for siya and tejas -> 2PM - 4PM
+- [ ] Aman Mobile - 70000 -> 2PM - 4PM
+- [ ] Garba -> 6PM - 10PM
+- [ ] Rohit Lunch -> 1PM - 2PM
 
 - [ ] study corporate tax
 - [ ] Print one pager calendar
 - [ ] dish cleaner
-- [ ] singing practice
+- [ ] singing practice -> 4PM - 6PM
 - [ ] book eye appointment
 - [ ] login AML
 - [ ] pay motin salary
