@@ -12,6 +12,8 @@ created: 2024-02-27 00:08
 - [ ] Rohit Lunch
 - [ ] vue study
 - [ ] study corporate tax
+- [ ] print one pager calendar
+
 
 
 
