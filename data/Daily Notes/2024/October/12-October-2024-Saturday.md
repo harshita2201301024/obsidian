@@ -15,7 +15,7 @@ created: 2024-02-27 00:08
 - [ ] Print one pager calendar
 - [ ] dish cleaner
 - [ ] singing practice
-- [ ] 
+- [ ] book eye appointment
 
 
 
