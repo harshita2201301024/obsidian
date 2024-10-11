@@ -3,6 +3,7 @@ created: 2024-02-27 00:08
 ---
 
 - [ ] GYM
+- [ ] Kirayedar ghar khali
 
 
 
@@ -13,9 +14,8 @@ created: 2024-02-27 00:08
 - [ ] apply mma pan card
 - [ ] Complete Chapter 20,22 of vue book
 - [ ] read corporate body story  and plan what to do on what day?
-- [ ] Kirayedar ghar khali
+
 - [ ] give domain details to shilpa
-- [ ] du balance deduct
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
 - [ ] Health Insurance for family
