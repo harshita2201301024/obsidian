@@ -29,7 +29,6 @@ created: 2024-02-27 00:08
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
-- [ ] Plan October trip
 - [ ] Car Key 
 - [ ] Academy plan 
 - [ ] Shilpa old house transfer
