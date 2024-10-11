@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
+                "file": "data/Office Work/Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
+                "file": "data/Office Work/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
+                "file": "data/Office Work/Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md"
+                "file": "data/Office Work/Users.md"
               }
             }
           },
@@ -162,11 +162,11 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.10 Meta information.md",
-    "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
     "data/Study/Vue/20. Router/20.9 Navigation guards.md",
     "data/Gym/Gym.md",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
@@ -199,7 +199,6 @@
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Office Work/Untitled",
     "data/Study/Vue/16. Testing your app",
-    "data/Study/Vue/15. Script Setup",
-    "data/Study/Vue/14. Many define components"
+    "data/Study/Vue/15. Script Setup"
   ]
 }
