@@ -16,6 +16,8 @@ created: 2024-02-27 00:08
 - [ ] dish cleaner
 - [ ] singing practice
 - [ ] book eye appointment
+- [ ] login AML
+- [ ] Give salary to both
 
 
 
@@ -26,7 +28,6 @@ created: 2024-02-27 00:08
 - [ ] Purchase 10 more email ids
 - [ ] apply for leave after coming from india
 - [ ] Complete Chapter 20,22 of vue book
-- [ ] read corporate body story  and plan what to do on what day?
 - [ ] godaddy money follow up
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
