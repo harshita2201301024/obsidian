@@ -6,6 +6,11 @@ created: 2024-02-27 00:08
 - [ ] Kirayedar ghar khali
 - [ ] apply mma pan card
 - [ ] Website preparation of TKC
+- [ ] Buy gift for siya and tejas
+- [ ] Aman Mobile - 70000
+- [ ] Garba
+- [ ] Rohit Lunch
+- [ ] vue study
 
 
 
@@ -40,17 +45,6 @@ created: 2024-02-27 00:08
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
-- [ ] Buy gift for siya and tejas
-- [ ] Aman Mobile - 70000
 - [ ] Meeting with 618
 - [ ] How mainland license work
-- [ ] Study VAT
 - [ ] Study Corporate Tax
-
-
-aalu
-aata
-suji 
-disposal tiffin
-bacho gift
-bhaiya phone
