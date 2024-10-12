@@ -5,16 +5,10 @@ created: 2024-02-27 00:08
 - [ ] GYM -> 4PM - 6PM 
 - [x] vue study -> 10AM - 12 PM
 - [ ] Website preparation of TKC -> 12 PM - 2PM
-- [ ] Garba -> 6PM - 10PM
-- [ ] Rohit Lunch -> 1PM - 2PM
-
-
 - [ ] study corporate tax - >10 PM - 12PM
-
 - [ ] pay motin salary -> 12PM - 1PM 
 - [ ] -Buy gift for siya and tejas -> 2PM - 4PM
 - [ ] Aman Mobile - 70000 -> 2PM - 4PM
-- [ ] singing practice -> 4PM - 6PM
 
 
 
