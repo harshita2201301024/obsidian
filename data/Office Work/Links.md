@@ -41,14 +41,6 @@ devtools.emit("init", Vue);
 
 
 
-go to dev-helm
-create new branch add 3 files
-1. make changes templates/portal.yaml
-2. make changes in values.yaml
-3. make changes in chart.yaml
-Atlast fleet.yml in dev portal
-
-https://stackoverflow.com/questions/11704267/in-javascript-how-to-conditionally-add-a-member-to-an-object
 
 
 
