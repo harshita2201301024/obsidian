@@ -12,6 +12,7 @@ created: 2024-02-27 00:08
 - [ ] study corporate tax - >10 PM - 12PM
 - [ ] book eye appointment -> 12PM - 1PM
 - [ ] Kirayedar ghar khali -> 12 PM  - 1pm 
+- [ ] bhai se ghumne ki baat krna -> 
 - [ ] apply mma pan card -> 12 PM -  1pm
 - [ ] login AML -> 12PM - 1pm 
 - [ ] pay motin salary -> 12PM - 1PM 
