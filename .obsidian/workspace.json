@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
+                "file": "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
+                "file": "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
+                "file": "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
+                "file": "data/Study/Vue/22. Forms/22.1 The v-model directive.md"
               }
             }
           },
@@ -162,8 +162,21 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/August/12-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/09-August-2024-Friday.md",
+    "data/Daily Notes/2024/August/05-August-2024-Monday.md",
+    "data/Daily Notes/2024/August/03-August-2024-Saturday.md",
+    "data/Daily Notes/2024/05-May/2024-05-27-Monday.md",
+    "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
+    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
+    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
+    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
+    "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
+    "data/Daily Notes/2024/02-February/2024-02-29-Thursday.md",
+    "data/Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
+    "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
     "data/Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
     "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Office Work/Users.md",
@@ -178,21 +191,8 @@
     "data/Study/Vue/22. Forms/22. Forms.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading/21.4 Grouping components in the same bundle.md",
-    "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
-    "data/Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
-    "data/Study/Vue/21. Lazy-loading/21. Lazy loading.md",
-    "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
-    "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
-    "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
     "data/Study/Vue/21. Lazy-loading",
-    "data/Study/Vue/20. Router/20.10 Meta information.md",
-    "data/Study/Vue/20. Router/20.9 Navigation guards.md",
-    "data/Gym/Gym.md",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
-    "data/Study/Vue/20. Router/20.8 Nested routes.md",
-    "data/Study/Vue/20. Router/20.7 Route Matching.md",
-    "data/Study/Vue/20. Router/20.6 Redirects.md",
-    "data/Study/Vue/20. Router/20.5 Passing parameters as props.md",
     "data/Daily Notes/2024/October",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
