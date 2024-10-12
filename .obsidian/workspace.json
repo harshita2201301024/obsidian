@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "6b120bfbe35e21f3",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",
