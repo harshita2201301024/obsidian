@@ -3,11 +3,11 @@ created: 2024-02-27 00:08
 ---
 
 - [ ] GYM -> 4PM - 6PM 
-- [x] vue study -> 10AM - 12 PM
-- [ ] Website preparation of TKC -> 12 PM - 2PM
-- [ ] study corporate tax - >10 PM - 12PM
+- [x] vue study -> 12PM - 4 PM
+- [ ] Website preparation of TKC -> 4 PM - 6PM
+- [ ] study corporate tax - >12 PM - 4PM
 - [ ] pay motin salary -> 12PM - 1PM 
-- [ ] -Buy gift for siya and tejas -> 2PM - 4PM
+- [ ] -Buy gift for siya and tejas -> 10AM - 12PM
 - [ ] Aman Mobile - 70000 -> 2PM - 4PM
 - [ ] Toastmaster class -
 
