@@ -7,7 +7,6 @@ tags:: [[+Daily Notes]]
 
 Wake up at 07:05 AM
 Record Weight 07: 05 AM -07:06 AM
-Note Down Masturbation 07:06 AM - 07: 07 AM
 Go to Washroom 07: 07 AM - 07-10 AM
 Drink Water 07: 10 AM - 07: 12 AM
 Room Cleaning 07: 12 AM - 07: 20 AM

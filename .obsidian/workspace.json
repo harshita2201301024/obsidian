@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Office Work/Register a Dubai Mainland CB.md",
+                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Office Work/Register a Dubai Mainland CB.md",
+                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Office Work/Register a Dubai Mainland CB.md",
+                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Office Work/Register a Dubai Mainland CB.md"
+                "file": "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md"
               }
             }
           },
@@ -162,8 +162,14 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4cdaacc8adca3dff",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
+    "data/Office Work/Vue2 to Vue3 Migration.md",
+    "data/Office Work/Users.md",
+    "data/Office Work/Smart POA Nuxt 3 Migration.md",
+    "data/Office Work/Smart POA.md",
+    "data/Office Work/Register a Dubai Mainland CB.md",
     "data/Office Work/Modify Business.md",
     "data/Office Work/Links.md",
     "data/Office Work/dummy.md",
@@ -172,11 +178,6 @@
     "data/Study/Vue/22. Forms/22. Forms.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading/21.4 Grouping components in the same bundle.md",
-    "data/Office Work/Register a Dubai Mainland CB.md",
-    "data/Office Work/Smart POA.md",
-    "data/Office Work/Smart POA Nuxt 3 Migration.md",
-    "data/Office Work/Users.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
     "data/Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
     "data/Study/Vue/21. Lazy-loading/21. Lazy loading.md",
@@ -192,7 +193,6 @@
     "data/Study/Vue/20. Router/20.7 Route Matching.md",
     "data/Study/Vue/20. Router/20.6 Redirects.md",
     "data/Study/Vue/20. Router/20.5 Passing parameters as props.md",
-    "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
     "data/Daily Notes/2024/October",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
