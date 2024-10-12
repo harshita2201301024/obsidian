@@ -16,7 +16,7 @@ created: 2024-02-27 00:08
 - [x] apply mma pan card -> 12 PM -  1pm
 - [ ] login AML -> 12PM - 1pm 
 - [ ] pay motin salary -> 12PM - 1PM 
-- [ ]  Print one pager calendar ->12PM - 1PM
+- [x]  Print one pager calendar ->12PM - 1PM
 - [x] dish cleaner -> 12PM - 1PM 
 - [ ] -Buy gift for siya and tejas -> 2PM - 4PM
 - [ ] Aman Mobile - 70000 -> 2PM - 4PM
