@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
+                "file": "data/Study/Vue/21. Lazy-loading/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
+                "file": "data/Study/Vue/21. Lazy-loading/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
+                "file": "data/Study/Vue/21. Lazy-loading/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md"
+                "file": "data/Study/Vue/21. Lazy-loading/Untitled.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
     "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
+    "data/Study/Vue/21. Lazy-loading/Untitled.md",
+    "data/Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
     "data/Study/Vue/21. Lazy-loading/21. Lazy loading.md",
     "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
     "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
@@ -191,7 +192,6 @@
     "data/Daily Notes/2024/October/07-October-2024-Monday.md",
     "data/Study/Vue/20. Router/20.3 Parameters.md",
     "data/Office Work/Add TLS person search.md",
-    "data/Study/Vue/20. Router/20.2 Navigation.md",
     "data/Daily Notes/2024/October",
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
