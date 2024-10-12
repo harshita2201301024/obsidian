@@ -10,7 +10,6 @@ created: 2024-02-27 00:08
 
 
 - [ ] study corporate tax - >10 PM - 12PM
-- [ ] book eye appointment -> 12PM - 1PM
 
 - [ ] pay motin salary -> 12PM - 1PM 
 - [ ] -Buy gift for siya and tejas -> 2PM - 4PM
@@ -22,6 +21,7 @@ created: 2024-02-27 00:08
 
 
 - [ ] Prepare corporate body profile task and complete it
+- [ ] book eye appointment -> 12PM - 1PM
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
 - [ ] apply for leave after coming from india
