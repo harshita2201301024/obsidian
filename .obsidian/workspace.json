@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/October/12-October-2024-Saturday.md"
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
+    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
     "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
@@ -188,8 +190,6 @@
     "data/Office Work/Modify Business.md",
     "data/Office Work/Links.md",
     "data/Office Work/dummy.md",
-    "data/Office Work/Add TLS person search.md",
-    "data/Study/Vue/22. Forms/22. Forms.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
