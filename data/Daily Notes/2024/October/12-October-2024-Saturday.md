@@ -13,7 +13,7 @@ created: 2024-02-27 00:08
 - [ ] book eye appointment -> 12PM - 1PM
 - [ ] Kirayedar ghar khali -> 12 PM  - 1pm 
 - [x] bhai se ghumne ki baat krna -> follow up
-- [ ] apply mma pan card -> 12 PM -  1pm
+- [x] apply mma pan card -> 12 PM -  1pm
 - [ ] login AML -> 12PM - 1pm 
 - [ ] pay motin salary -> 12PM - 1PM 
 - [ ]  Print one pager calendar ->12PM - 1PM
@@ -58,3 +58,4 @@ created: 2024-02-27 00:08
 - [ ] Meeting with 618
 - [ ] How mainland license work
 - [ ] Study Corporate Tax
+- [ ] apply mma passport appointment
