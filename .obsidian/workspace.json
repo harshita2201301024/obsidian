@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "14871039e31b122b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/22. Forms/22.3 Custom Form Components.md"
+                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md"
               }
             }
           },
@@ -165,10 +164,10 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
-    "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
-    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
+    "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
+    "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
+    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
     "data/Daily Notes/2024/August/12-August-2024-Monday.md",
     "data/Daily Notes/2024/August/09-August-2024-Friday.md",

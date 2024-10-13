@@ -7,8 +7,8 @@ created: 2024-02-27 00:08
 - [ ] Website preparation of TKC -> 4 PM - 6PM
 - [ ] study corporate tax - >12 PM - 4PM
 - [ ] pay motin salary -> 12PM - 1PM 
-- [ ] -Buy gift for siya and tejas -> 10AM - 12PM
-- [ ] Aman Mobile - 70000 -> 10AM - 12PM
+- [x] -Buy gift for siya and tejas -> 10AM - 12PM
+- [x] Aman Mobile - 70000 -> 10AM - 12PM
 - [ ] Toastmaster class -> 6PM - 8PM
 
 
