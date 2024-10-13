@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md"
+                "file": "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
     "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
+    "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
+    "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
     "data/Study/Vue/23. Provide Inject",
     "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
     "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
@@ -190,7 +191,6 @@
     "data/Office Work/Users.md",
     "data/Office Work/Smart POA Nuxt 3 Migration.md",
     "data/Office Work/Smart POA.md",
-    "data/Office Work/Register a Dubai Mainland CB.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
