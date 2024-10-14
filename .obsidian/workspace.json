@@ -162,8 +162,9 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4cdaacc8adca3dff",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
+    "data/Study/Vue/27. Custom Directives",
     "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
     "data/Study/Vue/26. Advanced component pattrens/26.2 Component references.md",
     "data/Study/Vue/24. State management/24.6 Why use a store?.md",
@@ -192,7 +193,6 @@
     "data/Daily Notes/2024/05-May/2024-05-19-Sunday.md",
     "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
     "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
-    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
