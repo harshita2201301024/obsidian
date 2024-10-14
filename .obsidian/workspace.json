@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
+                "file": "data/Study/Vue/24. State management/24.1 State management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
+                "file": "data/Study/Vue/24. State management/24.1 State management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
+                "file": "data/Study/Vue/24. State management/24.1 State management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md"
+                "file": "data/Study/Vue/24. State management/24.1 State management.md"
               }
             }
           },
@@ -162,11 +162,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
+    "data/Study/Vue/24. State management/24.1 State management.md",
     "data/Study/Vue/24. State management",
     "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
-    "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
     "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
     "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
     "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
@@ -199,7 +200,6 @@
     "data/Study/Vue/20. Router",
     "data/Study/Vue/19. Suspense",
     "data/Study/Vue/18. Slots",
-    "data/Study/Vue/17. Send and receive data through HTTP",
-    "data/Office Work/Untitled"
+    "data/Study/Vue/17. Send and receive data through HTTP"
   ]
 }
