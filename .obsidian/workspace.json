@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74e03c639ac20ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Others/Things to do Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to do Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Startup/Shilpa.md",
+                "file": "data/Others/Things to do Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Startup/Shilpa.md"
+                "file": "data/Others/Things to do Today.md"
               }
             }
           },
@@ -174,8 +186,11 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "01581d03eb60efd9",
+  "active": "74e03c639ac20ddc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "data/Others/Things to do Today.md",
+    "data/Startup/Shilpa.md",
     "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
     "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
@@ -203,9 +218,6 @@
     "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
     "data/Study/Vue/19. Suspense/19. Suspense.md",
     "data/Study/Vue/19. Suspense",
-    "data/Study/Vue/18. Slots/18.5 Typed slots with defineSlots.md",
-    "data/Study/Vue/18. Slots/18.4 Slot props.md",
-    "data/Study/Vue/18. Slots/18.3 Fallback content.md",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Study/Vue/16. Testing your app",
