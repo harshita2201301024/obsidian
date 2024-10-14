@@ -6,11 +6,12 @@ created: 2024-02-27 00:08
 - [x] vue study -> 10AM - 12 PM
 - [ ] Website preparation of TKC -> 12 PM - 2PM
 - [ ] Garba -> 6PM - 10PM
-- [ ] Rohit Lunch -> 1PM - 2PM
+- [ ] Timesheet 
+- [x] Rohit Lunch -> 1PM - 2PM ✅ 2024-10-12
 
 
 - [ ] study corporate tax - >10 PM - 12PM
-- [ ] book eye appointment -> 12PM - 1PM
+- [x] book eye appointment -> 12PM - 1PM ✅ 2024-10-12
 - [ ] Kirayedar ghar khali -> 12 PM  - 1pm 
 - [x] bhai se ghumne ki baat krna -> follow up
 - [x] apply mma pan card -> 12 PM -  1pm
@@ -20,6 +21,7 @@ created: 2024-02-27 00:08
 - [x] dish cleaner -> 12PM - 1PM 
 - [ ] -Buy gift for siya and tejas -> 2PM - 4PM
 - [ ] Aman Mobile - 70000 -> 2PM - 4PM
+- [ ] 
 - [ ] singing practice -> 4PM - 6PM
 
 

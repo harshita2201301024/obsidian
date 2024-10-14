@@ -16,11 +16,11 @@ Protein 1 or 2 scoop a daya
 
 ## Push Exercises (Chest, Triceps, Shoulders)
 
-| Date       | Weight | Barbell Press | Inclined Barbell Press | Declined Barbell Press | Mid cross machine chest | Chest side area | Rope pull down | Dumbell overhead | Triceps Exercise 3 | Shoulder Exercise 1 | Shoulder Exercise 2 | Shoulder Exercise 3 | Notes |
-| ---------- | ------ | ------------- | ---------------------- | ---------------------- | ----------------------- | --------------- | -------------- | ---------------- | ------------------ | ------------------- | ------------------- | ------------------- | ----- |
-| 08-10-2024 | 80kg   | 0 10 10       | 0 2.5 5                | 10 10 10               | 3rd 4th 5th             | 15 20 25        | 7.5 10 10      | 2.5 5 10         |                    |                     |                     |                     |       |
-| 11-10-2024 | 79.5kg |               |                        |                        |                         |                 |                |                  |                    |                     |                     |                     |       |
-| YYYY-MM-DD |        |               |                        |                        |                         |                 |                |                  |                    |                     |                     |                     |       |
+| Date       | Weight | Barbell Press | Inclined Barbell Press | Declined Barbell Press | Mid cross machine chest | Chest side area | Rope pull down | Dumbell overhead | Overhead roep | Military press  | Shoulder Exercise 2 | Shoulder Exercise 3 | Notes |
+| ---------- | ------ | ------------- | ---------------------- | ---------------------- | ----------------------- | --------------- | -------------- | ---------------- | ------------- | --------------- | ------------------- | ------------------- | ----- |
+| 08-10-2024 | 80kg   | 0 10 10       | 0 2.5 5                | 10 10 10               | 3rd 4th 5th             | 15 20 25        | 7.5 10 10      | 2.5 5 10         | 10 10 10      |                 |                     |                     |       |
+| 11-10-2024 | 79.5kg |               |                        |                        |                         |                 |                |                  |               |                 |                     |                     |       |
+| YYYY-MM-DD |        |               |                        |                        |                         |                 |                |                  |               |                 |                     |                     |       |
 
 ---
 
