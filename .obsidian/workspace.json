@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/Untitled.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.1 vue-i18n setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/Untitled.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.1 vue-i18n setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/Untitled.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.1 vue-i18n setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/Untitled.md"
+                "file": "data/Study/Vue/28. Internationalizaiton/28.1 vue-i18n setup.md"
               }
             }
           },
@@ -165,7 +165,7 @@
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
     "data/Study/Vue/27. Custom Directives/27.4 Directive modifiers.md",
-    "data/Study/Vue/28. Internationalizaiton/Untitled.md",
+    "data/Study/Vue/28. Internationalizaiton/28.1 vue-i18n setup.md",
     "data/Study/Vue/28. Internationalizaiton",
     "data/Study/Vue/27. Custom Directives/27.3 Directive argument.md",
     "data/Study/Vue/27. Custom Directives/27.2 Directive value.md",
