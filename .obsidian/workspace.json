@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
+                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md"
+                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/28. Internationalizaiton/28.5 Changing the locale.md",
     "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
+    "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+    "data/Study/Vue/28. Internationalizaiton/28.5 Changing the locale.md",
     "data/Study/Vue/28. Internationalizaiton/28.4 Pluralization.md",
     "data/Study/Vue/28. Internationalizaiton/28.3 Message parameters.md",
     "data/Study/Vue/28. Internationalizaiton/28.2 Translating text.md",
@@ -194,7 +195,6 @@
     "data/Study/Vue/23. Provide Inject",
     "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
     "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
-    "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
