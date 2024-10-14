@@ -162,8 +162,9 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4cdaacc8adca3dff",
+  "active": "cb05821123f2b4d5",
   "lastOpenFiles": [
+    "data/Study/Vue/30. Performances",
     "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
     "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
     "data/Study/Vue/28. Internationalizaiton/28.5 Changing the locale.md",
@@ -194,7 +195,6 @@
     "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
     "data/Study/Vue/23. Provide Inject",
     "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
-    "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
