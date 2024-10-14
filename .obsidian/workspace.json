@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/27. Custom Directives/Untitled.md",
+                "file": "data/Study/Vue/27. Custom Directives/27.2 Directive value.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/27. Custom Directives/Untitled.md",
+                "file": "data/Study/Vue/27. Custom Directives/27.2 Directive value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/27. Custom Directives/Untitled.md",
+                "file": "data/Study/Vue/27. Custom Directives/27.2 Directive value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/27. Custom Directives/Untitled.md"
+                "file": "data/Study/Vue/27. Custom Directives/27.2 Directive value.md"
               }
             }
           },
@@ -165,7 +165,7 @@
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
     "data/Study/Vue/27. Custom Directives/27.1 Custom Directives.md",
-    "data/Study/Vue/27. Custom Directives/Untitled.md",
+    "data/Study/Vue/27. Custom Directives/27.2 Directive value.md",
     "data/Study/Vue/26. Advanced component pattrens/26.2 Component references.md",
     "data/Study/Vue/27. Custom Directives",
     "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
