@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
+                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/October/13-October-2024-Sunday.md"
+                "file": "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md"
               }
             }
           },
@@ -164,13 +164,13 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
     "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
     "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
     "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
     "data/Study/Vue/23. Provide Inject",
     "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
-    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
     "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
     "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
