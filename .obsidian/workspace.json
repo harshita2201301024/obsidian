@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.2 Flux-like libraries.md",
+                "file": "data/Study/Vue/24. State management/24.4 Pinia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.2 Flux-like libraries.md",
+                "file": "data/Study/Vue/24. State management/24.4 Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.2 Flux-like libraries.md",
+                "file": "data/Study/Vue/24. State management/24.4 Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.2 Flux-like libraries.md"
+                "file": "data/Study/Vue/24. State management/24.4 Pinia.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/24. State management/24.1 State management.md",
+    "data/Study/Vue/24. State management/24.3 Skipping Vuex.md",
+    "data/Study/Vue/24. State management/24.4 Pinia.md",
     "data/Study/Vue/24. State management/24.2 Flux-like libraries.md",
+    "data/Study/Vue/24. State management/24.1 State management.md",
     "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
     "data/Study/Vue/24. State management",
     "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
@@ -190,8 +192,6 @@
     "data/Daily Notes/2024/02-February/2024-02-29-Thursday.md",
     "data/Daily Notes/2024/02-February/2024-02-28-Tuesday.md",
     "data/Daily Notes/2024/02-February/2024-02-21-Wednesday.md",
-    "data/Daily Notes/2024/02-February/2024-02-20-Tuesday.md",
-    "data/Office Work/Vue2 to Vue3 Migration.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
