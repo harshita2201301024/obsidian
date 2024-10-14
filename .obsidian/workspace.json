@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md"
+                "file": "data/Study/Vue/30. Performances/30.1 First load.md"
               }
             }
           },
@@ -162,11 +162,12 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
+    "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+    "data/Study/Vue/30. Performances/30.1 First load.md",
     "data/Study/Vue/30. Performances",
     "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
-    "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
     "data/Study/Vue/28. Internationalizaiton/28.5 Changing the locale.md",
     "data/Study/Vue/28. Internationalizaiton/28.4 Pluralization.md",
     "data/Study/Vue/28. Internationalizaiton/28.3 Message parameters.md",
@@ -199,7 +200,6 @@
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
     "data/Daily Notes/2024/October",
-    "Screenshot 2024-09-24 at 4.16.37 PM.png",
-    "data/Study/Vue/20. Router"
+    "Screenshot 2024-09-24 at 4.16.37 PM.png"
   ]
 }
