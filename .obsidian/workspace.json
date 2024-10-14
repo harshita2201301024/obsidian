@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md"
+                "file": "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md"
               }
             }
           },
@@ -165,7 +165,7 @@
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
     "data/Study/Vue/24. State management/24.6 Why use a store?.md",
-    "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
+    "data/Study/Vue/26. Advanced component pattrens/26.1 template reference with ref.md",
     "data/Study/Vue/26. Advanced component pattrens",
     "data/Study/Vue/24. State management/24.5 Testing Pinia.md",
     "data/Study/Vue/24. State management/24.4 Pinia.md",
