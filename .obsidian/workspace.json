@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.6 Why use a store?.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 324.5
   },
   "right": {
     "id": "14871039e31b122b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.6 Why use a store?.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.6 Why use a store?.md",
+                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/24. State management/24.6 Why use a store?.md"
+                "file": "data/Study/Vue/26. Advanced component pattrens/Untitled.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/24. State management/24.5 Testing Pinia.md",
     "data/Study/Vue/24. State management/24.6 Why use a store?.md",
+    "data/Study/Vue/26. Advanced component pattrens/Untitled.md",
+    "data/Study/Vue/26. Advanced component pattrens",
+    "data/Study/Vue/24. State management/24.5 Testing Pinia.md",
     "data/Study/Vue/24. State management/24.4 Pinia.md",
     "data/Study/Vue/24. State management/24.3 Skipping Vuex.md",
     "data/Study/Vue/24. State management/24.2 Flux-like libraries.md",
@@ -191,7 +193,6 @@
     "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
     "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
     "data/Daily Notes/2024/03-March/2024-03-05-Tuesday.md",
-    "data/Daily Notes/2024/02-February/2024-02-29-Thursday.md",
     "data/Study/Vue/22. Forms",
     "data/Study/Vue/21. Lazy-loading",
     "data/Study/Vue/20. Router/20.9 Navigation guards",
@@ -199,7 +200,6 @@
     "Screenshot 2024-09-24 at 4.16.37 PM.png",
     "data/Study/Vue/20. Router",
     "data/Study/Vue/19. Suspense",
-    "data/Study/Vue/18. Slots",
-    "data/Study/Vue/17. Send and receive data through HTTP"
+    "data/Study/Vue/18. Slots"
   ]
 }
