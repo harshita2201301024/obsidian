@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
+                "file": "data/Others/Things to bring from india.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
+                "file": "data/Others/Things to bring from india.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Study/Vue/30. Performances/30.1 First load.md",
+                "file": "data/Others/Things to bring from india.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Study/Vue/30. Performances/30.1 First load.md"
+                "file": "data/Others/Things to bring from india.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "4cdaacc8adca3dff",
   "lastOpenFiles": [
-    "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
+    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Study/Vue/30. Performances/30.1 First load.md",
+    "data/Study/Vue/28. Internationalizaiton/28.7 Other features(lazy-loading, vite support and more).md",
     "data/Study/Vue/30. Performances",
     "data/Study/Vue/28. Internationalizaiton/28.6 Formatting.md",
     "data/Study/Vue/28. Internationalizaiton/28.5 Changing the locale.md",
@@ -190,7 +191,6 @@
     "data/Study/Vue/24. State management/24.1 State management.md",
     "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
     "data/Study/Vue/24. State management",
-    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
     "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
     "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
