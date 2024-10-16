@@ -14,4 +14,8 @@ weight machine
 1 Coat Pent
 room key to motin
 put all things inside room
+Tooth Brush and paste
+gym and sports tshirt
+
+
 
