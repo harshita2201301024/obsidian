@@ -13,6 +13,14 @@ Protein 1 or 2 scoop a daya
 - **Goal Duration**: 100 days
 
 Gym Weight
+8 Oct - 80.35
+9 Oct - 79.85
+10 Oct
+11 Oct
+12 Oct
+13 Oct
+14 Oct
+15 Oct
 16 Oct
 
 
