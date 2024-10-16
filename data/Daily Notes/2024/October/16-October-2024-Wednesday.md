@@ -19,6 +19,8 @@ gym and sports tshirt
 boarding pass
 terminal 2
 shoes 
+chashme
+cap
 
 3 - 8 
 
