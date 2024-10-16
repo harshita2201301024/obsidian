@@ -12,5 +12,6 @@ Indian Sim Recharge
 pack underwear
 weight machine 
 1 Coat Pent
-
+room key to motin
+put all things inside room
 
