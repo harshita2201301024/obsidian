@@ -40,6 +40,8 @@ photo at mma house
 Ballon
 Vitamin C
 Multi-Vitamin
+Annual health checkup
+dentish appointment
 
 
 
