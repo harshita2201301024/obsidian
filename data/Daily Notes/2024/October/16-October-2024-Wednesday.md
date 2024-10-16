@@ -18,6 +18,7 @@ Tooth Brush and paste
 gym and sports tshirt
 boarding pass
 terminal 2
+shoes 
 
 
 
