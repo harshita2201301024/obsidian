@@ -10,5 +10,6 @@ fix pull request issue
 **Things to take india**
 Indian Sim Recharge
 pack underwear
-gym machine 
+weight machine 
+
 
