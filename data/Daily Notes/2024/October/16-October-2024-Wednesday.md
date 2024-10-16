@@ -20,7 +20,12 @@ boarding pass
 terminal 2
 shoes 
 chashme
-cap
+belt
+indian mac laptop
+shveta laptop 
+mansi laptop
+indian mac laptop charger
+
 
 3 - 8 
 
