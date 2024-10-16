@@ -13,7 +13,6 @@ Protein 1 or 2 scoop a daya
 - **Goal Duration**: 100 days
 
 Gym Weight
- - 
 
 | Day     | Weight |
 | ------- | ------ |
