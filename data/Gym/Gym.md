@@ -12,6 +12,10 @@ Protein 1 or 2 scoop a daya
 - **Target Weight**: 70kg
 - **Goal Duration**: 100 days
 
+Gym Weight
+16 Oct
+
+
 ---
 
 ## Push Exercises (Chest, Triceps, Shoulders)
