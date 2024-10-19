@@ -5,6 +5,7 @@ created: 2024-02-27 00:08
 
 
 - [ ] Book Eye hospital appoitment for eye sergery
+- [ ] Shilpa old house transfer
 
 
 
@@ -21,7 +22,7 @@ created: 2024-02-27 00:08
 - [ ] Mac charger fix
 - [ ] Car Key 
 - [ ] Academy plan 
-- [ ] Shilpa old house transfer
+
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
