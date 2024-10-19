@@ -7,7 +7,6 @@ created: 2024-02-27 00:08
 - [ ] Airtel wifi plan
 - [ ] Change name plate of shippu's house
 - [ ] Video and Photo Editing
-- [ ] Eye Operation
 - [ ] Book place for tour
 - [ ] Sell Both Bikes
 - [ ] visiting cards of the company
@@ -20,8 +19,6 @@ created: 2024-02-27 00:08
 - [ ] dentish appointment
 - [ ] office belly
 - [ ] shilpa b
-
-
 - [ ] Book Eye hospital appoitment for eye sergery
 - [ ] Shilpa old house transfer\
 - [ ] Academy plan 
