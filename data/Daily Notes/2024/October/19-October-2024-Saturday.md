@@ -1,6 +1,12 @@
 ---
 created: 2024-02-27 00:08
 ---
+Door kundi 
+
+
+
+
+- [ ] 
 - [ ] Give cash to mummy
 - [ ] Convert number to prepaid
 - [ ] Talk about academy with bhai sister
