@@ -7,8 +7,7 @@ created: 2024-02-27 00:08
 - [x] TKC Website live again
 - [x] Purchase 10 more email ids
 - [ ] apply for leave after coming from india
-- [x] Complete Chapter 20,22 of vue book
-- [x] godaddy money follow up
+
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
 - [ ] Look for Taxi Driver
