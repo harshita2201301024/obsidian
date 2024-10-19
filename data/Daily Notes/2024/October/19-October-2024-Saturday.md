@@ -8,6 +8,10 @@ created: 2024-02-27 00:08
 - [ ] Shilpa old house transfer\
 - [ ] Academy plan 
 - [ ] Aakash job posts
+- [ ] Shilpa old house construction
+- [ ] Plot Boundary and foundation 
+- [ ] Aakash Plot market status
+- [ ] Apply mma passport appointment
 
 
 
@@ -22,11 +26,6 @@ created: 2024-02-27 00:08
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
 - [ ] Car Key 
-
-
-- [ ] Shilpa old house construction
-- [ ] Plot Boundary and foundation 
-- [ ] Aakash Plot market status
 - [ ] Resignation shilpa
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
@@ -34,4 +33,3 @@ created: 2024-02-27 00:08
 - [ ] Meeting with 618
 - [ ] How mainland license work
 - [ ] Study Corporate Tax
-- [ ] apply mma passport appointment
