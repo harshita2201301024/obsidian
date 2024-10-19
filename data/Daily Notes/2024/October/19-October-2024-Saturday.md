@@ -2,17 +2,15 @@
 created: 2024-02-27 00:08
 ---
 
-- [x] Prepare corporate body profile task and complete it
-- [x] book eye appointment -> 12PM - 1PM
-- [x] TKC Website live again
-- [x] Purchase 10 more email ids
-- [ ] apply for leave after coming from india
 
+
+- [ ] Book Eye hospital appoitment for eye sergery
+
+
+
+- [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
-- [ ] Look for Taxi Driver
-- [ ] Look for office
-- [x] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Prasad House 
