@@ -5,7 +5,9 @@ created: 2024-02-27 00:08
 
 
 - [ ] Book Eye hospital appoitment for eye sergery
-- [ ] Shilpa old house transfer
+- [ ] Shilpa old house transfer\
+- [ ] Academy plan 
+- [ ] Aakash job posts
 
 
 
@@ -16,12 +18,11 @@ created: 2024-02-27 00:08
 - [ ] Apply for Freelancing Jobs
 - [ ] Prasad House 
 - [ ] Freelancing accounts
-- [ ] Aakash job posts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
 - [ ] Car Key 
-- [ ] Academy plan 
+
 
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
