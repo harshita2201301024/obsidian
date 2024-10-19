@@ -2,18 +2,18 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] Prepare corporate body profile task and complete it
-- [ ] book eye appointment -> 12PM - 1PM
-- [ ] TKC Website live again
-- [ ] Purchase 10 more email ids
+- [x] Prepare corporate body profile task and complete it
+- [x] book eye appointment -> 12PM - 1PM
+- [x] TKC Website live again
+- [x] Purchase 10 more email ids
 - [ ] apply for leave after coming from india
-- [ ] Complete Chapter 20,22 of vue book
-- [ ] godaddy money follow up
+- [x] Complete Chapter 20,22 of vue book
+- [x] godaddy money follow up
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
 - [ ] Look for Taxi Driver
 - [ ] Look for office
-- [ ] Complete Vue Book 
+- [x] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Prasad House 
