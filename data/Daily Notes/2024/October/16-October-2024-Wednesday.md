@@ -12,25 +12,25 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/63107/
 
 
 **Things to take india**
-- [ ] Indian Sim Recharge
-- [ ] pack underwear
-- [ ] weight machine 
-- [ ] 1 Coat Pent
-- [ ] room key to motin
-- [ ] put all things inside room
-- [ ] Tooth Brush and paste
-- [ ] gym and sports tshirt
+- [x] Indian Sim Recharge
+- [x] pack underwear
+- [x] weight machine 
+- [x] 1 Coat Pent
+- [x] room key to motin
+- [x] put all things inside room
+- [x] Tooth Brush and paste
+- [x] gym and sports tshirt
 - [x] boarding pass
-- [ ] terminal 2
-- [ ] shoes 
-- [ ] chashme
-- [ ] belt
-- [ ] indian mac laptop
-- [ ] shveta laptop 
-- [ ] mansi laptop
-- [ ] indian mac laptop charger
-- [ ] office laptop
-- [ ] shilpa laptop
+- [x] terminal 2
+- [x] shoes 
+- [x] chashme
+- [x] belt
+- [x] indian mac laptop
+- [x] shveta laptop 
+- [x] mansi laptop
+- [x] indian mac laptop charger
+- [x] office laptop
+- [x] shilpa laptop
 
 
 3 - 8 
