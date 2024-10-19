@@ -1,8 +1,9 @@
 ---
 created: 2024-02-27 00:08
 ---
-Door kundi 
+Door kundi
 plan manali trip with shippu - buy 
+	whole suitcase
 	
 buy karwachauth dress
 
