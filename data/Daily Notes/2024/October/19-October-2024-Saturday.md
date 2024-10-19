@@ -7,6 +7,7 @@ plan manali trip with shippu - buy
 	buy new dress
 	talk with people
 buy karwachauth dress
+viren ghar 
 
 
 
