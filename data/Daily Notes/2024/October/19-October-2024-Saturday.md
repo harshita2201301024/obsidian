@@ -11,8 +11,8 @@ viren ghar
 
 
 
-- [ ] 
-- [ ] Give cash to mummy
+- [ ] Give cash to mummy - 30k
+- [ ] Give cash to viren - 20k
 - [ ] Convert number to prepaid
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
@@ -39,7 +39,7 @@ viren ghar
 - [ ] Aakash Plot market status
 - [ ] Apply mma passport appointment
 - [ ] ghar ka bill naam karwana
-- [ ] 
+
 
 
 
