@@ -15,8 +15,12 @@ viren ghar
 - [ ] Give cash to viren - 20k - [2pm - 3pm]
 - [ ] Convert number to prepaid - [3pm - 5pm]
 - [ ] Ballon - [5pm - 7pm]
-- [ ] Vitamin C - [5pm - ]
-- [ ] Multi-Vitamin
+- [ ] Vitamin C - [5pm - 7pm]
+- [ ] Multi-Vitamin - [5pm - 7pm]
+- [ ] - [ ] ghar ka bill naam karwana
+- [ ] darwaaje ki kundi
+
+
 - [ ] Change name plate of shippu's house
 - [ ] Sell Both Bikes
 - [ ] Look for car
@@ -42,8 +46,6 @@ viren ghar
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
 - [x] Apply mma passport appointment
-- [ ] ghar ka bill naam karwana
-- [ ] darwaaje ki kundi
 
 - [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
