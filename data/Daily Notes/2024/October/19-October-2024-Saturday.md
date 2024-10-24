@@ -10,6 +10,7 @@ buy karwachauth dress
 viren ghar 
 
 
+24 oct
 
 - [ ] Give cash to mummy - 30k - [2pm - 3pm]
 - [ ] Give cash to viren - 20k - [2pm - 3pm]
@@ -19,6 +20,10 @@ viren ghar
 - [ ] Multi-Vitamin - [5pm - 7pm]
 - [ ] darwaaje ki kundi - [7pm - 8pm]
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
+
+25 oct
+
+
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
@@ -44,7 +49,7 @@ viren ghar
 - [ ] Aakash Plot market status
 - [x] Apply mma passport appointment
 - [x] Book place for tour
-- [ ] Book Eye hospital appoitment for eye sergery
+- [x] Book Eye hospital appoitment for eye sergery
 
 
 
