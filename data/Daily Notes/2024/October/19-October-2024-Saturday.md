@@ -35,22 +35,19 @@ viren ghar
 - [ ] Shilpa old house transfer - 8 hour
 - [ ] Office belly - 4 hours
 - [ ] shilpa b - 4 hours
-
 - [ ] Change name plate of shippu's house - 4 hours
+
+28 Oct
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
-
 
 
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Airtel wifi plan - 4 hours
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
-
 - [ ] visiting cards of the company - 4 hours
 - [ ] bosa ram mathi - 2 hour
-
-- [ ] Academy plan 
 - [ ] Aakash job posts
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
