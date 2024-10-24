@@ -22,11 +22,11 @@ viren ghar
 
 
 
-- [ ] Change name plate of shippu's house
-- [ ] Sell Both Bikes
-- [ ] Look for car
-- [ ] Annual health checkup
-- [ ] dentish appointment
+- [ ] Change name plate of shippu's house - 4 hours
+- [ ] Sell Both Bikes - 4 hours
+- [ ] Look for car - 20 hours
+- [ ] Annual health checkup - 4 hours
+- [ ] dentish appointment - 4 hours
 - [ ] office belly
 - [ ] shilpa b
 
