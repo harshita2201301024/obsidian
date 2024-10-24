@@ -16,11 +16,11 @@ viren ghar
 - [ ] Convert number to prepaid
 - [ ] Change name plate of shippu's house
 - [ ] Look for car
+- [ ] - [ Sell Both Bikes
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
 - [ ] Video and Photo Editing
 - [x] Book place for tour
-- [ ] Sell Both Bikes
 - [ ] visiting cards of the company
 - [ ] bosa ram mathi
 - [ ] photo at mma house
