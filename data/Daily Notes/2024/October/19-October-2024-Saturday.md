@@ -11,7 +11,6 @@ viren ghar
 
 
 24 oct
-
 - [ ] Give cash to mummy - 30k - [2pm - 3pm]
 - [ ] Give cash to viren - 20k - [2pm - 3pm]
 - [ ] Convert number to prepaid - [3pm - 5pm]
@@ -22,6 +21,8 @@ viren ghar
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
 
 25 oct
+- [ ] Barrage Surgery
+
 
 
 - [ ] Change name plate of shippu's house - 4 hours
@@ -41,7 +42,7 @@ viren ghar
 
 - [ ] visiting cards of the company - 4 hours
 - [ ] bosa ram mathi - 2 hour
-- [ ] Shilpa old house transfer\
+- [ ] Shilpa old house transfer - 8 hour
 - [ ] Academy plan 
 - [ ] Aakash job posts
 - [ ] Shilpa old house construction
