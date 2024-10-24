@@ -22,10 +22,10 @@ viren ghar
 
 25 oct
 - [ ] Barrage Surgery
+- [ ] ghar ka bill naam karwana - [8pm - 10pm]
 
 26 Oct
-- [ ] Shilpa old house transfer - 8 hour
-- [ ] Ghar ka bill naam karwana 
+
 - [ ] mami ghar jaana
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
@@ -40,9 +40,11 @@ viren ghar
 28 Oct
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
+- [ ] - [ ] Shilpa old house transfer - 8 hour
 
 
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
+- [ ] Academy plan 
 - [ ] Airtel wifi plan - 4 hours
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
