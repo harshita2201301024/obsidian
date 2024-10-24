@@ -30,7 +30,7 @@ viren ghar
 
 
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
-- [ ] Airtel wifi plan
+- [ ] Airtel wifi plan - 4 hours
 - [ ] Video and Photo Editing
 - [x] Book place for tour
 - [ ] visiting cards of the company
