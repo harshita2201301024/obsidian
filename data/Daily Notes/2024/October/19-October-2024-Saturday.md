@@ -11,8 +11,8 @@ viren ghar
 
 
 
-- [ ] Give cash to mummy - 30k
-- [ ] Give cash to viren - 20k
+- [ ] Give cash to mummy - 30k - [2pm - 3pm]
+- [ ] Give cash to viren - 20k - [2pm - 3pm]
 - [ ] Convert number to prepaid
 - [ ] Change name plate of shippu's house
 - [ ] Sell Both Bikes
@@ -22,8 +22,11 @@ viren ghar
 - [ ] Look for car
 - [ ] Annual health checkup
 - [ ] dentish appointment
-- [ ] - [ ] office belly
+- [ ] office belly
 - [ ] shilpa b
+
+
+
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
 - [ ] Video and Photo Editing
