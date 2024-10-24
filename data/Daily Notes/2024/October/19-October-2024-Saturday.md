@@ -52,14 +52,14 @@ viren ghar
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
 
+30 Oct
+- [ ] bosa ram mathi - 2 hour
 
 
 - [ ] Airtel wifi plan - 4 hours
 - [ ] visiting cards of the company - 4 hours
-- [ ] bosa ram mathi - 2 hour
 - [ ] Aakash job posts
 - [ ] Shilpa old house construction
-- [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
 
 
