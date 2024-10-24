@@ -18,7 +18,7 @@ viren ghar
 - [ ] Vitamin C - [5pm - 7pm]
 - [ ] Multi-Vitamin - [5pm - 7pm]
 - [ ] darwaaje ki kundi - [7pm - 8pm]
-- [ ] ghar ka bill naam karwana
+- [ ] ghar ka bill naam karwana - [8pm - 10pm]
 
 
 
