@@ -19,16 +19,13 @@ viren ghar
 - [ ] Multi-Vitamin - [5pm - 7pm]
 - [ ] darwaaje ki kundi - [7pm - 8pm]
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
-
-
-
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
 - [ ] office belly - 4 hours
-- [ ] shilpa b - 4 
+- [ ] shilpa b - 4 hours
 
 
 
@@ -47,6 +44,10 @@ viren ghar
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
 - [x] Apply mma passport appointment
+
+
+
+
 
 - [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
