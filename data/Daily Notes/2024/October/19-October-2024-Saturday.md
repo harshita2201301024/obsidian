@@ -31,7 +31,7 @@ viren ghar
 - [ ] dentish appointment
 - [ ] office belly
 - [ ] shilpa b
-- [ ] Book Eye hospital appoitment for eye sergery
+- [x] Book Eye hospital appoitment for eye sergery
 - [ ] Shilpa old house transfer\
 - [ ] Academy plan 
 - [ ] Aakash job posts
