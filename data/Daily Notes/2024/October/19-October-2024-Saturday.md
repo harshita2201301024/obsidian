@@ -27,8 +27,8 @@ viren ghar
 - [ ] Look for car - 20 hours
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
-- [ ] office belly
-- [ ] shilpa b
+- [ ] office belly - 4 hours
+- [ ] shilpa b - 4 
 
 
 
