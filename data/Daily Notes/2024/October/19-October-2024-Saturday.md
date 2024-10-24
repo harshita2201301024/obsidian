@@ -17,6 +17,8 @@ viren ghar
 - [ ] Change name plate of shippu's house
 - [ ] Sell Both Bikes
 - [ ] Ballon
+- [ ] -Vitamin C
+- [ ] Multi-Vitamin
 - [ ] Look for car
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
@@ -25,8 +27,6 @@ viren ghar
 - [ ] visiting cards of the company
 - [ ] bosa ram mathi
 - [ ] photo at mma house
-- [ ] Vitamin C
-- [ ] Multi-Vitamin
 - [ ] Annual health checkup
 - [ ] dentish appointment
 - [ ] office belly
