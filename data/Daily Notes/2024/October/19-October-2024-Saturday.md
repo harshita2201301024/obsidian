@@ -17,8 +17,9 @@ viren ghar
 - [ ] Ballon - [5pm - 7pm]
 - [ ] Vitamin C - [5pm - 7pm]
 - [ ] Multi-Vitamin - [5pm - 7pm]
-- [ ] - [ ] ghar ka bill naam karwana
-- [ ] darwaaje ki kundi
+- [ ] darwaaje ki kundi - [7pm - 8pm]
+- [ ] ghar ka bill naam karwana
+
 
 
 - [ ] Change name plate of shippu's house
