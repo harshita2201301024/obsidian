@@ -27,16 +27,16 @@ viren ghar
 - [ ] Shilpa old house transfer - 8 hour
 - [ ] Ghar ka bill naam karwana 
 - [ ] mami ghar jaana
+- [ ] Annual health checkup - 4 hours
+- [ ] dentish appointment - 4 hours
 
+27 Oct
 
+- [ ] Shilpa old house transfer - 8 hour
 
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
-- [ ] Annual health checkup - 4 hours
-- [ ] dentish appointment - 4 hours
-- [ ] office belly - 4 hours
-- [ ] shilpa b - 4 hours
 
 
 
