@@ -23,6 +23,10 @@ viren ghar
 25 oct
 - [ ] Barrage Surgery
 
+26 Oct
+- [ ] Shilpa old house transfer - 8 hour
+- [ ] Ghar ka bill naam karwana 
+
 
 
 - [ ] Change name plate of shippu's house - 4 hours
@@ -42,7 +46,7 @@ viren ghar
 
 - [ ] visiting cards of the company - 4 hours
 - [ ] bosa ram mathi - 2 hour
-- [ ] Shilpa old house transfer - 8 hour
+
 - [ ] Academy plan 
 - [ ] Aakash job posts
 - [ ] Shilpa old house construction
