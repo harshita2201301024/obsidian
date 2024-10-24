@@ -13,11 +13,11 @@ viren ghar
 
 - [ ] Give cash to mummy - 30k
 - [ ] Give cash to viren - 20k
-- [ ] Look for car
 - [ ] Convert number to prepaid
+- [ ] Change name plate of shippu's house
+- [ ] Look for car
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
-- [ ] Change name plate of shippu's house
 - [ ] Video and Photo Editing
 - [x] Book place for tour
 - [ ] Sell Both Bikes
