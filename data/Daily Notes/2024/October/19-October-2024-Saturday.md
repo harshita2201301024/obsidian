@@ -17,7 +17,7 @@ viren ghar
 - [ ] Change name plate of shippu's house
 - [ ] Sell Both Bikes
 - [ ] Ballon
-- [ ] -Vitamin C
+- [ ] Vitamin C
 - [ ] Multi-Vitamin
 - [ ] Look for car
 - [ ] Talk about academy with bhai sister
