@@ -20,11 +20,13 @@ viren ghar
 - [ ] darwaaje ki kundi - [7pm - 8pm]
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
+- [ ] Aakash job posts
 
 25 oct
 - [ ] Barrage Surgery
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
+- [ ] aakash job posts
 
 26 Oct
 
