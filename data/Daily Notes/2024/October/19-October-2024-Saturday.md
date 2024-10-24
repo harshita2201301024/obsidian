@@ -15,8 +15,9 @@ viren ghar
 - [ ] Give cash to viren - 20k
 - [ ] Convert number to prepaid
 - [ ] Change name plate of shippu's house
+- [ ] Sell Both Bikes
+- [ ] Ballon
 - [ ] Look for car
-- [ ] - [ Sell Both Bikes
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
 - [ ] Video and Photo Editing
@@ -24,7 +25,6 @@ viren ghar
 - [ ] visiting cards of the company
 - [ ] bosa ram mathi
 - [ ] photo at mma house
-- [ ] Ballon
 - [ ] Vitamin C
 - [ ] Multi-Vitamin
 - [ ] Annual health checkup
