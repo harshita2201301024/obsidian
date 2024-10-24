@@ -13,6 +13,7 @@ viren ghar
 
 - [ ] Give cash to mummy - 30k
 - [ ] Give cash to viren - 20k
+- [ ] Look for car
 - [ ] Convert number to prepaid
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
