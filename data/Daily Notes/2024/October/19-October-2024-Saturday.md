@@ -22,6 +22,8 @@ viren ghar
 - [ ] Look for car
 - [ ] Annual health checkup
 - [ ] dentish appointment
+- [ ] - [ ] office belly
+- [ ] shilpa b
 - [ ] Talk about academy with bhai sister
 - [ ] Airtel wifi plan
 - [ ] Video and Photo Editing
@@ -29,8 +31,6 @@ viren ghar
 - [ ] visiting cards of the company
 - [ ] bosa ram mathi
 - [ ] photo at mma house
-- [ ] office belly
-- [ ] shilpa b
 - [x] Book Eye hospital appoitment for eye sergery
 - [ ] Shilpa old house transfer\
 - [ ] Academy plan 
