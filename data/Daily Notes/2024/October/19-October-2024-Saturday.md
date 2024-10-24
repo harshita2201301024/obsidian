@@ -21,12 +21,14 @@ viren ghar
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
 - [ ] Aakash job posts
+- [ ] Aakash Plot market status
 
 25 oct
 - [ ] Barrage Surgery
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
 - [ ] aakash job posts
+- [ ] Aakash Plot market status
 
 26 Oct
 
@@ -35,6 +37,7 @@ viren ghar
 - [ ] dentish appointment - 4 hours
 - [ ] Shilpa old plot
 - [ ] aakash job posts
+- [ ] Aakash Plot market status
 
 27 Oct
 
@@ -45,6 +48,7 @@ viren ghar
 - [ ] Academy plan 
 - [ ] Shilpa old plot
 - [ ] Aakash job posts
+- [ ] Aakash Plot market status
 
 28 Oct
 - [ ] Sell Both Bikes - 4 hours
@@ -52,20 +56,18 @@ viren ghar
 - [ ] Shilpa old house transfer - 8 hour
 - [ ] Shilpa old plot
 - [ ] Aakash job posts
+- [ ] Aakash Plot market status
 
 29 Oct
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
 - [ ] Aakash Job Posts
+- [ ] Aakash Plot market status
 
 30 Oct
 - [ ] bosa ram mathi - 2 hour
 - [ ] Airtel wifi plan - 4 hours
 - [ ] visiting cards of the company - 4 hours
-
-
-
-- [ ] Shilpa old house construction
 - [ ] Aakash Plot market status
 
 
