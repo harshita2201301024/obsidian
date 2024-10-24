@@ -60,10 +60,11 @@ viren ghar
 
 30 Oct
 - [ ] bosa ram mathi - 2 hour
-
-
 - [ ] Airtel wifi plan - 4 hours
 - [ ] visiting cards of the company - 4 hours
+
+
+
 - [ ] Shilpa old house construction
 - [ ] Aakash Plot market status
 
