@@ -34,6 +34,7 @@ viren ghar
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
 - [ ] Shilpa old plot
+- [ ] aakash job posts
 
 27 Oct
 
@@ -43,6 +44,7 @@ viren ghar
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot
+- [ ]  Aakash job posts
 
 28 Oct
 - [ ] Sell Both Bikes - 4 hours
