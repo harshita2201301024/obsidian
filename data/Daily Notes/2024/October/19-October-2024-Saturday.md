@@ -22,6 +22,7 @@ viren ghar
 - [ ] Shilpa old plot 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 25 oct
 - [ ] Barrage Surgery
@@ -29,6 +30,7 @@ viren ghar
 - [ ] Shilpa old plot 
 - [ ] aakash job posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 26 Oct
 
@@ -38,6 +40,7 @@ viren ghar
 - [ ] Shilpa old plot
 - [ ] aakash job posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 27 Oct
 
@@ -49,6 +52,7 @@ viren ghar
 - [ ] Shilpa old plot
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 28 Oct
 - [ ] Sell Both Bikes - 4 hours
@@ -57,18 +61,21 @@ viren ghar
 - [ ] Shilpa old plot
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 29 Oct
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
 - [ ] Aakash Job Posts
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 30 Oct
 - [ ] bosa ram mathi - 2 hour
 - [ ] Airtel wifi plan - 4 hours
 - [ ] visiting cards of the company - 4 hours
 - [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
 
 
 - [x] Apply mma passport appointment
