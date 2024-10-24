@@ -19,7 +19,7 @@ viren ghar
 - [ ] Airtel wifi plan
 - [ ] Change name plate of shippu's house
 - [ ] Video and Photo Editing
-- [ ] Book place for tour
+- [x] Book place for tour
 - [ ] Sell Both Bikes
 - [ ] visiting cards of the company
 - [ ] bosa ram mathi
