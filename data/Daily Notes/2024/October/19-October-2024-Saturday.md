@@ -33,6 +33,8 @@ viren ghar
 27 Oct
 
 - [ ] Shilpa old house transfer - 8 hour
+- [ ] Office belly - 4 hours
+- [ ] shilpa b - 4 hours
 
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Sell Both Bikes - 4 hours
