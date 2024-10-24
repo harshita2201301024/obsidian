@@ -19,19 +19,19 @@ viren ghar
 - [ ] Multi-Vitamin - [5pm - 7pm]
 - [ ] darwaaje ki kundi - [7pm - 8pm]
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
-- [ ] Shilpa old house construction
+- [ ] Shilpa old plot 
 
 25 oct
 - [ ] Barrage Surgery
 - [ ] ghar ka bill naam karwana - [8pm - 10pm]
-- [ ] Shilpa old house construction
+- [ ] Shilpa old plot 
 
 26 Oct
 
 - [ ] mami ghar jaana
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
-- [ ] Shilpa old house construction
+- [ ] Shilpa old plot
 
 27 Oct
 
@@ -40,12 +40,13 @@ viren ghar
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
-- [ ] 
+- [ ] Shilpa old plot
 
 28 Oct
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
 - [ ] Shilpa old house transfer - 8 hour
+- [ ] Shilpa old plot
 
 29 Oct
 - [ ] Video and Photo Editing - 8 hours
