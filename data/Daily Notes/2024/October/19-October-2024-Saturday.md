@@ -51,10 +51,12 @@ viren ghar
 - [ ] Look for car - 20 hours
 - [ ] Shilpa old house transfer - 8 hour
 - [ ] Shilpa old plot
+- [ ] Aakash job posts
 
 29 Oct
 - [ ] Video and Photo Editing - 8 hours
 - [ ] photo at mma house - 4 hour
+- [ ] Aakash Job Posts
 
 30 Oct
 - [ ] bosa ram mathi - 2 hour
@@ -62,7 +64,6 @@ viren ghar
 
 - [ ] Airtel wifi plan - 4 hours
 - [ ] visiting cards of the company - 4 hours
-- [ ] Aakash job posts
 - [ ] Shilpa old house construction
 - [ ] Aakash Plot market status
 
