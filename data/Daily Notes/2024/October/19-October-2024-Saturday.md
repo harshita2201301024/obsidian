@@ -31,12 +31,11 @@ viren ghar
 
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Airtel wifi plan - 4 hours
-- [ ] Video and Photo Editing
-- [x] Book place for tour
-- [ ] visiting cards of the company
-- [ ] bosa ram mathi
-- [ ] photo at mma house
-- [x] Book Eye hospital appoitment for eye sergery
+- [ ] Video and Photo Editing - 8 hours
+- [ ] photo at mma house - 4 hour
+
+- [ ] visiting cards of the company - 4 hours
+- [ ] bosa ram mathi - 2 hour
 - [ ] Shilpa old house transfer\
 - [ ] Academy plan 
 - [ ] Aakash job posts
@@ -44,6 +43,8 @@ viren ghar
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
 - [x] Apply mma passport appointment
+- [x] Book place for tour
+- [ ] Book Eye hospital appoitment for eye sergery
 
 
 
