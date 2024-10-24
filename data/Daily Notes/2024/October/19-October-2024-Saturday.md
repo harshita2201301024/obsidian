@@ -38,18 +38,15 @@ viren ghar
 - [ ] Shilpa old house construction
 - [ ] Plot Boundary and foundation 
 - [ ] Aakash Plot market status
-- [ ] Apply mma passport appointment
+- [x] Apply mma passport appointment
 - [ ] ghar ka bill naam karwana
-
-
-
+- [ ] darwaaje ki kundi
 
 - [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
-- [ ] book passport appointment again
+- [x] book passport appointment again
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
-- [ ] Prasad House 
 - [ ] Freelancing accounts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
