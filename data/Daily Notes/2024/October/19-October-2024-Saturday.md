@@ -13,12 +13,12 @@ viren ghar
 
 - [ ] Give cash to mummy - 30k - [2pm - 3pm]
 - [ ] Give cash to viren - 20k - [2pm - 3pm]
-- [ ] Convert number to prepaid
+- [ ] Convert number to prepaid - [3pm - 5pm]
+- [ ] Ballon - [5pm - 7pm]
+- [ ] Vitamin C - [5pm - ]
+- [ ] Multi-Vitamin
 - [ ] Change name plate of shippu's house
 - [ ] Sell Both Bikes
-- [ ] Ballon
-- [ ] Vitamin C
-- [ ] Multi-Vitamin
 - [ ] Look for car
 - [ ] Annual health checkup
 - [ ] dentish appointment
