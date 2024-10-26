@@ -11,22 +11,22 @@ viren ghar
 
 
 24 oct
-- [ ] Give cash to mummy - 30k - [2pm - 3pm]
+- [x] Give cash to mummy - 30k - [2pm - 3pm]
 - [ ] Give cash to viren - 20k - [2pm - 3pm]
-- [ ] Convert number to prepaid - [3pm - 5pm]
-- [ ] Ballon - [5pm - 7pm]
-- [ ] Vitamin C - [5pm - 7pm]
-- [ ] Multi-Vitamin - [5pm - 7pm]
-- [ ] darwaaje ki kundi - [7pm - 8pm]
-- [ ] ghar ka bill naam karwana - [8pm - 10pm]
+- [x] Convert number to prepaid - [3pm - 5pm]
+- [x] Ballon - [5pm - 7pm]
+- [x] Vitamin C - [5pm - 7pm]
+- [x] Multi-Vitamin - [5pm - 7pm]
+- [x] darwaaje ki kundi - [7pm - 8pm]
+- [x] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
 
 25 oct
-- [ ] Barrage Surgery
-- [ ] ghar ka bill naam karwana - [8pm - 10pm]
+- [x] Barrage Surgery
+- [x] ghar ka bill naam karwana - [8pm - 10pm]
 - [ ] Shilpa old plot 
 - [ ] aakash job posts
 - [ ] Aakash Plot market status
