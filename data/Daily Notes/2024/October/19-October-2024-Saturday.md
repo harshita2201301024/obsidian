@@ -50,6 +50,10 @@ viren ghar
 - [ ] Annual Health Checkup
 - [ ] Flush
 - [ ] Dentist appointment
+- [ ] Betadine
+- [ ] Pantyliners
+- [ ] Facewash
+- [ ] 
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot
