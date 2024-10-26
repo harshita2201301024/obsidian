@@ -53,7 +53,12 @@ viren ghar
 - [ ] Betadine
 - [ ] Pantyliners
 - [ ] Facewash
-- [ ] 
+- [ ] Red blazer
+- [ ] wax heater
+- [ ] night suits
+- [ ] shoes thik karwane
+- [ ] aakash partwear shirts
+- [ ] photo studio contact for
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot
