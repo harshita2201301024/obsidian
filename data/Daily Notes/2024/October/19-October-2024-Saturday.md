@@ -34,7 +34,7 @@ viren ghar
 
 26 Oct
 
-- [ ] mami ghar jaana
+- [x] mami ghar jaana
 - [ ] Annual health checkup - 4 hours
 - [ ] dentish appointment - 4 hours
 - [ ] Shilpa old plot
@@ -47,6 +47,9 @@ viren ghar
 - [ ] Office belly - 4 hours
 - [ ] shilpa b - 4 hours
 - [ ] Change name plate of shippu's house - 4 hours
+- [ ] Annual Health Checkup
+- [ ] Flush
+- [ ] Dentist appointment
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot
