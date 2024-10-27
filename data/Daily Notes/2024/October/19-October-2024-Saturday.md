@@ -58,7 +58,10 @@ viren ghar
 - [ ] night suits
 - [ ] shoes thik karwane
 - [ ] aakash partwear shirts
-- [ ] photo studio contact for
+- [ ] photo studio contact for two photos
+- [ ] new water bottle
+- [ ] both mummy calcium pouch
+- [ ] multivitamin
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot
