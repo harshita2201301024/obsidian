@@ -95,6 +95,11 @@ viren ghar
 
 Shilpa plot
 Aakash Plot Market Status
+Dentist Appointment
+Change name plate of shippu's house - 4 hours
+Red blazer
+shoes thik karwane
+
 
 - [x] Apply mma passport appointment
 - [x] Book place for tour
