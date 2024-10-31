@@ -93,6 +93,9 @@ viren ghar
 - [ ] Shilpa old house construction
 
 
+Shilpa plot
+Aakash Plot Market Status
+
 - [x] Apply mma passport appointment
 - [x] Book place for tour
 - [x] Book Eye hospital appoitment for eye sergery
