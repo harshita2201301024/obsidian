@@ -54,8 +54,8 @@ viren ghar
 - [x] Pantyliners
 - [x] Facewash
 - [ ] Red blazer
-- [ ] wax heater
-- [ ] night suits
+- [x] wax heater
+- [x] night suits
 - [ ] shoes thik karwane
 - [ ] aakash partwear shirts
 - [ ] photo studio contact for two photos
