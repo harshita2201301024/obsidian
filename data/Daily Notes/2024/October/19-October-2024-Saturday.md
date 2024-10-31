@@ -12,7 +12,7 @@ viren ghar
 
 24 oct
 - [x] Give cash to mummy - 30k - [2pm - 3pm]
-- [ ] Give cash to viren - 20k - [2pm - 3pm]
+- [x] Give cash to viren - 20k - [2pm - 3pm]
 - [x] Convert number to prepaid - [3pm - 5pm]
 - [x] Ballon - [5pm - 7pm]
 - [x] Vitamin C - [5pm - 7pm]
@@ -44,15 +44,15 @@ viren ghar
 
 27 Oct
 
-- [ ] Office belly - 4 hours
-- [ ] shilpa b - 4 hours
+- [x] Office belly - 4 hours
+- [x] shilpa b - 4 hours
 - [ ] Change name plate of shippu's house - 4 hours
-- [ ] Annual Health Checkup
-- [ ] Flush
+- [x] Annual Health Checkup
+- [x] Flush
 - [ ] Dentist appointment
-- [ ] Betadine
-- [ ] Pantyliners
-- [ ] Facewash
+- [x] Betadine
+- [x] Pantyliners
+- [x] Facewash
 - [ ] Red blazer
 - [ ] wax heater
 - [ ] night suits
