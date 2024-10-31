@@ -99,6 +99,12 @@ Dentist Appointment
 Change name plate of shippu's house - 4 hours
 Red blazer
 shoes thik karwane
+photo studio contact for two photos
+multivitamin
+Talk about academy with bhai sister - 4 hours - 1 hour daily
+Look for car
+Video and Photo Editing
+bosa ram mathi
 
 
 - [x] Apply mma passport appointment
