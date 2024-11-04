@@ -56,7 +56,7 @@ viren ghar
 - [ ] Red blazer
 - [x] wax heater
 - [x] night suits
-- [ ] shoes thik karwane
+- [x] shoes thik karwane
 - [x] aakash partwear shirts
 - [ ] photo studio contact for two photos
 - [ ] new water bottle
