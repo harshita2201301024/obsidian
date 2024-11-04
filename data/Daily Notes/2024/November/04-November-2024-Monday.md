@@ -4,7 +4,7 @@ created: 2024-02-27 00:08
 1. [x] Login Issue
 2. [ ] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/65088/
 3. [x] Apply for leaves [3 days approval pending]
-4. [ ] send timesheet for week
+4. [x] send timesheet for week
 5. [ ] shveta laptop return
 6. [x] order items from noon
 7. [ ] transfer money to raju uncle account
