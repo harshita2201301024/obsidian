@@ -7,9 +7,11 @@ created: 2024-02-27 00:08
 4. send timesheet for week
 5. shveta laptop return
 6. order items from noon
-7. transfrer mo
+7. transfer money to raju uncle account
+8. 
 
 
+Pending Items
 
 - [ ] Shilpa old plot 
 - [ ] Aakash job posts
