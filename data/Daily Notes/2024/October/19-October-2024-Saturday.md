@@ -61,7 +61,7 @@ viren ghar
 - [ ] photo studio contact for two photos
 - [ ] new water bottle
 - [x] both mummy calcium pouch
-- [ ] multivitamin
+- [x] multivitamin
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Shilpa old plot

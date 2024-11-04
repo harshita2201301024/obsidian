@@ -7,3 +7,8 @@ created: 2024-02-27 00:08
 - [ ] Shilpa old house construction
 - [ ] dentish appointment - 4 hours
 - [ ] Change name plate of shippu's house - 4 hours
+- [ ] photo studio contact for two photos
+- [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
+- [ ] Academy plan 
+- [ ] Sell Both Bikes - 4 hours
+- [ ] Look for car - 20 hours

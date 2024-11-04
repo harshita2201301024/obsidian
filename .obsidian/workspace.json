@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/October/19-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-October-2024-Saturday"
+              "title": "04-November-2024-Monday"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/October/19-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 19-October-2024-Saturday"
+              "title": "Backlinks for 04-November-2024-Monday"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/October/19-October-2024-Saturday.md",
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 19-October-2024-Saturday"
+              "title": "Outgoing links from 04-November-2024-Monday"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/October/19-October-2024-Saturday.md"
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 19-October-2024-Saturday"
+              "title": "Outline of 04-November-2024-Monday"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "6718e3e95cdafe19",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/November/04-November-2024-Monday.md",
     "data/Daily Notes/2024/October/19-October-2024-Saturday.md",
+    "data/Daily Notes/2024/November/04-November-2024-Monday.md",
     "data/Daily Notes/2024/November",
     "data/Others/Things to do Today.md",
     "data/Others/Things to bring from india.md",
