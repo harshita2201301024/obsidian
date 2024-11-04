@@ -6,7 +6,7 @@ created: 2024-02-27 00:08
 3. [x] Apply for leaves [3 days approval pending]
 4. [ ] send timesheet for week
 5. [ ] shveta laptop return
-6. [ ] order items from noon
+6. [x] order items from noon
 7. [ ] transfer money to raju uncle account
 8. Steppi app
 9. 
