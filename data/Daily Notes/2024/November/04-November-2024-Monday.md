@@ -4,7 +4,10 @@ created: 2024-02-27 00:08
 1. Login Issue
 2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/65088/
 3. Apply for leaves
-4. 
+4. send timesheet for week
+5. shveta laptop return
+6. order items from noon
+7. transfrer mo
 
 
 
