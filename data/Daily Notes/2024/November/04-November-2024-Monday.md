@@ -1,6 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
+- [ ] 
 - [ ] Shilpa old plot 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
@@ -14,4 +15,17 @@ created: 2024-02-27 00:08
 - [ ] Look for car - 20 hours
 - [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
-- [ ] 
+- [ ] Complete Vuetify book
+- [ ] Apply for Freelancing Jobs
+- [ ] Freelancing accounts
+- [ ] Aademy job post
+- [ ] Launch TKC Dubai
+- [ ] Mac charger fix
+- [ ] Car Key 
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Meeting with 618
+- [ ] How mainland license work
+- [ ] Study Corporate Tax
