@@ -25,12 +25,14 @@
             "id": "6718e3e95cdafe19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "data/Daily Notes/2024/October/19-October-2024-Saturday.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "19-October-2024-Saturday"
             }
           }
         ],
