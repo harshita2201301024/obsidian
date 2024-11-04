@@ -8,7 +8,8 @@ created: 2024-02-27 00:08
 5. [ ] shveta laptop return
 6. [ ] order items from noon
 7. [ ] transfer money to raju uncle account
-8. 
+8. Steppi app
+9. 
 
 
 Pending Items
