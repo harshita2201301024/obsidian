@@ -3,13 +3,14 @@ created: 2024-02-27 00:08
 ---
 1. [x] Login Issue
 2. [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/65088/
-3. [x] Apply for leaves [3 days approval pending]
-4. [x] send timesheet for week
-5. [ ] shveta laptop return
-6. [x] order items from noon
-7. [ ] transfer money to raju uncle account
-8. Steppi app
-9. 
+3. [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/65308/
+4. [x] Apply for leaves [3 days approval pending]
+5. [x] send timesheet for week
+6. [ ] shveta laptop return
+7. [x] order items from noon
+8. [ ] transfer money to raju uncle account
+9. Steppi app
+10. 
 
 
 Pending Items
