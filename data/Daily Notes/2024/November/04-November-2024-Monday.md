@@ -12,7 +12,6 @@ created: 2024-02-27 00:08
 9. Steppi app
 
 
-sudo zypper --quiet addrepo https://software.opensuse.org/ymp/devel:languages:nodejs/15.4/nodejs16.ymp
 
 
 Pending Items
