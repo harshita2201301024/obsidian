@@ -10,7 +10,9 @@ created: 2024-02-27 00:08
 7. [x] order items from noon
 8. [ ] transfer money to raju uncle account
 9. Steppi app
-10. 
+
+
+sudo zypper --quiet addrepo https://software.opensuse.org/ymp/devel:languages:nodejs/15.4/nodejs16.ymp
 
 
 Pending Items
