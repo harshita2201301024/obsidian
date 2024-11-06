@@ -7,6 +7,7 @@ created: 2024-02-27 00:08
 - [ ] order items from noon
 - [ ] transfer money to raju uncle account
 - [ ] Steppi app
+- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/63409/
 
 
 
