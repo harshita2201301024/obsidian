@@ -2,12 +2,11 @@
 created: 2024-02-27 00:08
 ---
 
- [x] Apply for leaves [3 days approval pending]
- [x] send timesheet for week
-[ ] shveta laptop return
- [x] order items from noon
-2. [ ] transfer money to raju uncle account
-3. Steppi app
+ 
+- [ ] shveta laptop return
+- [ ] order items from noon
+- [ ] transfer money to raju uncle account
+- [ ] Steppi app
 
 
 
@@ -15,6 +14,7 @@ created: 2024-02-27 00:08
 Pending Items
 
 - [ ] Shilpa old plot 
+- [ ] Apply for leaves [3 days approval pending]
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
