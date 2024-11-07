@@ -50,8 +50,12 @@ Hi ChatGPT
 Help me create a dynamic header using json
 I am using vue3 and vuetify3
 1. in my dynamic header some content will be left aligned and some content will be right aligned
-2. content can be of various
-
+2. content can be of various type
+	1. text with chverolet up down icon 
+	2. text without chevrolet up down icon
+	3. icon only
+	4. icon with number on top (notification icon)
+	5. 
 
 
 
