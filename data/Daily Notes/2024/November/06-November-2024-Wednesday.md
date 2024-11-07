@@ -49,7 +49,8 @@ Pending Items
 Hi ChatGPT 
 Help me create a dynamic header using json
 I am using vue3 and vuetify3
-1. in my d
+1. in my dynamic header some content will be left aligned and some content will be right aligned
+2. content can be of various
 
 
 
