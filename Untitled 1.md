@@ -12,7 +12,7 @@
         "type": "dropdown",
         "content": "Services",
         "chevron": true,
-        "style": 
+        "style": "",
         "subnav": [
           {
             "type": "text",
