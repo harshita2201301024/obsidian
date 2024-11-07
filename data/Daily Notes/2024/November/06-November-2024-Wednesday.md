@@ -55,7 +55,9 @@ I am using vue3 and vuetify3
 	2. text without chevrolet up down icon
 	3. icon only
 	4. icon with number on top (notification icon)
-	5. 
+	5. dropdown content in header
+	6. text content in header
+3. it can have deep level subn
 
 
 
