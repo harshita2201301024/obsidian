@@ -58,7 +58,7 @@ I am using vue3 and vuetify3
 	5. dropdown content in header
 	6. text content in header
 3. it can have deep level subnavigation 
-	1. these deep level subnavigation can open in two different ways
+	1. these deep level subnavigation can open in two dif
 
 
 
