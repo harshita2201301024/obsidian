@@ -44,3 +44,13 @@ Pending Items
 - [ ] How mainland license work
 - [ ] Study Corporate Tax
 - [ ] Ameer Incentive
+
+
+Hi ChatGPT 
+Help me create a dynamic header using json
+I am using vue3 and vuetify3
+1. in my d
+
+
+
+
