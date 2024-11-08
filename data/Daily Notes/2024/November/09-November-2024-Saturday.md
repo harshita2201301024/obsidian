@@ -2,10 +2,10 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] shveta laptop return
+- [ ] Shveta laptop return
 - [ ] Steppi app
 - [ ] Decree holder enrichment work - 1 hour
-- [ ] play cricket in morning
+
 - [ ] 
 
 
