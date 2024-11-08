@@ -2,14 +2,10 @@
 created: 2024-02-27 00:08
 ---
 
- 
 - [ ] shveta laptop return
-- [ ] order items from noon
-- [ ] transfer money to raju uncle account
 - [ ] Steppi app
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/63409/
-- [x] https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/64251/
-- [x] Decree holder enrichment
+- [ ] Decree holder enrichment work - 1 hour
+- [ ] play cricket in morning
 - [ ] 
 
 
