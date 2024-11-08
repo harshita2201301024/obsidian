@@ -48,39 +48,9 @@
               "icon": "lucide-file",
               "title": "04-November-2024-Monday"
             }
-          },
-          {
-            "id": "b0636d9ebc600406",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4b9033d63893d8e5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d9e69c5c54d7ea76",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 04-November-2024-Monday"
             }
           },
           {
@@ -170,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 04-November-2024-Monday"
             }
           },
           {
@@ -195,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "data/Daily Notes/2024/November/04-November-2024-Monday.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 04-November-2024-Monday"
             }
           },
           {
@@ -235,7 +209,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "d9e69c5c54d7ea76",
+  "active": "dd68b4dd6bab0a45",
   "lastOpenFiles": [
     "data/Daily Notes/2024/November/04-November-2024-Monday.md",
     "data/Daily Notes/2024/November/06-November-2024-Wednesday.md",
