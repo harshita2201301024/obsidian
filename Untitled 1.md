@@ -8,9 +8,11 @@
 		  "chevron": true,
 		  "content":[
 			  {
-				  type:"text",
-				  ""
-			  }
+				  "type":"text",
+				  "content":"View as",
+				  "font-weight":"bold"
+			  },
+			  {}
 		  ]
 	  },
       {
