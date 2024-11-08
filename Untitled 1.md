@@ -3,10 +3,10 @@
   "header": {
     "left": [
 	  {
-		  "type": "text",
+		  "type": "mixed-emphasis-text",
 		  "leftIcon":"eye",
 		  "chevron": true,
-		  "style":"
+		  "":"
 	  },
       {
         "type": "text",
