@@ -16,6 +16,9 @@ created: 2024-02-27 00:08
 - [ ] Notification - 0.5 Hour
 - [ ] Profile Icon - 0.5 Hour
 - [ ] Select Company Name and Branch Name -  1 Hour
+- [ ] Fire Bad Renatl Lady
+- [ ] Doctor Visit
+- [ ] 
 
 
 Pending Items
