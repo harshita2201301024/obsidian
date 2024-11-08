@@ -93,7 +93,15 @@
 				    {
 					    "type":"text",
 					    "content":"Calculate your business set up cost"
-				    }
+				    },
+				    {
+					    "type":"text",
+					    "content":"Calculate your business set up cost"
+				    },
+				    {
+					    "type":"text",
+					    "content":"Calculate your business set up cost"
+				    },
 			      ]
 		      }
 	      ]
