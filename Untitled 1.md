@@ -127,12 +127,12 @@
     ],
     "right": [
       {
-        "type": "icon",
+        "type": "icon-number",
         "icon": "mdi-account",
         "badge": 3
       },
       {
-        "type": "icon",
+        "type": "icon-highlight",
         "icon": "mdi-bell",
         "badge": 5
       },
