@@ -6,7 +6,12 @@
 		  "type": "mixed-emphasis-text",
 		  "leftIcon":"eye",
 		  "chevron": true,
-		  "":"
+		  "content":[
+			  {
+				  type:"text",
+				  ""
+			  }
+		  ]
 	  },
       {
         "type": "text",
