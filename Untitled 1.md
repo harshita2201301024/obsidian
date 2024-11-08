@@ -36,23 +36,18 @@
         "subnav": [
 	        {
 		        "type": "text",
-		        "content": "All Business"
+		        "content": "All Business",
+		        "chevron": true,
+		        "subn"
 	        },
 	        {
 		        "type": "text",
-		        "content": "All Business Names"
+		        "content": "All Business Names",
+		        "chevron": true,
 	        },
 	        {
 		        "type": "text",
 		        "content": "My Dubai Unified Licenses"
-	        },
-	        {
-		        "type": "text",
-		        "content": "My Due Payments"
-	        },
-	        {
-		        "type": "text",
-		        "content": "My Residency"
 	        }
         ]
       },
