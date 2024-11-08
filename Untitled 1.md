@@ -160,7 +160,7 @@
 }
 ```
 
-1. Menu Bar Color
+1. Menu Bar Color - 
 2. Resource Menu Bar
 3. View As John Appleseed Component Creation
 4. Language Design English Arabic
