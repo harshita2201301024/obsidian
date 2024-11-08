@@ -128,12 +128,12 @@
     "right": [
       {
         "type": "icon-number",
-        "icon": "mdi-account",
+        "icon": "mdi-cart",
         "badge": 3
       },
       {
         "type": "icon-highlight",
-        "icon": "mdi-bell",
+        "icon": "mdi-notifications",
         "badge": 5
       },
       {
