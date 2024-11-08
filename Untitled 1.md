@@ -23,7 +23,8 @@
         "type": "text",
         "content": "Overview",
         "chevron": true,
-        "nested-menu-style":"hover-based-expand"
+        "nested-menu-style":"hover-based-expand",
+        "mobile-nested-menu-style":"side-panel-slide",
         "subnav": [
 	        {
 		        "type": "text",
