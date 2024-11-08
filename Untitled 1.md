@@ -160,11 +160,11 @@
 }
 ```
 
-1. Menu Bar Color - 
-2. Resource Menu Bar
-3. View As John Appleseed Component Creation
-4. Language Design English Arabic
-5. Notification
-6. Profile Icon
-7. Handlng the Nav Style
+1. Menu Bar Color - 1 Hour
+2. Handlng the Nav Style - 1 Hour
+3. Resource Menu Bar - 1 Hour
+4. View As John Appleseed Component Creation -  2 Hour
+5. Language Design English Arabic
+6. Notification
+7. Profile Icon
 8. Select Company Name and Branch Name
