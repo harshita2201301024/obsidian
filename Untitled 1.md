@@ -123,33 +123,7 @@
 	  {
 		  "type": "icon",
 		  "iconname": "home"
-	  },
-      {
-        "type": "dropdown",
-        "content": "Services",
-        "chevron": true,
-        "nested-menu-style":"tabs-with-nested-options",
-        "subnav": [
-          {
-            "type": "text",
-            "content": "Consulting",
-            "subnav": [
-              {
-                "type": "text",
-                "content": "Business Consulting"
-              },
-              {
-                "type": "text",
-                "content": "IT Consulting"
-              }
-            ]
-          },
-          {
-            "type": "text",
-            "content": "Support"
-          }
-        ]
-      }
+	  }
     ],
     "right": [
       {
