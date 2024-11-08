@@ -8,10 +8,10 @@ created: 2024-02-27 00:08
 - [ ] Book Toastmaster Meeting
 - [ ] Start GYM
 - [ ] Kite Beach Plan
-- [ ] Menu Bar Color - 1 Hour
-- [ ] Handlng the Nav Style - 1 Hour
-- [ ] Resource Menu Bar - 1 Hour
-- [ ] View As John Appleseed Component Creation -  2 Hour
+- [ ] Menu Bar Color - 1 Hour - **mandatory** 10 AM - 11AM
+- [ ] Handlng the Nav Style - 1 Hour - **mandatory** 11 AM - 12PM
+- [ ] Resource Menu Bar - 1 Hour - **mandatory** 12PM - 1 PM
+- [ ] View As John Appleseed Component Creation -  2 **Hour** 
 - [ ] Language Design English Arabic - 1 Hour
 - [ ] Notification - 0.5 Hour
 - [ ] Profile Icon - 0.5 Hour
