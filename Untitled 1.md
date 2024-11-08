@@ -163,4 +163,8 @@
 1. Menu Bar Color
 2. Resource Menu Bar
 3. View As John Appleseed Component Creation
-4. Eng
+4. Language Design English Arabic
+5. Notification
+6. Profile Icon
+7. Handlng the Nav Style
+8. 
