@@ -107,7 +107,12 @@
 		      {
 			      "type": "text",
 			      "content": "Business Enquiry Services",
-			      "subnav": 
+			      "subnav": [
+				      {
+					      "type": "text",
+					      "content": "Search License I"
+				      }
+			      ]
 		      }
 	      ]
 	  },
