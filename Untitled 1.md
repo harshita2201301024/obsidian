@@ -83,7 +83,8 @@
       {
 	      "type":"text",
 	      "content": "Resources",
-	      ""
+	      "chevron":true,
+	      "nested-menu-style":"tabs"
       },
       {
         "type": "dropdown",
