@@ -17,13 +17,13 @@
 				  "content":"John Appleseed"
 			  }
 		  ],
-		  "onHover":"search-list-component"
+		  "nested-menu-style":"search-list-component"
 	  },
       {
         "type": "text",
         "content": "Overview",
         "chevron": true,
-        ""
+        "nested-menu-style":"hover-based-expand"
         "subnav": [
 	        {
 		        "type": "text",
