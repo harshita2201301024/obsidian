@@ -5,7 +5,8 @@
 	  {
 		  "type": "text",
 		  "leftIcon":"eye",
-		  "chevron": "tru
+		  "chevron": true,
+		  "style":"
 	  },
       {
         "type": "text",
