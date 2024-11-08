@@ -168,3 +168,5 @@
 6. Notification - 0.5 Hour
 7. Profile Icon - 0.5 Hour
 8. Select Company Name and Branch Name -  1 Hour
+
+Mobile Design 
