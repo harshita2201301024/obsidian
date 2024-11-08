@@ -45,7 +45,7 @@
 			        },
 			        {
 				        "type": "text",
-				        "content": "In P"
+				        "content": "In Progress Licenses"
 			        }
 		        ]
 	        },
