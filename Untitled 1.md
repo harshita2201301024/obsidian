@@ -17,15 +17,15 @@
 	        },
 	        {
 		        "type": "text",
-		        "content": "My Consent R"
+		        "content": "My Consent Requests"
 	        },
 	        {
 		        "type": "text",
-		        "content": "My Home"
+		        "content": "My Due Payments"
 	        },
 	        {
 		        "type": "text",
-		        "content": "My Home"
+		        "content": "My Residency"
 	        }
         ]
       },
