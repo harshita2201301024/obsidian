@@ -9,6 +9,7 @@ created: 2024-02-27 00:08
 - [ ] Fire Bad Renatl Lady 3PM - 4PM 
 - [ ] Doctor Visit 4PM - 5PM 
 - [ ] Kite Beach Plan 5PM - 9PM 
+
 - [ ] Shveta laptop return
 - [ ] Steppi app
 - [ ] Decree holder enrichment work - 1 hour
@@ -17,6 +18,7 @@ created: 2024-02-27 00:08
 - [ ] Notification - 0.5 Hour
 - [ ] Profile Icon - 0.5 Hour
 - [ ] Select Company Name and Branch Name -  1 Hour
+- [ ] Fill Timesheet
 
 
 
