@@ -4,7 +4,8 @@
     "left": [
 	  {
 		  "type": "text",
-		  "content":"V"
+		  "leftIcon":"eye",
+		  "chevron": "tru
 	  },
       {
         "type": "text",
