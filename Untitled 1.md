@@ -160,3 +160,6 @@
 }
 ```
 
+1. Menu Bar Color
+2. Resource Menu Bar
+3. 
