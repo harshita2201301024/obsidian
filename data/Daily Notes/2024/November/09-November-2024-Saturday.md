@@ -32,7 +32,6 @@ Pending Items
 - [ ] Academy plan 
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
-- [ ] apply for leave after coming from india
 - [ ] shilpa office bank account open
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
