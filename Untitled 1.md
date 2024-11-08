@@ -134,11 +134,11 @@
       {
         "type": "icon-highlight",
         "icon": "mdi-notifications",
-        "badge": 5
+        "highlight": true
       },
       {
         "type": "icon-profile",
-        "content": "mdi-",
+        "content": "mdi-account",
         "chevron": true
       }
     ]
