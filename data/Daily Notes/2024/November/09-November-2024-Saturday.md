@@ -28,7 +28,10 @@ Pending Items
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
 - [ ] Ameer Incentive
-- [ ] -Mac charger fix
+- [ ] Complete Vuetify book
+- [ ] Apply for Freelancing Jobs
+- [ ] Freelancing accounts
+- [ ] Mac charger fix
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] photo studio contact for two photos
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
@@ -36,9 +39,6 @@ Pending Items
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
 - [ ] shilpa office bank account open
-- [ ] Complete Vuetify book
-- [ ] Apply for Freelancing Jobs
-- [ ] Freelancing accounts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Car Key 
