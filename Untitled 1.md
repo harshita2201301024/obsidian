@@ -38,7 +38,16 @@
 		        "type": "text",
 		        "content": "All Business",
 		        "chevron": true,
-		        "subn"
+		        "subnav":[
+			        {
+				        "type": "text",
+				        "content": "Registered Business"
+			        },
+			        {
+				        "type": "text",
+				        "content": "In P"
+			        }
+		        ]
 	        },
 	        {
 		        "type": "text",
