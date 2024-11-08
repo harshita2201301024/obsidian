@@ -144,6 +144,14 @@
 	        {
 		        "type": "text",
 		        "content": "My Profile"
+	        },
+	        {
+		        "type": "text",
+		        "content": "Settings"
+	        },
+	        {
+		        "type": "text",
+		        "content": "Log out"
 	        }
         ]
       }
