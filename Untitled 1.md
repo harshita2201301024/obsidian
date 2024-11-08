@@ -12,8 +12,12 @@
 				  "content":"View as",
 				  "font-weight":"bold"
 			  },
-			  {}
-		  ]
+			  {
+				  "type":"text",
+				  "content":"John Appleseed"
+			  }
+		  ],
+		  "onHover":""
 	  },
       {
         "type": "text",
