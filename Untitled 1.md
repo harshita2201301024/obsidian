@@ -110,7 +110,11 @@
 			      "subnav": [
 				      {
 					      "type": "text",
-					      "content": "Search License I"
+					      "content": "Search License Information"
+				      },
+				      {
+					      "type": "text",
+					      "content": "Search Business Activity"
 				      }
 			      ]
 		      }
