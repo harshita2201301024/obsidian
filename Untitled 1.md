@@ -96,13 +96,16 @@
 				    },
 				    {
 					    "type":"text",
-					    "content":"Calculate your business set up cost"
+					    "content":"Find Your Business Name"
 				    },
 				    {
 					    "type":"text",
-					    "content":"Calculate your business set up cost"
+					    "content":"Start a new Business"
 				    },
 			      ]
+		      },
+		      {
+			      
 		      }
 	      ]
 	  },
