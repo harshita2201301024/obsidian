@@ -4,7 +4,7 @@
     "left": [
 	  {
 		  "type": "text",
-		  
+		  "content"
 	  },
       {
         "type": "text",
