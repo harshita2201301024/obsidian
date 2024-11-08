@@ -23,6 +23,7 @@
         "type": "text",
         "content": "Overview",
         "chevron": true,
+        "on"
         "subnav": [
 	        {
 		        "type": "text",
