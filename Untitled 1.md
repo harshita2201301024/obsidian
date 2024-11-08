@@ -36,15 +36,15 @@
         "subnav": [
 	        {
 		        "type": "text",
-		        "content": "My Home"
+		        "content": "All Business"
 	        },
 	        {
 		        "type": "text",
-		        "content": "My Delegations"
+		        "content": "All Business Names"
 	        },
 	        {
 		        "type": "text",
-		        "content": "My Consent Requests"
+		        "content": "My Dubai Unified Licenses"
 	        },
 	        {
 		        "type": "text",
