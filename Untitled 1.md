@@ -52,6 +52,7 @@
         "type": "text",
         "content": "Business",
         "chevron": true,
+        "nested-menu-style":"tabs-with-nested-options",
         "subnav": [
 	        {
 		        "type": "text",
