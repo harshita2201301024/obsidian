@@ -17,7 +17,7 @@
 				  "content":"John Appleseed"
 			  }
 		  ],
-		  "onHover":""
+		  "onHover":"search-list-component"
 	  },
       {
         "type": "text",
