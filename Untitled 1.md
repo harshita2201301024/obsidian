@@ -4,7 +4,7 @@
     "left": [
 	  {
 		  "type": "text",
-		  "content"
+		  "content":"V"
 	  },
       {
         "type": "text",
