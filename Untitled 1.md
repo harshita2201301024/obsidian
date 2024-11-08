@@ -84,8 +84,13 @@
 	      "type":"text",
 	      "content": "Resources",
 	      "chevron":true,
-	      "nested-menu-style":"tabs"
-      },
+	      "nested-menu-style":"tabs-with-nested-options",
+	      "subnav":[
+		      {
+			      
+		      }
+	      ]
+	  },
       {
         "type": "dropdown",
         "content": "Services",
