@@ -162,4 +162,5 @@
 
 1. Menu Bar Color
 2. Resource Menu Bar
-3. 
+3. View As John Appleseed Component Creation
+4. Eng
