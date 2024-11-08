@@ -137,9 +137,9 @@
         "badge": 5
       },
       {
-        "type": "text",
-        "content": "Login",
-        "chevron": false
+        "type": "icon-profile",
+        "content": "mdi-",
+        "chevron": true
       }
     ]
   }
