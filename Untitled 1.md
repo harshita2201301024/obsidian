@@ -167,4 +167,4 @@
 5. Notification
 6. Profile Icon
 7. Handlng the Nav Style
-8. 
+8. Select Company Name and Branch Name
