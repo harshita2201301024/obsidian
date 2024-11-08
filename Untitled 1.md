@@ -8,7 +8,24 @@
         "chevron": true,
         "subnav": [
 	        {
-	        "type"
+		        "type": "text",
+		        "content": "My Home"
+	        },
+	        {
+		        "type": "text",
+		        "content": "My Delegations"
+	        },
+	        {
+		        "type": "text",
+		        "content": "My Consent R"
+	        },
+	        {
+		        "type": "text",
+		        "content": "My Home"
+	        },
+	        {
+		        "type": "text",
+		        "content": "My Home"
 	        }
         ]
       },
