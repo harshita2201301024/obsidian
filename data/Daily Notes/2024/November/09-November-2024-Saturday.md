@@ -7,6 +7,8 @@ created: 2024-02-27 00:08
 - [ ] Decree holder enrichment work - 1 hour
 - [ ] Book Toastmaster Meeting
 - [ ] Start GYM
+- [ ] Kite Beach Plan
+- [ ] 
 
 
 Pending Items
