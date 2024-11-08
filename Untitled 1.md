@@ -24,7 +24,6 @@
         "content": "Overview",
         "chevron": true,
         "nested-menu-style":"hover-based-expand",
-        "mobile-nested-menu-style":"side-panel-slide",
         "subnav": [
 	        {
 		        "type": "text",
@@ -52,7 +51,8 @@
         "type": "text",
         "content": "Business",
         "chevron": true,
-        "nested-menu-style":"tabs-with-nested-options",
+        "nested-menu-style":"hover-based-expand",
+        "mobile-nested-menu-style":"side-panel-slide",
         "subnav": [
 	        {
 		        "type": "text",
@@ -84,7 +84,7 @@
         "type": "dropdown",
         "content": "Services",
         "chevron": true,
-        "style": "",
+        "nested-menu-style":"tabs-with-nested-options",
         "subnav": [
           {
             "type": "text",
