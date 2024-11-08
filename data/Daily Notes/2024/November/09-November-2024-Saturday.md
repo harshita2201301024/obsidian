@@ -1,23 +1,23 @@
 ---
 created: 2024-02-27 00:08
 ---
-
-- [ ] Shveta laptop return
-- [ ] Steppi app
-- [ ] Decree holder enrichment work - 1 hour
-- [ ] Book Toastmaster Meeting 3PM - 4PM 
-- [ ] Start GYM
-- [ ] Kite Beach Plan 5PM - 9PM 
 - [ ] Menu Bar Color - 1 Hour - **mandatory** 10 AM - 11AM
 - [ ] Handlng the Nav Style - 1 Hour - **mandatory** 11 AM - 12PM
 - [ ] Resource Menu Bar - 1 Hour - **mandatory** 12PM - 1 PM
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  1PM - 3PM
+- [ ] Book Toastmaster Meeting 3PM - 4PM 
+- [ ] Fire Bad Renatl Lady 3PM - 4PM 
+- [ ] Doctor Visit 4PM - 5PM 
+- [ ] Kite Beach Plan 5PM - 9PM 
+- [ ] Shveta laptop return
+- [ ] Steppi app
+- [ ] Decree holder enrichment work - 1 hour
+- [ ] Start GYM
 - [ ] Language Design English Arabic - 1 Hour
 - [ ] Notification - 0.5 Hour
 - [ ] Profile Icon - 0.5 Hour
 - [ ] Select Company Name and Branch Name -  1 Hour
-- [ ] Fire Bad Renatl Lady 3PM - 4PM 
-- [ ] Doctor Visit 4PM - 5PM 
+
 
 
 Pending Items
