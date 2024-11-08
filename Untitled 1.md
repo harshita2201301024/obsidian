@@ -120,6 +120,10 @@
 		      }
 	      ]
 	  },
+	  {
+		  "type": "icon",
+		  "iconname": "home"
+	  },
       {
         "type": "dropdown",
         "content": "Services",
