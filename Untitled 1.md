@@ -81,6 +81,11 @@
         ]
       },
       {
+	      "type":"text",
+	      "content": "Resources",
+	      ""
+      },
+      {
         "type": "dropdown",
         "content": "Services",
         "chevron": true,
