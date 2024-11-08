@@ -18,7 +18,6 @@ created: 2024-02-27 00:08
 - [ ] Select Company Name and Branch Name -  1 Hour
 - [ ] Fire Bad Renatl Lady
 - [ ] Doctor Visit
-- [ ] 
 
 
 Pending Items
@@ -28,7 +27,7 @@ Pending Items
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
-- [ ] dentish appointment - 4 hours
+- [ ] Ameer Incentive
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] photo studio contact for two photos
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
@@ -50,7 +49,7 @@ Pending Items
 - [ ] Meeting with 618
 - [ ] How mainland license work
 - [ ] Study Corporate Tax
-- [ ] Ameer Incentive
+- [ ] dentish appointment - 4 hours
 
 
 Hi ChatGPT 
