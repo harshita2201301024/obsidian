@@ -6,7 +6,11 @@
         "type": "text",
         "content": "Overview",
         "chevron": true,
-        "subnav": []
+        "subnav": [
+	        {
+	        "type"
+	        }
+        ]
       },
       {
         "type": "dropdown",
