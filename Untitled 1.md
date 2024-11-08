@@ -139,7 +139,13 @@
       {
         "type": "icon-profile",
         "content": "mdi-account",
-        "chevron": true
+        "chevron": true,
+        "subnav": [
+	        {
+		        "type": "text",
+		        "content": "My Profile"
+	        }
+        ]
       }
     ]
   }
