@@ -5,7 +5,8 @@ created: 2024-02-27 00:08
 - [ ] Shveta laptop return
 - [ ] Steppi app
 - [ ] Decree holder enrichment work - 1 hour
-- [ ] 
+- [ ] Book Toastmaster Meeting
+- [ ] Start GYM
 
 
 Pending Items
