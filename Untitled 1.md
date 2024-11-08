@@ -87,7 +87,8 @@
 	      "nested-menu-style":"tabs-with-nested-options",
 	      "subnav":[
 		      {
-			      
+			      "type": "text",
+			      "conte"
 		      }
 	      ]
 	  },
