@@ -3,9 +3,9 @@ created: 2024-02-27 00:08
 ---
 - [x] isDecree ⏫ 📅 2024-11-11 ✅ 2024-11-11
 - [x] spacing issue in view as ✅ 2024-11-11
-- [ ] Menu Bar Color - 1 Hour - **mandatory** 3 PM - 4PM
-- [ ] Handlng the Nav Style - 1 Hour - **mandatory** 4 PM - 5PM
-- [ ] Resource Menu Bar - 1 Hour - **mandatory** 5PM - 6 PM
+- [x] Menu Bar Color - 1 Hour - **mandatory** 3 PM - 4PM ✅ 2024-11-11
+- [x] Handlng the Nav Style - 1 Hour - **mandatory** 4 PM - 5PM ✅ 2024-11-11
+- [x] Resource Menu Bar - 1 Hour - **mandatory** 5PM - 6 PM ✅ 2024-11-11
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM
 - [x] Book Toastmaster Meeting 3PM - 4PM ✅ 2024-11-11
 - [x] Fire Bad Renatl Lady 3PM - 4PM ✅ 2024-11-11
