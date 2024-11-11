@@ -10,6 +10,7 @@ created: 2024-02-27 00:08
 - [ ] Shveta laptop return
 - [ ] Steppi app
 - [ ] Start GYM
+- [ ] Vuetify Complete Features
 
 Replace rgb
 Basic profile show decree
