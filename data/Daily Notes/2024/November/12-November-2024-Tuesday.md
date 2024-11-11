@@ -3,13 +3,11 @@ created: 2024-02-27 00:08
 ---
 
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM
+- [ ] Select Company Name and Branch Name -  1 Hour
+- [ ] Mobile Design of Header
 - [ ] Shveta laptop return
 - [ ] Steppi app
 - [ ] Start GYM
-- [ ] Language Design English Arabic -> 8PM - 9PM
-- [ ] Select Company Name and Branch Name -  1 Hour
-- [ ] Fill Timesheet
-- [ ] 
 
 replace rgb
 basic profile show decree
