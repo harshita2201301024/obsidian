@@ -2,7 +2,8 @@
 created: 2024-02-27 00:08
 ---
 - [ ] Fill Timesheet
-- [ ] 
+- [ ] Sick Leave Apply
+- [ ] Ameer Incentive
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM
 - [ ] Select Company Name and Branch Name -  1 Hour
 - [ ] Mobile Design of Header
@@ -16,7 +17,7 @@ Follow up on rent
 Shilpa Meeting
 Mmma Passport Appointment
 Shilpa Old plot Speak with mistri
-Ameer Incentive
+
 
 
 
