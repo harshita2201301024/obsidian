@@ -11,6 +11,7 @@ created: 2024-02-27 00:08
 - [ ] Steppi app
 - [ ] Start GYM
 - [ ] Vuetify Complete Features
+- [ ] 10kg. Buiscuits Follow up
 
 Replace rgb
 Basic profile show decree
