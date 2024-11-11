@@ -7,7 +7,7 @@ created: 2024-02-27 00:08
 - [ ] Handlng the Nav Style - 1 Hour - **mandatory** 11 AM - 12PM
 - [ ] Resource Menu Bar - 1 Hour - **mandatory** 12PM - 1 PM
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  1PM - 3PM
-- [ ] Book Toastmaster Meeting 3PM - 4PM 
+- [x] Book Toastmaster Meeting 3PM - 4PM ✅ 2024-11-11
 - [x] Fire Bad Renatl Lady 3PM - 4PM ✅ 2024-11-11
 - [x] Doctor Visit 4PM - 5PM ✅ 2024-11-11
 - [x] Kite Beach Plan 5PM - 9PM ✅ 2024-11-11
