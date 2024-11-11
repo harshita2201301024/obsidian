@@ -1,7 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] isDecree 📅 2024-11-11 ⏫ 
+- [x] isDecree ⏫ 📅 2024-11-11 ✅ 2024-11-11
 - [ ] Menu Bar Color - 1 Hour - **mandatory** 10 AM - 11AM
 - [ ] Handlng the Nav Style - 1 Hour - **mandatory** 11 AM - 12PM
 - [ ] Resource Menu Bar - 1 Hour - **mandatory** 12PM - 1 PM
