@@ -3,19 +3,13 @@ created: 2024-02-27 00:08
 ---
 
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM
-- [x] Book Toastmaster Meeting 3PM - 4PM ✅ 2024-11-11
-- [x] Fire Bad Renatl Lady 3PM - 4PM ✅ 2024-11-11
-- [x] Doctor Visit 4PM - 5PM ✅ 2024-11-11
-- [x] Kite Beach Plan 5PM - 9PM ✅ 2024-11-11
 - [ ] Shveta laptop return
 - [ ] Steppi app
-- [x] Decree holder enrichment work - 1 hour ✅ 2024-11-11
 - [ ] Start GYM
 - [ ] Language Design English Arabic -> 8PM - 9PM
-- [x] Notification - 0.5 Hour -> 9PM - 9:30PM ✅ 2024-11-11
-- [x] Profile Icon - 0.5 Hour -> 9:30PM - 10:00PM ✅ 2024-11-11
 - [ ] Select Company Name and Branch Name -  1 Hour
 - [ ] Fill Timesheet
+- [ ] 
 
 replace rgb
 basic profile show decree
