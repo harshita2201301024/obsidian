@@ -16,8 +16,8 @@ created: 2024-02-27 00:08
 - [x] Decree holder enrichment work - 1 hour ✅ 2024-11-11
 - [ ] Start GYM
 - [ ] Language Design English Arabic -> 8PM - 9PM
-- [ ] Notification - 0.5 Hour -> 9PM - 9:30PM
-- [ ] Profile Icon - 0.5 Hour -> 9:30PM - 10:00PM
+- [x] Notification - 0.5 Hour -> 9PM - 9:30PM ✅ 2024-11-11
+- [x] Profile Icon - 0.5 Hour -> 9:30PM - 10:00PM ✅ 2024-11-11
 - [ ] Select Company Name and Branch Name -  1 Hour
 - [ ] Fill Timesheet
 
