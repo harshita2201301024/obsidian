@@ -2,17 +2,18 @@
 created: 2024-02-27 00:08
 ---
 - [x] isDecree ⏫ 📅 2024-11-11 ✅ 2024-11-11
+- [x] spacing issue in view as ✅ 2024-11-11
 - [ ] Menu Bar Color - 1 Hour - **mandatory** 3 PM - 4PM
 - [ ] Handlng the Nav Style - 1 Hour - **mandatory** 11 AM - 12PM
 - [ ] Resource Menu Bar - 1 Hour - **mandatory** 12PM - 1 PM
 - [ ] View As John Appleseed Component Creation -  2 **Hour**  1PM - 3PM
 - [ ] Book Toastmaster Meeting 3PM - 4PM 
-- [ ] Fire Bad Renatl Lady 3PM - 4PM 
-- [ ] Doctor Visit 4PM - 5PM 
-- [ ] Kite Beach Plan 5PM - 9PM 
+- [x] Fire Bad Renatl Lady 3PM - 4PM ✅ 2024-11-11
+- [x] Doctor Visit 4PM - 5PM ✅ 2024-11-11
+- [x] Kite Beach Plan 5PM - 9PM ✅ 2024-11-11
 - [ ] Shveta laptop return
 - [ ] Steppi app
-- [ ] Decree holder enrichment work - 1 hour
+- [x] Decree holder enrichment work - 1 hour ✅ 2024-11-11
 - [ ] Start GYM
 - [ ] Language Design English Arabic - 1 Hour
 - [ ] Notification - 0.5 Hour
