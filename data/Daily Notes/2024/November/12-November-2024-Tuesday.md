@@ -4,8 +4,8 @@ created: 2024-02-27 00:08
 - [ ] Fill Timesheet
 - [x] Sick Leave Apply ✅ 2024-11-12
 - [x] Ameer Incentive ✅ 2024-11-12
-- [ ] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM
-- [ ] Select Company Name and Branch Name -  1 Hour
+- [x] View As John Appleseed Component Creation -  2 **Hour**  6PM - 8PM ✅ 2024-11-12
+- [x] Select Company Name and Branch Name -  1 Hour ✅ 2024-11-12
 - [ ] Mobile Design of Header
 - [ ] Shveta laptop return
 - [ ] Steppi app
