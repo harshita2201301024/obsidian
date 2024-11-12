@@ -8,7 +8,7 @@ created: 2024-02-27 00:08
 5. [x] send timesheet for week
 6. [ ] shveta laptop return
 7. [x] order items from noon
-8. [ ] transfer money to raju uncle account
+8. [x] transfer money to raju uncle account ✅ 2024-11-12
 9. Steppi app
 
 
