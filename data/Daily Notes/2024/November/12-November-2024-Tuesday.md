@@ -20,6 +20,33 @@ Shilpa Meeting
 Mmma Passport Appointment
 Shilpa Old plot Speak with mistri
 
+{  
+  "type": "mixed-emphasis-text",  
+  "leftIcon": "mdi-eye",  
+  "chevron": true,  
+  "content": [  
+    {  
+      "type": "text",  
+      "content": "View as",  
+      "font-weight": "bold"  
+    },  
+    {  
+      "type": "text",  
+      "content": "John Appleseed"  
+    }  
+  ],  
+  "nested-menu-style": "search-list-component"  
+},  
+{  
+  "type": "select",  
+  "label": "Company name",  
+  "disabled": false  
+},  
+{  
+  "type": "select",  
+  "label": "Branch name",  
+  "disabled": false  
+}
 
 
 
