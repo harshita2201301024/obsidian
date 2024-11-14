@@ -12,4 +12,6 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 3. Notification red .
 4. Account Button Size
 5. Mobile design of emphasis-mixed
-6. 
+6. Mobile Design Remove Half Screen White Space
+7. Mobile Design Profile Icon
+8. Mobile Des
