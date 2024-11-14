@@ -10,4 +10,6 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 1. on Home Button Hover Overview, Business and Resources should scrool
 2. Select Component Normal and Disabled Mode
 3. Notification red .
-4. 
+4. Account Button Size
+5. Mobile design of emphasis-mixed
+6. 
