@@ -13,7 +13,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 4. [ ] Account Button Size - 0.5 Hours
 5. [ ] Mobile design of emphasis-mixed - 1 Hour
 6. [x] Mobile Design Remove Half Screen White Space - 1 Hour ✅ 2024-11-15
-7. [ ] Mobile Design Profile Icon - 1 Hour
+7. [x] Mobile Design Profile Icon - 1 Hour ✅ 2024-11-15
 8. [ ] Mobile Design Localisation Button - 0.5 Hour
 9. [ ] Mobile Slider Design - 1 Hour
 10. [ ] Mobile Subnav can go to any number - 1 Hour
