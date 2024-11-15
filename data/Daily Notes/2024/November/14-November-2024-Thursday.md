@@ -9,7 +9,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 
 1. [ ] on Home Button Hover Overview, Business and Resources should scrool - 2 Hours
 2. [ ] Select Component Normal and Disabled Mode - 2 Hours
-3. [ ] Notification red . - 0.5 Hours
+3. [x] Notification red . - 0.5 Hours ✅ 2024-11-15
 4. [ ] Account Button Size - 0.5 Hours
 5. [ ] Mobile design of emphasis-mixed - 1 Hour
 6. [x] Mobile Design Remove Half Screen White Space - 1 Hour ✅ 2024-11-15
