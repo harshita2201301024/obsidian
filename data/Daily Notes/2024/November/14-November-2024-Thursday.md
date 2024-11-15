@@ -19,6 +19,6 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 10. [ ] Mobile Subnav can go to any number - 1 Hour
 11. [ ] Convert Config to ts - 1 Hour
 12. [ ] Cross Button Design - 0.5 Hour
-13. [ ] Sometime only overview gets visible
+13. [ ] Sometime only overview gets visible - 1 Hour
 
 12 Hours
