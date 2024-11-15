@@ -14,7 +14,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 5. [ ] Mobile design of emphasis-mixed - 1 Hour
 6. [x] Mobile Design Remove Half Screen White Space - 1 Hour ✅ 2024-11-15
 7. [x] Mobile Design Profile Icon - 1 Hour ✅ 2024-11-15
-8. [ ] Mobile Design Localisation Button - 0.5 Hour
+8. [x] Mobile Design Localisation Button - 0.5 Hour ✅ 2024-11-15
 9. [ ] Mobile Slider Design - 1 Hour
 10. [ ] Mobile Subnav can go to any number - 1 Hour
 11. [ ] Convert Config to ts - 1 Hour
