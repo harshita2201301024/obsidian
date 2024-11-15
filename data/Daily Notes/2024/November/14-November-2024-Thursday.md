@@ -18,7 +18,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 9. [ ] Mobile Slider Design - 1 Hour
 10. [ ] Mobile Subnav can go to any number - 1 Hour
 11. [ ] Convert Config to ts - 1 Hour
-12. [ ] Cross Button Design - 0.5 Hour
+12. [x] Cross Button Design - 0.5 Hour ✅ 2024-11-15
 13. [x] Sometime only overview gets visible - 1 Hour ✅ 2024-11-15
 
 13 Hours
