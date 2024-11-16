@@ -54,12 +54,12 @@ Shilpa Old plot Speak with mistri
 
 Pending Items
 
-- [ ] Shilpa old plot 
+- [x] Shilpa old plot ✅ 2024-11-16
 - [ ] Apply for leaves [3 days approval pending]
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
-- [ ] Ameer Incentive
+- [x] Ameer Incentive ✅ 2024-11-16
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Freelancing accounts
