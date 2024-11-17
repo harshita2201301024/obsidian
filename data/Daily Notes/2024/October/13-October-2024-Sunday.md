@@ -2,41 +2,39 @@
 created: 2024-02-27 00:08
 ---
 
-- [ ] GYM
-- [ ] Reply from megha regarding leave
+- [ ] GYM -> 4PM - 6PM 
+- [x] vue study -> 12PM - 4 PM
+- [ ] Website preparation of TKC -> 4 PM - 6PM
+- [ ] study corporate tax - >12 PM - 4PM
+- [ ] pay motin salary -> 12PM - 1PM 
+- [x] -Buy gift for siya and tejas -> 10AM - 12PM
+- [x] Aman Mobile - 70000 -> 10AM - 12PM
+- [ ] Toastmaster class -> 6PM - 8PM
+
+
+
+
+
 - [ ] Prepare corporate body profile task and complete it
-- [x] Resolve all the existing production bugs that i have
+- [ ] book eye appointment -> 12PM - 1PM
 - [ ] TKC Website live again
 - [ ] Purchase 10 more email ids
-- [ ] apply mma pan card
+- [ ] apply for leave after coming from india
 - [ ] Complete Chapter 20,22 of vue book
-- [ ] read corporate body story  and plan what to do on what day?
-- [x] Corporate body story review
-- [x] permissioning issue
-- [x] listing fixes
-- [ ] Kirayedar ghar khali
-- [ ] give domain details to shilpa
-- [ ] du balance deduct
+- [ ] godaddy money follow up
 - [ ] shilpa office bank account open
 - [ ] book passport appointment again
-
-
-- [ ] Health Insurance for family
-- [ ] Look for hotel 
 - [ ] Look for Taxi Driver
 - [ ] Look for office
 - [ ] Complete Vue Book 
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
-- [ ] Excel Sheet Share for pricing
 - [ ] Prasad House 
-- [ ] Talk about Leave with Megha
 - [ ] Freelancing accounts
 - [ ] Aakash job posts
 - [ ] Aademy job post
 - [ ] Launch TKC Dubai
 - [ ] Mac charger fix
-- [ ] Plan October trip
 - [ ] Car Key 
 - [ ] Academy plan 
 - [ ] Shilpa old house transfer
@@ -47,20 +45,7 @@ created: 2024-02-27 00:08
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
-- [ ] Buy gift for siya and tejas
-- [ ] Aman Mobile - 70000
-- [ ] Mma Gold
 - [ ] Meeting with 618
-- [ ] Website preparation of TKC
-- [ ] Launch of TKC on social media
 - [ ] How mainland license work
-- [ ] Study VAT
 - [ ] Study Corporate Tax
-
-
-aalu
-aata
-suji 
-disposal tiffin
-bacho gift
-bhaiya phone
+- [ ] apply mma passport appointment
