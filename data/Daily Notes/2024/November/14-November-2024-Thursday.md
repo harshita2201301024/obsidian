@@ -14,7 +14,8 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 10. [ ] Mobile Subnav can go to any number - 1 Hour
 11. [ ] Convert Config to ts - 1 Hour
 12. [ ] MDI Icons not getting Visible
-13. [ ] Color Theming
+13. [ ] Color Theming and spacing 
+14. [ ] Cod Refactoring
 
 13 Hours
 
