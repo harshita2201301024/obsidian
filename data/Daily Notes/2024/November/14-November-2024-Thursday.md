@@ -12,7 +12,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 3. [ ] Color Theming and spacing                                                                                     4:30 PM - 6:30PM 
 4. [ ] Code Refactoring                                                                                                      6:30 PM - 8:30 PM
 5. [ ] Convert Config to ts                                                                                                 8:30 PM - 9:30 PM
-6. [ ] Mobile design of emphasis-mixed                                                                           9:30 PM - 11:00 PM
+6. [x] Mobile design of emphasis-mixed                                                                           9:30 PM - 11:00 PM ✅ 2024-11-17 - Need to discuss with ajumal
 7. [ ] on Home Button Hover Overview, Business and Resources should scrool          11: 00 PM - 01:00 AM
 8. [ ] Select Component Normal and Disabled Mode                                                      01:00 AM - 03:00 AM
 9. [ ] Mobile Subnav can go to any number                                                                     03:00 AM - 05: 00 AM
