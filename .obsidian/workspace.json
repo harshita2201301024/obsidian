@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Others/Things to do Today.md",
+                "file": "data/Startup/Shilpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Others/Things to do Today.md",
+                "file": "data/Startup/Shilpa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Others/Things to do Today.md"
+                "file": "data/Startup/Shilpa.md"
               }
             }
           },
@@ -186,44 +186,44 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "74e03c639ac20ddc",
+  "active": "01581d03eb60efd9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "data/Others/Things to do Today.md",
     "data/Startup/Shilpa.md",
+    "data/Others/Things to do Today.md",
+    "data/Study/Vue/23. Provide Inject/23.3 Hierarchical providers.md",
+    "data/Study/Vue/23. Provide Inject/23.2 Testing Components with inject.md",
+    "data/Study/Vue/23. Provide Inject/23.1 A way to avoid props drilling.md",
+    "data/Study/Vue/23. Provide Inject",
+    "data/Study/Vue/22. Forms/22.4 defineModel macro.md",
+    "data/Study/Vue/22. Forms/22.3 Custom Form Components.md",
+    "data/Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
+    "data/Study/Vue/22. Forms/22.1 The v-model directive.md",
+    "data/Study/Vue/22. Forms/22. Forms.md",
+    "data/Study/Vue/22. Forms",
+    "data/Study/Vue/21. Lazy-loading/21.4 Grouping components in the same bundle.md",
+    "data/Study/Vue/21. Lazy-loading/21.3 Lazy-loading with the router.md",
+    "data/Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
+    "data/Study/Vue/21. Lazy-loading/21. Lazy loading.md",
+    "data/Study/Vue/21. Lazy-loading",
+    "data/Study/Vue/20. Router/20.9 Navigation guards.md",
+    "data/Study/Vue/20. Router/20.8 Nested routes.md",
+    "data/Study/Vue/20. Router/20.7 Route Matching.md",
+    "data/Study/Vue/20. Router/20.6 Redirects.md",
+    "data/Study/Vue/20. Router/20.5 Passing parameters as props.md",
+    "data/Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
+    "data/Study/Vue/20. Router/20.10 Meta information.md",
+    "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
+    "data/Daily Notes/2024/October/12-October-2024-Saturday.md",
     "data/Daily Notes/2024/October/08-October-2024-Tuesday.md",
     "data/Daily Notes/2024/August/29-August-2024-Thursday.md",
-    "data/Study/Vue/9. the Templating Syntax/9.4 Events with v-on.md",
-    "data/Study/Vue/9. the Templating Syntax/9.3 Property binding with v-bind.md",
-    "data/Study/Vue/9. the Templating Syntax/9.2 Using Other components in our templates.md",
-    "data/Study/Vue/9. the Templating Syntax/9.1 Interpolation.md",
     "data/Study/Vue/9. the Templating Syntax",
-    "data/Study/Vue/8. From Zero to something/6. Single File Component.md",
-    "data/Study/Vue/8. From Zero to something/5. Create Vue.md",
-    "data/Study/Vue/8. From Zero to something/4. Vite.md",
-    "data/Study/Vue/8. From Zero to something/3. Bundlers Webpack, Rollup, esbuild.md",
-    "data/Study/Vue/8. From Zero to something/2. Vue CLI.md",
-    "data/Study/Vue/8. From Zero to something/1. The progressive framework.md",
     "data/Study/Vue/8. From Zero to something",
-    "data/Study/Vue/20. Router/20.4 Router and Suspense.md",
-    "data/Study/Vue/20. Router/20.3 Parameters.md",
-    "data/Study/Vue/20. Router/20.2 Navigation.md",
-    "data/Study/Vue/20. Router/20.1. En route.md",
-    "data/Study/Vue/20. Router/20. Router.md",
     "data/Study/Vue/20. Router",
-    "data/Study/Vue/19. Suspense/19.5 script setup and await.md",
-    "data/Study/Vue/19. Suspense/19.4 Suspense vs onMounted.md",
-    "data/Study/Vue/19. Suspense/19.3 Suspense events.md",
-    "data/Study/Vue/19. Suspense/19.2 Error handling with onErrorCaptured.md",
-    "data/Study/Vue/19. Suspense/19.1 Display a fallback content.md",
-    "data/Study/Vue/19. Suspense/19. Suspense.md",
     "data/Study/Vue/19. Suspense",
     "data/Study/Vue/18. Slots",
     "data/Study/Vue/17. Send and receive data through HTTP",
     "data/Study/Vue/16. Testing your app",
-    "data/Study/Vue/15. Script Setup",
-    "data/Study/Vue/14. Many define components",
-    "data/Study/Vue/13. Composition API",
     "Screenshot 2024-09-24 at 4.16.37 PM.png"
   ]
 }
