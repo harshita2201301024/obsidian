@@ -16,7 +16,7 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 7. [ ] on Home Button Hover Overview, Business and Resources should scrool          11: 00 PM - 01:00 AM
 8. [ ] Select Component Normal and Disabled Mode                                                      01:00 AM - 03:00 AM
 9. [ ] Mobile Subnav can go to any number                                                                     03:00 AM - 05: 00 AM
-10. [ ] Clicking on Overview Resources should get removed
+10. [x] Clicking on Overview Resources should get removed ✅ 2024-11-17
 11. [ ] Arabic Translation
 
 
