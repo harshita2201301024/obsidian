@@ -8,7 +8,7 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/63183/
 Here make v-window-item dynamic. To do this, first create a computed property from the nested subnavs, which will traverse nested subnavs and returns a linear array with each subnav section. Loop through that array for rendering v-window-item for each subnavs. If item index > 0, show back button.
 
 1. [x] MDI Icons not getting Visible                                                                                   3PM - 4PM ✅ 2024-11-17
-2. [ ] Account Button Size                                                                                                 4PM - 4:30 PM
+2. [x] Account Button Size                                                                                                 4PM - 4:30 PM ✅ 2024-11-17
 3. [ ] Color Theming and spacing                                                                                     4:30 PM - 6:30PM 
 4. [ ] Code Refactoring                                                                                                      6:30 PM - 8:30 PM
 5. [ ] Convert Config to ts                                                                                                 8:30 PM - 9:30 PM
