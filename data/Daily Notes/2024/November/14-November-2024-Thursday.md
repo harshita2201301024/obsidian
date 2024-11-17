@@ -9,13 +9,13 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 
 1. [ ] MDI Icons not getting Visible                                                                                   3PM - 4PM
 2. [ ] Account Button Size                                                                                                 4PM - 4:30 PM
-3. [ ] Color Theming and spacing  4:30 PM - 6:30PM 
-4. [ ] Code Refactoring 6:30 PM - 8:30 PM
-5. [ ] Convert Config to ts  8:30 PM - 9:30 PM
+3. [ ] Color Theming and spacing                                                                                     4:30 PM - 6:30PM 
+4. [ ] Code Refactoring                                                                                                      6:30 PM - 8:30 PM
+5. [ ] Convert Config to ts                                                                                                 8:30 PM - 9:30 PM
 6. [ ] Mobile design of emphasis-mixed 9:30 PM - 11:00 PM
-7. [ ] on Home Button Hover Overview, Business and Resources should scrool 11: 00 P
-8. [ ] Select Component Normal and Disabled Mode 
-9. [ ] Mobile Subnav can go to any number 
+7. [ ] on Home Button Hover Overview, Business and Resources should scrool 11: 00 PM - 01:00 AM
+8. [ ] Select Component Normal and Disabled Mode  01:00 AM - 03:00 AM
+9. [ ] Mobile Subnav can go to any number 03:00 AM - 05: 00 AM
 
 
 
