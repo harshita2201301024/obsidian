@@ -7,14 +7,14 @@ https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/63183/
 
 Here make v-window-item dynamic. To do this, first create a computed property from the nested subnavs, which will traverse nested subnavs and returns a linear array with each subnav section. Loop through that array for rendering v-window-item for each subnavs. If item index > 0, show back button.
 
-1. [ ] MDI Icons not getting Visible 
-2. [ ] Color Theming and spacing 
-3. [ ] Code Refactoring
-4. [ ] Convert Config to ts 
-5. [ ] Mobile design of emphasis-mixed
-6. [ ] on Home Button Hover Overview, Business and Resources should scrool 
-7. [ ] Select Component Normal and Disabled Mode 
-8. [ ] Account Button Size 
+1. [ ] MDI Icons not getting Visible  3PM - 4PM
+2. [ ] Account Button Size 4PM - 4:30 
+3. [ ] Color Theming and spacing 
+4. [ ] Code Refactoring
+5. [ ] Convert Config to ts 
+6. [ ] Mobile design of emphasis-mixed
+7. [ ] on Home Button Hover Overview, Business and Resources should scrool 
+8. [ ] Select Component Normal and Disabled Mode 
 9. [ ] Mobile Subnav can go to any number 
 
 
