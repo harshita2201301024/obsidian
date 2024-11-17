@@ -12,6 +12,22 @@ Protein 1 or 2 scoop a daya
 - **Target Weight**: 70kg
 - **Goal Duration**: 100 days
 
+Gym Weight
+
+| Day     | Weight |
+| ------- | ------ |
+| 8th Oct | 80.35  |
+| 9th Oct | 79.85  |
+| 10 Oct  | 79.1   |
+| 11 Oct  | 78.85  |
+| 12 Oct  | 78.15  |
+| 13 Oct  | 78.55  |
+| 14 Oct  | 78.7   |
+| 15 Oct  | 78.2   |
+| 16 Oct  | 77.6   |
+
+
+
 ---
 
 ## Push Exercises (Chest, Triceps, Shoulders)
@@ -46,28 +62,28 @@ Protein 1 or 2 scoop a daya
 
 ### Weight Loss Goals
 
-| Day         | Goal Weight |
-|-------------|-------------|
-| Day 5       | 79.5kg      |
-| Day 10      | 79kg        |
-| Day 15      | 78.5kg      |
-| Day 20      | 78kg        |
-| Day 25      | 77.5kg      |
-| Day 30      | 77kg        |
-| Day 35      | 76.5kg      |
-| Day 40      | 76kg        |
-| Day 45      | 75.5kg      |
-| Day 50      | 75kg        |
-| Day 55      | 74.5kg      |
-| Day 60      | 74kg        |
-| Day 65      | 73.5kg      |
-| Day 70      | 73kg        |
-| Day 75      | 72.5kg      |
-| Day 80      | 72kg        |
-| Day 85      | 71.5kg      |
-| Day 90      | 71kg        |
-| Day 95      | 70.5kg      |
-| Day 100     | 70kg        |
+| Day     | Goal Weight |
+| ------- | ----------- |
+| Day 5   | 79.5kg      |
+| Day 10  | 79kg        |
+| Day 15  | 78.5kg      |
+| Day 20  | 78kg        |
+| Day 25  | 77.5kg      |
+| Day 30  | 77kg        |
+| Day 35  | 76.5kg      |
+| Day 40  | 76kg        |
+| Day 45  | 75.5kg      |
+| Day 50  | 75kg        |
+| Day 55  | 74.5kg      |
+| Day 60  | 74kg        |
+| Day 65  | 73.5kg      |
+| Day 70  | 73kg        |
+| Day 75  | 72.5kg      |
+| Day 80  | 72kg        |
+| Day 85  | 71.5kg      |
+| Day 90  | 71kg        |
+| Day 95  | 70.5kg      |
+| Day 100 | 70kg        |
 
 ---
 
