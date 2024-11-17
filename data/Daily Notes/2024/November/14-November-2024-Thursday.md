@@ -22,3 +22,34 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 13. [x] Sometime only overview gets visible - 1 Hour ✅ 2024-11-15
 
 13 Hours
+
+
+Pending Items
+
+
+- [ ] Say No to 
+- [ ] Apply for leaves [3 days approval pending]
+- [ ] Aakash job posts
+- [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
+- [ ] Ameer Incentive
+- [ ] Complete Vuetify book
+- [ ] Apply for Freelancing Jobs
+- [ ] Freelancing accounts
+- [ ] Mac charger fix
+- [ ] Change name plate of shippu's house - 4 hours
+- [ ] photo studio contact for two photos
+- [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
+- [ ] Academy plan 
+- [ ] Sell Both Bikes - 4 hours
+- [ ] Look for car - 20 hours
+- [ ] Aademy job post
+- [ ] Car Key 
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Meeting with 618
+- [ ] How mainland license work
+- [ ] Study Corporate Tax
+- [ ] dentish appointment - 4 hours
