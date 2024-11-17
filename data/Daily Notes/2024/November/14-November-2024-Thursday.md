@@ -21,7 +21,18 @@ Here make v-window-item dynamic. To do this, first create a computed property fr
 
 
 
-13 Hours
+ {  
+  "type": "select",  
+  "label": "Company name",  
+  "disabled": false,  
+  "width": 200  
+},  
+{  
+  "type": "select",  
+  "label": "Branch name",  
+  "disabled": false,  
+  "width": 200  
+}
 
 
 Pending Items
