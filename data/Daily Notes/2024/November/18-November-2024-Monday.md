@@ -82,3 +82,7 @@ defineProps({
   border-color: transparent #000 transparent transparent;  
 }  
 </style>
+
+
+
+https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/68543/
