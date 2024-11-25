@@ -21,8 +21,10 @@ Dubai World Trade Center
 - [ ] ENBD Bank Account Debit Card
 - [ ] ENBD Money Deduction
 - [ ] ENBD deduction of godaddy
-- [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
+- [ ] Say No to TKC Dubai
+- [ ] Talk about academy with bhai sister
 - [ ] Apply for leaves [3 days approval pending]
+
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
