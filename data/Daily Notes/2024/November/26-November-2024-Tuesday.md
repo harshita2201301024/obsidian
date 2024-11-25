@@ -5,6 +5,13 @@ created: 2024-02-27 00:08
 - [ ] Color of breadcrumbs issue
 - [ ] Complete v-tooltip
 - [ ] Header Permissioning
+- [ ] ENBD Bank Account Debit Card
+- [ ] ENBD Money Deduction
+- [ ] ENBD deduction of godaddy
+- [ ] Say No to TKC Dubai
+- [ ] Talk about academy with bhai sister
+- [ ] Apply for leaves [3 days approval pending]
+- [ ] photo studio contact for two photos
 
 28th Nov -> 7PM - 10PM
 Share Market, Equity
@@ -16,14 +23,6 @@ RICH DAD, POOR DAD
 17 DEC - 19 DEC -> 9AM - 6PM
 China Market
 Dubai World Trade Center
-
-- [ ] photo studio contact for two photos
-- [ ] ENBD Bank Account Debit Card
-- [ ] ENBD Money Deduction
-- [ ] ENBD deduction of godaddy
-- [ ] Say No to TKC Dubai
-- [ ] Talk about academy with bhai sister
-- [ ] Apply for leaves [3 days approval pending]
 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
