@@ -18,8 +18,8 @@ We had put lot of efforts in initial levels, it felt like it was our own busines
 Share Market, Equity
 Business Bay
 
-2ND DEC - 3RD DEC -> 9AM - 6PM
-
+(2ND DEC - 3RD DEC) -> 9AM - 6PM
+RICH DAD, POOR DAD
 
 17 DEC - 19 DEC -> 9AM - 6PM
 China Market
