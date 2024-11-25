@@ -22,7 +22,6 @@ Dubai World Trade Center
 - [ ] ENBD Money Deduction
 - [ ] ENBD deduction of godaddy
 - [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
-- [ ] Say No to TKC Dubai
 - [ ] Apply for leaves [3 days approval pending]
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
