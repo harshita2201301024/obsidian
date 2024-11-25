@@ -15,6 +15,8 @@ RICH DAD, POOR DAD
 China Market
 Dubai World Trade Center
 
+- [ ] 
+- [ ] 
 - [ ] Say No to TKC Dubai
 - [ ] Apply for leaves [3 days approval pending]
 - [ ] Aakash job posts
@@ -25,8 +27,6 @@ Dubai World Trade Center
 - [ ] Apply for Freelancing Jobs
 - [ ] Freelancing accounts
 - [ ] Change name plate of shippu's house - 4 hours
-- [ ] photo studio contact for two photos
-- [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
 - [ ] Academy plan 
 - [ ] Sell Both Bikes - 4 hours
 - [ ] Look for car - 20 hours
