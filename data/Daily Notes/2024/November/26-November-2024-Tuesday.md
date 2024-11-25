@@ -3,7 +3,6 @@ created: 2024-02-27 00:08
 ---
 
 
-
 28th Nov -> 7PM - 10PM
 Share Market, Equity
 Business Bay
@@ -15,8 +14,11 @@ RICH DAD, POOR DAD
 China Market
 Dubai World Trade Center
 
-- [ ] 
-- [ ] 
+- [ ] photo studio contact for two photos
+- [ ] Talk about academy with bhai sister - 4 hours - 1 hour daily
+- [ ] ENBD Bank Account Debit Card
+- [ ] ENBD Money Deduction
+- [ ] ENBD de
 - [ ] Say No to TKC Dubai
 - [ ] Apply for leaves [3 days approval pending]
 - [ ] Aakash job posts
