@@ -17,5 +17,7 @@ We had put lot of efforts in initial levels, it felt like it was our own busines
 28th Nov -> 7PM - 10PM
 Share Market, Equity
 
-
+17 DEC - 19 DEC -> 9AM - 6PM
+Cj
+Dubai World Trade Center
 
