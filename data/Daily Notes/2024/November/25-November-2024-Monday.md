@@ -10,4 +10,5 @@ no ownership
 loss of money 
 we respect you a lot
 no coordination in team
-you all are in win win situation e
+you all are in win win situation except us
+I am really sorry but we can't continue
