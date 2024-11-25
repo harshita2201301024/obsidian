@@ -13,3 +13,4 @@ we respect you a lot
 no coordination in team
 you all are in win win situation except us
 I am really sorry but we can't continue
+We had put lot of efforts in initial levels, it felt like it was our own business name. 
