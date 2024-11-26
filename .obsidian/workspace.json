@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2024/November/25-November-2024-Monday.md",
+                "file": "data/Study/Things to Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-November-2024-Monday"
+              "title": "Things to Study"
             }
           }
         ],
@@ -211,10 +211,11 @@
   },
   "active": "dd68b4dd6bab0a45",
   "lastOpenFiles": [
-    "data/Daily Notes/2024/November/26-November-2024-Tuesday.md",
-    "data/Daily Notes/2024/November/23-November-2024-Saturday.md",
-    "data/Daily Notes/2024/November/25-November-2024-Monday.md",
     "data/Study/Vuetify/Introduction/Introduction.md",
+    "data/Study/Things to Study.md",
+    "data/Daily Notes/2024/November/26-November-2024-Tuesday.md",
+    "data/Daily Notes/2024/November/25-November-2024-Monday.md",
+    "data/Daily Notes/2024/November/23-November-2024-Saturday.md",
     "data/Daily Notes/2024/November/18-November-2024-Monday.md",
     "data/Study/Vuetify/Introduction",
     "data/Study/Vuetify",
@@ -241,7 +242,6 @@
     "data/Daily Notes/2024/November",
     "data/Daily Notes/2024/October/13-October-2024-Sunday.md",
     "data/Daily Notes/2024/October/03-October-2024-Thursday.md",
-    "data/Daily Notes/2024/October/02-October-2024-Wednesday.md",
     "data/Study/Vue/30. Performances",
     "data/Study/Vue/28. Internationalizaiton",
     "data/Study/Vue/27. Custom Directives",
