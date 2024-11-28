@@ -7,3 +7,5 @@ ic-office-building
 ic-factory
 ic-consturction-worker
 ic-trading
+ic-document-duplicate
+ic-bus
