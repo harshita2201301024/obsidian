@@ -9,3 +9,5 @@ ic-consturction-worker
 ic-trading
 ic-document-duplicate
 ic-bus
+ic-globe-alt
+ic-real-estate
