@@ -11,3 +11,4 @@ ic-document-duplicate
 ic-bus
 ic-globe-alt
 ic-real-estate
+ic-book
