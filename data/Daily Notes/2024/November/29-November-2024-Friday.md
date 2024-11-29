@@ -9,4 +9,5 @@ created: 2024-02-27 00:08
 Desktop and Mobile Should Have a Single Menu Option
 Back Button Issue
 <mark style="background: #BBFABBA6;">Click of HeaderDropdown Not Working</mark>
+Mobile Click Issue
 
