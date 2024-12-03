@@ -15,9 +15,6 @@ created: 2024-02-27 00:08
 12. ENBD deduction of godaddy
 13. photo studio contact for two photos
 
-
-
-
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
@@ -26,8 +23,8 @@ created: 2024-02-27 00:08
 - [ ] Freelancing accounts
 - [ ] Change name plate of shippu's house - 4 hours
 - [ ] Academy plan 
-- [ ] Sell Both Bikes - 4 hours
-- [ ] Look for car - 20 hours
+- [ ] Sell Both Bikes
+- [ ] Look for car
 - [ ] Aademy job post
 - [ ] Car Key 
 - [ ] Resignation shilpa
