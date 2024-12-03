@@ -10,4 +10,7 @@ created: 2024-02-27 00:08
 7. Talk to Jumpy regarding trip
 8. Talk to kirayedarni regarding vacant home
 9. Plan for GYM
-10. 
+10. ENBD Bank Account Debit Card
+11. ENBD Money Deduction
+12. 
+- [ ] ENBD deduction of godaddy
