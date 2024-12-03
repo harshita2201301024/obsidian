@@ -12,15 +12,19 @@ created: 2024-02-27 00:08
 7. Create new excel file for timesheet
 8. Complete Login Permissions
 
-4PM - 6
+4PM - 6PM 
 1. Apply Mmi Passport
 2. Talk regarding mitti
 3. Talk to Shveta regarding home
 4. Talk to Jumpy regarding trip
-5. Talk to kirayedarni regarding vacant home
-6. Plan for GYM
-7. photo studio contact for two photos
-8. Complete Features, Styles and animations
+1. Talk to kirayedarni regarding vacant home
+
+6PM - 8PM 
+1. photo studio contact for two photos
+2. Complete Features, Styles and animations
+
+8PM - 10PM 
+1. Plan for GYM
 
 
 - [ ] Aakash job posts
