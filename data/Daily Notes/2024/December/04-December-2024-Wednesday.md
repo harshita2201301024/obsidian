@@ -5,19 +5,19 @@ created: 2024-02-27 00:08
 
 1. Emirates NBD ATM
 2. ENBD Bank Account Debit Card
-4. ENBD Money Deduction
-5. ENBD deduction of godaddy
+3. ENBD Money Deduction
+4. ENBD deduction of godaddy
 
 10AM - 4 PM
-7. Create new excel file for timesheet
-8. Complete Login Permissions
+1. Create new excel file for timesheet
+2. Complete Login Permissions
 
 4PM - 6PM 
 1. Apply Mmi Passport
 2. Talk regarding mitti
 3. Talk to Shveta regarding home
 4. Talk to Jumpy regarding trip
-1. Talk to kirayedarni regarding vacant home
+5. Talk to kirayedarni regarding vacant home
 
 6PM - 8PM 
 1. photo studio contact for two photos
