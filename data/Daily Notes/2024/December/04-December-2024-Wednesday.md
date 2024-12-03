@@ -21,7 +21,7 @@ created: 2024-02-27 00:08
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Freelancing accounts
-- [ ] Change name plate of shippu's house - 4 hours
+- [ ] Change name plate of shippu's house 
 - [ ] Academy plan 
 - [ ] Sell Both Bikes
 - [ ] Look for car
