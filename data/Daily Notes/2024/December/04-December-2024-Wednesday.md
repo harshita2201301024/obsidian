@@ -5,4 +5,5 @@ created: 2024-02-27 00:08
 2. Create new excel file for timesheet
 3. Apply Mmi Passport
 4. Complete Login Permissions
-5. 
+5. Talk regarding mitti
+6. Talk to 
