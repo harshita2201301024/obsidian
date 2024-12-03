@@ -15,7 +15,7 @@ created: 2024-02-27 00:08
 12. ENBD deduction of godaddy
 13. photo studio contact for two photos
 14. Complete Features, Styles and animations
-15. 
+
 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
