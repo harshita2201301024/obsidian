@@ -1,21 +1,26 @@
 ---
 created: 2024-02-27 00:08
 ---
+8AM - 10AM
+
 1. Emirates NBD ATM
 2. ENBD Bank Account Debit Card
 4. ENBD Money Deduction
 5. ENBD deduction of godaddy
 
-1. Create new excel file for timesheet
-2. Apply Mmi Passport
-3. Complete Login Permissions
-4. Talk regarding mitti
-5. Talk to Shveta regarding home
-6. Talk to Jumpy regarding trip
-7. Talk to kirayedarni regarding vacant home
-8. Plan for GYM
-9. photo studio contact for two photos
-10. Complete Features, Styles and animations
+10AM - 4 PM
+7. Create new excel file for timesheet
+8. Complete Login Permissions
+
+4PM - 6
+1. Apply Mmi Passport
+2. Talk regarding mitti
+3. Talk to Shveta regarding home
+4. Talk to Jumpy regarding trip
+5. Talk to kirayedarni regarding vacant home
+6. Plan for GYM
+7. photo studio contact for two photos
+8. Complete Features, Styles and animations
 
 
 - [ ] Aakash job posts
