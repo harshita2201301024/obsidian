@@ -6,4 +6,6 @@ created: 2024-02-27 00:08
 3. Apply Mmi Passport
 4. Complete Login Permissions
 5. Talk regarding mitti
-6. Talk to 
+6. Talk to Shveta regarding home
+7. Talk to Jumpy regarding trip
+8. 
