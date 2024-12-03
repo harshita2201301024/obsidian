@@ -12,5 +12,27 @@ created: 2024-02-27 00:08
 9. Plan for GYM
 10. ENBD Bank Account Debit Card
 11. ENBD Money Deduction
-12. 
-- [ ] ENBD deduction of godaddy
+12. ENBD deduction of godaddy
+13. photo studio contact for two photos
+
+
+
+
+- [ ] Aakash job posts
+- [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
+- [ ] Complete Vuetify book
+- [ ] Apply for Freelancing Jobs
+- [ ] Freelancing accounts
+- [ ] Change name plate of shippu's house - 4 hours
+- [ ] Academy plan 
+- [ ] Sell Both Bikes - 4 hours
+- [ ] Look for car - 20 hours
+- [ ] Aademy job post
+- [ ] Car Key 
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Study Corporate Tax
+- [ ] dentish appointment 

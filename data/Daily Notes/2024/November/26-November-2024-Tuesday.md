@@ -27,7 +27,6 @@ Dubai World Trade Center
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
-- [ ] Ameer Incentive
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Freelancing accounts
@@ -42,4 +41,4 @@ Dubai World Trade Center
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
 - [ ] Study Corporate Tax
-- [ ] dentish appointment - 4 hours
+- [ ] dentish appointment 
