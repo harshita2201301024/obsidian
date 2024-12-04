@@ -2,7 +2,13 @@
 created: 2024-02-27 00:08
 ---
 8AM - 2PM
-Complete the Rest of Business 
+
+Complete the Rest of Business - Summary Page
+2PM - 3PM 
+Summary Page
+3PM - 5PM 
+Pay Fees
+
 mobile header animation - follow stepper strategy
 Activity group sortBy
 Checkbox icon
