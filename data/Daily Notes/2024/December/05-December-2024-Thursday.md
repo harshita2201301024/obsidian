@@ -1,8 +1,8 @@
 ---
 created: 2024-02-27 00:08
 ---
-8AM - 10AM
-
+8AM - 2PM
+Complete the Rest of Business 
 mobile header animation - follow stepper strategy
 Activity group sortBy
 Checkbox icon
