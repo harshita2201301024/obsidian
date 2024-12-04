@@ -15,8 +15,7 @@ created: 2024-02-27 00:08
 		 Activity group sortBy
 		 Checkbox icon
 		 Show only spacing
-		 View Activity Mobile Design
-		 
+		 View Activity Mobile Design - Filter, border-radius-start-end
 		 
 		 
 
