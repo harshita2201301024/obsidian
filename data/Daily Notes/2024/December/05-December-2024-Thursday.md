@@ -17,9 +17,9 @@ learn the meaning of flex 1 1
 		 
 
 4PM - 6PM 
-2. Talk regarding mitti
-<mark style="background: #BBFABBA6;">3. Talk to Shveta regarding home</mark>
-<mark style="background: #BBFABBA6;">4. Talk to Jumpy regarding trip</mark>
+1. Talk regarding mitti
+3. Talk to Shveta regarding home
+4. Talk to Jumpy regarding trip
 5. Talk to kirayedarni regarding vacant home
 
 6PM - 8PM 
