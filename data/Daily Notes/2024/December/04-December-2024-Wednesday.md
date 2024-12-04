@@ -10,6 +10,7 @@ created: 2024-02-27 00:08
 10AM - 4 PM
 1. Create new excel file for timesheet
 2. Complete Login Permissions
+		Permission Service Routing
 
 4PM - 6PM 
 1. Apply Mmi Passport
