@@ -24,9 +24,9 @@ learn the meaning of flex 1 1
 
 6PM - 8PM 
 1. photo studio contact for two photos
-2. Complete Features, Styles and animations
+2. Complete Containment, Navigation and Form Input & Control
 
-8PM - 10PM 
+7PM - 8PM 
 1. Plan for GYM
 
 Pending Things
