@@ -3,9 +3,9 @@ created: 2024-02-27 00:08
 ---
 8AM - 10AM
 
-1. Emirates NBD ATM 
+<mark style="background: #BBFABBA6;">1. Emirates NBD ATM 
 3. ENBD Money Deduction
-4. ENBD deduction of godaddy
+4. ENBD deduction of godaddy</mark>
 
 10AM - 4 PM
 1. Create new excel file for timesheet
