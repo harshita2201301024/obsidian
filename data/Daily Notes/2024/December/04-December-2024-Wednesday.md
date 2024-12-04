@@ -18,6 +18,8 @@ created: 2024-02-27 00:08
 		 View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile
 		 filter button
 		 Select your business activities foriegn ownership and primary activity button
+		 make a separate higher order component for header footer
+		 
 		 
 		 
 		 
