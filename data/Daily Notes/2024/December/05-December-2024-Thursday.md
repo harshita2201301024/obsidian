@@ -29,14 +29,15 @@ learn the meaning of flex 1 1
 5. Talk to kirayedarni regarding vacant home
 
 6:30 PM - 8:30 PM 
-GYM
+GYM and sabzi lene jaana
 
-8:30 p
+
+8:30 PM - 10PM
 1. photo studio contact for two photos
 2. Complete Containment, Navigation and Form Input & Control
 
-7PM - 8PM 
-1. Plan for GYM
+10PM - 11PM
+Todo and Sleep
 
 Pending Things
 
