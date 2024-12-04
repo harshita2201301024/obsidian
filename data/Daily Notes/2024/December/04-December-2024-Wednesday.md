@@ -3,7 +3,7 @@ created: 2024-02-27 00:08
 ---
 8AM - 10AM
 
-1. Emirates NBD ATM
+1. Emirates NBD ATM -d
 2. ENBD Bank Account Debit Card
 3. ENBD Money Deduction
 4. ENBD deduction of godaddy
