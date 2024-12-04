@@ -3,12 +3,11 @@ created: 2024-02-27 00:08
 ---
 8AM - 10AM
 
-1. Emirates NBD ATM 
-		mobile header animation - follow stepper strategy
-		 Activity group sortBy
-		 Checkbox icon
-		 Show only spacing
-		 View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile
+mobile header animation - follow stepper strategy
+Activity group sortBy
+Checkbox icon
+Show only spacing
+View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile
 filter button
 Select your business activities foriegn ownership and primary activity button
 make a separate higher order component for header footer
@@ -33,7 +32,6 @@ learn the meaning of flex 1 1
 Pending Things
 
  - [ ] Emirates NBD ATM 
- - [ ] ENBD Money Deduction
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
