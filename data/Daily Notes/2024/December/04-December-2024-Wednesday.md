@@ -23,10 +23,10 @@ created: 2024-02-27 00:08
 		 
 
 4PM - 6PM 
-1. Apply Mmi Passport
+<mark style="background: #BBFABBA6;">1. Apply Mmi Passport</mark>
 2. Talk regarding mitti
-3. Talk to Shveta regarding home
-4. Talk to Jumpy regarding trip
+<mark style="background: #BBFABBA6;">3. Talk to Shveta regarding home</mark>
+<mark style="background: #BBFABBA6;">4. Talk to Jumpy regarding trip</mark>
 5. Talk to kirayedarni regarding vacant home
 
 6PM - 8PM 
