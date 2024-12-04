@@ -11,8 +11,9 @@ created: 2024-02-27 00:08
 <mark style="background: #BBFABBA6;">1. Create new excel file for timesheet</mark>
 <mark style="background: #BBFABBA6;">2. Complete Login Permissions</mark>
 <mark style="background: #BBFABBA6;">		Permission Service Routing</mark>
-		mobile header animation
+		mobile header animation - follow stepper strategy
 		 Activity group sortBy
+		 Checkbox icon
 		 
 
 4PM - 6PM 
