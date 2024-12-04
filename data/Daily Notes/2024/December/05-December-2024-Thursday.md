@@ -22,13 +22,16 @@ learn the meaning of flex 1 1
 		 
 		 
 
-4PM - 6PM 
+6 PM - 6:30 PM 
 1. Talk regarding mitti
 3. Talk to Shveta regarding home
 4. Talk to Jumpy regarding trip
 5. Talk to kirayedarni regarding vacant home
 
-6PM - 8PM 
+6:30 PM - 8:30 PM 
+GYM
+
+8:30 p
 1. photo studio contact for two photos
 2. Complete Containment, Navigation and Form Input & Control
 
