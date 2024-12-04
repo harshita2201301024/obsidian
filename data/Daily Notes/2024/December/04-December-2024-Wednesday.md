@@ -3,8 +3,7 @@ created: 2024-02-27 00:08
 ---
 8AM - 10AM
 
-1. Emirates NBD ATM -d
-2. ENBD Bank Account Debit Card
+1. Emirates NBD ATM 
 3. ENBD Money Deduction
 4. ENBD deduction of godaddy
 
@@ -26,7 +25,10 @@ created: 2024-02-27 00:08
 8PM - 10PM 
 1. Plan for GYM
 
+Pending Things
 
+ - [ ] Emirates NBD ATM 
+ - [ ] ENBD Money Deduction
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
