@@ -14,6 +14,8 @@ created: 2024-02-27 00:08
 		mobile header animation - follow stepper strategy
 		 Activity group sortBy
 		 Checkbox icon
+		 Show only spacing
+		 
 		 
 
 4PM - 6PM 
