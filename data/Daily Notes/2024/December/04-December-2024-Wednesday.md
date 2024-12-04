@@ -19,7 +19,7 @@ created: 2024-02-27 00:08
 		 filter button
 		 Select your business activities foriegn ownership and primary activity button
 		 make a separate higher order component for header footer
-		 
+		 learn the meaning of flex 1 1 
 		 
 		 
 		 
