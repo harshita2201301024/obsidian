@@ -3,7 +3,7 @@ created: 2024-02-27 00:08
 ---
 
 **Friday**
-test the whole business name and fix issues - 6 hours
+test the whole business name and fix issues - 6 hours - [9 AM - 1PM
 Activity group sortBy - 2 hours
 Checkbox icon - 2 hour
 Show only spacing -  2 hour
@@ -34,9 +34,10 @@ learn the meaning of flex 1 1 - 1 hour
 3. Talk to Shveta regarding home
 4. Talk to Jumpy regarding trip
 5. Talk to kirayedarni regarding vacant home
+6. Gaadi ki baat krna
 
 6:30 PM - 8:30 PM 
-GYM and sabzi lene jaana
+GYM 
 
 
 8:30 PM - 10PM
