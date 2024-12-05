@@ -10,7 +10,6 @@ Summary Page
 Pay Fees
 
 test the whole business name and fix issues - 6 hours
-mobile header animation - follow stepper strategy - 6 hours
 Activity group sortBy - 2 hours
 Checkbox icon - 2 hour
 Show only spacing -  2 hour
@@ -18,9 +17,12 @@ View Activity Mobile Design - Filter, border-radius of activity code, foreign ow
 filter button -  4 hour
 Select your business activities foriegn ownership and primary activity button - 2 hour
 make a separate higher order component for header footer - 8 hour
-learn the meaning of flex 1 1 - 1 hour
+
+mobile header animation - follow stepper strategy - 6 hours
 cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
+
+learn the meaning of flex 1 1 - 1 hour
 
 41 hour
 
