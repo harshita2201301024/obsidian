@@ -6,10 +6,10 @@ created: 2024-02-27 00:08
 test the whole business name and fix issues - 6 hours - [9 AM - 1PM]
 Activity group sortBy - 2 hours - [11PM - 12PM]
 Checkbox icon - 2 hour - [12PM - 12:30PM]
-Show only spacing -  2 hour - 
+Show only spacing -  2 hour - [4:30 PM - 5:30PM]
 View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile - 4 hour
 filter button -  4 hour - [12:30PM - 3:30PM]
-Select your business activities foriegn ownership and primary activity button - 2 hour [3:30 P]
+Select your business activities foriegn ownership and primary activity button - 2 hour [3:30 PM - 4:30PM]
 
 **Saturday**
 make a separate higher order component for header footer - 8 hour
