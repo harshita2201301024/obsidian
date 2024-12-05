@@ -9,11 +9,11 @@ Summary Page
 3PM - 5PM 
 Pay Fees
 
-test the whole business name and fix issues - 4 hours
-mobile header animation - follow stepper strategy
-Activity group sortBy
-Checkbox icon
-Show only spacing
+test the whole business name and fix issues - 6 hours
+mobile header animation - follow stepper strategy - 6 hours
+Activity group sortBy - 2 hours
+Checkbox icon - 2 hour
+Show only spacing - 
 View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile
 filter button
 Select your business activities foriegn ownership and primary activity button
