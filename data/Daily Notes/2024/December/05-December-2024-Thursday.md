@@ -13,14 +13,14 @@ test the whole business name and fix issues - 6 hours
 mobile header animation - follow stepper strategy - 6 hours
 Activity group sortBy - 2 hours
 Checkbox icon - 2 hour
-Show only spacing - 
-View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile
-filter button
+Show only spacing -  2 hour
+View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile - 4 hour
+filter button -  4 hour
 Select your business activities foriegn ownership and primary activity button
-make a separate higher order component for header footer
-learn the meaning of flex 1 1 
-cursor issue
-menubar permissioning reactivity issue
+make a separate higher order component for header footer - 8 hour
+learn the meaning of flex 1 1 - 1
+cursor issue - 2 hour
+menubar permissioning reactivity issue - 2 hour
 
 
 		 
