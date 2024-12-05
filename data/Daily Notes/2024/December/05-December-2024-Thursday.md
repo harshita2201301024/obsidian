@@ -9,6 +9,7 @@ Summary Page
 3PM - 5PM 
 Pay Fees
 
+test the whole business name and fix issues - 4 hours
 mobile header animation - follow stepper strategy
 Activity group sortBy
 Checkbox icon
