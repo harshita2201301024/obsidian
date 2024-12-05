@@ -1,13 +1,6 @@
 ---
 created: 2024-02-27 00:08
 ---
-8AM - 2PM
-
-Complete the Rest of Business - Summary Page
-2PM - 3PM 
-Summary Page
-3PM - 5PM 
-Pay Fees
 
 **Friday**
 test the whole business name and fix issues - 6 hours
