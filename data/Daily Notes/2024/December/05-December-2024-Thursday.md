@@ -16,11 +16,14 @@ Checkbox icon - 2 hour
 Show only spacing -  2 hour
 View Activity Mobile Design - Filter, border-radius of activity code, foreign ownership button move to top in mobile - 4 hour
 filter button -  4 hour
-Select your business activities foriegn ownership and primary activity button
+Select your business activities foriegn ownership and primary activity button - 2 hour
 make a separate higher order component for header footer - 8 hour
-learn the meaning of flex 1 1 - 1
+learn the meaning of flex 1 1 - 1 hour
 cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
+
+41 hour
+
 
 
 		 
