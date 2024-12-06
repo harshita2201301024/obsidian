@@ -31,7 +31,9 @@ third screen
 2. checkbox icon
 3. spacing issue between title and subtitle
 4. border should not be applied on the end
-5. 
+5. mobile filter not working
+6. foreign ownership will go at top
+7. 
 
 
 
