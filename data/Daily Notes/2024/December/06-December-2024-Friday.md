@@ -23,7 +23,9 @@ learn the meaning of flex 1 1 - 1 hour
 
 41 hour
 
-For 
+first screen
+make for myself and on behalf of someone else full screen
+
 
 
 
