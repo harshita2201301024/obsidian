@@ -27,8 +27,12 @@ first screen
 make for myself and on behalf of someone else full screen
 
 third screen
-sort by field
-checkbox icon
+1. sort by field
+2. checkbox icon
+3. spacing issue between title and subtitle
+4. border should not be applied on the end
+5. 
+
 
 
 
