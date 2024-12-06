@@ -45,7 +45,7 @@ Fifth Screen
 <mark style="background: #BBFABBA6;">1. Spacing issue between text box</mark>
 <mark style="background: #BBFABBA6;">2. main activity and actvity group color issue</mark>
 <mark style="background: #BBFABBA6;">3. main activity and activity group mobile issue</mark>
-<mark style="background: #FF5582A6;">4. main activity and activity group direction issue</mark> - discuss 
+<mark style="background: #FF5582A6;">4. main activity and activity group direction issue</mark> - discuss with ajumal
 5. Design of standard fees, premium busienss name, total fees
 
 
