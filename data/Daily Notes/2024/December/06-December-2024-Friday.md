@@ -36,6 +36,8 @@ third screen
 6. foreign ownership will go at top
 7. Search icon is different 
 8. cropping of background color of activitity code
+9. Header Design Fixes
+10. 
 
 Fourth Screen
 <mark style="background: #BBFABBA6;">1. foreign ownership and primary activity text in mo0bile is appearning weird</mark>
