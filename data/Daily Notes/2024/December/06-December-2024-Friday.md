@@ -24,7 +24,8 @@ learn the meaning of flex 1 1 - 1 hour
 41 hour
 
 first screen
-make for myself and on behalf of someone else full screen
+<mark style="background: #BBFABBA6;">make for myself and on behalf of someone else full screen</mark>
+<mark style="background: #FF5582A6;">Select a member you are initiating this business on their behalf</mark> - need to discuss with ajumal
 
 third screen
 1. sort by field
