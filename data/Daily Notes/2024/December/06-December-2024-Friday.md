@@ -40,6 +40,10 @@ Fourth Screen
 1. foreign ownership and primary activity text in mo0bile is appearning weird
 2. delete icon color should be red
 
+Fifth Screen
+1. Spacing issue between text box
+2. 
+
 
 
 
