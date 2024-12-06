@@ -45,7 +45,8 @@ Fifth Screen
 2. main activity and actvity group color issue
 3. main activity and activity group mobile issue
 4. main activity and activity group direction issue
-5. 
+5. Design of standard fees, premium busienss name, total fees
+6. 
 
 
 
