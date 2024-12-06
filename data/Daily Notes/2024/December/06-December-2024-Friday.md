@@ -35,7 +35,9 @@ third screen
 6. foreign ownership will go at top
 7. Search icon is different 
 8. cropping of background color of activitity code
-9. 
+
+Fourth Screen
+1. foreign ownership and primary activity text is
 
 
 
