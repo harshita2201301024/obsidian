@@ -42,7 +42,10 @@ Fourth Screen
 
 Fifth Screen
 1. Spacing issue between text box
-2. 
+2. main activity and actvity group color issue
+3. main activity and activity group mobile issue
+4. main activity and activity group direction issue
+5. 
 
 
 
