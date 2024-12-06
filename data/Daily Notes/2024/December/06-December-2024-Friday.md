@@ -33,7 +33,9 @@ third screen
 4. border should not be applied on the end
 5. mobile filter not working
 6. foreign ownership will go at top
-7. 
+7. Search icon is different 
+8. cropping of background color of activitity code
+9. 
 
 
 
