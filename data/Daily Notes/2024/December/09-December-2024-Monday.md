@@ -3,8 +3,8 @@ created: 2024-02-27 00:08
 ---
 
 1. Higher Order Component - 1-2 hour - till (9AM - 11AM)
-2. learn the meaning of flex 1 1 - 1 hour - till 3pm
-3. Fix PR Comments - 30 mins - till 3:30pm
+2. learn the meaning of flex 1 1 - 1 hour - till (11 AM - 12PM)
+3. Fix PR Comments - 30 mins - till 3:30pm (12PM - 12:30PM)
 4. Finish All Components  - 3 Hour - till 7:00pm
 5. GYM - till 9:00pm
 6. TODO AND SLEEP
