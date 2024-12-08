@@ -15,6 +15,7 @@ mobile header animation - follow stepper strategy - 6 hours
 cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
 
+Registered Business Name Empty Screen
 
 6 PM - 6:30 PM 
 1. Talk regarding mitti
