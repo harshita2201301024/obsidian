@@ -5,6 +5,7 @@ created: 2024-02-27 00:08
 2. Higher Order Component - 1-2 hour
 3. learn the meaning of flex 1 1 - 1 hour
 4. Fix PR Comments - 30 mins
+5. Finish All Components 
 
 
 **Sunday**
