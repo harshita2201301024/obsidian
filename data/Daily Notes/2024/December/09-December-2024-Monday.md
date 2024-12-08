@@ -7,7 +7,7 @@ created: 2024-02-27 00:08
 3. Fix PR Comments - 30 mins - till 3:30pm (12PM - 12:30PM)
 4. Registered Business Name Empty Screen (12:30PM - 1:30PM)
 5. Design of No Activities (1:30 PM - 2:30PM)
-6. Background color of green button
+6. Background color of green button (2:30PM - 3:00PM)
 7. Finish All Components  - 3 Hour - till 7:00pm
 8. GYM - till 9:00pm
 9. TODO AND SLEEP
