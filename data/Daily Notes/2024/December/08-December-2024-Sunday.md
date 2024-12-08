@@ -17,6 +17,7 @@ menubar permissioning reactivity issue - 2 hour
 
 Registered Business Name Empty Screen
 Design of No Activities
+Background color of green button
 
 6 PM - 6:30 PM 
 1. Talk regarding mitti
