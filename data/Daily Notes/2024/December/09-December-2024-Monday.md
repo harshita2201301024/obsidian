@@ -29,7 +29,6 @@ menubar permissioning reactivity issue - 2 hour
 
 Pending Things
 
-
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
