@@ -47,4 +47,5 @@ Pending Things
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
 - [ ] Study Corporate Tax
-- [ ] dentish appointment 
+- [ ] dentish appointment
+- [ ] Siya Passport
