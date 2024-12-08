@@ -2,7 +2,9 @@
 created: 2024-02-27 00:08
 ---
 1. Timesheet - 15 mins
-2. 
+2. Higher Order Component - 1-2 hour
+3. learn the meaning of flex 1 1 - 1 hour
+4. Fix PR Comments - 30 mins
 
 
 **Sunday**
@@ -10,7 +12,7 @@ mobile header animation - follow stepper strategy - 6 hours
 cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
 
-learn the meaning of flex 1 1 - 1 hour
+
 
 
 
