@@ -6,7 +6,8 @@ created: 2024-02-27 00:08
 3. learn the meaning of flex 1 1 - 1 hour - till 3pm
 4. Fix PR Comments - 30 mins - till 3:30pm
 5. Finish All Components  - 3 Hour - till 7:00pm
-6. GYM - 
+6. GYM - till 9:00pm
+7. TODO AND SLEEP
 
 
 **Sunday**
@@ -15,32 +16,12 @@ cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
 
 
-
-
-
-
-
-		 
-		 
-		 
-
 6 PM - 6:30 PM 
 1. Talk regarding mitti
 3. Talk to Shveta regarding home
 4. Talk to Jumpy regarding trip
 5. Talk to kirayedarni regarding vacant home
 6. Gaadi ki baat krna
-
-6:30 PM - 8:30 PM 
-GYM 
-
-
-8:30 PM - 10PM
-1. photo studio contact for two photos
-2. Complete Containment, Navigation and Form Input & Control
-
-10PM - 11PM
-Todo and Sleep
 
 Pending Things
 
