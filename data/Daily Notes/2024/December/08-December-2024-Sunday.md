@@ -27,7 +27,7 @@ Design of No Activities
 
 Pending Things
 
- - [ ] Emirates NBD ATM 
+
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
