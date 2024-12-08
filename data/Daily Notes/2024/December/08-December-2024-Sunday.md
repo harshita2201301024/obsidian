@@ -1,11 +1,12 @@
 ---
 created: 2024-02-27 00:08
 ---
-1. Timesheet - 15 mins
-2. Higher Order Component - 1-2 hour
-3. learn the meaning of flex 1 1 - 1 hour
-4. Fix PR Comments - 30 mins
-5. Finish All Components 
+1. Timesheet - 15 mins - Till 12pm
+2. Higher Order Component - 1-2 hour - till 2 pm
+3. learn the meaning of flex 1 1 - 1 hour - till 3pm
+4. Fix PR Comments - 30 mins - till 3:30pm
+5. Finish All Components  - 3 Hour - till 7:00pm
+6. GYM - 
 
 
 **Sunday**
