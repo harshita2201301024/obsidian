@@ -2,8 +2,8 @@
 created: 2024-02-27 00:08
 ---
 
-1. Fill Timesheet
-2. Request Details Page
+1. Fill Timesheet -> 9AM - 9:30 AM
+2. Request Details Page ->9:30AM - 
 3. Request Detail Doc Upload
 4. Request Detail 3rd Page
 5. Summary Page
