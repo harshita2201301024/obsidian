@@ -5,7 +5,7 @@ created: 2024-02-27 00:08
 <mark style="background: #BBFABBA6;">1. Higher Order Component - 1-2 hour - till (9AM - 11AM)</mark>
 <mark style="background: #BBFABBA6;">2. learn the meaning of flex 1 1 - 1 hour - till (11 AM - 12PM)</mark>
 <mark style="background: #BBFABBA6;">3. Fix PR Comments - 30 mins - till 3:30pm (12PM - 12:30PM)</mark>
-4. Registered Business Name Empty Screen (12:30PM - 1:30PM)
+<mark style="background: #FF5582A6;">4. Registered Business Name Empty Screen (12:30PM - 1:30PM)</mark> - no need to implement now
 <mark style="background: #BBFABBA6;">5. Design of No Activities (1:30 PM - 2:30PM)</mark>
 <mark style="background: #BBFABBA6;">6. Background color of green button (2:30PM - 3:00PM)</mark>
 7. Finish All Components  - 3 Hour - till 7:00pm
