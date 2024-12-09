@@ -8,7 +8,7 @@ created: 2024-02-27 00:08
 4. Request Detail 3rd Page -> 12:00PM - 01:00PM
 5. Summary Page -> 01:00PM - 02:00PM
 6. Back Office Review -> 02:00PM - 03:00PM
-7. Start License Journey -> 03:00 
+7. Fix Header Things -> 03:00 pm - 05:00PM
 8. Finish All Components  - 3 Hour - till 7:00pm
 9. GYM - till 9:00pm
 10. TODO AND SLEEP
