@@ -3,8 +3,8 @@ created: 2024-02-27 00:08
 ---
 
 1. Fill Timesheet -> 9AM - 9:30 AM
-2. Request Details Page ->9:30AM - 
-3. Request Detail Doc Upload
+2. Request Details Page -> 9:30AM - 10:30AM
+3. Request Detail Doc Upload -> 10:30 AM - 12:00 PM
 4. Request Detail 3rd Page
 5. Summary Page
 6. Back Office Review
