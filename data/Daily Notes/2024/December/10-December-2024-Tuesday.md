@@ -4,10 +4,13 @@ created: 2024-02-27 00:08
 
 1. Fill Timesheet
 2. Request Details Page
-3. Request Detail
-4. Finish All Components  - 3 Hour - till 7:00pm
-5. GYM - till 9:00pm
-6. TODO AND SLEEP
+3. Request Detail Doc Upload
+4. Request Detail 3rd Page
+5. Summary Page
+6. Back Office Review
+7. Finish All Components  - 3 Hour - till 7:00pm
+8. GYM - till 9:00pm
+9. TODO AND SLEEP
 
 
 **Sunday**
