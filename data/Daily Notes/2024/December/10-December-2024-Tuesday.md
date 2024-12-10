@@ -17,8 +17,9 @@ created: 2024-02-27 00:08
 Header Fixes
 1. create common menu for both web and mobile ( right now, we are replacing at two places)
 2. Font and spacing issue
-3. Replace Business Menu opening design and replace it with 
-4. 
+3. Replace Business Menu opening design and replace it with vuetify submenu
+4. Cursor pointer
+5. 
 
 
 
