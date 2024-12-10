@@ -21,7 +21,7 @@ Header Fixes
 4. Cursor pointer
 5. Mobile Header Animation - Follow Stepper Strategy
 6. Sometimes click not working
-7. Exact Click on Exact 
+7. Exact Click on Exact Menu
 
 
 
