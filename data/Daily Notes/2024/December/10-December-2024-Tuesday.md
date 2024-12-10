@@ -16,7 +16,8 @@ created: 2024-02-27 00:08
 
 Header Fixes
 1. create common menu for both web and mobile ( right now, we are replacing at two places)
-2. Font 
+2. Font and spacing issue
+3. 
 
 
 
