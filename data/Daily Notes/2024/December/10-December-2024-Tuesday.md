@@ -14,7 +14,12 @@ created: 2024-02-27 00:08
 10. TODO AND SLEEP
 
 
-**Sunday**
+Header Fixes
+1. create common menu for both web and mobile
+2. 
+
+
+
 mobile header animation - follow stepper strategy - 6 hours
 cursor issue - 2 hour
 menubar permissioning reactivity issue - 2 hour
