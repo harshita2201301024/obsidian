@@ -19,7 +19,9 @@ Header Fixes
 2. Font and spacing issue
 3. Replace Business Menu opening design and replace it with vuetify submenu
 4. Cursor pointer
-5. 
+5. Mobile Header Animation - Follow Stepper Strategy
+6. Sometimes click not working
+7. Exact Click on Exact 
 
 
 
