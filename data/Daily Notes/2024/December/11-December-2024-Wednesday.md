@@ -4,11 +4,12 @@ created: 2024-02-27 00:08
 
 <mark style="background: #BBFABBA6;">1. Fill Timesheet -> 9AM - 9:30 AM</mark>
 
-1. 
-7. Fix Header Things -> 03:00 pm - 05:00PM
-8. Finish All Components  - 3 Hour - till 7:00pm
-9. GYM - till 9:00pm
-10. TODO AND SLEEP
+1. No Active Delegation
+2. 
+3. Fix Header Things -> 03:00 pm - 05:00PM
+4. Finish All Components  - 3 Hour - till 7:00pm
+5. GYM - till 9:00pm
+6. TODO AND SLEEP
 
 
 Header Fixes
