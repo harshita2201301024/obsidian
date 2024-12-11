@@ -3,11 +3,8 @@ created: 2024-02-27 00:08
 ---
 
 <mark style="background: #BBFABBA6;">1. Fill Timesheet -> 9AM - 9:30 AM</mark>
-<mark style="background: #BBFABBA6;">2. Request Details Page -> 9:30AM - 10:30AM</mark>
-<mark style="background: #BBFABBA6;">3. Request Detail Doc Upload -> 10:30 AM - 12:00 PM</mark>
-<mark style="background: #BBFABBA6;">4. Request Detail 3rd Page -> 12:00PM - 01:00PM</mark>
-<mark style="background: #BBFABBA6;">5. Summary Page -> 01:00PM - 02:00PM</mark>
-<mark style="background: #BBFABBA6;">6. Back Office Review -> 02:00PM - 03:00PM</mark>
+
+1. 
 7. Fix Header Things -> 03:00 pm - 05:00PM
 8. Finish All Components  - 3 Hour - till 7:00pm
 9. GYM - till 9:00pm
