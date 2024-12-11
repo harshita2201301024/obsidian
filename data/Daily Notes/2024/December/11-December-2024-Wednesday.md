@@ -7,15 +7,16 @@ created: 2024-02-27 00:08
 1. No Active Delegation
 2. Delegation Detail
 3. Signing Screen
-4. My Inbox
+4. My Inbox 
 5. Listing Screen
+6. Stepper Setting
+7. 
 
 
-
-1. Fix Header Things -> 03:00 pm - 05:00PM
-2. Finish All Components  - 3 Hour - till 7:00pm
-3. GYM - till 9:00pm
-4. TODO AND SLEEP
+8. Fix Header Things -> 03:00 pm - 05:00PM
+9. Finish All Components  - 3 Hour - till 7:00pm
+10. GYM - till 9:00pm
+11. TODO AND SLEEP
 
 
 Header Fixes
