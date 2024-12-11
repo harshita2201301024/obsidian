@@ -3,6 +3,7 @@ created: 2024-02-27 00:08
 ---
 
 <mark style="background: #BBFABBA6;">1. Fill Timesheet -> 9AM - 9:30 AM</mark>
+Empty Screen and Listing Screen
 
 1. No Active Delegation
 2. Delegation Detail
