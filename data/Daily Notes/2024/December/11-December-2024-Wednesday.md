@@ -8,10 +8,12 @@ created: 2024-02-27 00:08
 2. Delegation Detail
 3. Signing Screen
 4. My Inbox
-5. Fix Header Things -> 03:00 pm - 05:00PM
-6. Finish All Components  - 3 Hour - till 7:00pm
-7. GYM - till 9:00pm
-8. TODO AND SLEEP
+5. Listing Screen
+6. 
+7. Fix Header Things -> 03:00 pm - 05:00PM
+8. Finish All Components  - 3 Hour - till 7:00pm
+9. GYM - till 9:00pm
+10. TODO AND SLEEP
 
 
 Header Fixes
