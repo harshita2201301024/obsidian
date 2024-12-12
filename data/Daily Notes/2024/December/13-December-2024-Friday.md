@@ -15,5 +15,6 @@ created: 2024-02-27 00:08
 4. Delete Button with Text
 5. why in mobile it is down
 
+**Legal Type**
 
 
