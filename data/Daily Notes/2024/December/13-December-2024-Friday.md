@@ -22,3 +22,8 @@ iid-uae-foreign icon
 radiobox disabled color
 legal type mobile design
 
+**License Type**
+Screen for license Type is missing
+
+
+
