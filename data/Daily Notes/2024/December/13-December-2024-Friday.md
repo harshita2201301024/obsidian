@@ -10,5 +10,7 @@ created: 2024-02-27 00:08
 
 **License Partners**
 1. We dont' have + sign in front of Add Individual partners
-2. 
+2. how button will look in mobile when both are together
+3. Button Hover in mobile
+4. 
 
