@@ -3,4 +3,4 @@ created: 2024-02-27 00:08
 ---
 1. license name doesn't have for web design
 2. they won't fit in one line
-3. 
+3. Start a Business for myself and onBehalf of someone else
