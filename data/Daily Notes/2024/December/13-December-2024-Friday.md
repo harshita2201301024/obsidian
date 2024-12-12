@@ -12,5 +12,8 @@ created: 2024-02-27 00:08
 1. We dont' have + sign in front of Add Individual partners
 2. how button will look in mobile when both are together
 3. Button Hover in mobile
-4. 
+4. Delete Button with Text
+5. why in mobile it is down
+
+
 
