@@ -20,5 +20,5 @@ Coming soon text in legal type
 overlay color on disabled
 iid-uae-foreign icon
 radiobox disabled color
-
+legal type mobile design
 
