@@ -18,5 +18,5 @@ created: 2024-02-27 00:08
 **Legal Type**
 Coming soon text in legal type
 overlay color on disabled
-
+iid-uae-foreign icon
 
