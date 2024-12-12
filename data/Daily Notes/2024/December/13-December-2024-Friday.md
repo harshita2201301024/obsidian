@@ -8,5 +8,6 @@ created: 2024-02-27 00:08
 4. Grey Color for disabled
 5. doesn't have mobile design
 
-
+**License Partners**
+1.
 
