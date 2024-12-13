@@ -28,3 +28,6 @@ Screen for license Type is missing
 **License Profile**
 No Close Button in license profile
 
+**Business Activities**
+No Mobile Design
+
