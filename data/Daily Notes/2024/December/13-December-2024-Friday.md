@@ -33,3 +33,5 @@ No Close Button in license profile
 **Business Activities**
 No Mobile Design
 
+**Manager Authorities**
+Disabled Design
