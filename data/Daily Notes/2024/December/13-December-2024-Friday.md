@@ -25,6 +25,7 @@ legal type mobile design
 **License Type**
 Screen for license Type is missing
 Table Issue
+add two icons 
 
 **License Profile**
 No Close Button in license profile
