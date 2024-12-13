@@ -25,5 +25,6 @@ legal type mobile design
 **License Type**
 Screen for license Type is missing
 
-
+**License Profile**
+No Close Button in license profile
 
