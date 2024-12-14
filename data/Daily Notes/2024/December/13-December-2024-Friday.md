@@ -50,4 +50,5 @@ Pending Things
 3. Start a Business
 4. License Partner - Corporate Partner
 5. License Profile - Form Builder Things
-6. 
+6. Partner Details - Dialog Popup
+7. 
