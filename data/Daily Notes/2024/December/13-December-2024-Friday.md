@@ -40,4 +40,5 @@ Disabled Design
 Pending Things
 
 1. Business Activities Whole Design
-2. 
+2. License Footer
+3. License Journey - First 
