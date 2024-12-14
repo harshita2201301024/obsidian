@@ -38,12 +38,12 @@ Disabled Design
 
 Done Things
 Select Business Name - Web and Mobile
-
+Legal Type - don
 
 Pending Things
 
 1. Business Activities Whole Design
 2. License Footer
-3. License Journey - First Screen
-4. License Partner - Corporate Partner Pending
+3. Start a Business
+4. License Partner
 5. 
