@@ -45,6 +45,7 @@ License Partner - Individual Partner
 UBO Listing Screen Screen
 Partner Details Listing Screen
 Appoint Representative 
+Confirm Details Screen
 
 
 **Pending Things**
