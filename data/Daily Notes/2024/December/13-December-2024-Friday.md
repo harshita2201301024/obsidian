@@ -58,4 +58,4 @@ Confirm Details Screen
 6. Partner Details - Dialog Popup
 7. UBO - Dialog Popup
 8. Appoint Representative Dialog popup
-9. 
+9. All Screen after initial Payment Approval
