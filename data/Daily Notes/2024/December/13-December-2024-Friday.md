@@ -35,3 +35,9 @@ No Mobile Design
 
 **Manager Authorities**
 Disabled Design
+
+
+Pending Things
+
+1. Business Activities Whole Design
+2. 
