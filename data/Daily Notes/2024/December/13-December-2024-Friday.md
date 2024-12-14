@@ -36,17 +36,18 @@ No Mobile Design
 **Manager Authorities**
 Disabled Design
 
-Done Things
+**Done Things**
+
 Select Business Name - done
 Legal Type - done
 License Type - done
 License Partner - Individual Partner
 UBO Listing Screen Screen
 Partner Details Listing Screen
+Appoint Representative 
 
 
-
-Pending Things
+**Pending Things**
 
 1. Business Activities Whole Design
 2. License Footer
@@ -54,4 +55,6 @@ Pending Things
 4. License Partner - Corporate Partner
 5. License Profile - Form Builder Things
 6. Partner Details - Dialog Popup
-7. 
+7. UBO - Dialog Popup
+8. Appoint Representative Dialog popup
+9. 
