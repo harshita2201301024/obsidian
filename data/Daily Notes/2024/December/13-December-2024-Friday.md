@@ -41,6 +41,9 @@ Select Business Name - done
 Legal Type - done
 License Type - done
 License Partner - Individual Partner
+UBO Listing Screen Screen
+Partner Details Listing Screen
+
 
 
 Pending Things
