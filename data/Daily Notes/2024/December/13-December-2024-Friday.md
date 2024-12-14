@@ -40,7 +40,7 @@ Done Things
 Select Business Name - done
 Legal Type - done
 License Type - done
-License Partner - I
+License Partner - Individual Partner
 
 
 Pending Things
