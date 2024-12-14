@@ -37,13 +37,17 @@ No Mobile Design
 Disabled Design
 
 Done Things
-Select Business Name - Web and Mobile
-Legal Type - don
+Select Business Name - done
+Legal Type - done
+License Type - done
+License Partner - I
+
 
 Pending Things
 
 1. Business Activities Whole Design
 2. License Footer
 3. Start a Business
-4. License Partner
-5. 
+4. License Partner - Corporate Partner
+5. License Profile - Form Builder Things
+6. 
