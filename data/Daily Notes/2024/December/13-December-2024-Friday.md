@@ -37,7 +37,7 @@ filter icon
 full-width-issue
 existing business-design
 existing business details
-existing business star
+existing business start similart
 
 **Manager Authorities**
 Disabled Design
