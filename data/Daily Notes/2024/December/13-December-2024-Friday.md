@@ -36,9 +36,12 @@ No Mobile Design
 **Manager Authorities**
 Disabled Design
 
+Done Things
+Select Business Name - Web and Mobile
+
 
 Pending Things
 
 1. Business Activities Whole Design
 2. License Footer
-3. License Journey - First 
+3. License Journey - First Screen
