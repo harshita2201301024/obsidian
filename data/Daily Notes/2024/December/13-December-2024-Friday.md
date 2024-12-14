@@ -35,7 +35,9 @@ No Mobile Design
 View Details Button Design in desktop
 filter icon
 full-width-issue
-existing busine
+existing business-design
+existing business details
+existing business star
 
 **Manager Authorities**
 Disabled Design
