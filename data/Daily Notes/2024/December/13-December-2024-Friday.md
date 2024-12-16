@@ -52,11 +52,12 @@ UBO Listing Screen Screen
 Partner Details Listing Screen
 Appoint Representative 
 Confirm Details Screen
+Business Activities Whole Design
 
 
 **Pending Things**
 
-1. Business Activities Whole Design
+
 2. License Footer
 3. Start a Business
 4. License Partner - Corporate Partner
