@@ -71,3 +71,4 @@ Business Activities Whole Design
 Initial Approval Screen
 Additional Requirement
 License Service Agent
+License Footer
