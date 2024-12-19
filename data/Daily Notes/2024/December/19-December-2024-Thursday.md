@@ -3,7 +3,9 @@ created: 2024-02-27 00:08
 ---
 1. Nails Cutting
 2. Hair Massage
-3. GYM DIET and EX
+3. GYM DIET and EXERCISE PLAN
+4. Apply for GYMS
+5. 
 
 Pending Things
 
