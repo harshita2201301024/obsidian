@@ -2,14 +2,11 @@
 created: 2024-02-27 00:08
 ---
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
-2. Office Work -> 8AM - 4PM
-3. Nails Cutting
-4. Hair Massage
-5. GYM DIET and EXERCISE PLAN
-6. Apply for GYMS
-
-7. Fill Timesheet
-8. 
+2. Office Work -> 8AM - 5PM
+3. Nails Cutting -> 5PM - 5:30 PM
+4. GYM DIET and EXERCISE PLAN -> 5:30 PM - 8
+5. Apply for GYMS
+6. Fill Timesheet 
 
 Pending Things
 
