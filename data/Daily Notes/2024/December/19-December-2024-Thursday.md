@@ -6,8 +6,9 @@ created: 2024-02-27 00:08
 3. Nails Cuttin and Hair Massage -> 5PM - 5:30 PM
 4. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
 5. Apply for GYMS -> 6:30 PM - 8:30 PM
-6. 
-7. Fill Timesheet 
+6. Fill Timesheet -> 8: 30 PM - 9:00 PM
+7. Apply for Jobs -> 9:00 PM - 10: 00 PM
+8. TODO and Sleep 
 
 Pending Things
 
