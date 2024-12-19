@@ -8,7 +8,7 @@ created: 2024-02-27 00:08
 5. Apply for GYMS -> 6:30 PM - 8:30 PM
 6. Fill Timesheet -> 8: 30 PM - 9:00 PM
 7. Apply for Jobs -> 9:00 PM - 10: 00 PM
-8. TODO and Sleep 
+8. TODO and Sleep -> 10: 00 PM - 11:00 PM
 
 Pending Things
 
