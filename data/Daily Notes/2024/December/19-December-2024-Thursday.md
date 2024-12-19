@@ -5,7 +5,9 @@ created: 2024-02-27 00:08
 2. Hair Massage
 3. GYM DIET and EXERCISE PLAN
 4. Apply for GYMS
-5. Wake up at 5AM and plan the day
+5. Wake up at 5AM and plan the whole office work
+6. Fill Timesheet
+7. 
 
 Pending Things
 
