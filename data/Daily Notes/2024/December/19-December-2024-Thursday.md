@@ -12,8 +12,9 @@ created: 2024-02-27 00:08
 
 Pending Things
 
+- [ ] Prepare for Vue.js Interview
+- [ ] Prepare for Javscript Interview
 - [ ] Company SETUP
-- [ ] 
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
