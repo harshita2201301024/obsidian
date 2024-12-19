@@ -1,8 +1,8 @@
 ---
 created: 2024-02-27 00:08
 ---
-1. Wake up at 6AM and plan the whole office work - 6 AM - 8AM
-2. Office Work 
+1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
+2. Office Work -> 8AM - 4PM
 3. Nails Cutting
 4. Hair Massage
 5. GYM DIET and EXERCISE PLAN
