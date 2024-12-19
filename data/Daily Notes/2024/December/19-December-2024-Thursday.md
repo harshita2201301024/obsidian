@@ -1,7 +1,9 @@
 ---
 created: 2024-02-27 00:08
 ---
-
+1. Nails Cutting
+2. Hair Massage
+3. GYM DIET and EX
 
 Pending Things
 
