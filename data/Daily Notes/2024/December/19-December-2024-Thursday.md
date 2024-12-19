@@ -14,6 +14,8 @@ Pending Things
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
+- [ ] Prepare for Typescript
+- [ ] Prepare for React.js
 - [ ] Company SETUP
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
