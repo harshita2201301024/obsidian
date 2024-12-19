@@ -1,13 +1,15 @@
 ---
 created: 2024-02-27 00:08
 ---
-1. Nails Cutting
-2. Hair Massage
-3. GYM DIET and EXERCISE PLAN
-4. Apply for GYMS
-5. Wake up at 5AM and plan the whole office work
-6. Fill Timesheet
-7. 
+1. Wake up at 6AM and plan the whole office work - 6 AM - 8AM
+2. Office Work 
+3. Nails Cutting
+4. Hair Massage
+5. GYM DIET and EXERCISE PLAN
+6. Apply for GYMS
+
+7. Fill Timesheet
+8. 
 
 Pending Things
 
