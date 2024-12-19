@@ -5,7 +5,7 @@ created: 2024-02-27 00:08
 2. Hair Massage
 3. GYM DIET and EXERCISE PLAN
 4. Apply for GYMS
-5. 
+5. Wake up at 5AM and plan the day
 
 Pending Things
 
