@@ -1,6 +1,30 @@
 ---
 created: 2024-02-27 00:08
 ---
+
+
+Pending Things
+
+- [ ] Aakash job posts
+- [ ] Aakash Plot market status
+- [ ] Shilpa old house construction
+- [ ] Complete Vuetify book
+- [ ] Apply for Freelancing Jobs
+- [ ] Freelancing accounts
+- [ ] Change name plate of shippu's house 
+- [ ] Academy plan 
+- [ ] Sell Both Bikes
+- [ ] Look for car
+- [ ] Aademy job post
+- [ ] Car Key 
+- [ ] Resignation shilpa
+- [ ] Change nominee of every account
+- [ ] collect debit card of idbi
+- [ ] add nominee in hdfc 
+- [ ] Study Corporate Tax
+- [ ] dentish appointment
+- [ ] Siya Passport
+
 **Start Business Name**
 1. license name doesn't have for web design
 2. they won't fit in one line
