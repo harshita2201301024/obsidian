@@ -20,11 +20,11 @@ ic-bus
 ic-office-building
 ic-real-estate
 ic-book
-ic-health
-ic-gas
-ic-mining
-ic-cash
-ic-collection
+ic-health -> 
+ic-gas -> iid-gas-energy
+ic-mining -> iid-construction
+ic-cash -> iid-finance
+ic-collection -> iid-classification
 
 
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
