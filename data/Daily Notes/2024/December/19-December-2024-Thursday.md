@@ -16,11 +16,11 @@ ic-factory
 ic-construction-worker
 ic-trading
 ic-document-duplicate
-ic-bus
-ic-office-building
-ic-real-estate
-ic-book
-ic-health -> 
+ic-bus -> iid-transport
+ic-office-building -> iid-extra-territorial
+ic-real-estate -> iid-real-estate
+ic-book -> iid-education
+ic-health -> iid-health-social-work
 ic-gas -> iid-gas-energy
 ic-mining -> iid-construction
 ic-cash -> iid-finance
