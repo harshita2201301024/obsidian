@@ -8,9 +8,9 @@ created: 2024-02-27 00:08
 > 
 
 
-ic-agriculture
-ic-fishing
-ic-mining -> 
+ic-agriculture -> iid-agriculture
+ic-fishing -> iid-fishing
+ic-mining -> iid-mining-quarrying
 ic-office-building -> iid-building
 ic-factory -> id-manufacturing
 ic-construction-worker -> iid-contracting
