@@ -22,6 +22,9 @@ ic-real-estate
 ic-book
 ic-health
 ic-gas
+ic-mining
+ic-cash
+ic-collection
 
 
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
