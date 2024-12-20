@@ -1,9 +1,11 @@
 ---
 created: 2024-02-27 00:08
 ---
-Rules of Life
-1. No Sugar
 
+> [!RU]
+> Rules of Life
+> 1. No Sugar
+> 
 
 
 
