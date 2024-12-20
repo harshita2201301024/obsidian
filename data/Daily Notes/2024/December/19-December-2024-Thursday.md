@@ -16,7 +16,12 @@ ic-factory
 ic-construction-worker
 ic-trading
 ic-document-duplicate
-
+ic-bus
+ic-office-building
+ic-real-estate
+ic-book
+ic-health
+ic-gas
 
 
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
