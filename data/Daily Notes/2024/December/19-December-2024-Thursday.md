@@ -2,13 +2,16 @@
 created: 2024-02-27 00:08
 ---
 
-> [!RU]
-> Rules of Life
+> [!RULES OF LIFE]
+>
 > 1. No Sugar
 > 
 
 
-
+ic-agriculture
+ic-fishing
+ic-mining
+ic-office-bu
 
 
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
