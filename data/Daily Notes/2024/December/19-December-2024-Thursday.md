@@ -1,6 +1,14 @@
 ---
 created: 2024-02-27 00:08
 ---
+Rules of Life
+1. No Sugar
+
+
+
+
+
+
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
 2. Office Work -> 8AM - 5PM
 3. Nails Cuttin and Hair Massage -> 5PM - 5:30 PM
