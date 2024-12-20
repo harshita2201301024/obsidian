@@ -10,12 +10,12 @@ created: 2024-02-27 00:08
 
 ic-agriculture
 ic-fishing
-ic-mining
-ic-office-building
-ic-factory
-ic-construction-worker
-ic-trading
-ic-document-duplicate
+ic-mining -> 
+ic-office-building -> iid-building
+ic-factory -> id-manufacturing
+ic-construction-worker -> iid-contracting
+ic-trading -> iid-trading
+ic-document-duplicate -> iid-social-personal
 ic-bus -> iid-transport
 ic-office-building -> iid-extra-territorial
 ic-real-estate -> iid-real-estate
