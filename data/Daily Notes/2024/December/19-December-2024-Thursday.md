@@ -11,7 +11,12 @@ created: 2024-02-27 00:08
 ic-agriculture
 ic-fishing
 ic-mining
-ic-office-bu
+ic-office-building
+ic-factory
+ic-construction-worker
+ic-trading
+ic-document-duplicate
+
 
 
 1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
