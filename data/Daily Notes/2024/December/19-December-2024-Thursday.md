@@ -7,6 +7,8 @@ created: 2024-02-27 00:08
 > 1. No Sugar
 > 
 
+dheeraj.kumar
+Password@123
 
 ic-agriculture -> iid-agriculture
 ic-fishing -> iid-fishing
