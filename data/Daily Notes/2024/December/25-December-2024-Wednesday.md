@@ -7,12 +7,14 @@ created: 2024-02-27 00:08
 > 1. No Sugar
 > 
 
-Apply Leave Attendance
-Fill Timesheet
+Apply Leave Attendance - 11 AM - 11:10 AM
+Fill Timesheet - 11: 10 AM - 11:30 AM
 Fix these two Issues
-[https://iid-feature-dev.detsandbox.com/common/search-business-activities](https://iid-feature-dev.detsandbox.com/common/search-business-activities "https://iid-feature-dev.detsandbox.com/common/search-business-activities") is done, but missing elevation. Try wrapping it in DataCardView.
+[https://iid-feature-dev.detsandbox.com/common/search-business-activities](https://iid-feature-dev.detsandbox.com/common/search-business-activities "https://iid-feature-dev.detsandbox.com/common/search-business-activities") is done, but missing elevation. Try wrapping it in DataCardView. - 11:30 AM 
 [https://iid-feature-dev.detsandbox.com/search-business-activities](https://iid-feature-dev.detsandbox.com/search-business-activities "https://iid-feature-dev.detsandbox.com/search-business-activities") The card is missing. Layout I will change the default layout today.
 License Footer for all screens
+Appoint representative Fix
+Missing Screen Design
 
 
 
