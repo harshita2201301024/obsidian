@@ -16,18 +16,14 @@ Appoint representative Fix - 02:00 PM - 03: 00PM
 License Footer for all screens - 03: 00 PM - 06:00 PM
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
+Fix missing points in word file - 11: 00 PM - 12:00 PM
 
 **Tomorrow**
 
-4. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
+1. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
+2. Apply for Jobs -> 9:00 PM - 10: 00 PM
 
-1. Wake up at 6AM and plan the whole office work -> 6 AM - 8AM
-2. Office Work -> 8AM - 5PM
-3. Nails Cuttin and Hair Massage -> 5PM - 5:30 PM
-4. Apply for GYMS -> 6:30 PM - 8:30 PM
-5. Fill Timesheet -> 8: 30 PM - 9:00 PM
-6. Apply for Jobs -> 9:00 PM - 10: 00 PM
-7. TODO and Sleep -> 10: 00 PM - 11:00 PM
+
 
 Pending Things
 
