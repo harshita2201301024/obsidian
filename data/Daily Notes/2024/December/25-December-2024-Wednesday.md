@@ -10,10 +10,10 @@ created: 2024-02-27 00:08
 Apply Leave Attendance - 11 AM - 11:10 AM
 Fill Timesheet - 11: 10 AM - 11:30 AM
 Fix these two Issues
-[https://iid-feature-dev.detsandbox.com/common/search-business-activities](https://iid-feature-dev.detsandbox.com/common/search-business-activities "https://iid-feature-dev.detsandbox.com/common/search-business-activities") is done, but missing elevation. Try wrapping it in DataCardView. - 11:30 AM 
-[https://iid-feature-dev.detsandbox.com/search-business-activities](https://iid-feature-dev.detsandbox.com/search-business-activities "https://iid-feature-dev.detsandbox.com/search-business-activities") The card is missing. Layout I will change the default layout today.
-License Footer for all screens
-Appoint representative Fix
+[https://iid-feature-dev.detsandbox.com/common/search-business-activities](https://iid-feature-dev.detsandbox.com/common/search-business-activities "https://iid-feature-dev.detsandbox.com/common/search-business-activities") is done, but missing elevation. Try wrapping it in DataCardView. - 11:30 AM - 12:00 PM
+[https://iid-feature-dev.detsandbox.com/search-business-activities](https://iid-feature-dev.detsandbox.com/search-business-activities "https://iid-feature-dev.detsandbox.com/search-business-activities") The card is missing. Layout I will change the default layout today. - 12:00 PM - 01:00 PM
+Appoint representative Fix - 02:00 PM - 03: 00PM
+License Footer for all screens - 03: 00 PM - 06:00 PM
 Missing Screen Design
 
 
