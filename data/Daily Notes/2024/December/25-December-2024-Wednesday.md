@@ -22,7 +22,7 @@ Fix missing points in word file - 11: 00 PM - 12:00 PM
 
 1. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
-3. Visit Jabel Ali -> 10: 00 
+3. Visit Jabel Ali for Interview
 
 
 
