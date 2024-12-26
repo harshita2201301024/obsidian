@@ -7,16 +7,18 @@ created: 2024-02-27 00:08
 > 1. No Sugar
 > 
 
-1. Select your business name issue with alert disclaimer - 1 hour
-2. Passport information is missing - 0.5 hour
-3. Partner details verified - 0.5 Hour
-4. Ubo add multiple member Design - 1 hour
-5. unified id design - 0.5 hour
-6. add ubo - 0.5 hour
-7. add shared location - 0.5 hour
-8. shared location alert - 1 hour
-9. ejari location - 1hour
-10. appint representative - 1 hour
+
+1. Select your business name issue with alert disclaimer - 1 hour -> 9AM - 10AM
+2. Passport information is missing - 0.5 hour -> 10AM - 10:30 AM
+4. Partner details verified - 0.5 Hour -> 10:30 AM - 11:00 AM
+5. Ubo add multiple member Design - 1 hour -> 11:00 AM - 12:00PM
+6. unified id design - 0.5 hour -> 12:
+7. add ubo - 0.5 hour
+8. add shared location - 0.5 hour
+9. shared location alert - 1 hour
+10. ejari location - 1hour
+11. appint representative - 1 hour
+12. partners details alert - 1 hour
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
 Fix missing points in word file - 11: 00 PM - 12:00 PM
