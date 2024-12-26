@@ -21,14 +21,12 @@ created: 2024-02-27 00:08
 12. partners details alert - 1 hour -> 04:30 PM - 05:30 PM
 13. Timesheet - 05:30 PM - 06:00PM
 14. GYM - 06: 00 PM - 08:00PM
-15. 
+15. Jobs Apply - 08:00 PM - 09:00PM
 
-**Tomorrow**
+**PRIORITY**
 
 1. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
-
-
 
 Pending Things
 
