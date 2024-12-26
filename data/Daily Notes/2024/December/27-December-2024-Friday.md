@@ -8,8 +8,6 @@ created: 2024-02-27 00:08
 > 
 
 
-Fix these two Issues
-License Footer for all screens - 03: 00 PM - 06:00 PM
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
 Fix missing points in word file - 11: 00 PM - 12:00 PM
