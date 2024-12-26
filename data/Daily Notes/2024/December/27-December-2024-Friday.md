@@ -13,7 +13,10 @@ created: 2024-02-27 00:08
 4. Ubo add multiple member Design - 1 hour
 5. unified id design - 0.5 hour
 6. add ubo - 0.5 hour
-7. add shared lcoat
+7. add shared location - 0.5 hour
+8. shared location alert - 1 hour
+9. ejari location - 1hour
+10. appint representative - 1 hour
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
 Fix missing points in word file - 11: 00 PM - 12:00 PM
