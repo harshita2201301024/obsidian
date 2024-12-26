@@ -11,7 +11,9 @@ created: 2024-02-27 00:08
 2. Passport information is missing - 0.5 hour
 3. Partner details verified - 0.5 Hour
 4. Ubo add multiple member Design - 1 hour
-5. 
+5. unified id design - 0.5 hour
+6. add ubo - 0.5 hour
+7. add shared lcoat
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
 Fix missing points in word file - 11: 00 PM - 12:00 PM
