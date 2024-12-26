@@ -7,7 +7,7 @@ created: 2024-02-27 00:08
 > 1. No Sugar
 > 
 
-1. Select your business name issue - 1 hour
+1. Select your business name issue with alert disclaimer - 1 hour
 2. 
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
