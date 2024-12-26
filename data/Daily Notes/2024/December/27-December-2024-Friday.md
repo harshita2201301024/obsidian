@@ -12,13 +12,13 @@ created: 2024-02-27 00:08
 2. Passport information is missing - 0.5 hour -> 10AM - 10:30 AM
 4. Partner details verified - 0.5 Hour -> 10:30 AM - 11:00 AM
 5. Ubo add multiple member Design - 1 hour -> 11:00 AM - 12:00PM
-6. unified id design - 0.5 hour -> 12:
-7. add ubo - 0.5 hour
-8. add shared location - 0.5 hour
-9. shared location alert - 1 hour
-10. ejari location - 1hour
-11. appint representative - 1 hour
-12. partners details alert - 1 hour
+6. unified id design - 0.5 hour -> 12:00PM - 12:30PM
+7. add ubo - 0.5 hour -> 12:30 PM - 01:00PM
+8. add shared location - 0.5 hour -> 01:00PM - 01:30PM
+9. shared location alert - 1 hour -> 01:30 PM - 02:30 PM
+10. ejari location - 1hour -> 02:30 PM - 03:30PM 
+11. appint representative - 1 hour -> 03:30PM - 04:30 PM
+12. partners details alert - 1 hour -> 04:30 PM - 0
 GYM - 06: 00 PM - 08:00PM
 Missing Screen Design - 08: 00 PM - 11:00 PM 
 Fix missing points in word file - 11: 00 PM - 12:00 PM
