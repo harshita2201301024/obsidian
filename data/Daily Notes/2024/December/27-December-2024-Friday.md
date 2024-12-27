@@ -17,7 +17,7 @@ created: 2024-02-27 00:08
 <mark style="background: #BBFABBA6;">7. add ubo - 0.5 hour -> 12:30 PM - 01:00PM</mark>
 <mark style="background: #BBFABBA6;">8. add shared location - 0.5 hour -> 01:00PM - 01:30PM</mark>
 <mark style="background: #BBFABBA6;">9. shared location alert - 1 hour -> 01:30 PM - 02:30 PM</mark>
-10. ejari location - 1hour -> 02:30 PM - 03:30PM 
+<mark style="background: #BBFABBA6;">10. ejari location - 1hour -> 02:30 PM - 03:30PM </mark>
 11. appint representative - 1 hour -> 03:30PM - 04:30 PM
 12. partners details alert - 1 hour -> 04:30 PM - 05:30 PM
 13. Timesheet - 05:30 PM - 06:00PM
