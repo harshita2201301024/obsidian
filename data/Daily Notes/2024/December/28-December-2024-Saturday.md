@@ -7,11 +7,12 @@ created: 2024-02-27 00:08
 > 1. No Sugar
 > 
 
-1. Timesheet 
-2. GYM Plan
+1. Timesheet -> 10 AM - 11AM 
+2. GYM Plan -> 11
 3. GYM DIET
 4. Apply Remote JOB
-5. 
+5. Office Work
+6. 
 
 **PRIORITY**
 
