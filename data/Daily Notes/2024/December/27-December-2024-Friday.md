@@ -10,7 +10,7 @@ created: 2024-02-27 00:08
 
 <mark style="background: #BBFABBA6;">1. Select your business name issue with alert disclaimer - 1 hour -> 9AM - 10AM
 </mark>
-2. Passport information is missing - 0.5 hour -> 10AM - 10:30 AM
+<mark style="background: #BBFABBA6;">2. Passport information is missing - 0.5 hour -> 10AM - 10:30 AM</mark>
 4. Partner details verified - 0.5 Hour -> 10:30 AM - 11:00 AM
 5. Ubo add multiple member Design - 1 hour -> 11:00 AM - 12:00PM
 6. unified id design - 0.5 hour -> 12:00PM - 12:30PM
