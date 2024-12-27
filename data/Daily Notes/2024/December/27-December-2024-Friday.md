@@ -14,7 +14,7 @@ created: 2024-02-27 00:08
 4. Partner details verified - 0.5 Hour -> 10:30 AM - 11:00 AM
 <mark style="background: #BBFABBA6;">5. Ubo add multiple member Design - 1 hour -> 11:00 AM - 12:00PM</mark>
 <mark style="background: #BBFABBA6;">6. unified id design - 0.5 hour -> 12:00PM - 12:30PM</mark>
-7. add ubo - 0.5 hour -> 12:30 PM - 01:00PM
+<mark style="background: #BBFABBA6;">7. add ubo - 0.5 hour -> 12:30 PM - 01:00PM</mark>
 8. add shared location - 0.5 hour -> 01:00PM - 01:30PM
 9. shared location alert - 1 hour -> 01:30 PM - 02:30 PM
 10. ejari location - 1hour -> 02:30 PM - 03:30PM 
