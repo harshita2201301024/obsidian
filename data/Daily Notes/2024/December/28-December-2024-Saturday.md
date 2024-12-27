@@ -12,7 +12,10 @@ created: 2024-02-27 00:08
 3. GYM DIET -> 11:00 PM - 12:00 PM
 4. Apply Remote JOB -> 12 00 PM - 01:00 PM
 5. Office Work -> 02:00PM - 03:00 PM
-6. 
+6. Aaunty Rent and Vacant House 
+7. Talk to seetu didi
+8. Broker of this house
+9. 
 
 **PRIORITY**
 
