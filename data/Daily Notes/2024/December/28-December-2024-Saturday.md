@@ -8,8 +8,9 @@ created: 2024-02-27 00:08
 > 
 
 1. Timesheet 
-2. GYM 
-3. Jobs Apply - 08:00 PM - 09:00PM
+2. GYM Plan
+3. GYM DIET
+4. 
 
 **PRIORITY**
 
