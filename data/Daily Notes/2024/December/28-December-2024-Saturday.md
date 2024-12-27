@@ -15,7 +15,7 @@ created: 2024-02-27 00:08
 6. Aaunty Rent and Vacant House 
 7. Talk to seetu didi
 8. Broker of this house
-9. 
+9. Blue water island -> 03:00 PM - 04:00 PM
 
 **PRIORITY**
 
