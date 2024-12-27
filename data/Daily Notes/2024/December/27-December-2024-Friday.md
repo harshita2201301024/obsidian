@@ -19,7 +19,7 @@ created: 2024-02-27 00:08
 <mark style="background: #BBFABBA6;">9. shared location alert - 1 hour -> 01:30 PM - 02:30 PM</mark>
 <mark style="background: #BBFABBA6;">10. ejari location - 1hour -> 02:30 PM - 03:30PM </mark>
 11. appint representative - 1 hour -> 03:30PM - 04:30 PM
-12. partners details alert - 1 hour -> 04:30 PM - 05:30 PM
+<mark style="background: #BBFABBA6;">12. partners details alert - 1 hour -> 04:30 PM - 05:30 PM</mark>
 13. Timesheet - 05:30 PM - 06:00PM
 14. GYM - 06: 00 PM - 08:00PM
 15. Jobs Apply - 08:00 PM - 09:00PM
