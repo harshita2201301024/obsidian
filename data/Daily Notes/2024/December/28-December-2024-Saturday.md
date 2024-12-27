@@ -11,7 +11,7 @@ created: 2024-02-27 00:08
 2. GYM Plan -> 10:10 AM - 11:00 PM
 3. GYM DIET -> 11:00 PM - 12:00 PM
 4. Apply Remote JOB -> 12 00 PM - 01:00 PM
-5. Office Work
+5. Office Work -> 02:00PM - 03:00 PM
 6. 
 
 **PRIORITY**
