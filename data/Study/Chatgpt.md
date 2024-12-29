@@ -1,0 +1,2 @@
+
+Clarity, Context and Completeness
