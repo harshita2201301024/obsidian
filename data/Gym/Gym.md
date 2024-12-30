@@ -14,21 +14,7 @@ Protein 1 or 2 scoop a daya
 
 Gym Weight
 
-| Day     | Weight |
-| ------- | ------ |
-| 8th Oct | 80.35  |
-| 9th Oct | 79.85  |
-| 10 Oct  | 79.1   |
-| 11 Oct  | 78.85  |
-| 12 Oct  | 78.15  |
-| 13 Oct  | 78.55  |
-| 14 Oct  | 78.7   |
-| 15 Oct  | 78.2   |
-| 16 Oct  | 77.6   |
 
-
-
----
 
 ## Push Exercises (Chest, Triceps, Shoulders)
 
