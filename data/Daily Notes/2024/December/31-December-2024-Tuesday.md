@@ -19,10 +19,10 @@ created: 2024-02-27 00:08
 10. Sign your LSA Contract - 1 Hour
 11. Delegation Sign Messages
 12. Your Payment is Failed - 1 Hour
-13. Add Smart Delegation
-14. Revoke Delegation
-15. Delegation Details
-16. Stepper Layout
+13. Add Smart Delegation - 2 Hour
+14. Revoke Delegation - 1 Hour
+15. Delegation View Deatils - 1 Hour
+16. Stepper Layout - 4 Hour
 
 **PRIORITY**
 
