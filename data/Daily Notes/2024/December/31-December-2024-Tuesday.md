@@ -10,19 +10,20 @@ created: 2024-02-27 00:08
 
 1. Aaunty Rent and Vacant House 
 2. Broker of this house
-3. Beard Cut
-4. Delegation Listing
-5. Delegation Add
-6. Delegation Stepper 
-7. Delegation Sign
-8. Notifications
-9. Sign your LSA Contract
-10. Delegation Sign Messages
-11. Your Payment is Failed
-12. Add Smart Delegation
-13. Revoke Delegation
-14. Delegation Details
-15. Stepper Layout
+3. Empty Screen
+4. Beard Cut
+5. Delegation Listing
+6. Delegation Add
+7. Delegation Stepper 
+8. Delegation Sign
+9. Notifications
+10. Sign your LSA Contract
+11. Delegation Sign Messages
+12. Your Payment is Failed
+13. Add Smart Delegation
+14. Revoke Delegation
+15. Delegation Details
+16. Stepper Layout
 
 **PRIORITY**
 
