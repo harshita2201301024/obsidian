@@ -12,8 +12,8 @@ created: 2024-02-27 00:08
 2. Broker of this house
 3. Empty Screen Testing - 0.5 Hour
 4. Beard Cut
-5. Delegation Listing - 
-6. Delegation Add
+5. Delegation Listing - 2 Hour
+6. Delegation Detail Screen - 2 Hour
 7. Delegation Stepper 
 8. Delegation Sign
 9. Notifications
