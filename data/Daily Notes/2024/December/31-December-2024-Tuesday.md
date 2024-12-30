@@ -9,14 +9,13 @@ created: 2024-02-27 00:08
 
 
 1. Aaunty Rent and Vacant House 
-2. Talk to seetu didi
-3. Broker of this house
-4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74753/
-5. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74755/
+2. Broker of this house
+3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74753/
+4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74755/
 
 **PRIORITY**
 
-1. GYM DIET and EXERCISE PLAN -> 5:30 PM - 6:30 PM
+1. EXERCISE PLAN -> 5:30 PM - 6:30 PM
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
 
 Pending Things
