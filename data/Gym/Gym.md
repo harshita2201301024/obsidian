@@ -15,9 +15,10 @@ Protein 1 or 2 scoop a daya
 Gym Weight
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Date        | Ideal Weight | Target Weight |
+| ----------- | ------------ | ------------- |
+| 1st Jan     |              |               |
+| 2nd Jan<br> |              |               |
 
 
 
