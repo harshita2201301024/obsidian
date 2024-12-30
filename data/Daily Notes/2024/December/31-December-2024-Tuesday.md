@@ -10,10 +10,10 @@ created: 2024-02-27 00:08
 
 1. Aaunty Rent and Vacant House 
 2. Broker of this house
-3. Empty Screen Testing - 0.5 Hour
-4. Beard Cut
-5. Delegation Listing - 2 Hour
-6. Delegation Detail Screen - 2 Hour
+4. Beard Cut -> 6:45 AM - 07:00 AM
+5. Empty Screen Testing - 0.5 Hour -> 7:30 AM - 08:00 AM
+6. Delegation Listing - 2 Hour -> 08:00 AM - 10:00 AM
+7. Delegation Detail Screen - 2 Hour -> 10:00 AM - 12:00 PM
 8. Delegation Sign - 1 Hour
 9. Notifications - 1 Hour
 10. Sign your LSA Contract - 1 Hour
