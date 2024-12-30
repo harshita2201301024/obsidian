@@ -7,12 +7,17 @@ Protein 1 or 2 scoop a daya
 # 100-Day Gym Challenge
 
 ### Challenge Start Date: 01-01-2025
-### Challenge Finish Date: 16-01-2025
-- **Starting Weight**: 80kg
-- **Target Weight**: 70kg
+### Challenge Finish Date: 09-04-2025
+- **Starting Weight**: 81kg
+- **Target Weight**: 71kg
 - **Goal Duration**: 100 days
 
 Gym Weight
+
+
+|     |     |
+| --- | --- |
+|     |     |
 
 
 
