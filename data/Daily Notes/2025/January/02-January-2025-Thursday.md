@@ -13,7 +13,11 @@ created: 2024-02-27 00:08
 
 
 1. Stepper Layout - 4 Hour 
-2. 
+2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
+3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
+4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
+5. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
+6. Wish Shveta a Happy Birthday
 
 ****
 

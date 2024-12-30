@@ -35,6 +35,7 @@ Wake Up At 11:00 AM
 
 1. EXERCISE PLAN -> 5:30 PM - 6:30 PM
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
+3. Chat 
 
 Pending Things
 
