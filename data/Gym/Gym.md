@@ -121,11 +121,11 @@ Gym Weight
 
 ## Push Exercises (Chest, Triceps, Shoulders)
 
-| Date       | Weight | Barbell Bench Press |     |     |     |     |     
-| ---------- | ------ | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 08-10-2024 |        |                     |     |     |     |     |     |     |     |     |     |     |     |
-| 11-10-2024 |        |                     |     |     |     |     |     |     |     |     |     |     |     |
-| YYYY-MM-DD |        |                     |     |     |     |     |     |     |     |     |     |     |     |
+| Date       | Weight | Barbell Bench Press | Dumbbell Shoulder Press | Incline Dumbbell Press ||     |     
+| ---------- | ------ | ------------------- | --- | --- | --- | --- |
+| 08-10-2024 |        |                     |     |     |     |     |     
+| 11-10-2024 |        |                     |     |     |     |     |     
+| YYYY-MM-DD |        |                     |     |     |     |     |     
 
 ---
 
