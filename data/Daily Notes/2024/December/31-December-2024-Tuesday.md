@@ -17,12 +17,15 @@ created: 2024-02-27 00:08
 8. Delegation Sign - 1 Hour -> 12:00 - 01:00 PM
 9. Notifications - 1 Hour -> 01:00 PM - 02:00 PM
 10. Sign your LSA Contract - 1 Hour -> 02:00 PM - 03:00 PM
-11. Delegation Sign Messages -> 1 
-12. Your Payment is Failed - 1 Hour
-13. Add Smart Delegation - 2 Hour
-14. Revoke Delegation - 1 Hour
-15. Delegation View Deatils - 1 Hour
-16. Stepper Layout - 4 Hour
+
+1st Jan
+Wake Up At 11:00 AM
+1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
+2. Your Payment is Failed - 1 Hour -> 01:00 PM - 02:00 PM
+3. Add Smart Delegation - 2 Hour
+4. Revoke Delegation - 1 Hour
+5. Delegation View Deatils - 1 Hour
+6. Stepper Layout - 4 Hour
 
 **PRIORITY**
 
