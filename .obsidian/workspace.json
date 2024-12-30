@@ -43,6 +43,7 @@
               "state": {
                 "file": "data/Gym/Gym.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
