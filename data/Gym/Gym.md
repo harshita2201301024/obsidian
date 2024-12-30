@@ -18,7 +18,9 @@ Gym Weight
 | Date        | Ideal Weight | Target Weight |
 | ----------- | ------------ | ------------- |
 | 1st Jan     |              |               |
-| 2nd Jan<br> |              |               |
+| 2nd Jan     |              |               |
+| 3rd Jan     |              |               |
+| 4th Jan     |              |               |
 
 
 
