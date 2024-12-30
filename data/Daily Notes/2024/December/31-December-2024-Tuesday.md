@@ -20,6 +20,9 @@ created: 2024-02-27 00:08
 10. Delegation Sign Messages
 11. Your Payment is Failed
 12. Add Smart Delegation
+13. Revoke Delegation
+14. Delegation Details
+15. Stepper Layout
 
 **PRIORITY**
 
