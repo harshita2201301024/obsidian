@@ -29,7 +29,7 @@
               "state": {
                 "file": "data/Gym/Gym.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Gym"
@@ -208,7 +208,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cb05821123f2b4d5",
+  "active": "01581d03eb60efd9",
   "lastOpenFiles": [
     "data/Startup/Shilpa.md",
     "data/Gym/Gym.md",
