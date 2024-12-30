@@ -18,6 +18,8 @@ created: 2024-02-27 00:08
 8. Notifications
 9. Sign your LSA Contract
 10. Delegation Sign Messages
+11. Your Payment is Failed
+12. Add Smart Delegation
 
 **PRIORITY**
 
