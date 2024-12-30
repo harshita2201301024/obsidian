@@ -22,10 +22,13 @@ created: 2024-02-27 00:08
 Wake Up At 11:00 AM
 1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
 2. Your Payment is Failed - 1 Hour -> 01:00 PM - 02:00 PM
-3. Add Smart Delegation - 2 Hour
-4. Revoke Delegation - 1 Hour
-5. Delegation View Deatils - 1 Hour
-6. Stepper Layout - 4 Hour
+3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
+4. Revoke Delegation - 1 Hour -> 04:00 PM - 05:00 PM
+5. Delegation View Deatils - 1 Hour -> 05:00 PM - 06:00 PM
+
+
+2nd Jan
+1. Stepper Layout - 4 Hour 
 
 **PRIORITY**
 
