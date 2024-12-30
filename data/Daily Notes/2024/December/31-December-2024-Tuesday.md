@@ -15,7 +15,9 @@ created: 2024-02-27 00:08
 5. Delegation Add
 6. Delegation Stepper 
 7. Delegation Sign
-8. 
+8. Notifications
+9. Sign your LSA Contract
+10. Delegation Sign Messages
 
 **PRIORITY**
 
