@@ -14,10 +14,10 @@ created: 2024-02-27 00:08
 5. Empty Screen Testing - 0.5 Hour -> 7:30 AM - 08:00 AM
 6. Delegation Listing - 2 Hour -> 08:00 AM - 10:00 AM
 7. Delegation Detail Screen - 2 Hour -> 10:00 AM - 12:00 PM
-8. Delegation Sign - 1 Hour
-9. Notifications - 1 Hour
-10. Sign your LSA Contract - 1 Hour
-11. Delegation Sign Messages
+8. Delegation Sign - 1 Hour -> 12:00 - 01:00 PM
+9. Notifications - 1 Hour -> 01:00 PM - 02:00 PM
+10. Sign your LSA Contract - 1 Hour -> 02:00 PM - 03:00 PM
+11. Delegation Sign Messages -> 1 
 12. Your Payment is Failed - 1 Hour
 13. Add Smart Delegation - 2 Hour
 14. Revoke Delegation - 1 Hour
