@@ -12,8 +12,10 @@ created: 2024-02-27 00:08
 2. Broker of this house
 3. Beard Cut
 4. Delegation Listing
-5. Delegation Stepper 
-6. 
+5. Delegation Add
+6. Delegation Stepper 
+7. Delegation Sign
+8. 
 
 **PRIORITY**
 
