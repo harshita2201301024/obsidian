@@ -53,6 +53,5 @@ Pending Things
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
-- [ ] Study Corporate Tax
 - [ ] dentish appointment
 - [ ] Siya Passport
