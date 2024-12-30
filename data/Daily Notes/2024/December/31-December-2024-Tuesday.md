@@ -10,8 +10,7 @@ created: 2024-02-27 00:08
 
 1. Aaunty Rent and Vacant House 
 2. Broker of this house
-3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74753/
-4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/74755/
+3. 
 
 **PRIORITY**
 
