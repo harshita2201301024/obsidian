@@ -14,12 +14,11 @@ created: 2024-02-27 00:08
 4. Beard Cut
 5. Delegation Listing - 2 Hour
 6. Delegation Detail Screen - 2 Hour
-7. Delegation Stepper 
-8. Delegation Sign
-9. Notifications
-10. Sign your LSA Contract
+8. Delegation Sign - 1 Hour
+9. Notifications - 1 Hour
+10. Sign your LSA Contract - 1 Hour
 11. Delegation Sign Messages
-12. Your Payment is Failed
+12. Your Payment is Failed - 1 Hour
 13. Add Smart Delegation
 14. Revoke Delegation
 15. Delegation Details
