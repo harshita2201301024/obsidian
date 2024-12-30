@@ -14,11 +14,11 @@ Protein 1 or 2 scoop a day
 
 ## Push Exercises (Chest, Triceps, Shoulders)
 
-| Date       | Weight | Barbell Bench Press | Dumbbell Shoulder Press | Incline Dumbbell Press | Triceps Dips (assisted if needed) | 
-| ---------- | ------ | ------------------- | --- | --- | --- | --- |
-| 08-10-2024 |        |                     |     |     |     |     |     
-| 11-10-2024 |        |                     |     |     |     |     |     
-| YYYY-MM-DD |        |                     |     |     |     |     |     
+| Date |     | Barbell Bench Press | Dumbbell Shoulder Press | Incline Dumbbell Press | Triceps Dips (assisted if needed) |     |     |
+| ---- | --- | ------------------- | ----------------------- | ---------------------- | --------------------------------- | --- | --- |
+|      |     |                     |                         |                        |                                   |     |     |
+|      |     |                     |                         |                        |                                   |     |     |
+|      |     |                     |                         |                        |                                   |     |     |
 
 ---
 
