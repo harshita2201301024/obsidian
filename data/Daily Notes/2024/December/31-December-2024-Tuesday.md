@@ -25,6 +25,8 @@ Wake Up At 11:00 AM
 3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
 4. Revoke Delegation - 1 Hour -> 04:00 PM - 05:00 PM
 5. Delegation View Deatils - 1 Hour -> 05:00 PM - 06:00 PM
+6. Dinner -> 06:00 PM - 08:00 PM 
+7. GYM -> 08:00 PM - 10:00 PM
 
 
 2nd Jan
