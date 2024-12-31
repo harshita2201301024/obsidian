@@ -24,7 +24,7 @@ created: 2024-02-27 00:08
 <mark style="background: #BBFABBA6;">2. Your Payment is Failed - 1 Hour -> 10:00 AM - 11:00 AM</mark>
 <mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;">10. Notifications - 1 Hour -> Raghavendra will do</mark> -> 11:00 AM - 12:00 PM</mark>
 <mark style="background: #BBFABBA6;"><mark style="background: #BBFABBA6;">11. Sign your LSA Contract - 1 Hour -> 12:00 PM - 01:00 PM</mark> -> Raghavendra will pick up</mark>
-7. Delegation Listing - 2 Hour -> 08:00 AM - 10:00 AM
+<mark style="background: #FFF3A3A6;"><mark style="background: #FFF3A3A6;">7. Delegation Listing - 2 Hour -> 08:00 AM - 10:00 AM</mark> -> Mobile Fixes Pending</mark>
 8. Delegation Detail Screen - 2 Hour -> 10:00 AM - 12:00 PM
 9. Delegation Sign - 1 Hour -> 12:00 - 01:00 PM
 
