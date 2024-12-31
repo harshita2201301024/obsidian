@@ -22,7 +22,6 @@ Wake Up At 11:00 AM
 1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
 2. Your Payment is Failed - 1 Hour -> 01:00 PM - 02:00 PM
 3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
-4. Revoke Delegation - 1 Hour -> 04:00 PM - 05:00 PM
 6. Dinner -> 06:00 PM - 08:00 PM 
 7. GYM -> 08:00 PM - 10:00 PM
 8. Complete Section 4 and Section 5 ChatGPT
