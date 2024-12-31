@@ -19,7 +19,7 @@ created: 2024-02-27 00:08
 4. Beard Cut -> 6:45 AM - 07:00 AM
 <mark style="background: #BBFABBA6;">5. Record Weight -> 06:30 AM</mark>
 <mark style="background: #BBFABBA6;">6. Empty Screen Testing - 0.5 Hour -> 7:30 AM - 08:00 AM</mark>
-5. Delegation View Deatils - 1 Hour -> 05:00 PM - 06:00 PM
+<mark style="background: #BBFABBA6;">5. Delegation View Deatils - 1 Hour -> 05:00 PM - 06:00 PM</mark>
 7. Delegation Listing - 2 Hour -> 08:00 AM - 10:00 AM
 8. Delegation Detail Screen - 2 Hour -> 10:00 AM - 12:00 PM
 9. Delegation Sign - 1 Hour -> 12:00 - 01:00 PM
