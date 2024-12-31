@@ -19,11 +19,13 @@ Wake Up At 11:00 AM
  
  Record Weight Daily
 1. Exercise Plan -> 11:00 AM - 12:00 PM
-1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
-3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
-6. Dinner -> 06:00 PM - 08:00 PM 
-7. GYM -> 08:00 PM - 10:00 PM
-8. Complete Section 4 and Section 5 ChatGPT
+2. Delegation Detail Screen - 2 Hour -> 12:00 PM - 02:00 PM
+3. Delegation Sign - 1 Hour -> 0:00 - 01:00 PM
+4. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
+5. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
+5. Dinner -> 06:00 PM - 08:00 PM 
+6. GYM -> 08:00 PM - 10:00 PM
+7. Complete Section 4 and Section 5 ChatGPT
 
 **PRIORITY**
 
