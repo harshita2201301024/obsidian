@@ -20,7 +20,6 @@ Wake Up At 11:00 AM
  Record Weight Daily
 1. Exercise Plan -> 11:00 AM - 12:00 PM
 1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
-2. Your Payment is Failed - 1 Hour -> 01:00 PM - 02:00 PM
 3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
 6. Dinner -> 06:00 PM - 08:00 PM 
 7. GYM -> 08:00 PM - 10:00 PM
