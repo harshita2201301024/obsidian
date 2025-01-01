@@ -12,7 +12,8 @@ created: 2024-02-27 00:08
 > 6. Focus on Retiring
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
-1. Delegation Detail Screen - 2 Hour -> 09:00 AM - 11:00 AM
+0. Solve PR Comments - 1 Hour -> 08:30 AM - 09:30 AM
+1. Delegation Detail Screen - 2 Hour -> 09:30 AM - 11:00 AM
 2. Delegation Sign - 1 Hour -> 11:00 AM - 01:00 PM
 3. Add Smart Delegation - 2 Hour -> 01:30 PM - 04:00 PM
 6. Complete Section 4 and Section 5 ChatGPT
