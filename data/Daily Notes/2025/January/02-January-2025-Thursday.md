@@ -2,7 +2,7 @@
 created: 2024-02-27 00:08
 ---
 
-> [!RULES OF LIFE]
+> [!important]
 >
 > 1. No Sugar
 > 2. Record Weight Daily
@@ -11,25 +11,16 @@ created: 2024-02-27 00:08
 > 5. Make Todo Everyday
 > 6. Focus on Retiring
 
-> 
 
-
-1st Jan
-Wake Up At 11:00 AM
- 
- Record Weight Daily
-1. Delegation Sign Messages -> 1 Hour  -> 12:00 PM - 01:00 PM
-2. Your Payment is Failed - 1 Hour -> 01:00 PM - 02:00 PM
-3. Add Smart Delegation - 2 Hour -> 02:00 PM - 04:00 PM
-4. Revoke Delegation - 1 Hour -> 04:00 PM - 05:00 PM
-5. Delegation View Deatils - 1 Hour -> 05:00 PM - 06:00 PM
-6. Dinner -> 06:00 PM - 08:00 PM 
-7. GYM -> 08:00 PM - 10:00 PM
-8. Complete Section 4 and Section 5 ChatGPT
-
-
-2nd Jan
 1. Stepper Layout - 4 Hour 
+2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
+3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
+4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
+5. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
+6. Wish Shveta a Happy Birthday
+
+****
+
 
 **PRIORITY**
 
@@ -59,6 +50,5 @@ Pending Things
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc 
-- [ ] Study Corporate Tax
 - [ ] dentish appointment
 - [ ] Siya Passport
