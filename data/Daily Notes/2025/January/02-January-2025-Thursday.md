@@ -19,10 +19,6 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 4. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
 
 6. Complete Section 4 and Section 5 ChatGPT
-7. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
-8. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
-9. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
-10. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
 11. Dinner -> 06:00 PM - 08:00 PM 
 12. GYM -> 08:00 PM - 10:00 PM
 13. Wish Shveta a Happy Birthday
@@ -36,7 +32,11 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
 
 Pending Things
-
+1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
+2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
+3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
+4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
+5. License Journey Mobile Design
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
 - [ ] Prepare for Typescript
