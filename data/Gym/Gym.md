@@ -3,6 +3,9 @@ I Will plan gym exercise a day before
 No Sugar
 Daily Night follow up
 Protein 1 or 2 scoop a day
+**Everytime I plan and skip but this time i will be consistent**
+**10th April is cheat day**
+**3 litre of water everyday**
 
 # 100-Day Gym Challenge
 
@@ -12,121 +15,109 @@ Protein 1 or 2 scoop a day
 - **Target Weight**: 71kg
 - **Goal Duration**: 100 days
 
-## Push Exercises (Chest, Triceps, Shoulders)
-
-| Date |     | Barbell Bench Press | Dumbbell Shoulder Press | Incline Dumbbell Press | Triceps Dips (assisted if needed) |     |     |
-| ---- | --- | ------------------- | ----------------------- | ---------------------- | --------------------------------- | --- | --- |
-|      |     |                     |                         |                        |                                   |     |     |
-|      |     |                     |                         |                        |                                   |     |     |
-|      |     |                     |                         |                        |                                   |     |     |
+Here’s your **100-day full-body workout plan**, complete with all 7 days covered. It’s designed to help you lose fat, build strength, and stay consistent.
 
 ---
 
-## Pull Exercises (Back, Biceps)
+### **Full-Body Workout Plan**
 
-| Date       | Weight  | Pull down | Row      | Lower back | Cable stations back | Pull ups         | Barbell biceps all 3 | Hammer curl | Biceps dumbell | Fore arms  |
-| ---------- | ------- | --------- | -------- | ---------- | ------------------- | ---------------- | -------------------- | ----------- | -------------- | ---------- |
-| 09-10-2024 | 79.85kg | 20 20 20  | 10 20 30 | 10 10 10   | 25 25 30            | 35 support 6 6 6 | 5 5 5                | 5 5 5       | 2.5 2.5 2.5    10 10 10     |
-| 12-10-2024 | 79kg    |           |          |            |                     |                  |                      |             |                |            |
-| YYYY-MM-DD |         |           |          |            |                     |                  |                      |             |                |            |
+#### **General Guidelines**
 
----
-
-## Legs & Abs
-
-| Date       | Weight | Staircases | Uthao bethak | Leg press | Leg curl          | Hamstring curl | Plank            | Abs scissor lying | Abs machine | Notes                              |
-| ---------- | ------ | ---------- | ------------ | --------- | ----------------- | -------------- | ---------------- | ----------------- | ----------- | ---------------------------------- |
-| 10-10-2024 | 79kg   | 10 min     | 10 10 10     | 20 20 20  | 5th 6th 7th plate | 3rd 4th 5th    | 1min 1 min 1 min | 10 10 10          | 15 20 25    | Bring protein bottle, reach by 8pm |
-| 13-10-2024 | 78.5kg |            |              |           |                   |                |                  |                   |             |                                    |
-| YYYY-MM-DD |        |            |              |           |                   |                |                  |                   |             |                                    |
+1. **Warm-Up (5-10 minutes)**: Dynamic stretches + light cardio (e.g., jogging, treadmill walk).
+2. **Cool-Down (5 minutes)**: Stretching to improve flexibility and recovery.
+3. **Rest Periods**: 60-90 seconds between sets.
+4. **Progressive Overload**: Increase weights/reps every 2-3 weeks as strength improves.
 
 ---
 
-### Weight Loss Goals
+#### **Day 1: Full-Body Strength + Cardio**
 
-| Day     | Goal Weight |
-| ------- | ----------- |
-| Day 5   | 79.5kg      |
-| Day 10  | 79kg        |
-| Day 15  | 78.5kg      |
-| Day 20  | 78kg        |
-| Day 25  | 77.5kg      |
-| Day 30  | 77kg        |
-| Day 35  | 76.5kg      |
-| Day 40  | 76kg        |
-| Day 45  | 75.5kg      |
-| Day 50  | 75kg        |
-| Day 55  | 74.5kg      |
-| Day 60  | 74kg        |
-| Day 65  | 73.5kg      |
-| Day 70  | 73kg        |
-| Day 75  | 72.5kg      |
-| Day 80  | 72kg        |
-| Day 85  | 71.5kg      |
-| Day 90  | 71kg        |
-| Day 95  | 70.5kg      |
-| Day 100 | 70kg        |
+1. **Squats (Barbell/Dumbbell)** – 3 sets of 10 reps
+2. **Incline Bench Press (Dumbbell/Barbell)** – 3 sets of 10 reps
+3. **Bent-Over Rows (Dumbbell/Barbell)** – 3 sets of 10 reps
+4. **Lateral Raises** – 3 sets of 12-15 reps
+5. **Plank (Hold)** – 3 sets of 30-60 seconds
+6. **Jogging (Cardio)** – 20-30 minutes at a moderate pace
 
 ---
 
-### Progress Notes
-- Record any major milestones or motivational thoughts here.
+#### **Day 2: Full-Body Strength + Core Focus**
+
+1. **Deadlifts (Romanian)** – 3 sets of 8-10 reps (moderate weights to avoid neck strain)
+2. **Overhead Dumbbell Press (Seated)** – 3 sets of 10 reps
+3. **Pull-Ups (Assisted if needed)** – 3 sets of 8-10 reps
+4. **Bicep Curls (Dumbbell/Barbell)** – 3 sets of 12 reps
+5. **Leg Raises or Hanging Knee Tucks** – 3 sets of 12-15 reps
+6. **Jogging (Cardio)** – 20 minutes
 
 ---
 
-## **Staying on Track While Traveling**
+#### **Day 3: Light Full-Body + Cardio**
 
-### 1. **Plan Ahead**
-   - Research hotel gyms or nearby fitness centers to stay on track with your routine.
-   - If no gym is available, prioritize bodyweight exercises such as push-ups, squats, lunges, and planks.
-
-### 2. **Modify Your Workout**
-   - **Push Routine**: Do push-ups for chest and triceps, and shoulder taps for shoulders.
-   - **Pull Routine**: Use resistance bands if available, or do bent-over rows with luggage or pull-ups.
-   - **Legs & Abs**: Focus on squats, lunges, and bodyweight ab exercises like crunches and planks.
-
-### 3. **Stay Active with Walking**
-   - Walk as much as possible to compensate for lighter workouts.
-   - Use stairs and keep moving throughout the day to stay active.
-
-### 4. **Mind Your Diet**
-   - Be mindful of portion sizes when eating out.
-   - Stick to healthy meals with lean proteins and salads when possible.
-   - Stay hydrated and keep protein intake steady with nuts, seeds, or protein bars.
-
-### 5. **Return to Routine**
-   - Once back from travel, get back into your gym routine as soon as possible.
-   - Don’t worry if you can’t hit your full workout plan during travel—focus on consistency and motivation over the long term.
+1. **Goblet Squats (Dumbbell)** – 3 sets of 15 reps
+2. **Push-Ups (Incline/Standard)** – 3 sets of 12-15 reps
+3. **One-Arm Dumbbell Rows** – 3 sets of 10 reps (each side)
+4. **Side Plank** – 2 sets of 30 seconds per side
+5. **Jogging (Cardio)** – 20-30 minutes
 
 ---
 
-### Motivation Tips
-- If you miss a day or can’t hit your goals, don’t get discouraged. Progress is about consistency over time.
-- Remember, any movement is better than none. Focus on what you can do, even if it’s small steps while traveling.
+#### **Day 4: Full-Body Strength + Cardio**
 
+1. **Leg Press or Bulgarian Split Squats** – 3 sets of 10-12 reps
+2. **Flat Bench Press (Barbell/Dumbbell)** – 3 sets of 10 reps
+3. **Seated Cable Rows** – 3 sets of 10-12 reps
+4. **Face Pulls (Cable)** – 3 sets of 12-15 reps
+5. **Russian Twists (Weighted)** – 3 sets of 15 reps (each side)
+6. **Jogging (Cardio)** – 20-30 minutes
 
+---
 
+#### **Day 5: Full-Body Strength + Core**
 
-25kg flying chest
+1. **Sumo Deadlifts (Light)** – 3 sets of 8-10 reps
+2. **Arnold Press (Dumbbell)** – 3 sets of 10 reps
+3. **Lat Pulldowns or Assisted Pull-Ups** – 3 sets of 10-12 reps
+4. **Tricep Dips (Assisted)** – 3 sets of 12-15 reps
+5. **Ab Rollouts (Using a Wheel or Stability Ball)** – 3 sets of 12 reps
+6. **Jogging (Cardio)** – 20 minutes
 
-Inclined barbell 0 5 5 
+---
 
-Dumbell press 10 15 20
+#### **Day 6: Full-Body Strength + Functional Moves**
 
-Chest press 10 10 10
+1. **Step-Ups (Weighted)** – 3 sets of 12 reps (each leg)
+2. **Incline Dumbbell Press** – 3 sets of 10 reps
+3. **Lat Pulldowns or Assisted Pull-Ups** – 3 sets of 10 reps
+4. **Dumbbell Shrugs (Light)** – 3 sets of 15 reps (to improve posture)
+5. **Jogging (Cardio)** – 25-30 minutes
 
-Bench press 0 5 5 
+---
 
-Military press 10
+#### **Day 7: Optional Rest or Active Recovery**
 
-Forward dumbell 2.5
+1. **Light Jogging or Brisk Walking** – 30-40 minutes
+2. **Stretching/Yoga** – Focus on hamstrings, back, and shoulders
 
-Side dumbbell 2.5
+---
 
-Shoulder back weight kheechna 10
+### **Diet Recommendations**
 
-Rope pull down 7.5
+To support your 1900-calorie plan:
 
-Triceps barbell - empty weight 
+- **Breakfast (400 kcal)**: Paneer parantha + curd or poha with peanuts
+- **Morning Snack (100 kcal)**: Green tea + a fruit (e.g., apple or orange)
+- **Lunch (600 kcal)**: 2 rotis + sabzi + 1 bowl dal
+- **Evening Snack (150 kcal)**: Roasted chana or fruit smoothie
+- **Dinner (500 kcal)**: Chawal + dal or roti + sabzi
+- **Post-Dinner (100 kcal)**: Warm milk
 
-Triceps weight pichhe se kheechna- 5 10 10
+---
+
+### **Progress Tracking**
+
+1. Weekly weigh-ins at the same time (preferably morning).
+2. Measure waist, chest, and hips monthly.
+3. Take progress photos every 30 days for comparison.
+
+Let me know if this aligns with your goals or if you'd like to adjust anything!

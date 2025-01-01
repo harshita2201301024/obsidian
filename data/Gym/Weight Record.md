@@ -1,6 +1,6 @@
 | Date     | Ideal Weight | Target Weight |     |
 | -------- | ------------ | ------------- | --- |
-| 1st Jan  | 80.9         |               |     |
+| 1st Jan  | 80.9         | 80.15         |     |
 | 2nd Jan  | 80.8         |               |     |
 | 3rd Jan  | 80.7         |               |     |
 | 4th Jan  | 80.6         |               |     |
