@@ -11,8 +11,8 @@ created: 2024-02-27 00:08
 > 5. Make Todo Everyday
 > 6. Focus on Retiring
 
-
-1. Delegation Detail Screen - 2 Hour -> 12:00 PM - 02:00 PM
+WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
+1. Delegation Detail Screen - 2 Hour -> 09:00 AM - 11:00 AM
 2. Delegation Sign - 1 Hour -> 02:00 - 04:00 PM
 3. Add Smart Delegation - 2 Hour -> 04:00 PM - 06:00 PM
 4. Dinner -> 06:00 PM - 08:00 PM 
