@@ -13,15 +13,16 @@ created: 2024-02-27 00:08
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 0. Solve PR Comments - 1 Hour -> 08:30 AM - 09:30 AM
-1. Delegation Detail Screen - 2 Hour -> 09:30 AM - 11:00 AM
-2. Delegation Sign - 1 Hour -> 11:00 AM - 01:00 PM
-3. Add Smart Delegation - 2 Hour -> 01:30 PM - 04:00 PM
-4. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
+1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75176/ -> 9:30 AM - 12:30 PM
+2. Delegation Detail Screen - 2 Hour -> 12:30 PM - 02:30 PM
+3. Delegation Sign - 1 Hour -> 02:30 PM - 03:30 PM
+4. Add Smart Delegation - 2 Hour -> 01:30 PM - 04:00 PM
+5. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
 
 6. Complete Section 4 and Section 5 ChatGPT
-11. Dinner -> 06:00 PM - 08:00 PM 
-12. GYM -> 08:00 PM - 10:00 PM
-13. Wish Shveta a Happy Birthday
+7. Dinner -> 06:00 PM - 08:00 PM 
+8. GYM -> 08:00 PM - 10:00 PM
+9. Wish Shveta a Happy Birthday
 
 ****
 
