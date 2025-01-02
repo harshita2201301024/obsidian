@@ -12,12 +12,18 @@ created: 2024-02-27 00:08
 > 6. Focus on Retiring
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
-0. Solve PR Comments
-1. Delegation Sign - 1 Hour -> 02:30 PM - 03:30 PM
-2. Complete Section 4 and Section 5 ChatGPT
-3. Dinner -> 06:00 PM - 08:00 PM 
-4. GYM -> 08:00 PM - 10:00 PM
-5. Wish Shveta a Happy Birthday
+0. Solve PR Comments -> 09:00 AM - 10:00 AM
+1. Delegation Sign - 1 Hour -> 02:30 PM - 03:30 PM -> 10:00 AM - 11:00 AM
+2. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM -> 11:00 AM - 02:00 PM
+3. FIX BUGS -> 02:00 PM - 05:00 PM
+4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/ 
+5. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
+6. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
+7. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
+8. Complete Section 4 and Section 5 ChatGPT
+9. Dinner -> 06:00 PM - 08:00 PM 
+10. GYM -> 08:00 PM - 10:00 PM
+11. Wish Shveta a Happy Birthday
 
 ****
 
@@ -28,11 +34,7 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
 
 Pending Things
-0. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
-1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
-2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
-3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
-4. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72531/
+
 5. License Journey Mobile Design
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
