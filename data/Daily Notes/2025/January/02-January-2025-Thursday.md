@@ -14,7 +14,7 @@ created: 2024-02-27 00:08
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 0. Solve PR Comments - 1 Hour -> 08:30 AM - 09:30 AM
 1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75176/ -> 9:30 AM - 12:30 PM
-2. Add Smart Delegation - 2 Hour -> 12:30 PM - 05:30 PM
+2. Add Smart Delegation - 2 Hour -> 12:30 PM - 03:30 PM
 3. Delegation Detail Screen - 2 Hour -> 12:30 PM - 02:30 PM
 4. Delegation Sign - 1 Hour -> 02:30 PM - 03:30 PM
 
