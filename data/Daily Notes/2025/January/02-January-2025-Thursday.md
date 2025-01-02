@@ -16,8 +16,8 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75176/ -> 9:30 AM - 12:30 PM
 2. Delegation Detail Screen - 2 Hour -> 12:30 PM - 02:30 PM
 3. Delegation Sign - 1 Hour -> 02:30 PM - 03:30 PM
-4. Add Smart Delegation - 2 Hour -> 01:30 PM - 04:00 PM
-5. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
+4. Add Smart Delegation - 2 Hour -> 03:30 PM - 05:30 PM
+
 
 6. Complete Section 4 and Section 5 ChatGPT
 7. Dinner -> 06:00 PM - 08:00 PM 
@@ -33,6 +33,7 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 2. Apply for Jobs -> 9:00 PM - 10: 00 PM
 
 Pending Things
+0. Stepper Layout - 4 Hour - 04:00 PM - 07:00 PM
 1. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75005/
 2. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/75004/
 3. https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/72563/
