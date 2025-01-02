@@ -7,7 +7,7 @@
 |           | Lateral Raises                   | 2.5/10 rep              | 5/10 rep                | 5/10 rep                |                            |
 |           | Plank (Seconds)                  | 60                      | 70                      | 75                      |                            |
 | **Day 2** | Deadlifts                        |                         |                         |                         | Jogging: 20 mins           |
-|           | Overhead Dumbbell Press          |                         |                         |                         | 30 min/3.70km              |
+|           | Overhead Dumbbell Press          | 7.5/10rep               | 10/10rep                | 15/10rep                | 30 min/3.70km              |
 |           | Pull-Ups                         |                         |                         |                         |                            |
 |           | Bicep Curls barbell              | 5kg/10 rep              | 10kg/ 10 rep            | 15kg/7 rep              |                            |
 |           | Leg Raises                       |                         |                         |                         |                            |
