@@ -16,6 +16,9 @@ Relax and Get Ready -> 6:30 AM - 09:00 AM
 Watch ChatGPT Videos -> 09:00 AM - 02:00 PM [SECTION 5 - SECTION 13]
 Timesheet -> 02:30 PM - 03:00 PM
 SLEEP -> 03:00 PM - 05:00PM
+Aaunty se Baat
+Raju Uncle se Baat
+
 
 CheckCircle on whole site
 8. Complete Section 4 and Section 5 ChatGPT
