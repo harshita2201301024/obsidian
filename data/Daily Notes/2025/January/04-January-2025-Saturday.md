@@ -11,14 +11,15 @@ created: 2024-02-27 00:08
 > 5. Make Todo Everyday
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
-Eye Test -> 06:30 AM - 09:00 PM
+Eye Test -> 06:30 AM - 09:00 PM -> book a
 Relax and Get Ready -> 6:30 AM - 09:00 AM
 Watch ChatGPT Videos -> 09:00 AM - 02:00 PM [SECTION 5 - SECTION 13]
 Timesheet -> 02:30 PM - 03:00 PM
 SLEEP -> 03:00 PM - 05:00PM
 Aaunty se Baat
 Raju Uncle se Baat
-
+MAMA Se Baat
+Rentt k Baare m Baat
 
 CheckCircle on whole site
 8. Complete Section 4 and Section 5 ChatGPT
