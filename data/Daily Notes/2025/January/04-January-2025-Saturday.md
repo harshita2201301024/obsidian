@@ -11,7 +11,8 @@ created: 2024-02-27 00:08
 > 5. Make Todo Everyday
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
-Relax -> 6:30 AM - 09:00 AM
+Relax and Get Ready -> 6:30 AM - 09:00 AM
+Watch ChatGPT Videos -> 09:00 AM - 02:00 PM
 
 CheckCircle on whole site
 8. Complete Section 4 and Section 5 ChatGPT
