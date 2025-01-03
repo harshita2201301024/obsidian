@@ -20,7 +20,9 @@ Aaunty se Baat
 Raju Uncle se Baat
 MAMA Se Baat
 Rentt k Baare m Baat
-Nail Cutting
+Nail Cutting + Bath
+Docor Visit -> 05:00 PM - 08:00 PM
+GYM -> 08:00 PM - 10:00 PM
 
 CheckCircle on whole site
 8. Complete Section 4 and Section 5 ChatGPT
