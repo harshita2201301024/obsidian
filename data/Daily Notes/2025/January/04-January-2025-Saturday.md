@@ -23,11 +23,7 @@ Rentt k Baare m Baat
 Nail Cutting + Bath
 Docor Visit -> 05:00 PM - 08:00 PM
 GYM -> 08:00 PM - 10:00 PM
-
-CheckCircle on whole site
-8. Complete Section 4 and Section 5 ChatGPT
-9. Dinner -> 06:00 PM - 08:00 PM 
-10. GYM -> 08:00 PM - 10:00 PM 
+Apply Shilpa JOB -> 10:00 PM - 12:00 AM
 
 ****
 
