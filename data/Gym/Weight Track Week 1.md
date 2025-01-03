@@ -8,11 +8,11 @@
 |           | Plank (Seconds)                  | 60                      | 70                      | 75                      |                            |
 | **Day 2** | Deadlifts                        | 10/10 rep               | 10/10 rep               | 10/10 rep               | Jogging: 20 mins           |
 |           | Overhead Dumbbell Press          | 7.5/10rep               | 10/10rep                | 15/10rep                | 30 min/3.70km              |
-|           | Pull-Ups                         | 42 support/10 rep       |                         |                         |                            |
+|           | Pull-Ups                         | 42 support/10 rep       | 35 support/10 rep       | 35 support/10 rep       |                            |
 |           | Bicep Curls barbell              | 5kg/10 rep              | 10kg/ 10 rep            | 15kg/7 rep              |                            |
-|           | Leg Raises                       |                         |                         |                         |                            |
-| **Day 3** | Goblet Squats                    |                         |                         |                         | Jogging: 20-30 mins        |
-|           | Push-Ups                         |                         |                         |                         |                            |
+|           | Leg Raises                       | 20                      | 20                      | 20                      |                            |
+| **Day 3** | Goblet Squats                    | 10                      | 10                      | 10                      | Jogging: 20-30 mins        |
+|           | Push-Ups                         | 12                      | 12                      | 12                      |                            |
 |           | One-Arm Dumbbell Rows            |                         |                         |                         |                            |
 |           | Side Plank (Seconds/Side)        |                         |                         |                         |                            |
 | **Day 4** | Leg Press/Bulgarian Split Squats |                         |                         |                         | Jogging: 20-30 mins        |
