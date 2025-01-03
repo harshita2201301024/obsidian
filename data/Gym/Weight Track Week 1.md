@@ -6,9 +6,9 @@
 |           | Bent-Over Rows                   | 0/10 rep                | 10/10 rep               | 10/10 rep               |                            |
 |           | Lateral Raises                   | 2.5/10 rep              | 5/10 rep                | 5/10 rep                |                            |
 |           | Plank (Seconds)                  | 60                      | 70                      | 75                      |                            |
-| **Day 2** | Deadlifts                        |                         |                         |                         | Jogging: 20 mins           |
+| **Day 2** | Deadlifts                        | 10/10 rep               | 10/10 rep               | 10/10 rep               | Jogging: 20 mins           |
 |           | Overhead Dumbbell Press          | 7.5/10rep               | 10/10rep                | 15/10rep                | 30 min/3.70km              |
-|           | Pull-Ups                         |                         |                         |                         |                            |
+|           | Pull-Ups                         | 42 support/10 rep       |                         |                         |                            |
 |           | Bicep Curls barbell              | 5kg/10 rep              | 10kg/ 10 rep            | 15kg/7 rep              |                            |
 |           | Leg Raises                       |                         |                         |                         |                            |
 | **Day 3** | Goblet Squats                    |                         |                         |                         | Jogging: 20-30 mins        |
