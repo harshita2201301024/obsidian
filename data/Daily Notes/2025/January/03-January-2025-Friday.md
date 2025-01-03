@@ -9,7 +9,6 @@ created: 2024-02-27 00:08
 > 3. Go to Gym Daily
 > 4. Drink Plenty of Water
 > 5. Make Todo Everyday
-> 6. Focus on Retiring
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 0. Solve PR Comments -> 09:00 AM - 10:00 AM
@@ -23,7 +22,6 @@ WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 8. Complete Section 4 and Section 5 ChatGPT
 9. Dinner -> 06:00 PM - 08:00 PM 
 10. GYM -> 08:00 PM - 10:00 PM
-11. Wish Shveta a Happy Birthday
 
 ****
 
