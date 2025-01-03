@@ -12,12 +12,12 @@ created: 2024-02-27 00:08
 
 WAKE UP AT 8AM -> MEASURE WEIGHT -> DRINK WATER
 Relax and Get Ready -> 6:30 AM - 09:00 AM
-Watch ChatGPT Videos -> 09:00 AM - 02:00 PM
-
+Watch ChatGPT Videos -> 09:00 AM - 02:00 PM [SECTION 5 - SECTION 13]
+Timesheet -> 
 CheckCircle on whole site
 8. Complete Section 4 and Section 5 ChatGPT
 9. Dinner -> 06:00 PM - 08:00 PM 
-10. GYM -> 08:00 PM - 10:00 PM
+10. GYM -> 08:00 PM - 10:00 PM 
 
 ****
 
