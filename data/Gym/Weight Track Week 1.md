@@ -16,7 +16,7 @@
 |           | One-Arm Dumbbell Rows            |                         |                         |                         |                            |
 |           | Side Plank (Seconds/Side)        | 30 sec                  | 30 Sec                  | 30 sewc                 |                            |
 | **Day 4** | Leg Press/Bulgarian Split Squats |                         |                         |                         | Jogging: 20-30 mins        |
-|           | Flat Bench Press                 |                         |                         |                         |                            |
+|           | Flat Bench Press                 |                         |                         |                         | 30 min/3km                 |
 |           | Seated Cable Rows                |                         |                         |                         |                            |
 |           | Face Pulls                       |                         |                         |                         |                            |
 |           | Russian Twists (Reps/Side)       |                         |                         |                         |                            |
