@@ -13,10 +13,10 @@
 |           | Leg Raises                       | 20                      | 20                      | 20                      |                            |
 | **Day 3** | Goblet Squats                    | 10                      | 10                      | 10                      | Jogging: 20-30 mins        |
 |           | Push-Ups                         | 12                      | 12                      | 12                      | 30 min/3.7km               |
-|           | One-Arm Dumbbell Rows            |                         |                         |                         |                            |
+|           | One-Arm Dumbbell Rows            | 10/10 rep               | 12.5/10 rep             | 15/10 rep               |                            |
 |           | Side Plank (Seconds/Side)        | 30 sec                  | 30 Sec                  | 30 sewc                 |                            |
 | **Day 4** | Leg Press/Bulgarian Split Squats |                         |                         |                         | Jogging: 20-30 mins        |
-|           | Flat Bench Press                 |                         |                         |                         | 30 min/3km                 |
+|           | Flat Bench Press                 | 5/10 rep                | 7.5/10 rep              | 10/10 rep               | 30 min/3km                 |
 |           | Seated Cable Rows                |                         |                         |                         |                            |
 |           | Face Pulls                       |                         |                         |                         |                            |
 |           | Russian Twists (Reps/Side)       |                         |                         |                         |                            |
