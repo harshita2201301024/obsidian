@@ -1,10 +1,10 @@
 ---
 created: 2024-02-27 00:08
 ---
-CheckCircle on whole site
-on Listing screen when no data is there remove border line
-Change Button Name spelling
-Refresh not working on mobile
+
+on Listing screen when no data is there remove border line -> 09:00 AM - 09:30 AM
+Change Button Name spelling -> 10:00 AM - 10:10 AM
+Refresh not working on mobile 
 v-btn border-radius everywhere
 Add Smart Delegation Mobile Design (Extra Spacing)
 Add Smart Delegation Delegate Details - Extra space and button full width
