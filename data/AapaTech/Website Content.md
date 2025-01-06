@@ -1,1 +1,2 @@
-We will be able to write Blogs
+We will write Blogs
+
