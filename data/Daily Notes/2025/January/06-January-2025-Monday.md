@@ -17,11 +17,11 @@ Delegation Selection getting cropped
 Delegation Signatures background color and spacing
 Delegation Signatures Mobile Button and spacing and background color
 
-1. Send a Email to Rahul
-2. Apply for office leaves
-3. Pay 15000 aed to Pankaj ji
-4. Photographer
-6. Call motin and ask him to come at 11 am
+1. Send a Email to Rahul -> 8:30 AM - 08:40 AM
+2. Call motin and ask him to come at 11 am -> 08:40 AM - 08:42AM
+3. Apply for office leaves -> 8:40 AM - 09:00 AM
+4. Pay 15000 aed to Pankaj ji -> 09:
+5. Photographer
 
 Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 
