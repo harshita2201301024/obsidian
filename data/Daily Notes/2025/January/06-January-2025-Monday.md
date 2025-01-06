@@ -13,7 +13,7 @@ Confirm and Back Button -> 02:30 PM - 03:00 PM
 Delegation Detail - loader, dropdown background color, dropdown selection -> 03:00 PM - 04:00 PM
 Delegation Detail Mobile Button and background color
 Delegation Selection getting cropped
-Delegation Signatures background color and spacing -> 04:00 PM - 05:
+Delegation Signatures background color and spacing -> 04:00 PM - 05:00 PM
 Delegation Signatures Mobile Button and spacing and background color
 
 1. Send a Email to Rahul -> 8:30 AM - 08:40 AM
@@ -35,7 +35,7 @@ Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 | **5:30 PM - 7:30 PM**   | Aapa Tech time: Client outreach, social media, website work |
 | **7:30 PM - 9:30 PM**   | Gym session (cardio + strength training)                    |
 | **9:30 PM - 10:00 PM**  | Shower and refresh                                          |
-| **10:00 PM - 11:00 PM** | Dinner (e.g., roti + sabzi or chawal + daal), evening snack |
+| **10:00 PM - 12:00 AM** | Wrap up Aapa Tech tasks, review what’s pending              |
 | **11:00 PM - 12:00 AM** | Wrap up Aapa Tech tasks, review what’s pending              |
 | **12:00 AM onwards**    | Optional: Extra Aapa Tech work or winding down              |
 
