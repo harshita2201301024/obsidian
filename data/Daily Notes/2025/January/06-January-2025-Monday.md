@@ -9,4 +9,5 @@ v-btn border-radius everywhere
 Add Smart Delegation Mobile Design (Extra Spacing)
 Add Smart Delegation Delegate Details - Extra space and button full width
 Summary Spacing 
-Confirm and B
+Confirm and Back Button
+
