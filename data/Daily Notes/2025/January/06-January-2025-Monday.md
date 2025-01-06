@@ -49,7 +49,7 @@ Pending Things
 3. Apply for office leaves
 4. Buy Shilpa Dresses
 5. Pay 15000 aed to Pankaj ji
-6. 
+6. Photographer
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
