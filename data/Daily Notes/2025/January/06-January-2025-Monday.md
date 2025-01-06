@@ -24,7 +24,8 @@ Delegation Signatures Mobile Button and spacing and background color
 
 Pending Things
 
-2. License Journey Mobile Design
+1. License Journey Mobile Design
+2. 
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
