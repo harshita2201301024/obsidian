@@ -7,3 +7,5 @@ Youtube
 Create Website of Aapa Tech
 Create a draft for your client proposal template.
 UPwork
+Fiverr
+Freelancer
