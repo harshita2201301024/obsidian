@@ -25,7 +25,9 @@ Delegation Signatures Mobile Button and spacing and background color
 Pending Things
 
 1. License Journey Mobile Design
-2. Send a Email to 
+2. Send a Email to Rahul
+3. Apply for office leaves
+4. 
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
