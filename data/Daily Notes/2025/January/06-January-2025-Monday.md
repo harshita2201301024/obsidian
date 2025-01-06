@@ -17,7 +17,25 @@ Delegation Selection getting cropped
 Delegation Signatures background color and spacing
 Delegation Signatures Mobile Button and spacing and background color
 
+Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 
+|**Time**|**Activity**|
+|---|---|
+|**8:00 AM - 9:00 AM**|Freshen up, drink water, and get ready|
+|**9:00 AM - 12:00 PM**|Focus on office work|
+|**12:00 PM - 12:30 PM**|Break: Quick Aapa Tech updates (social media, client outreach)|
+|**12:30 PM - 1:00 PM**|Continue office work|
+|**1:00 PM - 1:30 PM**|Lunch break (use 5-10 minutes for Aapa Tech updates)|
+|**1:30 PM - 5:00 PM**|Continue office tasks|
+|**5:00 PM - 5:30 PM**|Unwind after work|
+|**5:30 PM - 7:30 PM**|Aapa Tech time: Client outreach, social media, website work|
+|**7:30 PM - 9:30 PM**|Gym session (cardio + strength training)|
+|**9:30 PM - 10:00 PM**|Shower and refresh|
+|**10:00 PM - 11:00 PM**|Dinner (e.g., roti + sabzi or chawal + daal), evening snack|
+|**11:00 PM - 12:00 AM**|Wrap up Aapa Tech tasks, review what’s pending|
+|**12:00 AM onwards**|Optional: Extra Aapa Tech work or winding down|
+
+This plan accommodates your gym session in the evening and provides ample time for Aapa Tech tasks before and after the gym. Let me know if you'd like further adjustments!
 
 
 **PRIORITY**
