@@ -27,7 +27,9 @@ Pending Things
 1. License Journey Mobile Design
 2. Send a Email to Rahul
 3. Apply for office leaves
-4. 
+4. Buy Shilpa Dresses
+5. Pay 15000 aed to Pankaj ji
+6. 
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
