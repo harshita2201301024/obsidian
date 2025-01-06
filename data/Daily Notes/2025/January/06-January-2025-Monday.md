@@ -23,6 +23,7 @@ Here’s the sorted schedule in a tabular format:
 | **4:00 PM - 5:00 PM**   | Delegation Signatures: Mobile button, spacing, and background color;      |
 | **5:00 PM - 6:00 PM**   | Pay 15,000 AED to Pankaj Ji                                               |
 | **7:30 PM - 9:30 PM**   | Gym session: Cardio and strength training                                 |
+| 10:00 PM - 12:00 AM     | Work on Aapa Tech                                                         |
 
 This schedule is sorted chronologically for better readability. Let me know if you need further adjustments!
 
