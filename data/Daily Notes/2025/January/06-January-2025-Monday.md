@@ -19,9 +19,10 @@ Delegation Signatures Mobile Button and spacing and background color
 
 1. Send a Email to Rahul -> 8:30 AM - 08:40 AM
 2. Call motin and ask him to come at 11 am -> 08:40 AM - 08:42AM
-3. Apply for office leaves -> 8:40 AM - 09:00 AM
-4. Pay 15000 aed to Pankaj ji -> 04:00 PM - 05:00 PM
-5. Photographer -> 08:
+3. Photographer -> 08:42 AM - 08:45 AM
+4. Apply for office leaves -> 8:40 AM - 09:00 AM
+5. Call Mama ji and Discuss with Mmi Regarding Property -> 12:00 PM - 12:30 PM
+6. Pay 15000 aed to Pankaj ji -> 04:00 PM - 05:00 PM
 
 Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 
