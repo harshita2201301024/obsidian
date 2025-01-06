@@ -6,4 +6,5 @@ on Listing screen shen no data is there remove border line
 Change Button Name spelling
 Refresh not working on mobile
 v-btn border-radius everywhere
-Add Smart Delegation Mobile Design
+Add Smart Delegation Mobile Design (Extra Spacing)
+Extr
