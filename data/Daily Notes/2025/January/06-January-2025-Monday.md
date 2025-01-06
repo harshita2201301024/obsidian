@@ -18,6 +18,8 @@ Delegation Signatures background color and spacing
 Delegation Signatures Mobile Button and spacing and background color
 
 
+
+
 **PRIORITY**
 
 1. Apply for Jobs -> 9:00 PM - 10: 00 PM
