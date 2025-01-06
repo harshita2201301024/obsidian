@@ -10,4 +10,5 @@ Add Smart Delegation Mobile Design (Extra Spacing)
 Add Smart Delegation Delegate Details - Extra space and button full width
 Summary Spacing 
 Confirm and Back Button
+loader not appearing
 
