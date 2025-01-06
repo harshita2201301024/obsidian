@@ -13,4 +13,4 @@ Confirm and Back Button
 loader not appearing
 Delegation Detail - loader, dropdown background color, dropdown selection
 Delegation Detail Mobile Button and background color
-
+Delegation Selection getting cropped
