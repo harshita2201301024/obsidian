@@ -17,11 +17,11 @@ Delegation Selection getting cropped
 Delegation Signatures background color and spacing
 Delegation Signatures Mobile Button and spacing and background color
 
-2. Send a Email to Rahul
-3. Apply for office leaves
-4. Pay 15000 aed to Pankaj ji
-5. Photographer
-6. Cockroach Kill
+1. Send a Email to Rahul
+2. Apply for office leaves
+3. Pay 15000 aed to Pankaj ji
+4. Photographer
+6. Call motin and ask him to come at 11 am
 
 Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 
@@ -54,6 +54,7 @@ Pending Things
 4. Buy Shilpa Dresses
 5. Pay 15000 aed to Pankaj ji
 6. Photographer
+7. Cockroach Kill
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
