@@ -9,3 +9,4 @@ Create a draft for your client proposal template.
 UPwork
 Fiverr
 Freelancer
+Begin reaching out to **local businesses** for potential collaborations.
