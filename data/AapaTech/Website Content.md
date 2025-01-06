@@ -30,3 +30,36 @@ We will write Blogs
 
 - Describe the additional features you provide like forms, API integrations, animations, etc.
 
+
+### 4. **Portfolio Page**
+
+**Section 1: Showcase Projects**
+
+- Display some sample projects you've worked on, including a brief description, technology stack, and a link to the live project.
+- Categorize projects based on complexity (Static Websites, Portfolios, Custom Designs).
+
+### 5. **Client Proposal Page**
+
+**Section 1: How We Work**
+
+- "We work closely with clients to ensure that every website meets their needs, from the design phase to launch."
+- Mention the proposal process, focusing on collaboration, communication, and flexibility.
+
+**Section 2: Sample Proposal**
+
+- Include a sample proposal with sections like Project Overview, Scope of Work, Timeline, Pricing, etc. as outlined earlier.
+
+### 6. **Contact Us Page**
+
+**Section 1: Get In Touch**
+
+- "Have a project in mind? We’d love to hear from you!"
+- Contact Form Fields: Name, Email, Phone (optional), Project Details/Message
+- Button: "Submit" or "Get a Free Quote"
+
+**Section 2: Office Details**
+
+- If you’re operating remotely, include a note like "We operate 100% remotely, serving clients worldwide."
+- Include email (info@aapatech.com) and social media links (LinkedIn, Twitter, etc.).
+
+
