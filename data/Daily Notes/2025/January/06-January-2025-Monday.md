@@ -6,10 +6,10 @@ on Listing screen when no data is there remove border line -> 09:00 AM - 09:30 A
 Change Button Name spelling -> 09:30 AM - 09:40 AM
 Refresh not working on mobile -> 09:40 AM - 11:00 AM
 v-btn border-radius everywhere -> 11:00 AM - 12:00 PM
-Add Smart Delegation Mobile Design (Extra Spacing) -? 
-Add Smart Delegation Delegate Details - Extra space and button full width
-Summary Spacing 
-Confirm and Back Button
+Add Smart Delegation Mobile Design (Extra Spacing) -> 01:00 PM - 01:30 PM
+Add Smart Delegation Delegate Details - Extra space and button full width -> 01:30 PM - 02:00 PM
+Summary Spacing -> 02:00PM - 02:30 PM
+Confirm and Back Button -> 
 loader not appearing
 Delegation Detail - loader, dropdown background color, dropdown selection
 Delegation Detail Mobile Button and background color
