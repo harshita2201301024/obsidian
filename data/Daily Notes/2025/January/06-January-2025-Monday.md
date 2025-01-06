@@ -7,4 +7,6 @@ Change Button Name spelling
 Refresh not working on mobile
 v-btn border-radius everywhere
 Add Smart Delegation Mobile Design (Extra Spacing)
-Extr
+Add Smart Delegation Delegate Details - Extra space and button full width
+Summary Spacing 
+Confirm and B
