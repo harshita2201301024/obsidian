@@ -15,4 +15,4 @@ Delegation Detail - loader, dropdown background color, dropdown selection
 Delegation Detail Mobile Button and background color
 Delegation Selection getting cropped
 Delegation Signatures background color and spacing
-Delegation Signatures Mobile Button and spacing
+Delegation Signatures Mobile Button and spacing and background color
