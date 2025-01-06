@@ -24,9 +24,7 @@ Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 | **6:30 AM - 7:30 AM**   | Freshen up, drink water, and get ready                      |
 | **9:00 AM - 12:00 PM**  | Focus on office work                                        |
 | **12:00 PM - 12:30 PM** | Lunch                                                       |
-| **12:30 PM - 5:00 PM**  | Continue office work                                        |
-| **1:00 PM - 1:30 PM**   | Lunch break (use 5-10 minutes for Aapa Tech updates)        |
-| **1:30 PM - 5:00 PM**   | Continue office tasks                                       |
+| **12:30 PM - 4:00 PM**  | Continue office tasks                                       |
 | **5:00 PM - 5:30 PM**   | Unwind after work                                           |
 | **5:30 PM - 7:30 PM**   | Aapa Tech time: Client outreach, social media, website work |
 | **7:30 PM - 9:30 PM**   | Gym session (cardio + strength training)                    |
