@@ -36,8 +36,6 @@ Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 | **7:30 PM - 9:30 PM**   | Gym session (cardio + strength training)                    |
 | **9:30 PM - 10:00 PM**  | Shower and refresh                                          |
 | **10:00 PM - 12:00 AM** | Wrap up Aapa Tech tasks, review what’s pending              |
-| **11:00 PM - 12:00 AM** | Wrap up Aapa Tech tasks, review what’s pending              |
-| **12:00 AM onwards**    | Optional: Extra Aapa Tech work or winding down              |
 
 This plan accommodates your gym session in the evening and provides ample time for Aapa Tech tasks before and after the gym. Let me know if you'd like further adjustments!
 
