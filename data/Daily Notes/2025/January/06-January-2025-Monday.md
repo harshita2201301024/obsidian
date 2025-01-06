@@ -17,6 +17,12 @@ Delegation Selection getting cropped
 Delegation Signatures background color and spacing
 Delegation Signatures Mobile Button and spacing and background color
 
+2. Send a Email to Rahul
+3. Apply for office leaves
+4. Pay 15000 aed to Pankaj ji
+5. Photographer
+6. Cockroach Kill
+
 Here's your updated schedule with the gym session from 7:30 PM - 9:30 PM:
 
 | **Time**                | **Activity**                                                |
