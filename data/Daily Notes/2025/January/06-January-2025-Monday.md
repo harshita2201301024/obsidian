@@ -9,12 +9,11 @@ v-btn border-radius everywhere -> 11:00 AM - 12:00 PM
 Add Smart Delegation Mobile Design (Extra Spacing) -> 01:00 PM - 01:30 PM
 Add Smart Delegation Delegate Details - Extra space and button full width -> 01:30 PM - 02:00 PM
 Summary Spacing -> 02:00PM - 02:30 PM
-Confirm and Back Button -> 
-loader not appearing
-Delegation Detail - loader, dropdown background color, dropdown selection
+Confirm and Back Button -> 02:30 PM - 03:00 PM
+Delegation Detail - loader, dropdown background color, dropdown selection -> 03:00 PM - 04:00 PM
 Delegation Detail Mobile Button and background color
 Delegation Selection getting cropped
-Delegation Signatures background color and spacing
+Delegation Signatures background color and spacing -> 04:00 PM - 05:
 Delegation Signatures Mobile Button and spacing and background color
 
 1. Send a Email to Rahul -> 8:30 AM - 08:40 AM
