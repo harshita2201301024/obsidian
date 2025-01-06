@@ -3,10 +3,10 @@ created: 2024-02-27 00:08
 ---
 
 on Listing screen when no data is there remove border line -> 09:00 AM - 09:30 AM
-Change Button Name spelling -> 10:00 AM - 10:10 AM
-Refresh not working on mobile 
-v-btn border-radius everywhere
-Add Smart Delegation Mobile Design (Extra Spacing)
+Change Button Name spelling -> 09:30 AM - 09:40 AM
+Refresh not working on mobile -> 09:40 AM - 11:00 AM
+v-btn border-radius everywhere -> 11:00 AM - 12:00 PM
+Add Smart Delegation Mobile Design (Extra Spacing) -? 
 Add Smart Delegation Delegate Details - Extra space and button full width
 Summary Spacing 
 Confirm and Back Button
