@@ -12,6 +12,7 @@ Delegation Detail: Loader, dropdown background color, dropdown selection - 05:30
 
 
 
+
 | **Time**              | **Activity**                                                         | Status |
 | --------------------- | -------------------------------------------------------------------- | ------ |
 |                       |                                                                      |        |
