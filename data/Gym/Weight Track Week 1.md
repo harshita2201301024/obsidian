@@ -16,8 +16,8 @@
 |           | Side Plank (Seconds/Side)        | 30 sec                   | 30 Sec                  | 30 sewc                 |                            |
 | **Day 4** | Leg Press/Bulgarian Split Squats | 40                       | 60                      | 80                      | Jogging: 20-30 mins        |
 |           | Flat Bench Press                 | 5/10 rep                 | 7.5/10 rep              | 10/10 rep               | 30 min/3km                 |
-|           | Seated Cable Rows                |                          |                         |                         |                            |
-|           | Face Pulls                       |                          |                         |                         |                            |
+|           | Seated Cable Rows                | 25                       | 30                      | 30                      |                            |
+|           | Face Pulls                       | 7.5                      |                         |                         |                            |
 |           | Russian Twists (Reps/Side)       | 10                       | 10                      | 10                      |                            |
 | **Day 5** | Sumo Deadlifts                   |                          |                         |                         | Jogging: 20 mins           |
 |           | Arnold Press                     |                          |                         |                         |                            |
