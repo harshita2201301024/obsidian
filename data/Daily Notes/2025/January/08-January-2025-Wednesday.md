@@ -9,7 +9,7 @@ complete office work Du Addon journey UI - 03:30 PM - 05:30 PM
 Delegation Detail: Loader, dropdown background color, dropdown selection - 05:30 PM - 06:30 PM
 Prepare AapaTech Logo - 06:30 PM - 0:730 PM
 GYM - 07:30 PM - 10:00 PM - OLD EXERCISE + NEW EXERCISE 
-Apply for Jobs - 
+Apply for Jobs - 10:00 PM - 11:00 PM
 
 
 **PRIORITY**
@@ -18,12 +18,10 @@ Apply for Jobs -
 Pending Things
 
 1. License Journey Mobile Design
-2. Send a Email to Rahul
-3. Apply for office leaves
 4. Buy Shilpa Dresses
-5. Pay 15000 aed to Pankaj ji
-6. Photographer
 7. Cockroach Kill
+8. Delegation Signatures: Mobile button, spacing, and background color;
+9. De
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
