@@ -17,12 +17,12 @@
 | **Day 4** | Leg Press/Bulgarian Split Squats | 40                       | 60                      | 80                      | Jogging: 20-30 mins        |
 |           | Flat Bench Press                 | 5/10 rep                 | 7.5/10 rep              | 10/10 rep               | 30 min/3km                 |
 |           | Seated Cable Rows                | 25                       | 30                      | 30                      |                            |
-|           | Face Pulls                       | 7.5                      |                         |                         |                            |
+|           | Face Pulls                       | 7.5                      | 10                      | 12.5                    |                            |
 |           | Russian Twists (Reps/Side)       | 10                       | 10                      | 10                      |                            |
 | **Day 5** | Sumo Deadlifts                   |                          |                         |                         | Jogging: 20 mins           |
-|           | Arnold Press                     |                          |                         |                         |                            |
-|           | Lat Pulldowns                    |                          |                         |                         |                            |
-|           | Tricep Dips                      |                          |                         |                         |                            |
+|           | Arnold Press                     | 5                        | 7.5                     | 7.5                     |                            |
+|           | Lat Pulldowns                    | 25                       | 30                      | 35                      |                            |
+|           | Tricep Dips                      | 4                        | 4                       | 4                       |                            |
 |           | Ab Rollouts                      |                          |                         |                         |                            |
 | **Day 6** | Step-Ups                         |                          |                         |                         | Jogging: 25-30 mins        |
 |           | Incline Dumbbell Press           |                          |                         |                         |                            |
