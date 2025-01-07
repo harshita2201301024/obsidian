@@ -18,11 +18,39 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-October-2024-Saturday"
+              "title": "Gym"
             }
           },
           {
             "id": "6718e3e95cdafe19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/November/06-November-2024-Wednesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-November-2024-Wednesday"
+            }
+          },
+          {
+            "id": "dd68b4dd6bab0a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/Daily Notes/2024/December/16-December-2024-Monday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16-December-2024-Monday"
+            }
+          },
+          {
+            "id": "826af64010142c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +62,9 @@
               "icon": "lucide-file",
               "title": "06-January-2025-Monday"
             }
-          },
-          {
-            "id": "cab54899fb18aef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data/Gym/Weight Track Week 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weight Track Week 1"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 300
   },
   "right": {
     "id": "14871039e31b122b",
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/Daily Notes/2024/November/18-November-2024-Monday.md",
+                "file": "data/Gym/Gym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18-November-2024-Monday"
+              "title": "Backlinks for Gym"
             }
           },
           {
@@ -141,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Daily Notes/2024/November/18-November-2024-Monday.md",
+                "file": "data/Gym/Gym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18-November-2024-Monday"
+              "title": "Outgoing links from Gym"
             }
           },
           {
@@ -168,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/Daily Notes/2024/November/18-November-2024-Monday.md"
+                "file": "data/Gym/Gym.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18-November-2024-Monday"
+              "title": "Outline of Gym"
             }
           },
           {
@@ -189,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,44 +222,41 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "cab54899fb18aef4",
+  "active": "826af64010142c98",
   "lastOpenFiles": [
-    "data/Gym/Weight Record.md",
-    "data/Gym/Weight Track Week 1.md",
     "data/Daily Notes/2025/January/08-January-2025-Wednesday.md",
-    "data/Daily Notes/2025/January/06-January-2025-Monday.md",
-    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2025/January/04-January-2025-Saturday.md",
-    "data/Daily Notes/2024/November/06-November-2024-Wednesday.md",
-    "data/AapaTech/Website Content.md",
+    "data/Daily Notes/2025/January/06-January-2025-Monday.md",
     "data/AapaTech/Things To Do.md",
-    "data/AapaTech",
+    "data/AapaTech/Website Content.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "Untitled.md",
-    "data/Daily Notes/2025/January/03-January-2025-Friday.md",
-    "data/Pending Things/Pending.md",
+    "Untitled 2.md",
     "data/Startup/Shilpa.md",
+    "data/AapaTech",
+    "Untitled",
     "data/Startup/Business.md",
-    "data/Others/Things to bring from india.md",
-    "data/Others/Things to do Today.md",
+    "data/Gym/Weight Track Week 1.md",
+    "data/Gym/Weight Record.md",
+    "data/Daily Notes/2025/January/03-January-2025-Friday.md",
     "data/Daily Notes/2025/January/02-January-2025-Thursday.md",
-    "data/Daily Notes/2024/03-March/2024-03-10-Sunday.md",
-    "data/Daily Notes/2024/03-March/2024-03-07-Thursday.md",
-    "data/Daily Notes/2024/03-March/2024-03-15-Friday.md",
-    "data/Daily Notes/2024/December/27-December-2024-Friday.md",
+    "conflict-files-obsidian-git.md",
     "data/Daily Notes/2025/January/01-January-2025-Wednesday.md",
-    "Screenshot 2024-09-24 at 4.16.37 PM.png",
-    "data/Gym/Gym.md",
-    "data/Daily Notes/2024/December/16-December-2024-Monday.md",
+    "data/Daily Notes/2024/December/31-December-2024-Tuesday.md",
     "data/Daily Notes/2025/January",
     "data/Daily Notes/2025",
+    "data/Daily Notes/2024/December/30-December-2024-Monday.md",
+    "data/Daily Notes/2024/December/28-December-2024-Saturday.md",
+    "data/Gym/Gym.md",
+    "data/Study/Chatgpt.md",
+    "data/Daily Notes/2024/December/27-December-2024-Friday.md",
+    "data/Daily Notes/2024/December/26-December-2024-Thursday.md",
+    "data/Daily Notes/2024/December/25-December-2024-Wednesday.md",
+    "data/Daily Notes/2024/December/19-December-2024-Thursday.md",
+    "data/Daily Notes/2024/December/16-December-2024-Monday.md",
     "data/Daily Notes/2024/December",
-    "data/Study/Vuetify/Introduction",
-    "data/Study/Vuetify",
-    "data/Study/JetBrains",
-    "data/Daily Notes/2024/November",
     "data/Study/Vue/30. Performances",
-    "data/Study/Vue/28. Internationalizaiton"
+    "data/Study/Vue/28. Internationalizaiton",
+    "data/Study/Vue/27. Custom Directives"
   ]
 }
