@@ -14,7 +14,7 @@ Here’s the sorted schedule in a tabular format:
 | **9:30 AM - 9:40 AM**   | Change button name spelling                                               | done   |
 | 9:40 AM - 10:00 AM      | Move Search Text form below tabs                                          | done   |
 | **10:00 AM - 11:00 AM** | Fix issue: Refresh not working on mobile                                  | done   |
-|                         |                                                                           |        |
+| 11:00 AM - 11:15 AM     | make it chip and box shadow of check circle                               | done   |
 | **11:00 AM - 12:00 PM** | Apply `v-btn` border-radius everywhere                                    |        |
 | **12:00 PM - 12:30 PM** | Call Mama ji and discuss with Mami regarding property                     |        |
 | **1:00 PM - 1:30 PM**   | Add Smart Delegation mobile design (extra spacing)                        |        |
