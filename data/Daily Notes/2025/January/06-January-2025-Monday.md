@@ -17,7 +17,7 @@ Here’s the sorted schedule in a tabular format:
 | 11:00 AM - 11:15 AM     | make it chip and box shadow of check circle                               | done   |
 | **11:00 AM - 12:00 PM** | Apply `v-btn` border-radius everywhere                                    | done   |
 | **12:00 PM - 12:30 PM** | Call Mama ji and discuss with Mami regarding property                     |        |
-| **1:00 PM - 1:30 PM**   | Add Smart Delegation mobile design (extra spacing)                        |        |
+| **1:00 PM - 1:30 PM**   | Add Smart Delegation mobile design (extra spacing)                        | done   |
 | **1:30 PM - 2:00 PM**   | Add Smart Delegation Delegate details - Extra space and button full width |        |
 | **2:00 PM - 2:30 PM**   | Summary spacing                                                           |        |
 | **2:30 PM - 3:00 PM**   | Confirm and Back button                                                   |        |
