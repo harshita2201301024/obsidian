@@ -10,7 +10,7 @@ Here’s the sorted schedule in a tabular format:
 | **8:40 AM - 8:42 AM**   | Call Motin and ask him to come at 11 AM                                   | done   |
 | **8:42 AM - 8:45 AM**   | Photographer                                                              | done   |
 | **8:40 AM - 9:00 AM**   | Apply for office leaves                                                   | done   |
-| **9:00 AM - 9:30 AM**   | On Listing screen: Remove border line when no data is there               |        |
+| **9:00 AM - 9:30 AM**   | On Listing screen: Remove border line when no data is there               | done   |
 | **9:30 AM - 9:40 AM**   | Change button name spelling                                               |        |
 | **9:40 AM - 11:00 AM**  | Fix issue: Refresh not working on mobile                                  |        |
 | **11:00 AM - 12:00 PM** | Apply `v-btn` border-radius everywhere                                    |        |
