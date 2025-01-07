@@ -2,14 +2,19 @@
 created: 2024-02-27 00:08
 ---
 Here’s the sorted schedule in a tabular format:
- wake up at 08:00 am 
-start working - 09:00 am - 12:00 pm **Priority 1:** Du Addon journey UI Makeover - [https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/ "https://devops.det.gov.ae/defaultcollection/iid/_workitems/edit/71714/")
-prepare for interview - 12:00 pm - 03:30 pm
-complete office work Du Addon journey UI - 03:30 PM - 05:30 PM
-Delegation Detail: Loader, dropdown background color, dropdown selection - 05:30 PM - 06:30 PM
-Prepare AapaTech Logo - 06:30 PM - 0:730 PM
-GYM - 07:30 PM - 10:00 PM - OLD EXERCISE + NEW EXERCISE 
-Apply for Jobs - 10:00 PM - 11:00 PM
+Here’s your to-do list for the day in a tabular format, sorted by time:
+
+|**Time**|**Task**|**Priority**|
+|---|---|---|
+|**09:00 AM - 12:00 PM**|Work on **Du Addon Journey UI Makeover** ([Work item link](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/))|Priority 1|
+|**12:00 PM - 03:30 PM**|Prepare for interview|High|
+|**03:30 PM - 05:30 PM**|Complete office work: **Du Addon Journey UI**|Priority 1|
+|**05:30 PM - 06:30 PM**|Work on **Delegation Detail:** Loader, dropdown background color, dropdown selection|Medium|
+|**06:30 PM - 07:30 PM**|Prepare **AapaTech Logo**|Medium|
+|**07:30 PM - 10:00 PM**|**Gym session** (old exercises + new exercises)|High|
+|**10:00 PM - 11:00 PM**|Apply for jobs|Medium|
+
+Let me know if you need adjustments or additional details!
 
 
 **PRIORITY**
