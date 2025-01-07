@@ -23,7 +23,7 @@
 |           | Arnold Press                     | 5                        | 7.5                     | 7.5                     |                            |
 |           | Lat Pulldowns                    | 25                       | 30                      | 35                      |                            |
 |           | Tricep Dips                      | 4                        | 4                       | 4                       |                            |
-|           | Ab Rollouts                      |                          |                         |                         |                            |
+|           | Hangling Legs Up Abs             | 10                       | 10                      | 10                      |                            |
 | **Day 6** | Step-Ups                         |                          |                         |                         | Jogging: 25-30 mins        |
 |           | Incline Dumbbell Press           |                          |                         |                         |                            |
 |           | Lat Pulldowns                    |                          |                         |                         |                            |
