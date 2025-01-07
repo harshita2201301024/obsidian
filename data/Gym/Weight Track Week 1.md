@@ -18,7 +18,7 @@
 |           | Flat Bench Press                 | 5/10 rep                 | 7.5/10 rep              | 10/10 rep               | 30 min/3km                 |
 |           | Seated Cable Rows                |                          |                         |                         |                            |
 |           | Face Pulls                       |                          |                         |                         |                            |
-|           | Russian Twists (Reps/Side)       |                          |                         |                         |                            |
+|           | Russian Twists (Reps/Side)       | 10                       | 10                      | 10                      |                            |
 | **Day 5** | Sumo Deadlifts                   |                          |                         |                         | Jogging: 20 mins           |
 |           | Arnold Press                     |                          |                         |                         |                            |
 |           | Lat Pulldowns                    |                          |                         |                         |                            |
