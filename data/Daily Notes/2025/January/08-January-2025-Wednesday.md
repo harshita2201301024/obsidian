@@ -8,7 +8,7 @@ prepare for interview - 12:00 pm - 03:30 pm
 complete office work Du Addon journey UI - 03:30 PM - 05:30 PM
 Delegation Detail: Loader, dropdown background color, dropdown selection - 05:30 PM - 06:30 PM
 Prepare AapaTech Logo - 06:30 PM - 0:730 PM
-
+GYM - 07:30 PM - 10:00 PM 
 
 
 
