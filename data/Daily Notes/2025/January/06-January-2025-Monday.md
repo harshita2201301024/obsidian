@@ -25,9 +25,8 @@ Here’s the sorted schedule in a tabular format:
 | **7:30 PM - 9:30 PM**   | Gym session: Cardio and strength training                                 |        |
 | 10:00 PM - 12:00 AM     | Work on Aapa Tech                                                         |        |
 
-This schedule is sorted chronologically for better readability. Let me know if you need further adjustments!
-
-This plan accommodates your gym session in the evening and provides ample time for Aapa Tech tasks before and after the gym. Let me know if you'd like further adjustments!
+D-chip use for status
+smart delgation shadow color
 
 
 **PRIORITY**
