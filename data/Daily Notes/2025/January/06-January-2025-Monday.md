@@ -32,6 +32,7 @@ Here’s the sorted schedule in a tabular format:
 **PRIORITY**
 
 1. Apply for Jobs -> 9:00 PM - 10: 00 PM
+2. Reply to Tanvi
 
 Pending Things
 
