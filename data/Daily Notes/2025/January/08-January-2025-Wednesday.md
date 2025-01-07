@@ -2,8 +2,8 @@
 created: 2024-02-27 00:08
 ---
 Here’s the sorted schedule in a tabular format:
-
-Delegation Detail 
+ wake up at 08:00 am 
+start working 0900 am
 
 | **Time**                | **Activity**                                                              | Status |
 | ----------------------- | ------------------------------------------------------------------------- | ------ |
