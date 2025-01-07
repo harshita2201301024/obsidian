@@ -3,7 +3,10 @@ created: 2024-02-27 00:08
 ---
 Here’s the sorted schedule in a tabular format:
  wake up at 08:00 am 
-start working - 09: **Priority 1:** Du Addon journey UI Makeover - [https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/ "https://devops.det.gov.ae/defaultcollection/iid/_workitems/edit/71714/")
+start working - 09:00 am - 12:00 pm **Priority 1:** Du Addon journey UI Makeover - [https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/ "https://devops.det.gov.ae/defaultcollection/iid/_workitems/edit/71714/")
+prepare for interview - 12:00 pm - 03:30 pm
+complete office work - 03
+
 
 
 
