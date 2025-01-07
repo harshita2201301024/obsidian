@@ -21,7 +21,7 @@ Let me know if you need adjustments or additional details!
 
 
 Pending Things
-
+0. ChatGPT COURS
 1. License Journey Mobile Design
 2. Buy Shilpa Dresses
 3. Cockroach Kill
