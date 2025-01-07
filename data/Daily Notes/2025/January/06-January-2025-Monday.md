@@ -27,8 +27,6 @@ Here’s the sorted schedule in a tabular format:
 | **7:30 PM - 9:30 PM**   | Gym session: Cardio and strength training                                 |        |
 | 10:00 PM - 12:00 AM     | Work on Aapa Tech                                                         |        |
 
-D-chip use for status
-smart delgation shadow color
 
 
 **PRIORITY**
