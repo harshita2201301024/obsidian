@@ -18,16 +18,15 @@ Apply for Jobs - 10:00 PM - 11:00 PM
 Pending Things
 
 1. License Journey Mobile Design
-4. Buy Shilpa Dresses
-7. Cockroach Kill
-8. Delegation Signatures: Mobile button, spacing, and background color;
-9. De
+2. Buy Shilpa Dresses
+3. Cockroach Kill
+4. Delegation Signatures: Mobile button, spacing, and background color;
+5. Aapa Tech Website
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
 - [ ] Prepare for Typescript
 - [ ] Prepare for React.js
-- [ ] Company SETUP
 - [ ] Aakash job posts
 - [ ] Aakash Plot market status
 - [ ] Shilpa old house construction
@@ -45,4 +44,3 @@ Pending Things
 - [ ] collect debit card of idbi
 - [ ] add nominee in hdfc
 - [ ] dentish appointment
-- [ ] Siya Passport
