@@ -19,8 +19,8 @@ Here’s the sorted schedule in a tabular format:
 | **12:00 PM - 12:30 PM** | Call Mama ji and discuss with Mami regarding property                     |        |
 | **1:00 PM - 1:30 PM**   | Add Smart Delegation mobile design (extra spacing)                        | done   |
 | **1:30 PM - 2:00 PM**   | Add Smart Delegation Delegate details - Extra space and button full width | done   |
-| **2:00 PM - 2:30 PM**   | Summary spacing                                                           |        |
-| **2:30 PM - 3:00 PM**   | Confirm and Back button                                                   |        |
+| **2:00 PM - 2:30 PM**   | Summary spacing                                                           | done   |
+| **2:30 PM - 3:00 PM**   | Confirm and Back button                                                   | done   |
 | **3:00 PM - 4:00 PM**   | Delegation Detail: Loader, dropdown background color, dropdown selection  |        |
 | **4:00 PM - 5:00 PM**   | Delegation Signatures: Mobile button, spacing, and background color;      |        |
 | **5:00 PM - 6:00 PM**   | Pay 15,000 AED to Pankaj Ji                                               |        |
