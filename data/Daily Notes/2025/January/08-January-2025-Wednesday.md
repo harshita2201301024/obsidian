@@ -5,18 +5,20 @@ Here’s the sorted schedule in a tabular format:
  wake up at 08:00 am 
 start working - 09:00 am - 12:00 pm **Priority 1:** Du Addon journey UI Makeover - [https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/ "https://devops.det.gov.ae/defaultcollection/iid/_workitems/edit/71714/")
 prepare for interview - 12:00 pm - 03:30 pm
-complete office work - 03
+complete office work Du Addon journey UI - 03:30 PM - 05:30 PM
 
 
 
 
-| **Time**                | **Activity**                                                              | Status |
-| ----------------------- | ------------------------------------------------------------------------- | ------ |
-| **3:00 PM - 4:00 PM**   | Delegation Detail: Loader, dropdown background color, dropdown selection  |        |
-| **4:00 PM - 5:00 PM**   | Delegation Signatures: Mobile button, spacing, and background color;      |        |
-| **5:00 PM - 6:00 PM**   | Pay 15,000 AED to Pankaj Ji                                               |        |
-| **7:30 PM - 9:30 PM**   | Gym session: Cardio and strength training                                 |        |
-| 10:00 PM - 12:00 AM     | Work on Aapa Tech                                                         |        |
+
+
+| **Time**              | **Activity**                                                             | Status |
+| --------------------- | ------------------------------------------------------------------------ | ------ |
+| **3:00 PM - 4:00 PM** | Delegation Detail: Loader, dropdown background color, dropdown selection |        |
+| **4:00 PM - 5:00 PM** | Delegation Signatures: Mobile button, spacing, and background color;     |        |
+| **5:00 PM - 6:00 PM** | Pay 15,000 AED to Pankaj Ji                                              |        |
+| **7:30 PM - 9:30 PM** | Gym session: Cardio and strength training                                |        |
+| 10:00 PM - 12:00 AM   | Work on Aapa Tech                                                        |        |
 
 
 
