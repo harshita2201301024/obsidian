@@ -6,7 +6,8 @@ Here’s your to-do list for the day in a tabular format, sorted by time:
 
 Wake up at 08:00 AM 
 delegation detail page -> 09:00 AM - 10:00AM
-Fix All Bugs -> 10:00 AM - 12:00 PM
+Fix All Bugs -> 10:00 AM - 01:00 PM
+License Mobile UI -> 01:00 PM - 05:00 PM
 
 
 
