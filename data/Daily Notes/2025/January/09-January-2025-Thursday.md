@@ -4,7 +4,10 @@ created: 2024-02-27 00:08
 Here’s the sorted schedule in a tabular format:
 Here’s your to-do list for the day in a tabular format, sorted by time:
 
+Wake up at 08:00 AM 
 delegation detail page -> 09:00 AM - 10:00AM
+Fix All Bugs -> 10:00 AM - 12:00 PM
+
 
 
 | **Time**                | **Task**                                                                                                                              | **Priority** |
