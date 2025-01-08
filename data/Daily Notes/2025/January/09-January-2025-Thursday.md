@@ -9,6 +9,11 @@ delegation detail page -> 09:00 AM - 10:00AM
 Fix All Bugs -> 10:00 AM - 01:00 PM
 License Mobile UI -> 01:00 PM - 05:00 PM
 Apiary Technology -> 02:00 PM - 02:15PM 
+TWO SUM 
+THREE SUM
+SLIDING WINDOW
+STRING 
+EVENT LOOP
 
 
 
@@ -27,7 +32,6 @@ Let me know if you need adjustments or additional details!
 
 
 **PRIORITY**
-
 
 Pending Things
 0. ChatGPT COURSE COMPLETE
