@@ -12,17 +12,11 @@ Apiary Technology -> 02:00 PM - 02:15PM
 
 TWO SUM -> 05:00 PM - 08:00 PM
 THREE SUM -> 05:00 PM - 08:00 PM
-SLIDING WINDOW 
-STRING 
-EVENT LOOP
-MICROTASK QUEUE
-NEXTTICK QUEUE
-SQL
-FILTERING
-AGGREGATION
-JOIN 
-ORDER BY
-RECURSION
+SLIDING WINDOW -> 05:00 PM - 08:00 PM
+STRING -> 05:00 PM - 07:30 PM
+EVENT LOOP -> 05:00 PM - 07:30 PM
+MICROTASK QUEUE -> 05:00 PM - 07:30 PM
+NEXTTICK QUEUE -> 05:00 PM - 07:30 PM
 
 
 
@@ -48,6 +42,7 @@ Pending Things
 3. Cockroach Kill
 4. Delegation Signatures: Mobile button, spacing, and background color;
 5. Aapa Tech Website
+6. SQL COURSE
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
