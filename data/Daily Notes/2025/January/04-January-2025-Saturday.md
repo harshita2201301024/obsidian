@@ -25,8 +25,7 @@ Docor Visit -> 05:00 PM - 08:00 PM
 GYM -> 08:00 PM - 10:00 PM
 Apply Shilpa JOB -> 10:00 PM - 12:00 AM
 
-****
-
+---
 
 **PRIORITY**
 
@@ -36,6 +35,7 @@ Apply Shilpa JOB -> 10:00 PM - 12:00 AM
 Pending Things
 
 5. License Journey Mobile Design
+
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
 - [ ] Prepare for Typescript
@@ -47,15 +47,15 @@ Pending Things
 - [ ] Complete Vuetify book
 - [ ] Apply for Freelancing Jobs
 - [ ] Freelancing accounts
-- [ ] Change name plate of shippu's house 
-- [ ] Academy plan 
+- [ ] Change name plate of shippu's house
+- [ ] Academy plan
 - [ ] Sell Both Bikes
 - [ ] Look for car
 - [ ] Aademy job post
-- [ ] Car Key 
+- [ ] Car Key
 - [ ] Resignation shilpa
 - [ ] Change nominee of every account
 - [ ] collect debit card of idbi
-- [ ] add nominee in hdfc 
+- [ ] add nominee in hdfc
 - [ ] dentish appointment
 - [ ] Siya Passport

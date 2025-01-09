@@ -20,7 +20,7 @@
 - [x] Chhoti Mma Passport - 11 august
 - [x] Mansi Laptop - 11 august ✅ 2024-08-21
 - [x] 20g gold - 11 august ✅ 2024-08-21
-- [ ] Plan October trip - 11 august
+- [x] Plan October trip - 11 august ✅ 2025-01-06
 
 - [ ] Car Key - 12 august
 - [ ] Academy plan - 13 August
