@@ -1,3 +1,5 @@
+Last Week Pending Exercise - Sumo Deadlifts
+
 | **Day**   | **Exercise**                     | **Set 1 (Weight/Reps)**  | **Set 2 (Weight/Reps)** | **Set 3 (Weight/Reps)** | **Cardio (Distance/Time)** |
 | --------- | -------------------------------- | ------------------------ | ----------------------- | ----------------------- | -------------------------- |
 | **Day 1** | Squats                           | 0/15 rep                 | 0/15 rep                | 0/15 rep                | Jogging: 20-30 mins        |
