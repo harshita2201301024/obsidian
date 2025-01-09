@@ -9,7 +9,8 @@ Shilpa Offer Letter Sign - 11 AM - 12 PM
 License Mobile UI -> 12:00 PM - 08:00 PM
 GYM - 08:00 PM - 10:30 PM
 License Mobile UI -> 10:30 PM - 02:00 AM
-Apiary Technology -> 02:00 PM - 02:15PM 
+Fill Timesheet - 02:00 AM - 03:00 AM
+
 
 TWO SUM -> 05:00 PM - 08:00 PM
 THREE SUM -> 05:00 PM - 08:00 PM
@@ -39,11 +40,12 @@ Let me know if you need adjustments or additional details!
 Pending Things
 0. ChatGPT COURSE COMPLETE
 1. License Journey Mobile Design
-2. Buy Shilpa Dresses
-3. Cockroach Kill
-4. Delegation Signatures: Mobile button, spacing, and background color;
-5. Aapa Tech Website
-6. SQL COURSE
+2. 
+3. Buy Shilpa Dresses
+4. Cockroach Kill
+5. Delegation Signatures: Mobile button, spacing, and background color;
+6. Aapa Tech Website
+7. SQL COURSE
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
