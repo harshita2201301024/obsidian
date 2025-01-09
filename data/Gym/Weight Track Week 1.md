@@ -20,12 +20,12 @@
 |           | Face Pulls                       | 7.5                      | 10                      | 12.5                    |                            |
 |           | Russian Twists (Reps/Side)       | 10                       | 10                      | 10                      |                            |
 | **Day 5** | Sumo Deadlifts                   |                          |                         |                         | Jogging: 20 mins           |
-|           | Arnold Press                     | 5                        | 7.5                     | 7.5                     |                            |
+|           | Arnold Press                     | 5                        | 7.5                     | 7.5                     | 30 min/4km                 |
 |           | Lat Pulldowns                    | 25                       | 30                      | 35                      |                            |
 |           | Tricep Dips                      | 4                        | 4                       | 4                       |                            |
 |           | Hangling Legs Up Abs             | 10                       | 10                      | 10                      |                            |
 | **Day 6** | Step-Ups                         | 10 min                   |                         |                         | Jogging: 25-30 mins        |
-|           | Incline Dumbbell Press           | 10                       | 10                      | 10                      |                            |
+|           | Incline Dumbbell Press           | 10                       | 10                      | 10                      | 30 min/3.5km               |
 |           | Lat Pulldowns                    | 30                       | 35                      | 35                      |                            |
 |           | Dumbbell Shrugs                  | 20                       | 22.5                    | 25                      |                            |
 | **Day 7** | Active Recovery or Light Cardio  | 6000 steps in al ain zoo |                         |                         | Light Jogging: 20-30 mins  |
