@@ -11,17 +11,6 @@ GYM - 08:00 PM - 10:30 PM
 License Mobile UI -> 10:30 PM - 02:00 AM
 Fill Timesheet - 02:00 AM - 03:00 AM
 
-
-TWO SUM -> 05:00 PM - 08:00 PM
-THREE SUM -> 05:00 PM - 08:00 PM
-SLIDING WINDOW -> 05:00 PM - 08:00 PM
-STRING -> 05:00 PM - 07:30 PM
-EVENT LOOP -> 05:00 PM - 07:30 PM
-MICROTASK QUEUE -> 05:00 PM - 07:30 PM
-NEXTTICK QUEUE -> 05:00 PM - 07:30 PM
-
-
-
 | **Time**                | **Task**                                                                                                                              | **Priority** |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | **09:00 AM - 12:00 PM** | =Work on **Du Addon Journey UI Makeover** ([Work item link](https://devops.det.gov.ae/DefaultCollection/IID/_workitems/edit/71714/))= | Priority 1   |
@@ -40,12 +29,17 @@ Let me know if you need adjustments or additional details!
 Pending Things
 0. ChatGPT COURSE COMPLETE
 1. License Journey Mobile Design
-2. 
-3. Buy Shilpa Dresses
-4. Cockroach Kill
-5. Delegation Signatures: Mobile button, spacing, and background color;
-6. Aapa Tech Website
-7. SQL COURSE
+2. TWO SUM -> 05:00 PM - 08:00 PM
+	THREE SUM -> 05:00 PM - 08:00 PM
+	SLIDING WINDOW -> 05:00 PM - 08:00 PM
+	STRING -> 05:00 PM - 07:30 PM
+	EVENT LOOP -> 05:00 PM - 07:30 PM
+	MICROTASK QUEUE -> 05:00 PM - 07:30 PM
+	NEXTTICK QUEUE -> 05:00 PM - 07:30 PM
+1. Buy Shilpa Dresses
+2. Cockroach Kill
+3. Aapa Tech Website
+4. SQL COURSE
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
