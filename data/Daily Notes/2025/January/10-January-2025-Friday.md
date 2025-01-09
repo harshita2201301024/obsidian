@@ -4,7 +4,8 @@ created: 2024-02-27 00:08
 
 
 Wake up at 08:00 AM 
-License Mobile UI - 09:00 A
+License Mobile UI - 09:00 AM - 10:30 AM
+Shilpa Offer Letter Sign - 11 AM - 12 PM
 Fix All Bugs -> 10:00 AM - 01:00 PM
 License Mobile UI -> 01:00 PM - 05:00 PM
 Apiary Technology -> 02:00 PM - 02:15PM 
