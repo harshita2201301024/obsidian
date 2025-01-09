@@ -7,7 +7,8 @@ Wake up at 08:00 AM
 License FOOTER - 09:00 AM - 10:30 AM
 Shilpa Offer Letter Sign - 11 AM - 12 PM
 License Mobile UI -> 12:00 PM - 08:00 PM
-License Mobile UI -> 01:00 PM - 05:00 PM
+GYM - 08:00 PM - 10:30 PM
+License Mobile UI -> 10:30 PM - 02:00 AM
 Apiary Technology -> 02:00 PM - 02:15PM 
 
 TWO SUM -> 05:00 PM - 08:00 PM
