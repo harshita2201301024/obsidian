@@ -24,8 +24,8 @@
 |           | Lat Pulldowns                    | 25                       | 30                      | 35                      |                            |
 |           | Tricep Dips                      | 4                        | 4                       | 4                       |                            |
 |           | Hangling Legs Up Abs             | 10                       | 10                      | 10                      |                            |
-| **Day 6** | Step-Ups                         |                          |                         |                         | Jogging: 25-30 mins        |
-|           | Incline Dumbbell Press           |                          |                         |                         |                            |
-|           | Lat Pulldowns                    |                          |                         |                         |                            |
-|           | Dumbbell Shrugs                  |                          |                         |                         |                            |
+| **Day 6** | Step-Ups                         | 10 min                   |                         |                         | Jogging: 25-30 mins        |
+|           | Incline Dumbbell Press           | 10                       | 10                      | 10                      |                            |
+|           | Lat Pulldowns                    | 30                       | 35                      | 35                      |                            |
+|           | Dumbbell Shrugs                  | 20                       | 22.5                    | 25                      |                            |
 | **Day 7** | Active Recovery or Light Cardio  | 6000 steps in al ain zoo |                         |                         | Light Jogging: 20-30 mins  |
