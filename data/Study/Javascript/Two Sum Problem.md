@@ -42,5 +42,6 @@ function twoSum(nums, target) {
         map.set(nums[i], i);
     }
 }
-const a = [1,13,23,12,65,]
+const a = [1,13,23,12,65,0,2]
 
+target = 65
