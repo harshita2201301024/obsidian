@@ -33,9 +33,9 @@ Time complexity and space complexity are both metrics used to evaluate the effic
 
 ### **Key Differences**
 
-|**Aspect**|**Time Complexity**|**Space Complexity**|
-|---|---|---|
-|**Measures**|Execution time|Memory usage|
-|**Primary Concern**|Speed of the algorithm|Memory required for execution|
-|**Optimization Focus**|Reducing number of operations|Reducing memory consumption|
-|**Example Problem**|Sorting an array efficiently|Managing memory for recursion calls|
+| **Aspect**             | **Time Complexity**           | **Space Complexity**                |
+| ---------------------- | ----------------------------- | ----------------------------------- |
+| **Measures**           | Execution time                | Memory usage                        |
+| **Primary Concern**    | Speed of the algorithm        | Memory required for execution       |
+| **Optimization Focus** | Reducing number of operations | Reducing memory consumption         |
+| **Example Problem**    | Sorting an array efficiently  | Managing memory for recursion calls |
