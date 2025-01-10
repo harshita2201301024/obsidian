@@ -45,3 +45,8 @@ function twoSum(nums, target) {
 const a = [1,13,23,12,65,0,2]
 
 target = 65
+
+{1:0}
+
+
+
