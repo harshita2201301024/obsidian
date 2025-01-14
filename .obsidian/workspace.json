@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2025/January/10-January-2025-Friday.md",
+                "file": "data/Daily Notes/2025/January/09-January-2025-Thursday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-January-2025-Friday"
+              "title": "09-January-2025-Thursday"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "two sum ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,9 +225,12 @@
   },
   "active": "dd68b4dd6bab0a45",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "data/Daily Notes/2025/January/10-January-2025-Friday.md",
     "data/Daily Notes/2025/January/09-January-2025-Thursday.md",
     "data/Daily Notes/2025/January/08-January-2025-Wednesday.md",
-    "data/Daily Notes/2025/January/10-January-2025-Friday.md",
     "data/Study/Javascript/Three Sum Problem.md",
     "data/Study/Javascript/Two Sum Problem.md",
     "data/Study/Data Structure/Time Complexity and Space Complexity.md",
@@ -241,9 +245,6 @@
     "data/Daily Notes/2025/January/04-January-2025-Saturday.md",
     "data/AapaTech/Things To Do.md",
     "data/AapaTech/Website Content.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
     "data/Startup/Shilpa.md",
     "data/AapaTech",
     "Untitled",
