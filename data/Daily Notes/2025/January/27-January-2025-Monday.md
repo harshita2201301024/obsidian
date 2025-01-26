@@ -14,9 +14,9 @@ created: 2024-02-27 00:08
 wake up and get ready - 07:00 AM - 08:00 AM
 Update office i will reach late - 08:00 AM - 08:02 AM
 office drop shilpa - 08:00 AM - 09:30 AM
-fix all bugs - 10 am 
-travel reimbursememt
-ameeer reimbursement
+fix all bugs - 10 AM - 01:00 PM
+travel reimbursememt - 01:00 PM - 02:00 PM
+ameeer reimbursement - 02:00 PM - 
 timesheet
 leave apply
 jiju se baat
@@ -34,6 +34,7 @@ Pending Things
 0. ChatGPT COURSE COMPLETE
 1. Aapa Tech Website
 2. SQL COURSE
+3. Credit Card Payment
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
