@@ -11,7 +11,7 @@ created: 2024-02-27 00:08
 | **08:00 PM - 10:30 PM** | GYM                               | Pending    |
 | **10:30 PM - 02:00 AM** | License Mobile UI                 | Pending    |
 | **02:00 AM - 03:00 AM** | Fill Timesheet                    | Pending    |
-update office i will reach late
+Update office i will reach late
 office drop shilpa
 travel reimbursememt
 ameeer reimbursement
@@ -20,6 +20,8 @@ leave apply
 jiju se baat
 gym jaana hai
 order advion coakroach gel bait
+fix all bugs
+Prepare AapaTech Website
 
 
 
@@ -28,16 +30,8 @@ order advion coakroach gel bait
 
 Pending Things
 0. ChatGPT COURSE COMPLETE
-1. License Journey Mobile Design
-2. TWO SUM -> 05:00 PM - 08:00 PM
-	THREE SUM -> 05:00 PM - 08:00 PM
-	SLIDING WINDOW -> 05:00 PM - 08:00 PM
-	STRING -> 05:00 PM - 07:30 PM
-	EVENT LOOP -> 05:00 PM - 07:30 PM
-	MICROTASK QUEUE -> 05:00 PM - 07:30 PM
-	NEXTTICK QUEUE -> 05:00 PM - 07:30 PM
-3. Aapa Tech Website
-4. SQL COURSE
+1. Aapa Tech Website
+2. SQL COURSE
 
 - [ ] Prepare for Vue.js Interview
 - [ ] Prepare for Javscript Interview
