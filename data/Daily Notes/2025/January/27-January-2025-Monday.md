@@ -20,8 +20,9 @@ ameeer reimbursement - 01:00 PM - 02:00 PM
 timesheet - 01:00 PM - 02:00 PM
 leave apply - 01:00 PM - 02:00 PM
 Fix all Bugs - 02:00 PM - 05:00 PM
-jiju se baat
-gym jaana hai
+gym jaana hai - 05:00 PM - 07:00 PM
+jiju se baat - 07:00 PM - 07:30 PM
+
 order advion coakroach gel bait
 
 Prepare AapaTech Website
