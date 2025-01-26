@@ -30,7 +30,8 @@ Problems in life
 2. mmi health
 3. apki kirayedarni ko nikalna
 4. bhai bhabhi ka issue
-5. 
+5. hme paisa invest krna hai
+6. 
 
 
 
