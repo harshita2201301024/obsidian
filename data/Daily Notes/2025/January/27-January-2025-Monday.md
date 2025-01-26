@@ -2,17 +2,17 @@
 created: 2024-02-27 00:08
 ---
 
-|**Time**|**Activity**|**Status**|
-|---|---|---|
-|**08:00 AM**|Wake up|Pending|
-|**09:00 AM - 10:30 AM**|License FOOTER|Pending|
-|**11:00 AM - 12:00 PM**|Shilpa Offer Letter Sign|Pending|
-|**12:00 PM - 08:00 PM**|License Mobile UI|Pending|
-|**08:00 PM - 10:30 PM**|GYM|Pending|
-|**10:30 PM - 02:00 AM**|License Mobile UI|Pending|
-|**02:00 AM - 03:00 AM**|Fill Timesheet|Pending|
+| **Time**                | **Activity**                      | **Status** |
+| ----------------------- | --------------------------------- | ---------- |
+| **07:00 AM**            | Wake up                           | Pending    |
+| **08:00 AM - 9:30 AM**  | Drop Shilpa and Reach back office | Pending    |
+| **11:00 AM - 12:00 PM** | Shilpa Offer Letter Sign          | Pending    |
+| **12:00 PM - 08:00 PM** | License Mobile UI                 | Pending    |
+| **08:00 PM - 10:30 PM** | GYM                               | Pending    |
+| **10:30 PM - 02:00 AM** | License Mobile UI                 | Pending    |
+| **02:00 AM - 03:00 AM** | Fill Timesheet                    | Pending    |
 
-Let me know if you'd like me to adjust this further or mark any activity as completed.
+apko of
 
 
 **PRIORITY**
