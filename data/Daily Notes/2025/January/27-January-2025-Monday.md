@@ -11,9 +11,10 @@ created: 2024-02-27 00:08
 | **08:00 PM - 10:30 PM** | GYM                               | Pending    |
 | **10:30 PM - 02:00 AM** | License Mobile UI                 | Pending    |
 | **02:00 AM - 03:00 AM** | Fill Timesheet                    | Pending    |
-wake up and get ready 
-Update office i will reach late 
-office drop shilpa
+wake up and get ready - 07:00 AM - 08:00 AM
+Update office i will reach late - 08:00 AM - 08:02 AM
+office drop shilpa - 08:00 AM - 09:30 AM
+fix all bugs - 10 am 
 travel reimbursememt
 ameeer reimbursement
 timesheet
@@ -21,7 +22,7 @@ leave apply
 jiju se baat
 gym jaana hai
 order advion coakroach gel bait
-fix all bugs
+
 Prepare AapaTech Website
 
 
