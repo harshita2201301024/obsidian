@@ -16,9 +16,10 @@ Update office i will reach late - 08:00 AM - 08:02 AM
 office drop shilpa - 08:00 AM - 09:30 AM
 fix all bugs - 10 AM - 01:00 PM
 travel reimbursememt - 01:00 PM - 02:00 PM
-ameeer reimbursement - 02:00 PM - 03:00 PM 
-timesheet - 
-leave apply
+ameeer reimbursement - 01:00 PM - 02:00 PM 
+timesheet - 01:00 PM - 02:00 PM
+leave apply - 01:00 PM - 02:00 PM
+Fix all Bugs - 02:00 PM - 05:00 PM
 jiju se baat
 gym jaana hai
 order advion coakroach gel bait
