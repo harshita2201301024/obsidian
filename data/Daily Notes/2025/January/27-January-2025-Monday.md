@@ -19,6 +19,7 @@ timesheet
 leave apply
 jiju se baat
 gym jaana hai
+order advion coakroach gel bait
 
 
 
@@ -35,7 +36,6 @@ Pending Things
 	EVENT LOOP -> 05:00 PM - 07:30 PM
 	MICROTASK QUEUE -> 05:00 PM - 07:30 PM
 	NEXTTICK QUEUE -> 05:00 PM - 07:30 PM
-2. Cockroach Kill
 3. Aapa Tech Website
 4. SQL COURSE
 
