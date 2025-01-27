@@ -11,15 +11,15 @@ created: 2024-02-27 00:08
 | **08:00 PM - 10:30 PM** | GYM                               | Pending    |
 | **10:30 PM - 02:00 AM** | License Mobile UI                 | Pending    |
 | **02:00 AM - 03:00 AM** | Fill Timesheet                    | Pending    |
-wake up and get ready - 07:00 AM - 08:00 AM
-Update office i will reach late - 08:00 AM - 08:02 AM
-office drop shilpa - 08:00 AM - 09:30 AM
-fix all bugs - 10 AM - 01:00 PM
+<mark style="background: #BBFABBA6;">wake up and get ready - 07:00 AM - 08:00 AM</mark>
+<mark style="background: #BBFABBA6;">Update office i will reach late - 08:00 AM - 08:02 AM</mark>
+<mark style="background: #BBFABBA6;">office drop shilpa - 08:00 AM - 09:30 AM</mark>
+<mark style="background: #BBFABBA6;">fix all bugs - 10 AM - 01:00 PM</mark>
 travel reimbursememt - 01:00 PM - 02:00 PM
 ameeer reimbursement - 01:00 PM - 02:00 PM 
 timesheet - 01:00 PM - 02:00 PM
-leave apply - 01:00 PM - 02:00 PM
-Fix all Bugs - 02:00 PM - 05:00 PM
+<mark style="background: #BBFABBA6;">leave apply - 01:00 PM - 02:00 PM</mark>
+<mark style="background: #BBFABBA6;">Fix all Bugs - 02:00 PM - 05:00 PM</mark>
 gym jaana hai - 05:00 PM - 07:00 PM
 jiju se baat - 07:00 PM - 07:30 PM
 order advion coakroach gel bait - 07:30 PM - 08:00 PM 
