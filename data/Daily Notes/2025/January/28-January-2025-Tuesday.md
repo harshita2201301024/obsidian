@@ -7,7 +7,7 @@ order advion coakroach gel bait - 07:30 PM - 08:00 PM
 Prepare AapaTech Website - 08:00 PM - Hari ichha
 photographer se baat krni hai
 apki pent thik karwani
-
+prepare sql and give interview
 
 Problems in life
 1. shveta didi house
