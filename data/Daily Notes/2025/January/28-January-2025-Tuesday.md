@@ -1,16 +1,6 @@
 ---
 created: 2024-02-27 00:08
 ---
-
-| **Time**                | **Activity**                      | **Status** |
-| ----------------------- | --------------------------------- | ---------- |
-| **07:00 AM**            | Wake up                           | Pending    |
-| **08:00 AM - 9:30 AM**  | Drop Shilpa and Reach back office | Pending    |
-| **11:00 AM - 12:00 PM** | Shilpa Offer Letter Sign          | Pending    |
-| **12:00 PM - 08:00 PM** | License Mobile UI                 | Pending    |
-| **08:00 PM - 10:30 PM** | GYM                               | Pending    |
-| **10:30 PM - 02:00 AM** | License Mobile UI                 | Pending    |
-| **02:00 AM - 03:00 AM** | Fill Timesheet                    | Pending    |=
 gym jaana hai - 05:00 PM - 07:00 PM
 <mark style="background: #BBFABBA6;">jiju se baat - 07:00 PM - 07:30 PM</mark>
 order advion coakroach gel bait - 07:30 PM - 08:00 PM 
@@ -22,7 +12,7 @@ Problems in life
 3. apki kirayedarni ko nikalna
 4. bhai bhabhi ka issue
 5. hme paisa invest krna hai
-6. 
+6. bhai se baat krni hai bache ko leke
 
 
 
