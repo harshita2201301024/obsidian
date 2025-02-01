@@ -13,12 +13,14 @@ send timesheet -> 12PM - 1PM
 motin ko nikalna hai -> 12PM - 1PM
 Lunch -> 1PM - 2PM
 automate obsidian -> 2PM - 3PM
-complete ChatGPT course
-gym jaana hai 
+prepare one thing to daily say while pray -> 3PM - 4PM
+Gym exercise plan -> 3PM - 4PM
+complete ChatGPT course -> 4PM - 6PM
+gym jaana hai -> 6PM - 8PM
+bhai se baat krni hai bache ko leke -> 8PM - 9PM
+Future Bu
 order advion coakroach gel bait
 Prepare AapaTech Website
-bhai se baat krni hai bache ko leke
-prepare one thing to daily say while pray
 
 Problems in life
 1. shveta didi house
