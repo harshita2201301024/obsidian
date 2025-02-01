@@ -9,14 +9,15 @@ call old cook -> 12PM - 1PM
 call rent wali aaunty -> 12PM - 1PM
 followup on amazon order -> 12PM - 1PM
 photographer se baat krni hai -> 12PM - 1PM
+send timesheet -> 12PM - 1PM
+motin ko nikalna hai -> 12PM - 1PM
+Lunch -> 1PM - 2PM
+automate obsidian -> 2PM - 3PM
 complete ChatGPT course
 gym jaana hai 
 order advion coakroach gel bait
 Prepare AapaTech Website
-send timesheet
-automate obsidian
 bhai se baat krni hai bache ko leke
-motin ko nikalna hai
 prepare one thing to daily say while pray
 
 Problems in life
