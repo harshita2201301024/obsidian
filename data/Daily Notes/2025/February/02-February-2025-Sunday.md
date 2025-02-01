@@ -1,9 +1,10 @@
 ---
 created: 2024-02-27 00:08
 ---
-Wake Up at 8AM - TAKE A Shower and Get Ready
-Try Breakfast from new cook
-call old cook
+Wake Up at 8AM - TAKE A Shower and Get Ready -> 8 AM - 9AM
+Try Breakfast from new cook -> 9AM - 10 AM
+solve bug -> 10 AM - 12PM
+call old cook 
 call rent wali aaunty
 followup on amazon order
 complete ChatGPT course
@@ -12,7 +13,6 @@ gym jaana hai
 order advion coakroach gel bait
 Prepare AapaTech Website
 photographer se baat krni hai
-solve bug
 send timesheet
 automate obsidian
 bhai se baat krni hai bache ko leke
