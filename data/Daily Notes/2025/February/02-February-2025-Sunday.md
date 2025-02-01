@@ -5,6 +5,7 @@ Wake Up at 8AM - TAKE A Shower and Get Ready
 Try Breakfast from new cook
 call old cook
 call rent wali aaunty
+followup on amazon order
 
 gym jaana hai - 05:00 PM - 07:00 PM
 <mark style="background: #BBFABBA6;">jiju se baat - 07:00 PM - 07:30 PM</mark>
