@@ -1,24 +1,7 @@
 ---
 created: 2024-02-27 00:08
 ---
-Wake Up at 8AM - TAKE A Shower and Get Ready -> 8 AM - 9AM
-Try Breakfast from new cook -> 9AM - 10 AM
-solve bug -> 10 AM - 12PM
-write a mail to vacant this house ->. 12PM - 1PM
-call old cook -> 12PM - 1PM
-call rent wali aaunty -> 12PM - 1PM
-followup on amazon order -> 12PM - 1PM
-photographer se baat krni hai -> 12PM - 1PM
-send timesheet -> 12PM - 1PM
-motin ko nikalna hai -> 12PM - 1PM
-Lunch -> 1PM - 2PM
-automate obsidian -> 2PM - 3PM
-prepare one thing to daily say while pray -> 3PM - 4PM
-Gym exercise plan -> 3PM - 4PM
-complete ChatGPT course -> 4PM - 6PM
-gym jaana hai -> 6PM - 8PM
-bhai se baat krni hai bache ko leke -> 8PM - 9PM
-Future Bu
+
 order advion coakroach gel bait
 Prepare AapaTech Website
 
