@@ -7,8 +7,8 @@ solve bug -> 10 AM - 12PM
 call old cook 
 call rent wali aaunty
 followup on amazon order
-complete ChatGPT course
 write a mail to vacant this house
+complete ChatGPT course
 gym jaana hai 
 order advion coakroach gel bait
 Prepare AapaTech Website
