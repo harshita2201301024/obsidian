@@ -8,11 +8,13 @@ call rent wali aaunty
 followup on amazon order
 complete ChatGPT course
 write a mail to vacant this house
-look for properties in 
-gym jaana hai - 05:00 PM - 07:00 PM
-order advion coakroach gel bait - 07:30 PM - 08:00 PM 
-Prepare AapaTech Website - 08:00 PM - Hari ichha
+gym jaana hai 
+order advion coakroach gel bait
+Prepare AapaTech Website
 photographer se baat krni hai
+solve bug
+send timesheet
+automate obsidian
 
 Problems in life
 1. shveta didi house
