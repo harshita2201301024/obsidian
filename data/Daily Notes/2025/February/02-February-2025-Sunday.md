@@ -15,6 +15,7 @@ photographer se baat krni hai
 solve bug
 send timesheet
 automate obsidian
+bhai se baat krni hai bache ko leke
 
 Problems in life
 1. shveta didi house
@@ -22,7 +23,7 @@ Problems in life
 3. apki kirayedarni ko nikalna
 4. bhai bhabhi ka issue
 5. hme paisa invest krna hai
-6. bhai se baat krni hai bache ko leke
+6. Academ
 
 
 
