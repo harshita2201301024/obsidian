@@ -20,6 +20,12 @@
       "icon": "credit-card",
       "name": "Kanban: Add a list",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "Tasks: Create or edit task",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
