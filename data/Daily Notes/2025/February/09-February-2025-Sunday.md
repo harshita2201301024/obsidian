@@ -6,9 +6,9 @@ created: 2024-02-27 00:08
 **Priority 1**
 - [ ] PDF Template -> 10AM - 12PM 🔺 🛫 2025-02-09 ⏳ 2025-02-09 📅 2025-02-09
 - [ ] Upload Policy Document -> 12PM - 1PM 🔺
-Mobile Testing -> 1PM - 4PM
-Fix Ajumal Bugs -> 4PM - 5PM
-GYM Plan and Visit GYM -> 5PM - 8PM
+- [ ] Mobile Testing -> 1PM - 4PM 🔺
+- [ ] Fix Ajumal Bugs -> 4PM - 5PM
+- [ ] GYM Plan and Visit GYM -> 5PM - 8PM
 Pick sarso ka oil -> 8PM - 8:20 PM
 
 **Priority 2**
