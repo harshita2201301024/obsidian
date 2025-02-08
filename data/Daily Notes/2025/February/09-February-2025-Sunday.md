@@ -11,12 +11,13 @@ Complete ChatGPT Course -> 12PM - 3PM
 Prepare one thing to say while doing pray -> 3PM - 3:30 PM
 Automate Obsidian -> 3:30 PM - 4:30 PM
 2 bugs which ajumal give -> 4:30 PM - 5:30 PM
-Plan Valientine Week -> 
+Plan Valientine Week -> 5:30PM - 7:00 PM
 
 **Priority 4**
-Call Rent Wali Aaunty
-Send Timesheet
-Pick sarso ka oil
+Call Rent Wali Aaunty -> 7:00 PM - 7:30 PM
+Send Timesheet -> 7:30 PM - 08:00 PM
+GYM --> 08:00 PM -
+Pick sarso ka oil -> 08: 
 
 
 Problems in life
