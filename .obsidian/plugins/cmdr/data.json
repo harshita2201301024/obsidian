@@ -8,6 +8,12 @@
       "icon": "activity",
       "name": "Kanban: Add a list",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-kanban:create-new-kanban-board",
+      "icon": "activity",
+      "name": "Kanban: Create new board",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
