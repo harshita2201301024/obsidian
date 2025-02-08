@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## ideas
 
+- [ ] kanban pluin video
 
 
 ## Publish
