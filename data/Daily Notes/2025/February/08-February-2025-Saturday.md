@@ -25,7 +25,9 @@ Here’s your to-do list with checkboxes for easy tracking:
 | ⬜   | **9:00 PM - 10:00 PM**  | Plan future business or side income          |
 Call Rent Wali Aaunty
 Send Timesheet
-
+Complete ChatGPT Course
+2 bugs which ajumal give
+Pick sars
 
 order advion coakroach gel bait
 Prepare AapaTech Website
