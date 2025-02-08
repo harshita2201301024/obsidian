@@ -1,23 +1,30 @@
 ---
 created: 2024-02-27 00:08
 ---
+Wake up at 9AM  
 
 **Priority 1**
-Upload Policy Document  -> 10 AM - 11AM
+Mobile Testing -> 1PM - 4PM
+PDF Template -> 4PM - 6PM
+
+**Priority 2**
+Plan for furture business and side income -> 6PM - 8PM
+Go to GYM -> 8PM - 10PM
+Buy Chocolate on the way Back -> 10 PM - 10:10 PM
+Upload Policy Document  
 
 **Priority 3**
-GYM Todo -> 11AM - 12PM
-Complete ChatGPT Course -> 12PM - 3PM
-Prepare one thing to say while doing pray -> 3PM - 3:30 PM
-Automate Obsidian -> 3:30 PM - 4:30 PM
-2 bugs which ajumal give -> 4:30 PM - 5:30 PM
-Plan Valientine Week -> 5:30PM - 7:00 PM
+GYM Todo
+Complete ChatGPT Course
+Prepare one thing to say while doing pray
+Automate Obsidian
+2 bugs which ajumal give
+Plan Valientine Week
 
 **Priority 4**
-Call Rent Wali Aaunty -> 7:00 PM - 7:30 PM
-Send Timesheet -> 7:30 PM - 08:00 PM
-GYM --> 08:00 PM - 10PM
-Pick sarso ka oil -> 10:00 PM - 10:15 PM  
+Call Rent Wali Aaunty
+Send Timesheet
+Pick sarso ka oil
 
 
 Problems in life
