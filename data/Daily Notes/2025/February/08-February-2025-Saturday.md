@@ -2,18 +2,10 @@
 created: 2024-02-27 00:08
 ---
 
-
-Call Rent Wali Aaunty
-Send Timesheet
-
-Pick sarso ka oil
-
-
-
 **Priority 1**
-Yasir Ineligibility Work
-Mobile Testing
-PDF Template
+Yasir Ineligibility Work -> 12PM - 1PM
+Mobile Testing -> 1PM - 4PM
+PDF Template -> 4PM - 6PM
 
 **Priority 2**
 Plan for furture business and side income
@@ -25,9 +17,12 @@ Complete ChatGPT Course
 Prepare one thing to say while doing pray
 Automate Obsidian
 2 bugs which ajumal give
+Plan Valientine Week
 
 **Priority 4**
-
+Call Rent Wali Aaunty
+Send Timesheet
+Pick sarso ka oil
 
 
 
