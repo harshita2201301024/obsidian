@@ -23,6 +23,7 @@ Here’s your to-do list with checkboxes for easy tracking:
 | ⬜   | **6:00 PM - 8:00 PM**   | Go to the gym                                |
 | ⬜   | **8:00 PM - 9:00 PM**   | Talk to Bhai about the child & have dinner   |
 | ⬜   | **9:00 PM - 10:00 PM**  | Plan future business or side income          |
+
 Call Rent Wali Aaunty
 Send Timesheet
 Complete ChatGPT Course
@@ -33,7 +34,7 @@ GYM Todo
 PDF Template 
 Mobile Testing
 upload policy document
-
+Prepare one thing to sy
 
 order advion coakroach gel bait
 Prepare AapaTech Website
