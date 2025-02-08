@@ -10,6 +10,8 @@ PDF Template -> 4PM - 6PM
 **Priority 2**
 Plan for furture business and side income -> 6PM - 8PM
 Go to GYM -> 8PM - 10PM
+Buy Chocolate on the way Back -> 10 PM - 10:10 PM
+
 Upload Policy Document  
 
 **Priority 3**
