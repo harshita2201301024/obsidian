@@ -19,5 +19,6 @@
   "obsidian-linter",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "todoist-sync-plugin"
 ]
