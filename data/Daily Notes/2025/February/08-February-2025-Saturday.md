@@ -6,9 +6,8 @@ created: 2024-02-27 00:08
 Call Rent Wali Aaunty
 Send Timesheet
 Complete ChatGPT Course
-2 bugs which ajumal give
 Pick sarso ka oil
-GYM Todo
+
 
 Prepare one thing to say while doing pray
 Plan for furture business and side income
@@ -21,6 +20,10 @@ PDF Template
 
 Priority 2
 Upload Policy Document
+2 bugs which ajumal give
+
+Priority 3
+GYM Todo
 
 
 
