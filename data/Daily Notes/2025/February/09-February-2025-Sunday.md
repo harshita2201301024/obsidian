@@ -9,10 +9,11 @@ Upload Policy Document -> 12PM - 1PM
 Mobile Testing -> 1PM - 4PM
 Fix Ajumal Bugs -> 4PM - 5PM
 GYM Plan and Visit GYM -> 5PM - 8PM
-Pick sarso ka oil -> 8PM - 8
+Pick sarso ka oil -> 8PM - 8:20 PM
 
 **Priority 2**
-Plan for furture business and side income -> 8PM - 10PM
+Plan for furture business and side income -> 8:20PM - 10PM
+Send Timesheet -> 10PM - 11PM
 
 **Priority 3**
 Complete ChatGPT Course
@@ -20,7 +21,6 @@ Automate Obsidian
 
 **Priority 4**
 Call Rent Wali Aaunty
-Send Timesheet 
 
 
 Problems in life
@@ -31,9 +31,6 @@ Problems in life
 4. bhai bhabhi ka issue
 5. hme paisa invest krna hai
 6. Academy issue
-
-
-
 
 **PRIORITY**
 
