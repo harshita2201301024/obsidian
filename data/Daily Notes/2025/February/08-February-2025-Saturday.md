@@ -27,7 +27,12 @@ Call Rent Wali Aaunty
 Send Timesheet
 Complete ChatGPT Course
 2 bugs which ajumal give
-Pick sars
+Pick sarso ka oil
+Yasir ineligibility work
+GYM Todo
+PDF Template 
+Mobile Testing
+upload 
 
 order advion coakroach gel bait
 Prepare AapaTech Website
