@@ -3,6 +3,19 @@ created: 2024-02-27 00:08
 ---
 - [ ] Wake up at 9AM  and get Ready by 10 AM
 
+## 📝 To-Do  
+- [ ] 📄 PDF Template
+- [ ] ⬆️ Upload Policy Document  
+- [ ] 📱 Mobile Testing  
+- [ ] 🐞 Fix Ajumal Bugs  
+
+## 🔄 In Progress  
+- [ ] 💪 Gym Plan & Visit Gym  
+- [ ] 📊 Plan Future Business & Side Income  
+
+## ✅ Done  
+- [ ] 🛒 Pick Sarso Ka Oil
+- [ ] 📤 Send Timesheet
 
 
 **Priority 1**
