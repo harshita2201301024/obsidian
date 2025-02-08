@@ -34,7 +34,9 @@ GYM Todo
 PDF Template 
 Mobile Testing
 upload policy document
-Prepare one thing to sy
+Prepare one thing to say while doing pray
+Plan for furture business and side income
+
 
 order advion coakroach gel bait
 Prepare AapaTech Website
