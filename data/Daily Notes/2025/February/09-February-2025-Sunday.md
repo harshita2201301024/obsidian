@@ -16,8 +16,8 @@ Plan Valientine Week -> 5:30PM - 7:00 PM
 **Priority 4**
 Call Rent Wali Aaunty -> 7:00 PM - 7:30 PM
 Send Timesheet -> 7:30 PM - 08:00 PM
-GYM --> 08:00 PM -
-Pick sarso ka oil -> 08: 
+GYM --> 08:00 PM - 10PM
+Pick sarso ka oil -> 10:00 PM - 10:15 PM  
 
 
 Problems in life
