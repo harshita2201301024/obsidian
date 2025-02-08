@@ -9,15 +9,19 @@ Complete ChatGPT Course
 2 bugs which ajumal give
 Pick sarso ka oil
 GYM Todo
-PDF Template 
-Mobile Testing
-upload policy document
+
 Prepare one thing to say while doing pray
 Plan for furture business and side income
 automate obsidian
 
 Priority 1
 Yasir Ineligibility Work
+Mobile Testing
+PDF Template
+
+Priority 2
+upload policy document
+
 
 
 
