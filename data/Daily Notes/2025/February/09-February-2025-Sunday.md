@@ -31,6 +31,8 @@ Problems in life
 4. bhai bhabhi ka issue
 5. hme paisa invest krna hai
 6. Academy issue
+7. Empty Laptop 
+
 
 **PRIORITY**
 

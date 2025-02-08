@@ -25,21 +25,14 @@
             "id": "6718e3e95cdafe19",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2025/February/Content Production.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "data/Daily Notes/2025/February/09-February-2025-Sunday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Content Production"
+              "icon": "lucide-file",
+              "title": "09-February-2025-Sunday"
             }
           },
           {
@@ -218,8 +211,8 @@
   },
   "active": "6718e3e95cdafe19",
   "lastOpenFiles": [
-    "data/Daily Notes/2025/February/09-February-2025-Sunday.md",
     "data/Daily Notes/2025/February/Content Production.md",
+    "data/Daily Notes/2025/February/09-February-2025-Sunday.md",
     "data/Daily Notes/2025/February/08-February-2025-Saturday.md",
     "data/Daily Notes/2025/February/02-February-2025-Sunday.md",
     "data/Daily Notes/2025/January/29-January-2025-Wednesday.md",
