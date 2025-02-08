@@ -1,7 +1,6 @@
 ---
 created: 2024-02-27 00:08
 ---
-
 Wake up at 9AM  and get Ready by 10 AM 
 
 **Priority 1**
