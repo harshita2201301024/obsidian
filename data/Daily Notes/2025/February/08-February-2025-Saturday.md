@@ -1,41 +1,24 @@
 ---
 created: 2024-02-27 00:08
 ---
-Here’s your to-do list with checkboxes for easy tracking:
 
-| ✅   | **Time**                | **Task**                                     |
-| --- | ----------------------- | -------------------------------------------- |
-| ⬜   | **8:00 AM - 9:00 AM**   | Wake up, take a shower, and get ready        |
-| ⬜   | **9:00 AM - 10:00 AM**  | Try breakfast from the new cook              |
-| ⬜   | **10:00 AM - 12:00 PM** | Solve bug                                    |
-| ⬜   | **12:00 PM - 1:00 PM**  | Write a mail to vacate the house             |
-| ⬜   |                         | Call old cook                                |
-| ⬜   |                         | Call rent wali aunty                         |
-| ⬜   |                         | Follow up on Amazon order                    |
-| ⬜   |                         | Talk to the photographer                     |
-| ⬜   |                         | Send timesheet                               |
-| ⬜   |                         | Take Motin out                               |
-| ⬜   | **1:00 PM - 2:00 PM**   | Lunch                                        |
-| ⬜   | **2:00 PM - 3:00 PM**   | Automate Obsidian                            |
-| ⬜   | **3:00 PM - 4:00 PM**   | Prepare one thing to say daily while praying |
-| ⬜   |                         | Plan gym exercises                           |
-| ⬜   | **4:00 PM - 6:00 PM**   | Complete ChatGPT course                      |
-| ⬜   | **6:00 PM - 8:00 PM**   | Go to the gym                                |
-| ⬜   | **8:00 PM - 9:00 PM**   | Talk to Bhai about the child & have dinner   |
-| ⬜   | **9:00 PM - 10:00 PM**  | Plan future business or side income          |
 
 Call Rent Wali Aaunty
 Send Timesheet
 Complete ChatGPT Course
 2 bugs which ajumal give
 Pick sarso ka oil
-Yasir ineligibility work
 GYM Todo
 PDF Template 
 Mobile Testing
 upload policy document
 Prepare one thing to say while doing pray
 Plan for furture business and side income
+automate obsidian
+
+Priority 1
+Yasir Ineligibility Work
+
 
 
 order advion coakroach gel bait
