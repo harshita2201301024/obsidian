@@ -5,26 +5,22 @@ Wake up at 9AM  and get Ready by 10 AM
 
 **Priority 1**
 PDF Template -> 10AM - 12PM
-Mobile Testing -> 12PM - 4PM
+Upload Policy Document -> 12PM - 1PM
+Mobile Testing -> 1PM - 4PM
 Fix Ajumal Bugs -> 4PM - 5PM
 GYM Plan and Visit GYM -> 5PM - 8PM
+Pick sarso ka oil -> 8PM - 8
 
 **Priority 2**
-Plan for furture business and side income -> 6PM - 8PM
-Upload Policy Document  -> 9
+Plan for furture business and side income -> 8PM - 10PM
 
 **Priority 3**
-GYM Todo
 Complete ChatGPT Course
-Prepare one thing to say while doing pray
 Automate Obsidian
-2 bugs which ajumal give
-Plan Valientine Week
 
 **Priority 4**
 Call Rent Wali Aaunty
-Send Timesheet
-Pick sarso ka oil
+Send Timesheet 
 
 
 Problems in life
