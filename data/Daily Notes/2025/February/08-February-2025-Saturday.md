@@ -7,24 +7,22 @@ Call Rent Wali Aaunty
 Send Timesheet
 Complete ChatGPT Course
 Pick sarso ka oil
-
-
-Prepare one thing to say while doing pray
 Plan for furture business and side income
-automate obsidian
 
-Priority 1
+
+**Priority 1**
 Yasir Ineligibility Work
 Mobile Testing
 PDF Template
 
-Priority 2
+**Priority 2**
 Upload Policy Document
 2 bugs which ajumal give
 
-Priority 3
+**Priority 3**
 GYM Todo
-
+Prepare one thing to say while doing pray
+Automate Obsidian
 
 
 
