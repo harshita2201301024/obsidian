@@ -2,31 +2,6 @@
 created: 2024-02-27 00:08
 ---
 - [ ] Wake up at 9AM  and get Ready by 10 AM
-## 📝 To-Do  
-- [ ] 📄 **PDF Template**  
-  - ⏳ Due: 10 AM - 12 PM  
-  - 🏷️ Priority: 🔴 High  
-- [ ] ⬆️ **Upload Policy Document**  
-  - ⏳ Due: 12 PM - 1 PM  
-  - 🏷️ Priority: 🟡 Medium  
-- [ ] 📱 **Mobile Testing**  
-  - ⏳ Due: 1 PM - 4 PM  
-  - 🏷️ Priority: 🔴 High  
-- [ ] 🐞 **Fix Ajumal Bugs**  
-  - ⏳ Due: 4 PM - 5 PM  
-  - 🏷️ Priority: 🟢 Low  
-
-## 🔄 In Progress  
-- [ ] 💪 **Gym Plan & Visit Gym**  
-  - ⏳ Due: 5 PM - 8 PM  
-- [ ] 📊 **Plan Future Business & Side Income**  
-  - ⏳ Due: 8:20 PM - 10 PM  
-
-## ✅ Done  
-- ✅ 🛒 **Pick Sarso Ka Oil** (Done at 8:20 PM)  
-- ✅ 📤 **Send Timesheet** (Done at 10 PM)  
-
-
 
 **Priority 1**
 - [ ] PDF Template -> 10AM - 12PM  (@2025-02-09)
