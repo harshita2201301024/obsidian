@@ -9,11 +9,11 @@ created: 2024-02-27 00:08
 - [ ] Mobile Testing -> 1PM - 4PM 🔺
 - [ ] Fix Ajumal Bugs -> 4PM - 5PM
 - [ ] GYM Plan and Visit GYM -> 5PM - 8PM
-Pick sarso ka oil -> 8PM - 8:20 PM
+- [ ] Pick sarso ka oil -> 8PM - 8:20 PM
 
 **Priority 2**
-Plan for furture business and side income -> 8:20PM - 10PM
-Send Timesheet -> 10PM - 11PM
+- [ ] Plan for furture business and side income -> 8:20PM - 10PM 🔼
+- [ ] Send Timesheet -> 10PM - 11PM
 
 **Priority 3**
 Complete ChatGPT Course
