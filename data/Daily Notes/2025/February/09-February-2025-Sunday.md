@@ -1,11 +1,12 @@
 ---
 created: 2024-02-27 00:08
 ---
-Wake up at 9AM  
+Wake up at 9AM  and get Ready by 10 AM 
 
 **Priority 1**
-Mobile Testing -> 1PM - 4PM
-PDF Template -> 4PM - 6PM
+PDF Template -> 10AM - 12PM
+Mobile Testing -> 12PM - 4PM
+Fix Ajumal Bugs -> 4PM - 5PM
 
 **Priority 2**
 Plan for furture business and side income -> 6PM - 8PM
