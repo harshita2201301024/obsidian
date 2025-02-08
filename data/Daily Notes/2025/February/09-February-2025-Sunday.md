@@ -4,7 +4,7 @@ created: 2024-02-27 00:08
 - [ ] Wake up at 9AM  and get Ready by 10 AM
 
 **Priority 1**
-- [ ] PDF Template -> 10AM - 12PM  (@2025-02-09 02:24)
+- [ ] PDF Template -> 10AM - 12PM  (@2025-02-09 01:56)
 - [ ] Upload Policy Document -> 12PM - 1PM 🔺
 - [ ] Mobile Testing -> 1PM - 4PM 🔺
 - [ ] Fix Ajumal Bugs -> 4PM - 5PM
