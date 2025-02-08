@@ -17,5 +17,6 @@
   "execute-code",
   "obsidian-plugin-prettier",
   "obsidian-linter",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-kanban"
 ]
