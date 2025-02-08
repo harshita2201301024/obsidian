@@ -18,5 +18,6 @@
   "obsidian-plugin-prettier",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-reminder-plugin"
 ]
