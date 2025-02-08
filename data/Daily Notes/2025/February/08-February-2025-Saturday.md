@@ -8,7 +8,7 @@ Mobile Testing -> 1PM - 4PM
 PDF Template -> 4PM - 6PM
 
 **Priority 2**
-Plan for furture business and side income
+Plan for furture business and side income -> 6PM - 8PM
 Upload Policy Document
 
 **Priority 3**
