@@ -5,9 +5,9 @@ created: 2024-02-27 00:08
 
 Call Rent Wali Aaunty
 Send Timesheet
-Complete ChatGPT Course
+
 Pick sarso ka oil
-Plan for furture business and side income
+
 
 
 **Priority 1**
@@ -16,13 +16,18 @@ Mobile Testing
 PDF Template
 
 **Priority 2**
+Plan for furture business and side income
 Upload Policy Document
-2 bugs which ajumal give
 
 **Priority 3**
 GYM Todo
+Complete ChatGPT Course
 Prepare one thing to say while doing pray
 Automate Obsidian
+2 bugs which ajumal give
+
+**Priority 4**
+
 
 
 
