@@ -3,15 +3,7 @@ created: 2024-02-27 00:08
 ---
 
 **Priority 1**
-Yasir Ineligibility Work -> 12PM - 1PM
-Mobile Testing -> 1PM - 4PM
-PDF Template -> 4PM - 6PM
-
-**Priority 2**
-Plan for furture business and side income -> 6PM - 8PM
-Go to GYM -> 8PM - 10PM
-Buy Chocolate on the way Back -> 10 PM - 10:10 PM
-Upload Policy Document  
+Upload Policy Document  -> 10 AM - 11AM
 
 **Priority 3**
 GYM Todo
