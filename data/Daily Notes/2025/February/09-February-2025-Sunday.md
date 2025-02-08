@@ -6,12 +6,12 @@ created: 2024-02-27 00:08
 Upload Policy Document  -> 10 AM - 11AM
 
 **Priority 3**
-GYM Todo
-Complete ChatGPT Course
-Prepare one thing to say while doing pray
-Automate Obsidian
-2 bugs which ajumal give
-Plan Valientine Week
+GYM Todo -> 11AM - 12PM
+Complete ChatGPT Course -> 12PM - 3PM
+Prepare one thing to say while doing pray -> 3PM - 3:30 PM
+Automate Obsidian -> 3:30 PM - 4:30 PM
+2 bugs which ajumal give -> 4:30 PM - 5:30 PM
+Plan Valientine Week -> 
 
 **Priority 4**
 Call Rent Wali Aaunty
