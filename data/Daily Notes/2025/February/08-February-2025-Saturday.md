@@ -9,7 +9,8 @@ PDF Template -> 4PM - 6PM
 
 **Priority 2**
 Plan for furture business and side income -> 6PM - 8PM
-Upload Policy Document
+Go to GYM -> 8PM - 10PM
+Upload Policy Document  
 
 **Priority 3**
 GYM Todo
@@ -25,12 +26,8 @@ Send Timesheet
 Pick sarso ka oil
 
 
-
-
-order advion coakroach gel bait
-Prepare AapaTech Website
-
 Problems in life
+0. Prepare AapaTech Website
 1. shveta didi house
 2. mmi health
 3. apki kirayedarni ko nikalna
