@@ -7,12 +7,11 @@ Wake up at 9AM  and get Ready by 10 AM
 PDF Template -> 10AM - 12PM
 Mobile Testing -> 12PM - 4PM
 Fix Ajumal Bugs -> 4PM - 5PM
+GYM Plan and Visit GYM -> 5PM - 8PM
 
 **Priority 2**
 Plan for furture business and side income -> 6PM - 8PM
-Go to GYM -> 8PM - 10PM
-Buy Chocolate on the way Back -> 10 PM - 10:10 PM
-Upload Policy Document  
+Upload Policy Document  -> 9
 
 **Priority 3**
 GYM Todo
