@@ -9,7 +9,8 @@ created: 2024-02-27 00:08
 - [ ] Follow Up with raghavendra regarding mobile table -> 12 PM - 4PM
 - [ ] Payment Mobile Design is breaking becaue of Extra Field -> 12 PM - 4PM
 - [ ] Complete Service Bundle Implementation-> 4PM - 6PM
-- [ ] Do Mobile Testing and note down all bugs -> 6PM - 
+- [ ] Match SubNavigation Spacing -> 6PM - 7PM
+- [ ] Do Mobile Testing and note down all bugs -> 6PM - 9PM 
 - [ ] Ineligible should not get crop
 - [ ] Admin Screens
 - [ ] Create Timesheet
