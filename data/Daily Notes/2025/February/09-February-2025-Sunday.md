@@ -5,12 +5,12 @@ created: 2024-02-27 00:08
 
 **Priority 1**
 - [ ] Update Env
-- [ ] 2 Bugs that are assigned to me
+- [ ] - [ 2 Bugs that are assigned to me
+- [ ] Follow Up with raghavendra regarding mobile table
 - [ ] Do Mobile Testing and note down all bugs
 - [ ] Ineligible should not get crop
 - [ ] Admin Screens
 - [ ] Create Timesheet
-- [ ] Follow Up with raghavendra regarding mobile table
 - [ ] Complete Service Bundle Implementation
 - [ ] outSysterm Loader Should Come
 - [ ] 
