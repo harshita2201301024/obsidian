@@ -9,8 +9,11 @@ created: 2024-02-27 00:08
 - [ ] Do Mobile Testing and note down all bugs
 - [ ] Ineligible should not get crop
 - [ ] Admin Screens
+- [ ] Create Timesheet
+- [ ] Follow Up with raghavendra regarding mobile table
 
 **Priority 2**
+- [ ] Upload Policy Document -> 12PM - 1PM 🔺
 - [ ] Plan for furture business and side income -> 8:20PM - 10PM 🔼
 - [ ] Send Timesheet -> 10PM - 11PM
 
