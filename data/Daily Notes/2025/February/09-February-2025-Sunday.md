@@ -4,14 +4,11 @@ created: 2024-02-27 00:08
 - [ ] Wake up at 9AM  and get Ready by 10 AM
 
 **Priority 1**
-- [ ] Upload Policy Document -> 12PM - 1PM 🔺
 - [ ] Update Env
 - [ ] 2 Bugs that are assigned to me
-- [ ] Do Mobi
-- [ ] Mobile Testing -> 1PM - 4PM 🔺
-- [ ] Fix Ajumal Bugs -> 4PM - 5PM
-- [ ] GYM Plan and Visit GYM -> 5PM - 8PM
-- [ ] Pick sarso ka oil -> 8PM - 8:20 PM
+- [ ] Do Mobile Testing and note down all bugs
+- [ ] Ineligible should not get crop
+- [ ] Admin Screens
 
 **Priority 2**
 - [ ] Plan for furture business and side income -> 8:20PM - 10PM 🔼
