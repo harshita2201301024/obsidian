@@ -4,17 +4,16 @@ created: 2024-02-27 00:08
 - [ ] Wake up at 9AM  and get Ready by 10 AM
 
 **Priority 1**
-- [ ] Update Env
-- [ ] 2 Bugs that are assigned to me
-- [ ] Follow Up with raghavendra regarding mobile table
-- [ ] Payment Mobile Design is breaking becaue of Extra Field
-- [ ] - [ ] Complete Service Bundle Implementation
-- [ ] Do Mobile Testing and note down all bugs
+- [ ] Update Env - 9AM - 10 AM
+- [ ] 2 Bugs that are assigned to me -> 10 AM - 12PM
+- [ ] Follow Up with raghavendra regarding mobile table -> 12 PM - 4PM
+- [ ] Payment Mobile Design is breaking becaue of Extra Field -> 12 PM - 4PM
+- [ ] Complete Service Bundle Implementation-> 4PM - 6PM
+- [ ] Do Mobile Testing and note down all bugs -> 6PM - 
 - [ ] Ineligible should not get crop
 - [ ] Admin Screens
 - [ ] Create Timesheet
 - [ ] outSysterm Loader Should Come
-- [ ] 
 
 **Priority 2**
 - [ ] Upload Policy Document -> 12PM - 1PM 🔺
