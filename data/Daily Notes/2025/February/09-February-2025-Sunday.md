@@ -6,6 +6,8 @@ created: 2024-02-27 00:08
 **Priority 1**
 - [ ] Upload Policy Document -> 12PM - 1PM 🔺
 - [ ] Update Env
+- [ ] 2 Bugs that are assigned to me
+- [ ] Do Mobi
 - [ ] Mobile Testing -> 1PM - 4PM 🔺
 - [ ] Fix Ajumal Bugs -> 4PM - 5PM
 - [ ] GYM Plan and Visit GYM -> 5PM - 8PM
