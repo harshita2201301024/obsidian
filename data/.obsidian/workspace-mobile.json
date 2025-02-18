@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Weight Track Week 1.md",
+                "file": "Daily Notes/2025/February/09-February-2025-Sunday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weight Track Week 1"
+              "title": "09-February-2025-Sunday"
             }
           },
           {
@@ -50,7 +50,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -163,6 +164,23 @@
   },
   "active": "e5055881e40ef7bf",
   "lastOpenFiles": [
+    "Daily Notes/2025/February/Content Production.md",
+    "Daily Notes/2025/February/09-February-2025-Sunday.md",
+    "Daily Notes/2025/February/19-February-2025-Wednesday.md",
+    "Daily Notes/2025/February/12-February-2025-Wednesday.md",
+    "Daily Notes/2025/February/18-February-2025-Tuesday.md",
+    "Daily Notes/2025/February/08-February-2025-Saturday.md",
+    "Daily Notes/2025/February/02-February-2025-Sunday.md",
+    "Gym/Weight Track Week 2.md",
+    "Pending Things/Pending.md",
+    "Daily Notes/2025/January/10-January-2025-Friday.md",
+    "Gym/Weight Track Week 1.md",
+    "Study/Javascript/Two Sum Problem.md",
+    "Study/Javascript/Three Sum Problem.md",
+    "Study/Data Structure",
+    "Study/Data Structure/Time Complexity and Space Complexity.md",
+    "Daily Notes/2025/January/08-January-2025-Wednesday.md",
+    "Daily Notes/2025/January/09-January-2025-Thursday.md",
     "Daily Notes/2025/January/04-January-2025-Saturday.md",
     "Daily Notes/2025/January/03-January-2025-Friday.md",
     "Daily Notes/2024/October/12-October-2024-Saturday.md",
@@ -175,29 +193,12 @@
     "Study/Vue/21. Lazy-loading/21.2 Async Components and Suspense.md",
     "Study/Vue/21. Lazy-loading/21.4 Grouping components in the same bundle.md",
     "Study/Vue/22. Forms/22. Forms.md",
-    "Study/Vue/22. Forms/22.2 Better forms with veeValidate.md",
-    "Study/Vue/21. Lazy-loading/21. Lazy loading.md",
-    "Study/Vue/20. Router/20.11 Tests with vue-router-mock.md",
-    "Study/Vue/20. Router/20.10 Meta information.md",
-    "Study/Vue/20. Router/20.9 Navigation guards.md",
-    "Daily Notes/2024/October/08-October-2024-Tuesday.md",
-    "Study/Vue/20. Router/20.8 Nested routes.md",
-    "Study/Vue/20. Router/20.5 Passing parameters as props.md",
-    "Study/Vue/20. Router/20.7 Route Matching.md",
-    "Study/Vue/20. Router/20.6 Redirects.md",
-    "Study/Vue/20. Router/20.3 Parameters.md",
-    "Daily Notes/2024/October/05-October-2024-Saturday.md",
-    "Daily Notes/2024/October/04-October-2024-Friday.md",
-    "Daily Notes/2024/October/07-October-2024-Monday.md",
-    "Study/Vue/20. Router/20.4 Router and Suspense.md",
-    "Daily Notes/2024/October/03-October-2024-Thursday.md",
     "Daily Notes/2024/October",
     "Study/Vue/18. Slots",
     "Study/Vue/20. Router",
     "Study/Vue/17. Send and receive data through HTTP",
     "Study/Vue/19. Suspense",
     "Study/Javascript",
-    "Study/Vue/15. Script Setup",
-    "Study/Vue/11. How to build Components"
+    "Study/Vue/15. Script Setup"
   ]
 }
