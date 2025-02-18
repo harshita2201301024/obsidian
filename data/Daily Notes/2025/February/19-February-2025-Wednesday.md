@@ -3,19 +3,24 @@ created: 2024-02-27 00:08
 ---
 Make 100 days Board again and start doing gym
 Fix All Admin Bugs Assigned to me
-Speak with Bhabhi ji
+
 Read All Emails
 Fill Xebia Timesheet
-Pick Hair oil
-Undwerwear uthane
-Ticket Sale Karni
+
 ChatGPT course complete krna
 
 5:30 AM - 7:20 AM -> Go to Gym
 7:20 AM - 8:00 AM -> Get Ready
 8:00 AM - 9:00 AM -> Drop Shilpa
 9:00 AM - 12:00 PM -> Fix all Admin Bugs
-12:00 PM - 01:00 PM -> 
+12:00 PM - 01:00 PM -> Fill Timesheet and Eat Lunch
+01:00 PM - 03:00 PM -> S360 Work
+03:00 PM - 05:00 PM -> ChatGPT Course
+Pick Hair oil
+Undwerwear uthane
+Ticket Sale Karni
+Speak with Bhabhi ji
+
 
 Problems in life
 1. Prepare AapaTech Website
