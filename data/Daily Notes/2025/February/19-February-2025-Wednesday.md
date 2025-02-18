@@ -12,7 +12,10 @@ Ticket Sale Karni
 ChatGPT course complete krna
 
 5:30 AM - 7:20 AM -> Go to Gym
-7:20 AM 
+7:20 AM - 8:00 AM -> Get Ready
+8:00 AM - 9:00 AM -> Drop Shilpa
+9:00 AM - 12:00 PM -> Fix all Admin Bugs
+12:00 PM - 01:00 PM -> 
 
 Problems in life
 1. Prepare AapaTech Website
