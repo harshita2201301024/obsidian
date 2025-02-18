@@ -16,10 +16,11 @@ ChatGPT course complete krna
 12:00 PM - 01:00 PM -> Fill Timesheet and Eat Lunch
 01:00 PM - 03:00 PM -> S360 Work
 03:00 PM - 05:00 PM -> ChatGPT Course
-Pick Hair oil
-Undwerwear uthane
-Ticket Sale Karni
-Speak with Bhabhi ji
+05: 00 PM - 06:00 PM -> Pick Hair oil
+					  Undwerwear uthane
+06: 00 PM - 07:00 PM -> Ticket Sale Karni
+					Speak with Bhabhi ji
+07:00 pm
 
 
 Problems in life
