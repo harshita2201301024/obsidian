@@ -8,7 +8,11 @@ Read All Emails
 Fill Xebia Timesheet
 Pick Hair oil
 Undwerwear uthane
+Ticket Sale Karni
+ChatGPT course complete krna
 
+5:30 AM - 7:20 AM -> Go to Gym
+7:20 AM 
 
 Problems in life
 1. Prepare AapaTech Website
