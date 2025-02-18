@@ -20,7 +20,7 @@ ChatGPT course complete krna
 					  Undwerwear uthane
 06: 00 PM - 07:00 PM -> Ticket Sale Karni
 					Speak with Bhabhi ji
-07:00 pm
+07:00 PM - 10:00 PM -> Spent Time with Shippu
 
 
 Problems in life
