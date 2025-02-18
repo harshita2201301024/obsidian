@@ -25,12 +25,14 @@
             "id": "9a80c12a04a4507f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "data/Daily Notes/2025/February/12-February-2025-Wednesday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "12-February-2025-Wednesday"
             }
           }
         ],
@@ -200,14 +202,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
   "active": "9a80c12a04a4507f",
   "lastOpenFiles": [
-    "data/Daily Notes/2025/February/09-February-2025-Sunday.md",
+    "data/Daily Notes/2025/February/19-February-2025-Wednesday.md",
     "data/Daily Notes/2025/February/12-February-2025-Wednesday.md",
     "data/Daily Notes/2025/February/Content Production.md",
+    "data/Daily Notes/2025/February/09-February-2025-Sunday.md",
     "Untitled 3.md",
     "Untitled Kanban 2.md",
     "Untitled 2.md",
@@ -232,7 +236,6 @@
     "data/Study/Javascript/Three Sum Problem.md",
     "data/Study/Data Structure/Time Complexity and Space Complexity.md",
     "data/Study/Data Structure",
-    "data/Daily Notes/2024/December/16-December-2024-Monday.md",
     "data/AapaTech",
     "Untitled",
     "data/Daily Notes/2025/January",

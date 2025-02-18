@@ -4,9 +4,9 @@ created: 2024-02-27 00:08
 **Priority 1**
 - [ ] Update Env - 9AM - 10 AM
 - [ ] 2 Bugs that are assigned to me -> 10 AM - 12PM
-- [ ] Follow Up with raghavendra regarding mobile table -> 12 PM - 4PM
-- [ ] Payment Mobile Design is breaking becaue of Extra Field -> 12 PM - 4PM
-- [ ] Complete Service Bundle Implementation-> 4PM - 6PM
+- [x] Follow Up with raghavendra regarding mobile table -> 12 PM - 4PM ✅ 2025-02-18
+- [x] Payment Mobile Design is breaking becaue of Extra Field -> 12 PM - 4PM ✅ 2025-02-18
+- [x] Complete Service Bundle Implementation-> 4PM - 6PM ✅ 2025-02-18
 - [ ] Match SubNavigation Spacing -> 6PM - 7PM
 - [ ] Do Mobile Testing and note down all bugs -> 6PM - 9PM 
 - [ ] Ineligible should not get crop
