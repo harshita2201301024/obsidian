@@ -1,17 +1,22 @@
 ---
 created: 2024-02-27 00:08
 ---
-- [ ] Wake up at 9AM  and get Ready by 10 AM
-
 **Priority 1**
-- [x] PDF Template -> 10AM - 12PM  (@2025-02-09) ✅ 2025-02-09
-- [ ] Upload Policy Document -> 12PM - 1PM 🔺
-- [ ] Mobile Testing -> 1PM - 4PM 🔺
-- [ ] Fix Ajumal Bugs -> 4PM - 5PM
-- [ ] GYM Plan and Visit GYM -> 5PM - 8PM
-- [ ] Pick sarso ka oil -> 8PM - 8:20 PM
+- [x] Update Env - 9AM - 10 AM ✅ 2025-02-18
+- [x] 2 Bugs that are assigned to me -> 10 AM - 12PM ✅ 2025-02-18
+- [x] Follow Up with raghavendra regarding mobile table -> 12 PM - 4PM ✅ 2025-02-18
+- [x] Payment Mobile Design is breaking becaue of Extra Field -> 12 PM - 4PM ✅ 2025-02-18
+- [x] Complete Service Bundle Implementation-> 4PM - 6PM ✅ 2025-02-18
+- [x] Match SubNavigation Spacing -> 6PM - 7PM ✅ 2025-02-18
+- [ ] Do Mobile Testing and note down all bugs -> 6PM - 9PM 
+- [x] Ineligible should not get crop ✅ 2025-02-18
+- [ ] Admin Screens
+- [ ] Create Timesheet
+- [ ] outSysterm Loader Should Come
+
 
 **Priority 2**
+- [ ] Upload Policy Document -> 12PM - 1PM 🔺
 - [ ] Plan for furture business and side income -> 8:20PM - 10PM 🔼
 - [ ] Send Timesheet -> 10PM - 11PM
 
