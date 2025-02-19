@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "data/Daily Notes/2025/February/09-February-2025-Sunday.md": [
-      {
-        "title": "PDF Template -> 10AM - 12PM",
-        "time": "2025-02-09",
-        "rowNumber": 6
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

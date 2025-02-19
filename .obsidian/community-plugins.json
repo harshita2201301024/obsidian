@@ -20,5 +20,6 @@
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "obsidian-reminder-plugin",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "actions-uri"
 ]
