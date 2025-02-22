@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Others/Extras/Templates/Template, Daily Note.md",
-                "mode": "source",
+                "file": "data/Daily Notes/2025/February/19-February-2025-Wednesday.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template, Daily Note"
+              "title": "19-February-2025-Wednesday"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "active": "9a80c12a04a4507f",
   "lastOpenFiles": [
+    "data/Others/Extras/Templates/Template, Daily Note.md",
     "data/Daily Notes/2025/February/23-February-2025-Sunday.md",
     "data/Daily Notes/2025/February/19-February-2025-Wednesday.md",
     "Reminder Sync Inbox.md",
@@ -232,7 +233,6 @@
     "data/Daily Notes/2025/January/10-January-2025-Friday.md",
     "data/Daily Notes/2024/November/06-November-2024-Wednesday.md",
     "data/Daily Notes/2025/January/09-January-2025-Thursday.md",
-    "Untitled.md",
     "data/Study/Data Structure",
     "data/AapaTech",
     "Untitled",
