@@ -11,16 +11,6 @@
             "id": "297f91a0e7006a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9a80c12a04a4507f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "data/Daily Notes/2025/February/23-February-2025-Sunday.md",
@@ -31,8 +21,7 @@
               "title": "23-February-2025-Sunday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +191,10 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "9a80c12a04a4507f",
+  "active": "297f91a0e7006a71",
   "lastOpenFiles": [
-    "data/Daily Notes/2025/February/19-February-2025-Wednesday.md",
     "data/Daily Notes/2025/February/23-February-2025-Sunday.md",
+    "data/Daily Notes/2025/February/19-February-2025-Wednesday.md",
     "data/Others/Extras/Templates/Template, Daily Note.md",
     "Reminder Sync Inbox.md",
     "data/Daily Notes/2025/January/29-January-2025-Wednesday.md",
