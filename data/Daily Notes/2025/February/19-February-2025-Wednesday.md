@@ -54,7 +54,6 @@ Pending Things
 - [ ] Change name plate of shippu's house
 - [ ] Academy plan
 - [ ] Sell Both Bikes
-- [ ] Look for car
 - [ ] Aademy job post
 - [ ] Car Key
 - [ ] Resignation shilpa
