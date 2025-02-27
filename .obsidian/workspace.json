@@ -193,6 +193,10 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-site/package.json",
+    "vuepress-site/docs",
+    "vuepress-site/socs",
+    "vuepress-site/untitled folder",
     "vuepress-site",
     "data/Daily Notes/2025/February/24-February-2025-Monday.md",
     "data/Daily Notes/2025/February/27-February-2025-Thursday.md",
@@ -224,10 +228,6 @@
     "data/Study/Vuetify/Introduction/Introduction.md",
     "data/Study/Data Structure",
     "data/AapaTech",
-    "Untitled",
-    "data/Daily Notes/2025/January",
-    "data/Daily Notes/2025",
-    "data/Daily Notes/2024/December",
-    "data/Study/Vue/30. Performances"
+    "Untitled"
   ]
 }
