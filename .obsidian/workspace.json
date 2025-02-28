@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Daily Notes/2025/February/24-February-2025-Monday.md",
-                "mode": "source",
+                "file": "data/Daily Notes/2025/February/27-February-2025-Thursday.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-February-2025-Monday"
+              "title": "27-February-2025-Thursday"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "data/Daily Notes/2025/February/24-February-2025-Monday.md",
     "data/Daily Notes/2025/February/Content Production.md",
     "data/Daily Notes/2025/February/27-February-2025-Thursday.md",
     "vuepress-dev/package-lock.json",
@@ -228,7 +229,6 @@
     "vuepress-dev/node_modules/undici/docs/docs/api/RedirectHandler.md",
     "vuepress-dev/node_modules/undici/docs/docs/api/ProxyAgent.md",
     "vuepress-dev/node_modules/undici/docs/docs/api/PoolStats.md",
-    "vuepress-dev/node_modules/undici/docs/docs/api/Pool.md",
     "vuepress-dev/node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
     "vuepress-site/node_modules/highlight.js/scss/school-book.png",
     "vuepress-site/node_modules/highlight.js/scss/pojoaque.jpg",
