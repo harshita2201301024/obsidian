@@ -193,6 +193,8 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-site/docs/frontend/vue.md",
+    "vuepress-site/docs/frontend",
     "vuepress-site/config.js",
     "vuepress-site/package-lock.json",
     "vuepress-site/node_modules/@esbuild/darwin-arm64/package.json",
@@ -203,8 +205,6 @@
     "vuepress-site/node_modules/@babel/types/lib/validators/react/isCompatTag.js.map",
     "vuepress-site/node_modules/@babel/types/lib/validators/react/isCompatTag.js",
     "vuepress-site/node_modules/@babel/types/lib/validators/generated/index.js.map",
-    "vuepress-site/node_modules/@babel/types/lib/validators/generated/index.js",
-    "vuepress-site/node_modules/@babel/types/lib/validators/validate.js.map",
     "vuepress-site/node_modules/vue/README.md",
     "vuepress-site/node_modules/@vue/compiler-sfc/README.md",
     "vuepress-site/node_modules/entities/readme.md",

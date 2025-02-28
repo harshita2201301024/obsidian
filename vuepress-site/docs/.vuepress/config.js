@@ -4,8 +4,9 @@ module.exports = {
   themeConfig: {
     sidebar: [
       {
-        title: "Introduction",
-        path: "/introduction.md",
+        title: "Frontend",
+        collapsable: false,
+        children: ["/frontend/vue"],
       },
       // Add more chapters or sections here
     ],
