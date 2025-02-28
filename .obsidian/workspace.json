@@ -193,6 +193,10 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-dev/docs/get-started.md",
+    "vuepress-dev/docs/README.md",
+    "vuepress-dev/docs",
+    "vuepress-dev/package.json",
     "vuepress-dev",
     "vuepress-site/node_modules/lodash/findLast.js",
     "vuepress-site/node_modules/lodash/findKey.js",
@@ -201,9 +205,6 @@
     "vuepress-site/node_modules/lodash/filter.js",
     "vuepress-site/node_modules/lodash/fill.js",
     "vuepress-site/node_modules/lodash/extendWith.js",
-    "vuepress-site/node_modules/lodash/extend.js",
-    "vuepress-site/node_modules/lodash/every.js",
-    "vuepress-site/node_modules/lodash/escapeRegExp.js",
     "vuepress-site/node_modules/highlight.js/README.md",
     "vuepress-site/node_modules/stylus/Readme.md",
     "vuepress-site/node_modules/stylus/History.md",
@@ -237,7 +238,6 @@
     "vuepress-site/node_modules/source-map/CHANGELOG.md",
     "vuepress-site/node_modules/javascript-stringify/README.md",
     "vuepress-site/node_modules/http-proxy-middleware/CHANGELOG.md",
-    "vuepress-site/node_modules/tweetnacl/AUTHORS.md",
     "vuepress-site/node_modules/@vuepress/plugin-search/search.svg"
   ]
 }
