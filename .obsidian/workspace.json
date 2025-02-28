@@ -193,6 +193,7 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-dev",
     "vuepress-site/node_modules/lodash/findLast.js",
     "vuepress-site/node_modules/lodash/findKey.js",
     "vuepress-site/node_modules/lodash/findIndex.js",
@@ -203,7 +204,6 @@
     "vuepress-site/node_modules/lodash/extend.js",
     "vuepress-site/node_modules/lodash/every.js",
     "vuepress-site/node_modules/lodash/escapeRegExp.js",
-    "vuepress-site/node_modules/lodash/escape.js",
     "vuepress-site/node_modules/highlight.js/README.md",
     "vuepress-site/node_modules/stylus/Readme.md",
     "vuepress-site/node_modules/stylus/History.md",
