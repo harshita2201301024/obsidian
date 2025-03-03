@@ -193,6 +193,8 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-dev/docs/three.md",
+    "vuepress-dev/docs/Three Sum Problem.md",
     "vuepress-dev/docs/for_in.md",
     "vuepress-dev/docs/For_in and For_of.md",
     "vuepress-dev/docs/Async_Await.md",
@@ -227,8 +229,6 @@
     "node_modules/picomatch/README.md",
     "node_modules/braces/README.md",
     "node_modules/picomatch/CHANGELOG.md",
-    "node_modules/readdirp/README.md",
-    "node_modules/micromatch/README.md",
     "vuepress-dev/node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
     "vuepress-site/node_modules/highlight.js/scss/school-book.png",
     "vuepress-site/node_modules/highlight.js/scss/pojoaque.jpg",
