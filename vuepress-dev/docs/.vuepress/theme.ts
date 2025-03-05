@@ -9,8 +9,8 @@ export default defaultTheme({
       children: [
         { text: "9th Class", link: "9th" },
         { text: "10th Class", link: "10th" },
-        { text: "11th Class", link: "10th" },
-        { text: "12th Class", link: "10th" },
+        { text: "11th Class", link: "11th" },
+        { text: "12th Class", link: "12th" },
       ],
     },
     { text: "Frontend Courses", link: "/frontend/" },
