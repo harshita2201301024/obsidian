@@ -6,7 +6,7 @@ Model Town, Panipat</p>
 <h2 id="📧-email-us" tabindex="-1"><a class="header-anchor" href="#📧-email-us"><span>📧 Email Us</span></a></h2>
 <p>✉️ <strong>Email:</strong> <a href="mailto:aakash.bathla7@gmail.com" target="_blank" rel="noopener noreferrer">aakash.bathla7@gmail.com</a></p>
 <h2 id="📱-call-us" tabindex="-1"><a class="header-anchor" href="#📱-call-us"><span>📱 Call Us</span></a></h2>
-<p>📞 <strong>Phone:</strong> +91 XXXXXXXXXX</p>
+<p>📞 <strong>Phone:</strong> +91 7988875564</p>
 <h2 id="🕒-working-hours" tabindex="-1"><a class="header-anchor" href="#🕒-working-hours"><span>🕒 Working Hours</span></a></h2>
 <p>🕘 Monday - Saturday: <strong>9:00 AM - 7:00 PM</strong><br>
 🚫 Sunday: <strong>Closed</strong></p>
