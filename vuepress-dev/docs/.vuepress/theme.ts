@@ -3,7 +3,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 export default defaultTheme({
   navbar: [
     { text: "Home", link: "/" },
-    { text: "Subjects", prefix: "/subjects/", children: ["foo.md", "bar.md"] },
+    { text: "Subjects", prefix: "/subjects/", children: [{}, {}] },
     { text: "Frontend Courses", link: "/frontend/" },
     { text: "About Us", link: "/about/" },
     { text: "Contact", link: "/contact/" },
@@ -22,7 +22,7 @@ export default defaultTheme({
       { text: "React.js", link: "/frontend/react/" },
     ],
   },
-  colorModeSwitch: false,
+  colorModeSwitch: true,
   colorMode: "light",
   contributors: false,
   editLink: false,
