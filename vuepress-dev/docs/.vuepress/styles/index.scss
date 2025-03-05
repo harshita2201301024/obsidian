@@ -1,7 +1,14 @@
 :root {
-  --vp-c-brand: #007bff; /* Primary Color */
-  --vp-c-brand-light: #0056b3; /* Darker Primary */
-  --vp-c-accent: #ed4648; /* Secondary Color */
-  --vp-c-accent-bg: #ed4648; /* Secondary Color */
-  --vp-c-accent-text: #63bfb2; /* Secondary Color */
+  --vp-c-text: #000000; /* Black for main text */
+  --vp-c-text-mute: #63bfb2; /* Teal for muted/inactive text */
+  --vp-c-text-subtle: #ed4648; /* Red for subtle text like placeholders */
+  --vp-c-bg: #ffffff; /* Default white background */
+  --vp-c-bg-alt: #63bfb2; /* Teal for sidebars or code blocks */
+  --vp-c-bg-elv: #ed4648; /* Red for floating elements like dialogs */
+  --vp-c-shadow: rgba(0, 0, 0, 0.2); /* Subtle black shadow */
+  --vp-c-accent: #ed4648; /* Strong red for interactive elements */
+  --vp-c-accent-hover: #b53536; /* Darker red for hover effects */
+  --vp-c-accent-bg: #63bfb2; /* Teal as solid background for accent */
+  --vp-c-accent-text: #ffffff; /* White text over accent backgrounds */
+  --vp-c-accent-soft: rgba(237, 70, 72, 0.2); /* Semi-transparent soft red */
 }
