@@ -22,6 +22,8 @@ export default defaultTheme({
       { text: "React.js", link: "/frontend/react/" },
     ],
   },
+  colorModeSwitch: true,
+  colorMode: "light",
   contributors: false,
   editLink: false,
 });
