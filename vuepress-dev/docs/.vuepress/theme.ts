@@ -54,8 +54,8 @@ export default defaultTheme({
         { text: "Nuxt", link: "nuxt" },
       ],
     },
-    { text: "About Us", link: "/about/" },
-    { text: "Contact", link: "/contact/" },
+    { text: "About Us", link: "/about" },
+    { text: "Contact", link: "/contact" },
   ],
   sidebar: {
     "/subjects/": [
