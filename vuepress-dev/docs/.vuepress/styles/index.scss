@@ -11,4 +11,12 @@
   --vp-c-accent-bg: #63bfb2; /* Teal as solid background for accent */
   --vp-c-accent-text: #ffffff; /* White text over accent backgrounds */
   --vp-c-accent-soft: rgba(237, 70, 72, 0.2); /* Semi-transparent soft red */
+  --vp-c-border: #63bfb2; /* Teal for normal borders */
+  --vp-c-border-hard: #000000; /* Black for hard borders */
+  --vp-c-divider: #ed4648; /* Red for dividers */
+  --vp-c-control: #63bfb2; /* Teal for button backgrounds */
+  --vp-c-control-hover: #ed4648; /* Red for hover states */
+  --vp-c-control-disabled: #000000; /* Black for disabled controls */
+  --vp-t-color: 0.2s ease-in-out;
+  --vp-t-transform: 0.3s ease-in-out;
 }
