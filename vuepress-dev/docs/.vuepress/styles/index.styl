@@ -3,6 +3,12 @@ $c-brand = #007BFF  // Primary Color (Blue)
 $c-brand-light = #0056B3  // Darker Primary
 $c-accent = #FFA500  // Secondary Color (Orange)
 
+// Override VuePress Default Theme Colors
+:root
+  --c-brand $c-brand
+  --c-brand-light $c-brand-light
+  --c-accent $c-accent
+
 // Apply styles
 .navbar
   background-color $c-brand
