@@ -2,9 +2,9 @@
 <p>Have any questions or want to enroll in our courses? Get in touch with us!</p>
 <h2 id="📍-our-location" tabindex="-1"><a class="header-anchor" href="#📍-our-location"><span>📍 Our Location</span></a></h2>
 <p>Bathla Tuition Center<br>
-[Your Address Here]</p>
+Model Town, Panipat</p>
 <h2 id="📧-email-us" tabindex="-1"><a class="header-anchor" href="#📧-email-us"><span>📧 Email Us</span></a></h2>
-<p>✉️ <strong>Email:</strong> <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">your-email@example.com</a></p>
+<p>✉️ <strong>Email:</strong> <a href="mailto:aakash.bathla7@gmail.com" target="_blank" rel="noopener noreferrer">aakash.bathla7@gmail.com</a></p>
 <h2 id="📱-call-us" tabindex="-1"><a class="header-anchor" href="#📱-call-us"><span>📱 Call Us</span></a></h2>
 <p>📞 <strong>Phone:</strong> +91 XXXXXXXXXX</p>
 <h2 id="🕒-working-hours" tabindex="-1"><a class="header-anchor" href="#🕒-working-hours"><span>🕒 Working Hours</span></a></h2>

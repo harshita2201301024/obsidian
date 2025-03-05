@@ -9,11 +9,11 @@ Have any questions or want to enroll in our courses? Get in touch with us!
 ## 📍 Our Location
 
 Bathla Tuition Center  
-[Your Address Here]
+Model Town, Panipat
 
 ## 📧 Email Us
 
-✉️ **Email:** [your-email@example.com](mailto:your-email@example.com)
+✉️ **Email:** [aakash.bathla7@gmail.com](mailto:aakash.bathla7@gmail.com)
 
 ## 📱 Call Us
 
