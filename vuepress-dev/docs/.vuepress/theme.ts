@@ -3,7 +3,11 @@ import { defaultTheme } from "@vuepress/theme-default";
 export default defaultTheme({
   navbar: [
     { text: "Home", link: "/" },
-    { text: "Subjects", prefix: "/subjects/", children: [{}, {}] },
+    {
+      text: "Subjects",
+      prefix: "/subjects/",
+      children: [{ text: "9th Math" }, { text: "10th Math" }],
+    },
     { text: "Frontend Courses", link: "/frontend/" },
     { text: "About Us", link: "/about/" },
     { text: "Contact", link: "/contact/" },
