@@ -15,9 +15,32 @@ export default defaultTheme({
             { text: "Science", link: "science" },
           ],
         },
-        { text: "10th Class", link: "10th" },
-        { text: "11th Class", link: "11th" },
-        { text: "12th Class", link: "12th" },
+        {
+          text: "10th Class",
+          prefix: "10th/",
+          children: [
+            { text: "Math", link: "math" },
+            { text: "Science", link: "science" },
+          ],
+        },
+        {
+          text: "11th Class",
+          prefix: "11th/",
+          children: [
+            { text: "Math", link: "math" },
+            { text: "Physics", link: "physics" },
+            { text: "Chemistry", link: "chemistry" },
+          ],
+        },
+        {
+          text: "12th Class",
+          prefix: "12th/",
+          children: [
+            { text: "Math", link: "math" },
+            { text: "Physics", link: "physics" },
+            { text: "Chemistry", link: "chemistry" },
+          ],
+        },
       ],
     },
     {
