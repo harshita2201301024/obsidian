@@ -4,9 +4,14 @@ export default defaultTheme({
   navbar: [
     { text: "Home", link: "/" },
     {
-      text: "classes",
+      text: "Classes",
       prefix: "/classes/",
-      children: [{ text: "9th Class" }, { text: "10th Class" }],
+      children: [
+        { text: "9th Class", link: "9th" },
+        { text: "10th Class", link: "10th" },
+        { text: "11th Class", link: "10th" },
+        { text: "12th Class", link: "10th" },
+      ],
     },
     { text: "Frontend Courses", link: "/frontend/" },
     { text: "About Us", link: "/about/" },
