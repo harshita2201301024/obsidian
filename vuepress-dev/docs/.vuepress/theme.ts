@@ -22,12 +22,6 @@ export default defaultTheme({
       { text: "React.js", link: "/frontend/react/" },
     ],
   },
-  colorMode: {
-    light: {
-      brandColor: "#007BFF", // Primary Color
-      accentColor: "#FFA500", // Secondary Color
-    },
-  },
   contributors: false,
   editLink: false,
 });
