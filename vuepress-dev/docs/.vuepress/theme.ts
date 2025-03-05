@@ -7,7 +7,7 @@ export default defaultTheme({
       text: "Classes",
       prefix: "/classes/",
       children: [
-        { text: "9th Class", link: "9th" },
+        { text: "9th Class", children: [{ text: "Math", link: "math" }] },
         { text: "10th Class", link: "10th" },
         { text: "11th Class", link: "11th" },
         { text: "12th Class", link: "12th" },
