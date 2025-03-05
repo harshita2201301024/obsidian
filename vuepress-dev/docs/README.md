@@ -3,7 +3,7 @@ home: true
 title: Welcome to Bathla Tuition Center
 heroImage: /images/logo_tuition.png
 heroText: "Learn, Grow & Succeed"
-tagline: "Master Math, Science, Economics & Frontend Development"
+tagline: "Master Math, Science, Physics, Chemistry, Accounts,Economics & Frontend Development"
 actions:
   - text: "Start Learning →"
     link: "/subjects/"
