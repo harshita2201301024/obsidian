@@ -2,7 +2,7 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/Async_Await.html", { loader: () => import(/* webpackChunkName: "Async_Await.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/Async_Await.html.js"), meta: {"title":""} }],
-  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Home"} }],
+  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Welcome to Bathla Tuition Center"} }],
   ["/for_in.html", { loader: () => import(/* webpackChunkName: "for_in.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/for_in.html.js"), meta: {"title":""} }],
   ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"Get Started"} }],
   ["/three.html", { loader: () => import(/* webpackChunkName: "three.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/three.html.js"), meta: {"title":""} }],
