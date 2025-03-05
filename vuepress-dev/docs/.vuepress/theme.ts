@@ -13,7 +13,16 @@ export default defaultTheme({
         { text: "12th Class", link: "12th" },
       ],
     },
-    { text: "Frontend Courses", link: "/frontend/" },
+    {
+      text: "Frontend Courses",
+      prefix: "/frontend/",
+      children: [
+        { text: "Javascript", link: "javascript" },
+        { text: "Vue.js", link: "vue" },
+        { text: "React.js", link: "react" },
+        { text: "12th Class", link: "12th" },
+      ],
+    },
     { text: "About Us", link: "/about/" },
     { text: "Contact", link: "/contact/" },
   ],
