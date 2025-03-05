@@ -4,9 +4,9 @@ export default defaultTheme({
   navbar: [
     { text: "Home", link: "/" },
     {
-      text: "Subjects",
-      prefix: "/subjects/",
-      children: [{ text: "9th Math" }, { text: "10th Math" }],
+      text: "classes",
+      prefix: "/classes/",
+      children: [{ text: "9th Class" }, { text: "10th Class" }],
     },
     { text: "Frontend Courses", link: "/frontend/" },
     { text: "About Us", link: "/about/" },
