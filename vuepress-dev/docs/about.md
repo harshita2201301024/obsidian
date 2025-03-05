@@ -36,7 +36,7 @@ In addition to our in-person tuition classes, we now offer **Online Frontend Dev
 - **Experienced Instructors**: Our courses are designed and taught by industry professionals.
 - **Certification**: Get a certificate upon successful course completion.
 
-To get started or learn more about our **Online Frontend Courses**, visit our [Frontend Courses Page](/frontend-courses.html) or contact us directly.
+To get started or learn more about our **Online Frontend Courses**, visit our [Frontend Courses Page](/frontend.html) or contact us directly.
 
 ## Contact Us
 

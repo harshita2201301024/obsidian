@@ -26,7 +26,7 @@
 <li><strong>Experienced Instructors</strong>: Our courses are designed and taught by industry professionals.</li>
 <li><strong>Certification</strong>: Get a certificate upon successful course completion.</li>
 </ul>
-<p>To get started or learn more about our <strong>Online Frontend Courses</strong>, visit our <RouteLink to="/frontend-courses.html">Frontend Courses Page</RouteLink> or contact us directly.</p>
+<p>To get started or learn more about our <strong>Online Frontend Courses</strong>, visit our <RouteLink to="/frontend.html">Frontend Courses Page</RouteLink> or contact us directly.</p>
 <h2 id="contact-us" tabindex="-1"><a class="header-anchor" href="#contact-us"><span>Contact Us</span></a></h2>
 <p>Feel free to explore our <RouteLink to="/contact.html">Contact Page</RouteLink> if you have any questions or would like to join our courses.</p>
 </div></template>
