@@ -1,5 +1,5 @@
 import comp from "/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/frontend/vue.html.vue"
-const data = JSON.parse("{\"path\":\"/frontend/vue.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"frontend/vue.md\"}")
+const data = JSON.parse("{\"path\":\"/frontend/vue.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1742391602000},\"filePathRelative\":\"frontend/vue.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

@@ -193,6 +193,7 @@
   },
   "active": "4c49432e680b1b4c",
   "lastOpenFiles": [
+    "vuepress-dev/docs/frontend/vue.md",
     "vuepress-dev/docs/frontend",
     "vuepress-dev/docs/about.md",
     "vuepress-dev/docs/contact.md",
@@ -208,7 +209,6 @@
     "vuepress-dev/node_modules/stylus/lib/visitor/sourcemapper.js",
     "vuepress-dev/node_modules/stylus/lib/visitor/normalizer.js",
     "vuepress-dev/node_modules/stylus/lib/visitor/index.js",
-    "vuepress-dev/node_modules/stylus/lib/visitor/evaluator.js",
     "vuepress-dev/node_modules/stylus-loader/README.md",
     "vuepress-dev/node_modules/lru-cache/README.md",
     "vuepress-dev/node_modules/path-scurry/README.md",
