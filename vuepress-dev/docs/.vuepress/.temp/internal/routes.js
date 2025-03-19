@@ -10,6 +10,7 @@ export const routes = Object.fromEntries([
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
   ["/about.html", { loader: () => import(/* webpackChunkName: "about.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/about.html.js"), meta: {"title":"About Us"} }],
   ["/frontend/vue.html", { loader: () => import(/* webpackChunkName: "frontend_vue.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/frontend/vue.html.js"), meta: {"title":""} }],
+  ["/frontend/vue/", { loader: () => import(/* webpackChunkName: "frontend_vue_index.html" */"/Users/aakashbathla/Desktop/Obsidia/vuepress-dev/docs/.vuepress/.temp/pages/frontend/vue/index.html.js"), meta: {"title":""} }],
 ]);
 
 if (import.meta.webpackHot) {
