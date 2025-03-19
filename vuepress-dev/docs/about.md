@@ -32,7 +32,7 @@ In addition to our in-person tuition classes, we now offer **Online Frontend Dev
 ### Why Choose Our Online Frontend Courses?
 
 - **Interactive Lessons**: Learn through hands-on projects.
-- **Flexible Learning**: Study at your own pace with online materials and assignments.
+- **Flexible Learning**: Study at your own pace with online materials and assignme nts.
 - **Experienced Instructors**: Our courses are designed and taught by industry professionals.
 - **Certification**: Get a certificate upon successful course completion.
 

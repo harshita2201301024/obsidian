@@ -22,7 +22,7 @@
 <h3 id="why-choose-our-online-frontend-courses" tabindex="-1"><a class="header-anchor" href="#why-choose-our-online-frontend-courses"><span>Why Choose Our Online Frontend Courses?</span></a></h3>
 <ul>
 <li><strong>Interactive Lessons</strong>: Learn through hands-on projects.</li>
-<li><strong>Flexible Learning</strong>: Study at your own pace with online materials and assignments.</li>
+<li><strong>Flexible Learning</strong>: Study at your own pace with online materials and assignme nts.</li>
 <li><strong>Experienced Instructors</strong>: Our courses are designed and taught by industry professionals.</li>
 <li><strong>Certification</strong>: Get a certificate upon successful course completion.</li>
 </ul>
