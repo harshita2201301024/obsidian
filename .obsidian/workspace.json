@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "27-February-2025-Thursday"
             }
+          },
+          {
+            "id": "e5b677d483d4d28f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
     }
   },
-  "active": "4c49432e680b1b4c",
+  "active": "e5b677d483d4d28f",
   "lastOpenFiles": [
     "vuepress-dev/docs/frontend/vue/index.md",
     "vuepress-dev/docs/frontend/vue",
