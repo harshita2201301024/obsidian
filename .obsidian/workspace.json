@@ -25,12 +25,14 @@
             "id": "e5b677d483d4d28f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "data/Daily Notes/2025/April/08-April-2025-Tuesday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "08-April-2025-Tuesday"
             }
           }
         ],
@@ -206,6 +208,8 @@
   },
   "active": "e5b677d483d4d28f",
   "lastOpenFiles": [
+    "data/Daily Notes/2025/April/08-April-2025-Tuesday.md",
+    "data/Daily Notes/2025/April",
     "vuepress-dev/docs/frontend/vue/index.md",
     "vuepress-dev/docs/frontend/vue",
     "vuepress-dev/docs/frontend/vue.md",
@@ -222,7 +226,6 @@
     "vuepress-dev/node_modules/@adobe/css-tools/Readme.md",
     "vuepress-dev/node_modules/@adobe/css-tools/package.json",
     "vuepress-dev/node_modules/stylus/lib/visitor/sourcemapper.js",
-    "vuepress-dev/node_modules/stylus/lib/visitor/normalizer.js",
     "vuepress-dev/node_modules/stylus-loader/README.md",
     "vuepress-dev/node_modules/lru-cache/README.md",
     "vuepress-dev/node_modules/path-scurry/README.md",
@@ -241,7 +244,6 @@
     "vuepress-dev/node_modules/wrap-ansi/node_modules/emoji-regex/README.md",
     "vuepress-dev/node_modules/wrap-ansi/node_modules/string-width/readme.md",
     "vuepress-dev/node_modules/wrap-ansi/readme.md",
-    "vuepress-dev/node_modules/wrap-ansi-cjs/node_modules/strip-ansi/readme.md",
     "vuepress-dev/node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
     "vuepress-site/node_modules/highlight.js/scss/school-book.png",
     "vuepress-site/node_modules/highlight.js/scss/pojoaque.jpg",
