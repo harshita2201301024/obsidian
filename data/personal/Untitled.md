@@ -1,3 +1,5 @@
+**Dubai House**
+
 150000 AED
  32000 AED -> 1 AUG
  32000  AED -> 1 SEP
@@ -11,6 +13,8 @@ HDFC
 4 NOV -> 1067813
 
 Total -> 2135601
+
+**India Plot**
 
 ICICI 
 
