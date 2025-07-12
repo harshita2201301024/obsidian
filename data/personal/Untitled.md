@@ -16,6 +16,10 @@ HDFC
 
 Total -> 2135601
 
+90000 AED
+
+**342000 AED**
+
 **India Plot**
 
 ICICI 
