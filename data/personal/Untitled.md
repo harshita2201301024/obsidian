@@ -41,7 +41,7 @@ Total -> 565000
 
 700000 HDFC NRE
 
-TOTAL - 
+TOTAL - 2620000
 
 
  
