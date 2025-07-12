@@ -24,7 +24,7 @@ ICICI
  20000 -> Manoj Bhaiya
  40000 -> Sagar
  55000 -> Mutal Fund
-Total -> 1300000
+Total -> 1355000
 
  40000 -> UNION
 100000 -> PNB
