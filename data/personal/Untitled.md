@@ -10,4 +10,8 @@ HDFC
 2 OCT -> 85424
 4 NOV -> 1067813
 Total -> 2135601
+
+ICICI 
+
+
  
