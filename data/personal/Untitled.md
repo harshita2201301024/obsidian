@@ -18,7 +18,8 @@ ICICI
 290000
 200000 -> MUMMY
  20000 -> Manoj Bhaiya
-Total -> 1260000
+ 40000 -> Sagar
+Total -> 1300000
 
  40000 -> UNION
 100000 -> PNB
