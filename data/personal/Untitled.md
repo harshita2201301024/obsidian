@@ -37,8 +37,11 @@ Total -> 1355000
 400000 -> PF + BONUS
   25000 -> Poonam Mam
   
-Total -> 5650000
+Total -> 565000
 
+700000 HDFC NRE
+
+TOTAL - 
 
 
  
