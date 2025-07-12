@@ -38,7 +38,7 @@ Total -> 1355000
   25000 -> Poonam Mam
   
 Total -> 565000
-**Shubham/Prashant/VIREN -> 550000**
+**Shubham/Prashant/VIREN -> 550000** BORROW
 
 700000 HDFC NRE
 
