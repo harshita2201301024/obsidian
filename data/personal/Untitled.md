@@ -23,6 +23,7 @@ ICICI
 200000 -> MUMMY
  20000 -> Manoj Bhaiya
  40000 -> Sagar
+ 55000 -> Mutal Fund
 Total -> 1300000
 
  40000 -> UNION
@@ -30,8 +31,7 @@ Total -> 1300000
 400000 -> PF + BONUS
   25000 -> Poonam Mam
   
-  
-Total -> 565000
+Total -> 5650000
 
 
 
