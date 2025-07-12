@@ -28,8 +28,8 @@ APRIL
 
 ICICI 
 
-750000
-290000
+750000 - aakash icici
+290000 -  shilpa hdfc
 200000 -> MUMMY
  20000 -> Manoj Bhaiya
  40000 -> Sagar
