@@ -17,10 +17,13 @@ ICICI
 750000
 290000
 200000 -> MUMMY
+ 20000 -> Manoj Bhaiya
 
 40000 -> UNION
 100000 -> PNB
 400000 -> PF + BONUS
- 2000
+ 25000 -> Poonam Mam
+
+
 
  
