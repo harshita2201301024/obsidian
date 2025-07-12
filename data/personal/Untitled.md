@@ -24,7 +24,8 @@ Total -> 1260000
 100000 -> PNB
 400000 -> PF + BONUS
   25000 -> Poonam Mam
-
+  
+Total -> 565000
 
 
 
