@@ -216,8 +216,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-tomorrows-daily-note:Open tomorrow's daily note": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "0c57e5f7de3b46dd",
