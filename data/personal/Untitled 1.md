@@ -42,7 +42,8 @@ total 1070000
 
 700000 HDFC NRE
 
-TOTAL - 2620000
+TOTAL Need to pay - **1450000**
+I have 1070
 
 
  **
