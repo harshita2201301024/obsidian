@@ -28,18 +28,14 @@ APRIL
 ICICI 
 
 750000 - aakash icici
-330000 -  shilpa hdfc
-200000 -> MUMMY
- 20000 -> Manoj Bhaiya
  55000 -> Mutal Fund
-Total -> 1355000
+Total -> 805000
 
  40000 -> UNION
-100000 -> PNB
-400000 -> PF + BONUS
+200000 -> PF + BONUS
   25000 -> Poonam Mam
   
-Total -> 565000
+Total -> 265000
 **Shubham/Prashant/VIREN -> 550000** BORROW
 
 700000 HDFC NRE
