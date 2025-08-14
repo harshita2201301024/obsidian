@@ -17,7 +17,7 @@ Total -> 1735601
 
 72000 AED
 
-Total AED by Nov - **305000 AED**
+Total AED by Nov - **303000 AED**
 
 
 **India Plot**
