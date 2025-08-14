@@ -29,9 +29,9 @@ APRIL
 ICICI 
 
 750000 - aakash icici
-330000 -  shilpa hdfc
+%% 330000 -  shilpa hdfc
 200000 -> MUMMY
- 20000 -> Manoj Bhaiya
+ 20000 -> Manoj Bhaiya %%
  55000 -> Mutal Fund
 Total -> 1355000
 
