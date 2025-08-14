@@ -34,8 +34,10 @@ Total -> 805000
  40000 -> UNION
 200000 -> PF + BONUS
   25000 -> Poonam Mam
-  
 Total -> 265000
+
+total 1070000
+
 **Shubham/Prashant/VIREN -> 550000** BORROW
 
 700000 HDFC NRE
