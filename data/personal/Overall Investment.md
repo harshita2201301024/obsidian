@@ -7,3 +7,5 @@
 4. 13 lakh house -> 3k per month
    this is very old construction. front is 6 only. it's 28 gaj only. 
 5. 60 lakh house -> 6.5k per month
+   90 gaj house. ground and first floor. ground floor, my monther in law lives and first floor is on rent 6.6k per month. 
+   
