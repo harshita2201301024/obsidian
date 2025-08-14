@@ -38,12 +38,11 @@ Total -> 265000
 
 total 1070000
 
-**Shubham/Prashant/VIREN -> 550000** BORROW
 
-700000 HDFC NRE
 
 TOTAL Need to pay - **1450000**
-I have 1070
+I have **1070000**
+400000 HDFC NRE
 
 
  **
