@@ -9,4 +9,4 @@
 5. 60 lakh house -> 6.5k per month
    90 gaj house. ground and first floor. ground floor, my monther in law lives and first floor is on rent 6.6k per month.  it's in purewal colony.
    
-   I live in dubai and looking for a studi
+   I live in dubai and looking for a 1 BHK for myself. I have 280k in account. all 1 BHK cost around 900k + 4% dld. +2% brokerage + 1 %. 
