@@ -17,11 +17,8 @@ Total -> 1735601
 
 72000 AED
 
-Total AED **305000 AED**
+Total AED by Nov - **305000 AED**
 
-
-APRIL 
-5 month
 
 **India Plot**
 
