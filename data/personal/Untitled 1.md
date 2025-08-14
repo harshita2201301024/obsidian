@@ -48,3 +48,8 @@ TOTAL - 2620000
 
 
  **
+ 
+ rent 
+ 
+ 15 april
+ 
