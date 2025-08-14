@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/personal/Untitled.md",
+                "file": "data/personal/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -222,6 +222,9 @@
   },
   "active": "0c57e5f7de3b46dd",
   "lastOpenFiles": [
+    "data/personal/Untitled.md",
+    "data/personal/Untitled 1.md",
+    "Untitled.md",
     "data/Startup/Business.md",
     "data/Startup/Shilpa.md",
     "data/Archive/Hotel Apartment.md",
@@ -229,7 +232,6 @@
     "data/AapaTech/Things To Do.md",
     "data/AapaTech/Website Content.md",
     "data/Pending Things/Pending.md",
-    "data/personal/Untitled.md",
     "Reminder Sync Inbox.md",
     "data/personal",
     "data/Daily Notes/2025/April/08-April-2025-Tuesday.md",
@@ -256,8 +258,6 @@
     "vuepress-dev/node_modules/minipass/README.md",
     "vuepress-dev/node_modules/jackspeak/README.md",
     "vuepress-dev/node_modules/jackspeak/LICENSE.md",
-    "vuepress-dev/node_modules/foreground-child/README.md",
-    "vuepress-dev/node_modules/package-json-from-dist/README.md",
     "vuepress-dev/node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
     "vuepress-site/node_modules/highlight.js/scss/school-book.png",
     "vuepress-site/node_modules/highlight.js/scss/pojoaque.jpg",

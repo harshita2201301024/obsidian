@@ -1,7 +1,6 @@
-**Dubai House**
+****Dubai House**
 
-150000 AED
- 32000 AED -> 1 AUG
+160000 AED
  32000  AED -> 1 SEP
  18000 AED -> 1 OCT
  20000 AED -> 1 NOV
@@ -48,4 +47,4 @@ Total -> 565000
 TOTAL - 2620000
 
 
- 
+ **
