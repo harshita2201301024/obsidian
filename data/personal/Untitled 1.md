@@ -51,13 +51,14 @@ TOTAL - 2620000
  
  rent 
  
- 15 april
+ 15 april - **rent date** 
  15 april - 15 may
  15 may - 15 june
  15 may - 15 june
- 15 june
+ 15 june - **rent date**
  15 june - 15 july
  15 july - 15 aug
- 15 aug - 1
+ 15 aug - 15 sep
+ 15 sep - **rent date**
  
  
