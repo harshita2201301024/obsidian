@@ -5,7 +5,8 @@
 3. 18 lakh plot > 0rs per month
    this also in dutta colony. currently a plot.  15 * 45. same 100 gaj.
 4. 13 lakh house -> 3k per month
-   this is very old construction. front is 6 only. it's 28 gaj only. 
+   this is very old construction. front is 6 only. it's 28 gaj only.  it's in purewal colony panipat. 
 5. 60 lakh house -> 6.5k per month
-   90 gaj house. ground and first floor. ground floor, my monther in law lives and first floor is on rent 6.6k per month. 
+   90 gaj house. ground and first floor. ground floor, my monther in law lives and first floor is on rent 6.6k per month.  it's in purewal colony.
    
+   I live in dubai and looking for a studi
