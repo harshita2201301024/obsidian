@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/personal/Overall Investment.md",
+                "file": "data/personal/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overall Investment"
+              "title": "Untitled"
             }
           }
         ],
@@ -222,8 +222,8 @@
   },
   "active": "0c57e5f7de3b46dd",
   "lastOpenFiles": [
-    "data/personal/Untitled 1.md",
     "data/personal/Overall Investment.md",
+    "data/personal/Untitled 1.md",
     "data/personal/Untitled.md",
     "Untitled.md",
     "data/Startup/Business.md",
