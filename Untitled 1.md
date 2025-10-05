@@ -13,4 +13,4 @@
 9. Look up for Model Type and Model in GPU Request
 10.  API to submit GPU Request
 
-11. if Model type and Model are same 
+11. if Model type and Model are same Model as a Service as GPU Request
