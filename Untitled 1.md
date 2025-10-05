@@ -10,4 +10,7 @@
 7. API to submit TPM Request
 
 8. Look up for Use Case Type in GPU Request
-9. Look up for Model Type and Model in 
+9. Look up for Model Type and Model in GPU Request
+10.  API to submit GPU Request
+
+11. if Model type and Model are same 
