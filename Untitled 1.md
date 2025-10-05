@@ -7,3 +7,6 @@
 5. Api to submit for talk to expert
 
 6. Look up for Environment in Talk to Expert
+7. API to submit TPM Request
+
+8. Look up for GPU Request in Talk in
