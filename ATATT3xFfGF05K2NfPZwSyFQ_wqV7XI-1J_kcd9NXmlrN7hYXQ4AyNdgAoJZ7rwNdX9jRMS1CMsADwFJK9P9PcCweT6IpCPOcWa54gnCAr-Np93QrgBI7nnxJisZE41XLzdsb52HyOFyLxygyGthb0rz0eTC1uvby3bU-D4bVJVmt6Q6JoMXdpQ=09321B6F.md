@@ -1,3 +1,3 @@
 
 
-git clone https://<PAT>@dev.azure.com/<your_organization>/<your_project>/_git/<your_repo_name>
+git clone https://ATATT3xFfGF05K2NfPZwSyFQ_wqV7XI-1J_kcd9NXmlrN7hYXQ4AyNdgAoJZ7rwNdX9jRMS1CMsADwFJK9P9PcCweT6IpCPOcWa54gnCAr-Np93QrgBI7nnxJisZE41XLzdsb52HyOFyLxygyGthb0rz0eTC1uvby3bU-D4bVJVmt6Q6JoMXdpQ=09321B6F@dev.azure.com/<your_organization>/<your_project>/_git/<your_repo_name>
