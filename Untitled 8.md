@@ -14,7 +14,10 @@
 
 11. entered text should be visible on layout
 12. edit translation functionality
-13. 
+13. edit and save 
+14. design of translate screen
+15. chagne the language
+16. 
 
 questions
 1. header file name incase of multi upload
