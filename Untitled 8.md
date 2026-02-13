@@ -27,3 +27,5 @@ questions
 1. header file name incase of multi upload
 2. translate to arabic (click of edit icon) functionality missing
 3. changing the dropdown will update header text as well?
+4. copy button and icon is repeating
+5. 
