@@ -20,12 +20,12 @@
 16. expanded option icon will expand the screen
 17. text will be translated
 18. error handling screen
+19. only translate api call will go
 
-19. 
+20. deactivation of tool
 
 questions
 1. header file name incase of multi upload
 2. translate to arabic (click of edit icon) functionality missing
 3. changing the dropdown will update header text as well?
 4. copy button and icon is repeating
-5. 
