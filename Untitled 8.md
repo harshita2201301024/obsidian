@@ -4,4 +4,5 @@
 4. design upload document screen
 5. translate screeen design
 6. click of translate will call an api
-7. 
+7. web scocket events screen design
+8. download screen
