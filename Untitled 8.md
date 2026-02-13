@@ -6,3 +6,4 @@
 6. click of translate will call an api
 7. web scocket events screen design
 8. download screen
+9. there will be multiple l
