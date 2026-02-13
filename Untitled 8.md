@@ -17,7 +17,9 @@
 13. edit and save 
 14. design of translate screen
 15. chagne the language
-16. 
+16. expanded option icon will expand the screen
+17. text will be translated
+18. 
 
 questions
 1. header file name incase of multi upload
