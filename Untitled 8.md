@@ -19,7 +19,9 @@
 15. chagne the language
 16. expanded option icon will expand the screen
 17. text will be translated
-18. 
+18. error handling screen
+
+19. 
 
 questions
 1. header file name incase of multi upload
